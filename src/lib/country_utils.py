@@ -3,7 +3,10 @@
 from __future__ import annotations
 
 
-_COUNTRY_DISPLAY_NAMES = {}
+_COUNTRY_DISPLAY_NAMES = {
+    "REPUBLIC_OF_CYPRUS": "Cyprus",
+    "UNITED_KINGDOM_UK": "United Kingdom",
+}
 
 
 def country_filename_to_code(filename: str) -> str:
