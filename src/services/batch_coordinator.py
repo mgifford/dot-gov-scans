@@ -97,6 +97,7 @@ class BatchCoordinator:
 
         toon_dir = Path("data/toon-seeds/states")
         jurisdictions = []
+        countries = []
 
         if toon_dir.exists():
             for toon_file in sorted(toon_dir.glob("*.toon")):
