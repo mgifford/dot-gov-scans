@@ -98,7 +98,7 @@ jobs:
           path: |
             data/metadata.db
             3pjs-scan-output.txt
-            data/toon-seeds/countries/**_3pjs.toon
+            data/toon-seeds/states/**_3pjs.toon
           retention-days: 90
           if-no-files-found: warn
 
