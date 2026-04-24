@@ -4,7 +4,7 @@ Usage:
     python3 scripts/split_usa_csv_to_toons.py
 
 Output:
-    data/toon-seeds/states/<state-slug>.toon  — one file per state + federal.toon
+    data/toon-seeds/<state-slug>.toon  — one file per state + federal.toon
     data/toon-seeds/index.json                — updated index listing all states
 """
 
@@ -24,7 +24,7 @@ CSV_PATH = (
     / "data/imports/google_sheets"
     / "Web_Almanac_2025_United_States__USA__data - Web_Almanac_2025_United_States__USA__data.csv.csv"
 )
-OUTPUT_DIR = REPO_ROOT / "data/toon-seeds/states"
+OUTPUT_DIR = REPO_ROOT / "data/toon-seeds"
 INDEX_PATH = REPO_ROOT / "data/toon-seeds/index.json"
 
 TOON_VERSION = "0.1-seed"
@@ -127,7 +127,7 @@ def write_index(toons: dict[str, dict[str, Any]], index_path: pathlib.Path) -> N
         entries.append(
             {
                 "state": toon["state"],
-                "file": f"data/toon-seeds/states/{slug}.toon",
+                "file": f"data/toon-seeds/{slug}.toon",
                 "domain_count": toon["domain_count"],
                 "page_count": toon["page_count"],
             }

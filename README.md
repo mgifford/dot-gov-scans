@@ -46,7 +46,7 @@ federal scope — so progress toward WCAG 2.1 AA conformance can be tracked over
 This repository uses a United States dataset model:
 
 - One primary import CSV in `data/imports/google_sheets/`
-- TOON seed files split by US state and federal scope in `data/toon-seeds/states/`
+- TOON seed files split by US state and federal scope in `data/toon-seeds/`
 - A top-level TOON index at `data/toon-seeds/index.json`
 - Automated scanning workflows and reports under `docs/`
 
@@ -94,7 +94,7 @@ python3 scripts/split_usa_csv_to_toons.py
 ## Repository Structure
 
 - `data/imports/` source CSV imports
-- `data/toon-seeds/states/` state/federal TOON seeds
+- `data/toon-seeds/` state/federal TOON seeds
 - `src/cli/` scan and report CLI entry points
 - `src/services/` scanner and orchestration logic
 - `src/storage/` metadata schema and DB helpers

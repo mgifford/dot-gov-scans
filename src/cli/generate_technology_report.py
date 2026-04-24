@@ -566,10 +566,10 @@ def main() -> None:
         "--seeds-dir",
         help=(
             "Directory containing TOON seed files used to calculate scan "
-            "coverage (default: data/toon-seeds/states)"
+            "coverage (default: data/toon-seeds)"
         ),
         type=Path,
-        default=Path("data/toon-seeds/states"),
+        default=Path("data/toon-seeds"),
     )
 
     args = parser.parse_args()

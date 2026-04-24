@@ -16,7 +16,7 @@ organized by state and federal domains.
 ## Dataset
 
 - Source CSV imports live in `data/imports/google_sheets/`
-- TOON seed outputs live in `data/toon-seeds/states/`
+- TOON seed outputs live in `data/toon-seeds/`
 - One seed per state plus a federal seed file
 
 ## Reports

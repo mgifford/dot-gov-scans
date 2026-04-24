@@ -108,7 +108,7 @@ def generate_domains_report(toon_dir: Path, output_path: Path) -> None:
             "This page lists all government domains tracked in the dataset, "
             "grouped by jurisdiction. Data is sourced from the "
             "[TOON seed files](https://github.com/mgifford/dot-gov-scans"
-            "/tree/main/data/toon-seeds/states) in the repository.\n\n"
+            "/tree/main/data/toon-seeds) in the repository.\n\n"
         )
         f.write(
             f"**{total_jurisdictions} jurisdictions** · "
@@ -186,9 +186,9 @@ def main() -> None:
     )
     parser.add_argument(
         "--toon-dir",
-        help="Directory containing TOON seed files (default: data/toon-seeds/states)",
+        help="Directory containing TOON seed files (default: data/toon-seeds)",
         type=Path,
-        default=Path("data/toon-seeds/states"),
+        default=Path("data/toon-seeds"),
     )
 
     args = parser.parse_args()

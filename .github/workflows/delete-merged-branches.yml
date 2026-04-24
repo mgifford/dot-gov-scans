@@ -24,8 +24,9 @@ jobs:
         if: github.event_name == 'pull_request'
         env:
           GH_TOKEN: ${{ github.token }}
+          PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
         run: |
-          BRANCH="${{ github.event.pull_request.head.ref }}"
+          BRANCH="$PR_HEAD_REF"
 
           # Never delete protected long-lived branches.
           case "$BRANCH" in
