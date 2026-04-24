@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 from uuid import uuid4
 
-from src.lib.country_utils import country_filename_to_code
+from src.lib.jurisdiction_utils import jurisdiction_filename_to_code
 from src.lib.settings import Settings
 from src.services.overlay_scanner import OverlayScanResult, OverlayScanner
 from src.storage.schema import initialize_schema
@@ -248,7 +248,7 @@ class OverlayScannerJob:
         _country_start_buffer = 5 * 60  # 5 minutes
 
         for toon_path in toon_files:
-            country_code = country_filename_to_code(toon_path.stem)
+            country_code = jurisdiction_filename_to_code(toon_path.stem)
 
             if max_runtime_seconds is not None:
                 elapsed = time.monotonic() - start_time

@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 from src.jobs.url_validation_scanner import UrlValidationScanner
-from src.lib.country_utils import country_code_to_filename
+from src.lib.jurisdiction_utils import jurisdiction_code_to_filename
 from src.services.github_issue_manager import GitHubIssueManager
 
 
@@ -303,7 +303,7 @@ class IssueTriggerHandler:
                 break
 
             try:
-                toon_file = self.toon_dir / f"{country_code_to_filename(country_code)}.toon"
+                toon_file = self.toon_dir / f"{jurisdiction_code_to_filename(country_code)}.toon"
 
                 if not toon_file.exists():
                     print(f"[{idx}/{len(countries)}] Skipping {country_code}: TOON file not found")
@@ -354,14 +354,14 @@ class IssueTriggerHandler:
 
     def _get_all_countries(self) -> List[str]:
         """Get list of all countries from TOON files."""
-        from src.lib.country_utils import country_filename_to_code
+        from src.lib.jurisdiction_utils import jurisdiction_filename_to_code
 
         countries = []
         if self.toon_dir.exists():
             for toon_file in sorted(self.toon_dir.glob("*.toon")):
                 if "_validated" in toon_file.stem:
                     continue
-                country_code = country_filename_to_code(toon_file.stem)
+                country_code = jurisdiction_filename_to_code(toon_file.stem)
                 countries.append(country_code)
 
         return countries

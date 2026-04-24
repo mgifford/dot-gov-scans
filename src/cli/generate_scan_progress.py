@@ -15,7 +15,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from src.lib.country_utils import country_code_to_display_name, country_filename_to_code
+from src.lib.jurisdiction_utils import jurisdiction_code_to_display_name, jurisdiction_filename_to_code
 from src.lib.settings import load_settings
 
 
@@ -105,7 +105,7 @@ def _count_toon_seed_urls(toon_seeds_dir: Path) -> dict[str, int]:
             data = json.loads(toon_file.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             continue
-        country_code = country_filename_to_code(toon_file.stem)
+        country_code = jurisdiction_filename_to_code(toon_file.stem)
         counts[country_code] = int(data.get("page_count") or 0)
     return counts
 
@@ -642,7 +642,7 @@ def _write_url_validation_table(
         available = (seed_counts or {}).get(cc) or d["total"]
         scan_period = _format_month_range(d.get("first_scan"), d.get("last_scan"))
         f.write(
-            f"| {country_code_to_display_name(cc)} | {d['total']:,} | {d['valid']:,} | "
+            f"| {jurisdiction_code_to_display_name(cc)} | {d['total']:,} | {d['valid']:,} | "
             f"{d['invalid']:,} | {scan_period} | "
             f"{_progress_bar(d['total'], available, 15)} |\n"
         )
@@ -689,7 +689,7 @@ def _write_social_media_table(
         available_str = f"{available:,}" if available else "—"
         scan_period = _format_month_range(d.get("first_scan"), d.get("last_scan"))
         f.write(
-            f"| {country_code_to_display_name(cc)} | {d['total']:,} | {available_str} | {d['reachable']:,} | "
+            f"| {jurisdiction_code_to_display_name(cc)} | {d['total']:,} | {available_str} | {d['reachable']:,} | "
             f"{d['twitter_only']:,} | {d['modern_only']:,} | "
             f"{d['mixed']:,} | {d['no_social']:,} | "
             f"{d.get('has_twitter', 0):,} | {d.get('has_x', 0):,} | "
@@ -729,7 +729,7 @@ def _write_technology_table(
             continue
         d = tech[cc]
         last = (d["last_scan"] or "—")[:10]
-        f.write(f"| {country_code_to_display_name(cc)} | {d['total']:,} | {last} |\n")
+        f.write(f"| {jurisdiction_code_to_display_name(cc)} | {d['total']:,} | {last} |\n")
     f.write("\n")
 
 
@@ -765,7 +765,7 @@ def _write_lighthouse_table(
         d = lighthouse[cc]
         last = (d["last_scan"] or "—")[:10]
         f.write(
-            f"| {country_code_to_display_name(cc)} | {d['total']:,} | "
+            f"| {jurisdiction_code_to_display_name(cc)} | {d['total']:,} | "
             f"{_pct(d.get('avg_performance'))} | "
             f"{_pct(d.get('avg_accessibility'))} | "
             f"{_pct(d.get('avg_best_practices'))} | "
@@ -818,7 +818,7 @@ def _write_accessibility_table(
         scan_period = _format_month_range(d.get("first_scan"), d.get("last_scan"))
         stmt_pct = _pct(d["has_statement"], d["reachable"])
         f.write(
-            f"| {country_code_to_display_name(cc)} | {d['total']:,} | {d['reachable']:,} | "
+            f"| {jurisdiction_code_to_display_name(cc)} | {d['total']:,} | {d['reachable']:,} | "
             f"{d['has_statement']:,} | {d['found_in_footer']:,} | "
             f"{stmt_pct} | {scan_period} |\n"
         )

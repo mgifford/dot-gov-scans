@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
 from uuid import uuid4
 
-from src.lib.country_utils import country_filename_to_code
+from src.lib.jurisdiction_utils import jurisdiction_filename_to_code
 from src.lib.settings import Settings
 from src.services.url_validator import UrlValidator, ValidationResult
 from src.storage.schema import initialize_schema
@@ -431,7 +431,7 @@ class UrlValidationScanner:
 
         for toon_path in sorted(toon_files):
             # Extract country code from filename using utility function
-            country_code = country_filename_to_code(toon_path.stem)
+            country_code = jurisdiction_filename_to_code(toon_path.stem)
 
             # Check whether enough time remains to begin a new country.
             if max_runtime_seconds is not None:

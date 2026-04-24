@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
 from uuid import uuid4
 
-from src.lib.country_utils import country_filename_to_code
+from src.lib.jurisdiction_utils import jurisdiction_filename_to_code
 from src.lib.settings import Settings
 from src.services.social_media_scanner import (
     SOCIAL_PLATFORMS_VERSION,
@@ -391,7 +391,7 @@ class SocialMediaScannerJob:
             toon_files = sorted(
                 toon_seeds_dir.glob("*.toon"),
                 key=lambda p: (
-                    last_scan_times.get(country_filename_to_code(p.stem), ""),
+                    last_scan_times.get(jurisdiction_filename_to_code(p.stem), ""),
                     p.stem,
                 ),
             )
@@ -406,7 +406,7 @@ class SocialMediaScannerJob:
         _country_start_buffer = 5 * 60  # 5 minutes
 
         for toon_path in toon_files:
-            country_code = country_filename_to_code(toon_path.stem)
+            country_code = jurisdiction_filename_to_code(toon_path.stem)
 
             # Check whether enough time remains to begin a new country.
             if max_runtime_seconds is not None:
