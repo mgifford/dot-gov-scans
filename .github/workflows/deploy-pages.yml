@@ -44,7 +44,7 @@ jobs:
       - name: Download scan-progress artifact from triggering workflow run
         if: github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success'
         continue-on-error: true
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           pattern: scan-progress-report-*
           path: /tmp/scan-progress-artifact
@@ -72,7 +72,7 @@ jobs:
       - name: Download latest scan-progress artifact
         if: github.event_name != 'workflow_run' && steps.find-scan-progress-artifact.outputs.run_id != ''
         continue-on-error: true
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           pattern: scan-progress-report-*
           path: /tmp/scan-progress-artifact
