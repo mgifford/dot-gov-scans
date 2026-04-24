@@ -116,7 +116,7 @@ jobs:
       - name: Generate Lighthouse results page
         run: |
           python3 -m src.cli.generate_lighthouse_report \
-            --page docs/lighthouse-results.md \
+            --page docs/lighthouse-scanning.md \
             --data docs/lighthouse-data.json \
             --csv docs/lighthouse-data.csv \
             --seeds-dir data/toon-seeds/states \
@@ -133,7 +133,7 @@ jobs:
                   docs/technology-scanning.md \
                   docs/third-party-tools.md docs/third-party-tools-data.json \
                   docs/accessibility-statements.md \
-                  docs/lighthouse-results.md
+                  docs/lighthouse-scanning.md
           if git diff --staged --quiet; then
             echo "No changes to commit — reports are up to date."
           else
@@ -160,7 +160,7 @@ jobs:
             docs/third-party-tools-data.json
             docs/accessibility-statements.md
             docs/accessibility-data.json
-            docs/lighthouse-results.md
+            docs/lighthouse-scanning.md
             docs/lighthouse-data.json
             docs/lighthouse-data.csv
             scan-progress-output.txt
