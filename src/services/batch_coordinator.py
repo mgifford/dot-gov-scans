@@ -92,18 +92,18 @@ class BatchCoordinator:
             conn.close()
 
     def _get_available_countries(self) -> List[str]:
-        """Get list of countries from TOON files."""
+        """Get list of jurisdictions from TOON files."""
         from src.lib.country_utils import country_filename_to_code
 
         toon_dir = Path("data/toon-seeds/states")
-        countries = []
+        jurisdictions = []
 
         if toon_dir.exists():
             for toon_file in sorted(toon_dir.glob("*.toon")):
                 country_code = country_filename_to_code(toon_file.stem)
-                countries.append(country_code)
+                jurisdictions.append(country_code)
 
-        return countries
+        return jurisdictions
 
     def get_next_batch(self, cycle_id: str, batch_size: int) -> List[str]:
         """
