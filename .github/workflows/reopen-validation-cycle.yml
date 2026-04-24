@@ -31,7 +31,7 @@ jobs:
       
       - name: Download previous metadata DB (if exists)
         continue-on-error: true
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: validation-metadata
           path: data/
@@ -49,7 +49,7 @@ jobs:
       
       - name: Upload metadata
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: validation-metadata
           path: |
