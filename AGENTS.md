@@ -39,7 +39,7 @@ python3 -m src.cli.generate_validation_report --output validation-report.md
 
 - Primary grouping is US jurisdiction (state or federal)
 - Filenames are lowercase-hyphenated (for example `new-york.toon`, `federal.toon`)
-- Use conversion helpers in `src/lib/country_utils.py` until a dedicated jurisdiction utility is introduced
+- Use conversion helpers in `src/lib/jurisdiction_utils.py` for converting between jurisdiction filenames and codes
 
 ### URL Validation
 

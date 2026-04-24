@@ -19,7 +19,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from src.lib.country_utils import country_code_to_display_name, country_filename_to_code
+from src.lib.jurisdiction_utils import jurisdiction_code_to_display_name, jurisdiction_filename_to_code
 from src.lib.settings import load_settings
 
 
@@ -50,7 +50,7 @@ def _count_toon_seed_urls(toon_seeds_dir: Path) -> dict[str, int]:
             data = json.loads(toon_file.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             continue
-        country_code = country_filename_to_code(toon_file.stem)
+        country_code = jurisdiction_filename_to_code(toon_file.stem)
         counts[country_code] = int(data.get("page_count") or 0)
     return counts
 
@@ -451,7 +451,7 @@ def _build_sovereignty_section(by_country: list[dict]) -> list[str]:
     ]
     for i, r in enumerate(ranked, start=1):
         lines.append(
-            f"| {i} | {country_code_to_display_name(r['country_code'])} | {r['score']:.1f}% | "
+            f"| {i} | {jurisdiction_code_to_display_name(r['country_code'])} | {r['score']:.1f}% | "
             f"{r['no_social']:,} | {r['modern_only']:,} | "
             f"{r['legacy_pct']:.1f}% | {r['tier']} |"
         )
@@ -755,7 +755,7 @@ def _build_stats_block(
         ]
         for row in by_country:
             cc = row["country_code"]
-            display_cc = country_code_to_display_name(cc)
+            display_cc = jurisdiction_code_to_display_name(cc)
             available = seed_counts.get(cc, 0)
             avail_str = f"{available:,}" if available else "—"
             period = _scan_period(row.get("first_scan"), row.get("last_scan"))

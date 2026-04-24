@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 from src.jobs.lighthouse_scanner import LighthouseScannerJob
-from src.lib.country_utils import country_code_to_filename
+from src.lib.jurisdiction_utils import jurisdiction_code_to_filename
 from src.lib.settings import load_settings
 
 
@@ -180,7 +180,7 @@ def main():
                     )
         else:
             country_code = args.country.upper()
-            toon_file = args.toon_dir / f"{country_code_to_filename(country_code)}.toon"
+            toon_file = args.toon_dir / f"{jurisdiction_code_to_filename(country_code)}.toon"
 
             if not toon_file.exists():
                 print(f"Error: TOON file not found: {toon_file}")

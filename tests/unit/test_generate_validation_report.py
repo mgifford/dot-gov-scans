@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pytest
 
-from src.cli.generate_validation_report import generate_report, _country_anchor
+from src.cli.generate_validation_report import generate_report, _jurisdiction_anchor
 from src.storage.schema import initialize_schema
 
 
@@ -27,8 +27,8 @@ def test_db(tmp_path):
             """,
             (
                 "https://example.com/page1",
-                "ICELAND",
-                "ICELAND-20240101-000000000000-test1234",
+                "TEXAS",
+                "TEXAS-20240101-000000000000-test1234",
                 200,
                 None,
                 None,
@@ -48,8 +48,8 @@ def test_db(tmp_path):
             """,
             (
                 "https://example.com/broken",
-                "ICELAND",
-                "ICELAND-20240101-000000000000-test1234",
+                "TEXAS",
+                "TEXAS-20240101-000000000000-test1234",
                 404,
                 "Not Found",
                 None,
@@ -69,8 +69,8 @@ def test_db(tmp_path):
             """,
             (
                 "https://example.com/removed",
-                "ICELAND",
-                "ICELAND-20240101-000000000000-test1234",
+                "TEXAS",
+                "TEXAS-20240101-000000000000-test1234",
                 None,
                 "Connection timeout",
                 None,
@@ -97,7 +97,7 @@ def test_generate_report_creates_file(test_db, tmp_path):
     assert output_path.exists()
     content = output_path.read_text()
     assert "# URL Validation Report" in content
-    assert "ICELAND" in content
+    assert "TEXAS" in content
 
 
 def test_generate_report_includes_statistics(test_db, tmp_path):
@@ -109,7 +109,7 @@ def test_generate_report_includes_statistics(test_db, tmp_path):
     content = output_path.read_text()
     # Should show: 3 total, 1 valid, 2 invalid, 0 redirected, 1 removed
     # Format: | Country | Total | Valid | Invalid | Redirected | Removed | Success Rate |
-    assert "| ICELAND | 3 | 1 | 2 | 0 | 1 |" in content
+    assert "| TEXAS | 3 | 1 | 2 | 0 | 1 |" in content
     assert "33.3%" in content  # Success rate should be ~33.3% (1 valid out of 3)
 
 
@@ -152,14 +152,14 @@ def test_generate_report_handles_missing_database(tmp_path):
 # Anchor link / navigation tests
 # ---------------------------------------------------------------------------
 
-def test_country_anchor_simple():
-    """_country_anchor should lowercase and prefix with 'errors-'."""
-    assert _country_anchor("ICELAND") == "errors-iceland"
+def test_jurisdiction_anchor_simple():
+    """_jurisdiction_anchor should lowercase and prefix with 'errors-'."""
+    assert _jurisdiction_anchor("TEXAS") == "errors-texas"
 
 
-def test_country_anchor_with_underscores():
-    """_country_anchor should replace underscores with hyphens."""
-    assert _country_anchor("UNITED_KINGDOM_UK") == "errors-united-kingdom-uk"
+def test_jurisdiction_anchor_with_underscores():
+    """_jurisdiction_anchor should replace underscores with hyphens."""
+    assert _jurisdiction_anchor("NEW_YORK") == "errors-new-york"
 
 
 def test_generate_report_has_explicit_top_anchor(test_db, tmp_path):
@@ -201,18 +201,18 @@ def test_generate_report_toc_includes_country_links(test_db, tmp_path):
     generate_report(test_db, output_path)
 
     content = output_path.read_text()
-    # ICELAND has 2 errors in the fixture
-    assert "(#errors-iceland)" in content
+    # TEXAS has 2 errors in the fixture
+    assert "(#errors-texas)" in content
 
 
-def test_generate_report_country_anchor_ids(test_db, tmp_path):
+def test_generate_report_jurisdiction_anchor_ids(test_db, tmp_path):
     """Each country with errors should have a stable HTML anchor id."""
     output_path = tmp_path / "report.md"
 
     generate_report(test_db, output_path)
 
     content = output_path.read_text()
-    assert '<a id="errors-iceland"></a>' in content
+    assert '<a id="errors-texas"></a>' in content
 
 
 def test_generate_report_back_to_top_links(test_db, tmp_path):
@@ -241,8 +241,8 @@ def test_generate_report_no_toc_when_no_errors(tmp_path):
             """,
             (
                 "https://example.com/ok",
-                "NORWAY",
-                "NORWAY-20240101-000000000000-test0001",
+                "CALIFORNIA",
+                "CALIFORNIA-20240101-000000000000-test0001",
                 200,
                 None,
                 None,

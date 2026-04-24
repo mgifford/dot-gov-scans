@@ -11,7 +11,7 @@ from pathlib import Path
 from src.lib.settings import load_settings
 
 
-def _country_anchor(country_code: str) -> str:
+def _jurisdiction_anchor(country_code: str) -> str:
     """Return a stable HTML anchor ID for a country's error section."""
     return "errors-" + country_code.lower().replace("_", "-")
 
@@ -119,7 +119,7 @@ def generate_report(db_path: Path, output_path: Path):
             if error_details:
                 f.write("- [Errors by Country](#errors-by-country)\n")
                 for country_code in sorted(error_details.keys()):
-                    anchor = _country_anchor(country_code)
+                    anchor = _jurisdiction_anchor(country_code)
                     errors = error_details[country_code]
                     f.write(
                         f"  - [{country_code} ({len(errors)} errors)](#{anchor})\n"
@@ -167,7 +167,7 @@ def generate_report(db_path: Path, output_path: Path):
 
                 for country_code in sorted(error_details.keys()):
                     errors = error_details[country_code]
-                    anchor = _country_anchor(country_code)
+                    anchor = _jurisdiction_anchor(country_code)
                     f.write(f'<a id="{anchor}"></a>\n\n')
                     f.write(f"### {country_code} ({len(errors)} errors)\n\n")
 
