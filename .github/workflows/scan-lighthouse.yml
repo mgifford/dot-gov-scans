@@ -108,7 +108,7 @@ jobs:
           path: |
             data/metadata.db
             lighthouse-scan-output.txt
-            data/toon-seeds/countries/**_lighthouse.toon
+            data/toon-seeds/states/**_lighthouse.toon
           retention-days: 90
           if-no-files-found: warn
 
