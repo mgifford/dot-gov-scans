@@ -27,10 +27,24 @@ def _load_toon(path: Path) -> dict:
         return {}
 
 
-def _country_sort_key(entry: tuple[str, dict]) -> str:
-    """Sort key for (filename, toon_data) tuples: use country name."""
+def _jurisdiction_label(data: dict) -> str:
+    """Return the display label for a TOON entry.
+
+    Uses the ``state`` field when present (covers US states and territories),
+    otherwise falls back to ``country``.  This ensures that US entries are
+    listed by their individual state/territory name (e.g. "California",
+    "Federal") rather than all appearing as "United States (USA)".
+    """
+    state = data.get("state", "").strip()
+    if state:
+        return state
+    return data.get("country", "Unknown")
+
+
+def _jurisdiction_sort_key(entry: tuple[str, dict]) -> str:
+    """Sort key for (filename, toon_data) tuples: use jurisdiction label."""
     _name, data = entry
-    return data.get("country", "").lower()
+    return _jurisdiction_label(data).lower()
 
 
 def _page_link_label(url: str) -> str:
@@ -81,9 +95,9 @@ def generate_domains_report(toon_dir: Path, output_path: Path) -> None:
         if data:
             entries.append((path.stem, data))
 
-    entries.sort(key=_country_sort_key)
+    entries.sort(key=_jurisdiction_sort_key)
 
-    total_countries = len(entries)
+    total_jurisdictions = len(entries)
     total_domains = sum(len(d.get("domains", [])) for _, d in entries)
     total_pages = sum(d.get("page_count", 0) for _, d in entries)
 
@@ -92,36 +106,36 @@ def generate_domains_report(toon_dir: Path, output_path: Path) -> None:
         f.write(f"_Generated: {generated_at}_\n\n")
         f.write(
             "This page lists all government domains tracked in the dataset, "
-            "grouped by country. Data is sourced from the "
+            "grouped by jurisdiction. Data is sourced from the "
             "[TOON seed files](https://github.com/mgifford/dot-gov-scans"
             "/tree/main/data/toon-seeds/states) in the repository.\n\n"
         )
         f.write(
-            f"**{total_countries} countries** · "
+            f"**{total_jurisdictions} jurisdictions** · "
             f"**{total_domains:,} domains** · "
             f"**{total_pages:,} pages**\n\n"
         )
 
         # Table of contents
-        f.write("## Countries\n\n")
+        f.write("## Jurisdictions\n\n")
         for _stem, data in entries:
-            country = data.get("country", "Unknown")
-            anchor = country.lower().replace(" ", "-").replace("(", "").replace(")", "")
+            label = _jurisdiction_label(data)
+            anchor = label.lower().replace(" ", "-").replace("(", "").replace(")", "")
             domain_count = len(data.get("domains", []))
             page_count = data.get("page_count", 0)
             f.write(
-                f"- [{country}](#{anchor}) "
+                f"- [{label}](#{anchor}) "
                 f"({domain_count:,} domains, {page_count:,} pages)\n"
             )
         f.write("\n---\n\n")
 
-        # Per-country domain tables
+        # Per-jurisdiction domain tables
         for _stem, data in entries:
-            country = data.get("country", "Unknown")
+            label = _jurisdiction_label(data)
             domains = data.get("domains", [])
             page_count = data.get("page_count", 0)
 
-            f.write(f"## {country}\n\n")
+            f.write(f"## {label}\n\n")
             f.write(
                 f"**{len(domains):,} domains** · **{page_count:,} pages**\n\n"
             )
@@ -148,7 +162,7 @@ def generate_domains_report(toon_dir: Path, output_path: Path) -> None:
 
     print(
         f"Domains report generated: {output_path} "
-        f"({total_countries} countries, {total_domains:,} domains)"
+        f"({total_jurisdictions} jurisdictions, {total_domains:,} domains)"
     )
 
 

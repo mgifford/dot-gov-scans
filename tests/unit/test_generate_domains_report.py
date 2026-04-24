@@ -24,6 +24,7 @@ def toon_dir(tmp_path: Path) -> Path:
     iceland = {
         "version": "0.1-seed",
         "country": "Iceland",
+        "state": "",
         "domain_count": 2,
         "page_count": 4,
         "domains": [
@@ -51,6 +52,7 @@ def toon_dir(tmp_path: Path) -> Path:
     france = {
         "version": "0.1-seed",
         "country": "France",
+        "state": "",
         "domain_count": 1,
         "page_count": 1,
         "domains": [
@@ -109,7 +111,7 @@ def test_generate_domains_report_has_expected_sections(
 
     assert "title: Government Domains" in content
     assert "layout: page" in content
-    assert "## Countries" in content
+    assert "## Jurisdictions" in content
     assert "## France" in content
     assert "## Iceland" in content
 
@@ -131,8 +133,8 @@ def test_generate_domains_report_totals(toon_dir: Path, tmp_path: Path):
     generate_domains_report(toon_dir, output_path)
     content = output_path.read_text()
 
-    # 2 countries, 3 domains total, 5 pages total
-    assert "2 countries" in content
+    # 2 jurisdictions, 3 domains total, 5 pages total
+    assert "2 jurisdictions" in content
     assert "3 domains" in content
     assert "5 pages" in content
 
@@ -181,6 +183,7 @@ def test_generate_domains_report_many_pages_truncated(
     toon = {
         "version": "0.1-seed",
         "country": "Testland",
+        "state": "",
         "domain_count": 1,
         "page_count": 10,
         "domains": [
@@ -203,3 +206,50 @@ def test_generate_domains_report_many_pages_truncated(
 
     # Should mention "+7 more" (10 pages - 3 shown = 7)
     assert "+7 more" in content
+
+
+def test_generate_domains_report_us_state_label(tmp_path: Path):
+    """US state entries should be listed by state name, not country name."""
+    states_dir = tmp_path / "states"
+    states_dir.mkdir()
+
+    california = {
+        "version": "0.1-seed",
+        "country": "United States (USA)",
+        "state": "California",
+        "domain_count": 1,
+        "page_count": 1,
+        "domains": [
+            {
+                "canonical_domain": "ca.gov",
+                "pages": [{"url": "https://www.ca.gov/", "is_root_page": True}],
+            }
+        ],
+    }
+    federal = {
+        "version": "0.1-seed",
+        "country": "United States (USA)",
+        "state": "Federal",
+        "domain_count": 1,
+        "page_count": 1,
+        "domains": [
+            {
+                "canonical_domain": "usa.gov",
+                "pages": [{"url": "https://www.usa.gov/", "is_root_page": True}],
+            }
+        ],
+    }
+    (states_dir / "california.toon").write_text(json.dumps(california), encoding="utf-8")
+    (states_dir / "federal.toon").write_text(json.dumps(federal), encoding="utf-8")
+
+    output_path = tmp_path / "domains.md"
+    generate_domains_report(states_dir, output_path)
+    content = output_path.read_text()
+
+    # State name should appear, not the repeated country name
+    assert "## California" in content
+    assert "## Federal" in content
+    assert "## United States (USA)" not in content
+    # Summary should say jurisdictions
+    assert "2 jurisdictions" in content
+    assert "## Jurisdictions" in content
