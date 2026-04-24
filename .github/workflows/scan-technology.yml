@@ -112,7 +112,7 @@ jobs:
           path: |
             data/metadata.db
             tech-scan-output.txt
-            data/toon-seeds/countries/**_tech.toon
+            data/toon-seeds/states/**_tech.toon
           retention-days: 90
           if-no-files-found: warn
 
