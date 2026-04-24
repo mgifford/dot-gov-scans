@@ -1,0 +1,1781 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Oklahoma",
+  "domain_count": 82,
+  "page_count": 160,
+  "domains": [
+    {
+      "canonical_domain": "ag.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ag.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ag.ok.gov/divisions/agricultural-environmental-management/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ag.ok.gov/licensing-permits/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "applications.deq.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://applications.deq.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://apps.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "arts.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://arts.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://arts.ok.gov/News/2025/June.html",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://arts.ok.gov/Newsletter_Signup.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beaneighbor.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://beaneighbor.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "biappsrv.odot.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://biappsrv.odot.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "case.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://case.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://case.occ.ok.gov/ords/f?p=1003:1:4517164420883:::::",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://case.occ.ok.gov/ords/f?p=1003:1:8570759359079:::::",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "caseok.wcc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://caseok.wcc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://caseok.wcc.ok.gov/permit-type/renew",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccl.dhs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ccl.dhs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ccl.dhs.ok.gov/faq",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccmprovir.dhs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ccmprovir.dhs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cec.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "http://cec.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://cec.ok.gov/faqs.htm",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "checkout.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://checkout.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chirp.osbi.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://chirp.osbi.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://chirp.osbi.ok.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://chirp.osbi.ok.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clo.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://clo.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.46"
+        },
+        {
+          "url": "https://clo.ok.gov/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://clo.ok.gov/hero_slides/slide-2/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.46"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "conservation.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://conservation.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://conservation.ok.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://conservation.ok.gov/oklahoma-takes-a-stand-combating-invasive-species-with-innovative-conservation-measures/",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "correctionalindustries.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://correctionalindustries.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://correctionalindustries.ok.gov/meatsales",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://correctionalindustries.ok.gov/products",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://data.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://data.ok.gov/group/education",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ebtlocator.dhs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ebtlocator.dhs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ebtlocator.dhs.ok.gov/?Length=0",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ee.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ee.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ee.ok.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "employerportal.oesc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://employerportal.oesc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eztaxexpress.oesc.state.ok.us",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://eztaxexpress.oesc.state.ok.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://eztaxexpress.oesc.state.ok.us/Portal/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.clo.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://gis.clo.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.deq.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://gis.deq.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://gis.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "guardian.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://guardian.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://guardian.ok.gov/PublicSite/Homepage.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "horizon.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://horizon.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://horizon.ok.gov/students-families/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "imaging.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://imaging.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "imaging.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://imaging.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legal.omma.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://legal.omma.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://legal.omma.ok.gov/auto_login_public_user",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lottery.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://lottery.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://lottery.ok.gov/draw-games/mega-millions",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://lottery.ok.gov/draw-games/powerball",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myers.trs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://myers.trs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://myers.trs.ok.gov/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mytrs.trs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://mytrs.trs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mytrs.trs.ok.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "occsecurity.public.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://occsecurity.public.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://occsecurity.public.occ.ok.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ocers.dps.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ocers.dps.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ofprs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ofprs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ofprs.ok.gov/financials/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ofprs.ok.gov/important-dates/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ogx.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ogx.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://ogx.ok.gov/ForgotLogin",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ok2explore.health.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ok2explore.health.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ok2explore.health.ok.gov/App/BirthSearch",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ok2explore.health.ok.gov/Home/Contact",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "okcars.service.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://okcars.service.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "okcrimestats.osbi.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://okcrimestats.osbi.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://okcrimestats.osbi.ok.gov/CRIME_TRENDS_BY_CATEGORY.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "okoffender.doc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://okoffender.doc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://okoffender.doc.ok.gov/Search?Fugitives=true",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "okscreen.health.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://okscreen.health.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://okscreen.health.ok.gov/Auth/ForgotPassword?Length=4",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oktap.tax.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://oktap.tax.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.82",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openmeetings.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://openmeetings.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osiis.health.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://osiis.health.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://osiis.health.ok.gov/osiis/LoginPageHelp.aspx",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ostdnet.ost.state.ok.us",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://ostdnet.ost.state.ok.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ostdnet.ost.state.ok.us/Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pay.public.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://pay.public.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permitmanager.okladot.state.ok.us",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://permitmanager.okladot.state.ok.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.ocme.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://permits.ocme.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "play.lottery.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://play.lottery.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.07",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://play.lottery.ok.gov/draw-games/powerball",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.opers.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://portal.opers.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.occ.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://public.occ.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "realid.dps.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "http://realid.dps.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.76",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://realid.dps.ok.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.76",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "registry.odva.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://registry.odva.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.67",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rover.health.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://rover.health.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rules.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://rules.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://rules.ok.gov/quicklinks",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schoolreportcards.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://schoolreportcards.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://schoolreportcards.ok.gov/state/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdeweb01.sde.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://sdeweb01.sde.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sdeweb01.sde.ok.gov/SSO2/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdwis.deq.state.ok.us",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "http://sdwis.deq.state.ok.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://sdwis.deq.state.ok.us/docs/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "securities.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://securities.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://securities.ok.gov/Enforcement/Orders/Premier/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shotrecords.health.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://shotrecords.health.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://shotrecords.health.ok.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sors.doc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://sors.doc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://sors.doc.ok.gov/ords/svorp/sors/r/sors/login",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://sos.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.71",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://sos.ok.gov/home/bio.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://sos.ok.gov/home/duties.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.75",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "spaceport.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://spaceport.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://spaceport.ok.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://spaceport.ok.gov/leasing-opportunities/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "surveys.health.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://surveys.health.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "upload.dac.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://upload.dac.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://upload.dac.ok.gov/password_reset/new",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "verifyroofing.cib.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://verifyroofing.cib.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vors.doc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://vors.doc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://vors.doc.ok.gov/ords/svorp/sors/r/vors/46",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wagonercounty.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://wagonercounty.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wagonercounty.ok.gov/388/Search-Property-Records",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wagonercounty.ok.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.arts.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.arts.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.arts.ok.gov/News/2025/June.html",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.arts.ok.gov/Newsletter_Signup.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.deq.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.deq.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.deq.ok.gov/environmental-complaints/",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.deq.ok.gov/external-affairs-division/weather-emergency-and-disaster-response/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.health.state.ok.us",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.health.state.ok.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.health.state.ok.us/index.shtml",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lottery.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.lottery.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.lottery.ok.gov/draw-games/mega-millions",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.lottery.ok.gov/draw-games/powerball",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.obndd.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.obndd.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.obndd.ok.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.obndd.ok.gov/programs-services/human-trafficking",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ohrc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.ohrc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ohrc.ok.gov/agenda-and-minutes",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ohrc.ok.gov/articles/fall-quarterhorse-mixed-season",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oid.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.oid.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.61",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.oid.ok.gov/consumers/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.61",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.opers.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.opers.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.opers.ok.gov/retirement-eligibility/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.opprs.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.opprs.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.opprs.ok.gov/employers/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.opprs.ok.gov/financial/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.phin.state.ok.us",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.phin.state.ok.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.sos.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.71",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.sos.ok.gov/home/bio.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.sos.ok.gov/home/duties.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.75",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wagonercounty.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.wagonercounty.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wagonercounty.ok.gov/388/Search-Property-Records",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wagonercounty.ok.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wcc.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://www.wcc.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.wcc.ok.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.wcc.ok.gov/permitting-services",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "yourmoney.ok.gov",
+      "subnational": "Oklahoma",
+      "pages": [
+        {
+          "url": "https://yourmoney.ok.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://yourmoney.ok.gov/app/faq-general",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

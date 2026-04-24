@@ -1,0 +1,327 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Wyoming",
+  "domain_count": 13,
+  "page_count": 30,
+  "domains": [
+    {
+      "canonical_domain": "agriculture.wy.gov",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://agriculture.wy.gov/",
+          "is_root_page": true,
+          "performance_score": "0.21",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://agriculture.wy.gov/index.php?section=Programs-and-Services",
+          "is_root_page": false,
+          "performance_score": "0.08",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://agriculture.wy.gov/index.php?section=resources-support",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dot.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://dot.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://dot.state.wy.us/home/aeronautics.html",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dot.state.wy.us/home/news_info/scam-watch.html",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eadiv.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "http://eadiv.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efiling.courts.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://efiling.courts.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://efiling.courts.state.wy.us/public/publicActorSearch.do",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ejuror.courts.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://ejuror.courts.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "excise-wyifs.wy.gov",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://excise-wyifs.wy.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.7",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://excise-wyifs.wy.gov/Login/RememberPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "waterplan.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://waterplan.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.64",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://waterplan.state.wy.us/about/news.html",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapp.dot.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://webapp.dot.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://webapp.dot.state.wy.us/ao/f?p=ADARAMPSMAP",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wlsb.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://wlsb.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://wlsb.state.wy.us/public/brand-recording",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwdc.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://wwdc.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wwdc.state.wy.us/commission/commission.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wwdc.state.wy.us/consultants/2026ConsultantSelectionShortlistPrimesOnly.html",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crookcounty.wy.gov",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://www.crookcounty.wy.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crookcounty.wy.gov/elected_officials/commissioners/rules_regulations_and_policies_for_crook_county.php",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crookcounty.wy.gov/public_notice/index.php",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://www.dot.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.dot.state.wy.us/home/aeronautics.html",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.dot.state.wy.us/home/news_info/scam-watch.html",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wyoarts.state.wy.us",
+      "subnational": "Wyoming",
+      "pages": [
+        {
+          "url": "https://wyoarts.state.wy.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://wyoarts.state.wy.us/fellowships/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://wyoarts.state.wy.us/wyoming-arts-council-announces-2025-native-art-fellowship-recipients/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    }
+  ]
+}

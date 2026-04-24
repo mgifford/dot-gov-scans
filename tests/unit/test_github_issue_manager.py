@@ -148,7 +148,7 @@ def test_create_validation_issue_success():
 
     cmd_result = MagicMock()
     cmd_result.returncode = 0
-    cmd_result.stdout = "https://github.com/mgifford/eu-plus-government-scans/issues/123\n"
+    cmd_result.stdout = "https://github.com/mgifford/dot-gov-scans/issues/123\n"
 
     with patch("subprocess.run", return_value=cmd_result):
         issue_number = manager.create_validation_issue("cycle-2024-01")
@@ -560,7 +560,7 @@ def test_create_review_issue_success():
 
     cmd_result = MagicMock()
     cmd_result.returncode = 0
-    cmd_result.stdout = "https://github.com/mgifford/eu-plus-government-scans/issues/200\n"
+    cmd_result.stdout = "https://github.com/mgifford/dot-gov-scans/issues/200\n"
 
     with patch("subprocess.run", return_value=cmd_result):
         issue_number = manager.create_review_issue(

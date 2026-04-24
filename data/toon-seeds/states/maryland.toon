@@ -1,0 +1,1029 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Maryland",
+  "domain_count": 52,
+  "page_count": 89,
+  "domains": [
+    {
+      "canonical_domain": "agent.beacon.labor.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://agent.beacon.labor.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app.ccu.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://app.ccu.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.dhcd.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://apps.dhcd.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.oag.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://apps.oag.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beacon.labor.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://beacon.labor.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccuportal.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://ccuportal.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ccuportal.md.gov/forgotpin",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cm.dpscs.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://cm.dpscs.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "comphub.wcc.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://comphub.wcc.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://comphub.wcc.state.md.us/Web/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dllr.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://dllr.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dllr.state.md.us/labor/wages/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dockets.wcc.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://dockets.wcc.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elicensing.msla.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://elicensing.msla.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "employer.beacon.labor.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://employer.beacon.labor.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geodata.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://geodata.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iprod.dllr.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://iprod.dllr.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "labor.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://labor.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://labor.md.gov/labor/wages/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://labor.md.gov/workplacefraudtaskforce/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lawlib.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://lawlib.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lawlib.state.md.us/GroupedWork/865413ba-2846-6b6f-b653-d28bfa29d684-eng/Home",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lawlib.state.md.us/MyAccount/Home",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "login.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://login.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://login.md.gov/help/login",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lol.dhcd.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://lol.dhcd.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mce.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mce.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mce.md.gov/LinkClick.aspx?link=98&tabid=74",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdbeps.mde.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdbeps.mde.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mdbeps.mde.state.md.us/Forms/Form301",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdcaps.mhec.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdcaps.mhec.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mdcaps.mhec.state.md.us/MDCAPS/ForgotPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdecportal.courts.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdecportal.courts.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdedataviewer.mde.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdedataviewer.mde.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://mdedataviewer.mde.state.md.us/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mderpc.mde.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mderpc.mde.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mderpc.mde.state.md.us/Search/Search_Public.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdesdwis.mde.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdesdwis.mde.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdewin64.mde.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdewin64.mde.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mdewin64.mde.state.md.us/arcgis/rest/services",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdgeodata.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdgeodata.md.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdolrr.mde.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://mdolrr.mde.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mdolrr.mde.state.md.us/_layouts/OLRR/ForgotPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onestop.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://onestop.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://onestop.md.gov/tags/5d1538807ccc6701ed6141d7",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opd.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://opd.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://opd.state.md.us/apply-for-a-lawyer",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.dpscs.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://portal.dpscs.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.wcc.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://portal.wcc.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "projectportal.dhcd.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://projectportal.dhcd.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://projectportal.dhcd.state.md.us/ForgotLogin",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "samportal.dpscs.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://samportal.dpscs.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.co.worcester.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://selfservice.co.worcester.md.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "spshelp.dbm.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://spshelp.dbm.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "store.mce.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://store.mce.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://store.mce.md.gov/c-33-quick-ship-program.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tok.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://tok.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://tok.md.gov/?s=",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://tok.md.gov/kensington-art-walk-tour/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://treasurer.state.md.us/treasury-functions/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "web.oag.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://web.oag.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webpscxb.psc.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://webpscxb.psc.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "worcesterhr.co.worcester.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://worcesterhr.co.worcester.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://worcesterhr.co.worcester.md.us/application",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.cumberland.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.ci.cumberland.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.cumberland.md.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.cumberland.md.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courts.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.courts.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.courts.state.md.us/media/news/2025/pr20250506",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dllr.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.dllr.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dllr.state.md.us/labor/wages/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dllr.state.md.us/workplacefraudtaskforce/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dpscs.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.dpscs.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.dpscs.state.md.us/index.shtml",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mbp.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.mbp.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.53",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.mbp.state.md.us/bpqapp/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mgs.md.gov",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "http://www.mgs.md.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://www.mgs.md.gov/educational_resources.html",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.76",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://www.mgs.md.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ola.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.ola.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.psc.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.psc.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.85",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.psc.state.md.us/new-phase-ii-workgroup-on-maryland-specified-ubca-9674/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.85",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.psc.state.md.us/utility-termination-arrearage-reports/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.64",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.boonsboro.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.town.boonsboro.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.89"
+        },
+        {
+          "url": "https://www.town.boonsboro.md.us/index.asp?Type=NONE&SEC=1AE35E7D-4AC3-42D0-80CD-475CCAD1E95C&month=8&year=2025",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.88"
+        },
+        {
+          "url": "https://www.town.boonsboro.md.us/onlinepaymentportal",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wcc.state.md.us",
+      "subnational": "Maryland",
+      "pages": [
+        {
+          "url": "https://www.wcc.state.md.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.63",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.wcc.state.md.us/Adjud_Claims/Comp_Rates.html",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.86",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.wcc.state.md.us/Fax_policy.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "feature_number": "001",
+  "slug": "001-us-government-accessibility-statement-discovery",
+  "friendly_name": "US Government Accessibility Statement Discovery",
+  "mission": "software-dev",
+  "source_description": "I want to find accessibility statements in government websites where they are required. This is focused on the United States, organized by states and federal scope.",
+  "created_at": "2026-02-26T08:37:01Z",
+  "target_branch": "main",
+  "vcs": "git"
+}

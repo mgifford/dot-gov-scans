@@ -1,0 +1,2238 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Nebraska",
+  "domain_count": 99,
+  "page_count": 205,
+  "domains": [
+    {
+      "canonical_domain": "ajc.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ajc.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ajc.lincoln.ne.gov/program-matcher/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appraiser.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://appraiser.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://appraiser.ne.gov/lawsandregs/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auburn.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://auburn.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://auburn.ne.gov/living-in-auburn/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auburn.ne.gov/rv-park/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "buffalocounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://buffalocounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.67",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://buffalocounty.ne.gov/HOME",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.67",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "canvas.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://canvas.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdc.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://cdc.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cfsprovider-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://cfsprovider-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.64",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cfsprovider-dhhs.ne.gov/Dashboard",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.64",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.gothenburg.ne.us",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ci.gothenburg.ne.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.gothenburg.ne.us/boards-and-commissions/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.hartington.ne.us",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ci.hartington.ne.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.hartington.ne.us/economic-development/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.hartington.ne.us/visit",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.oakland.ne.us",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ci.oakland.ne.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.oakland.ne.us/about-us/history/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.oakland.ne.us/calendar/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cio-nds-selfservice.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://cio-nds-selfservice.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cio-secure-am5.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://cio-secure-am5.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "claycounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://claycounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://claycounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coursecodes.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://coursecodes.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dakotacounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dakotacounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dakotacounty.ne.gov/webpages/econ_dev/economic_development.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dawescounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dawescounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dawescounty.ne.gov/about/mission.html",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dbhcds-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dbhcds-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.36",
+          "best_practices_score": "1",
+          "seo_score": "0.55"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "deq-iis.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://deq-iis.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhhs-mycseweb.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dhhs-mycseweb.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dhhs-mycseweb.ne.gov/MyCseWeb/application/publik/ContactUs.xhtml",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dhhs.ne.gov/Pages/A-Z-Index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dhhs.ne.gov/Pages/Prenatal-and-Maternal-Resources.aspx",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.57",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmv.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dmv.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dmv.ne.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dmv.ne.gov/government/executive-branch/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "drinkingwater.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://drinkingwater.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://drinkingwater.ne.gov/Maps/Map_Template.jsp",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dyslexiadatacollection.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://dyslexiadatacollection.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecdhd.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ecdhd.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ecdhd.ne.gov/our-programs/vaccinations-and-immunizations/vaccine-clinics.html",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ecdhd.ne.gov/who-we-are/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edn.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://edn.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://edn.ne.gov/cms/file/0000family-needs-minpng",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "educdirsrc.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://educdirsrc.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://educdirsrc.education.ne.gov/CustomA.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ephportal.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ephportal.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eta.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://eta.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "exemptschool.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://exemptschool.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://exemptschool.education.ne.gov/forgotusername",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fourcorners.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://fourcorners.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://fourcorners.ne.gov/index.php/local-health-data/community-health-assessment/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://fourcorners.ne.gov/index.php/resource-directory/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "frontiercounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://frontiercounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://frontiercounty.ne.gov/webpages/about/be_ready_nebraska_app.html",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://frontiercounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "furnascounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://furnascounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.64",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://furnascounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.61",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gardencounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://gardencounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gardencounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://gis.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://gis.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://gis.ne.gov/portal/home/groups.html",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "greeleycounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://greeleycounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://greeleycounty.ne.gov/webpages/calendar/calendar.html",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://greeleycounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "han.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://han.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.82",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "harlancounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://harlancounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://harlancounty.ne.gov/webpages/employment/employment.html",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.64",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://harlancounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "help.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://help.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://help.education.ne.gov/article-categories/adviser-validation/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hitchcockcounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://hitchcockcounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://hitchcockcounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "howardcounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://howardcounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://howardcounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "indianaffairs.state.ne.us",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://indianaffairs.state.ne.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://indianaffairs.state.ne.us/2025-chief-standing-bear-scholarship-applications-open-december-15/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://indianaffairs.state.ne.us/missing-and-murdered-native-women-and-children-resource/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.79",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "intralinc.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://intralinc.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://intralinc.lincoln.ne.gov/aspx/both/applist/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "intranet.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://intranet.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://intranet.lincoln.ne.gov/Home",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "johnsoncounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://johnsoncounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://johnsoncounty.ne.gov/calendar.html",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kearneycounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://kearneycounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://kearneycounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legacyportal.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://legacyportal.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://legacyportal.education.ne.gov/site",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "libraries.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "http://libraries.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "http://libraries.ne.gov/projectblog/about-2/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.83",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://libraries.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://libraries.ne.gov/projectblog/participatinglibraries/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "merrickcounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://merrickcounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://merrickcounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ndedata02.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://ndedata02.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "neabusehotline-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://neabusehotline-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://neabusehotline-dhhs.ne.gov/Home/BeginReport?hotlineReportType=CPS",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nebraskasfmtd.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://nebraskasfmtd.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://nebraskasfmtd.ne.gov/Courses/Courses_Avail.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nebraskasfmtd.ne.gov/Newsletter/Newslettersignup.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "necprs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://necprs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://necprs.ne.gov/ecrecords/PostSecondaryCourseWorkInstructions.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nep.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://nep.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nevitalrecords-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://nevitalrecords-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://nevitalrecords-dhhs.ne.gov/Home/BeginRequest?certificateRequestType=Birth",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "news.legislature.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://news.legislature.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist06/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://news.legislature.ne.gov/dist14/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "npers.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://npers.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://npers.ne.gov/SelfService/index.jsp",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nrrs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://nrrs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nrrs.ne.gov/categories/child_care",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://nrrs.ne.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nutrition.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://nutrition.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opendata.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://opendata.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://opendata.lincoln.ne.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.04",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "orion.lancaster.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://orion.lancaster.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://orion.lancaster.ne.gov/Links",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "passman-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://passman-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "perkinscounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://perkinscounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://perkinscounty.ne.gov/webpages/employment/employment.html",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://perkinscounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://permits.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pfc.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://pfc.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://pfc.ne.gov/?reset",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "phcmplnt-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://phcmplnt-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://phcmplnt-dhhs.ne.gov/PublicComplaint",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "phelpscounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://phelpscounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://phelpscounty.ne.gov/webpages/election/election.html",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.61",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://phelpscounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.63",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "plattecounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://plattecounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://plattecounty.ne.gov/calendar",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://plattecounty.ne.gov/public-notices/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://portal.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://public-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rbst.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://rbst.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://rbst.lincoln.ne.gov/manager/index.php",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "respite.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://respite.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://respite.ne.gov/our-professionals",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "saunderscounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://saunderscounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://saunderscounty.ne.gov/webpages/about/employment.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sfos.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://sfos.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sfos.education.ne.gov/Search.aspx?id=21",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheridancounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://sheridancounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.64",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sheridancounty.ne.gov/board_meetings/minutes.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.64",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sheridancounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "staffid.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://staffid.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stepuptoquality.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://stepuptoquality.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://stepuptoquality.ne.gov/parents-families/provider-search/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://stepuptoquality.ne.gov/resources/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "teach.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://teach.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "transition.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://transition.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://transition.ne.gov/friday-news-blast",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://transition.ne.gov/user/login",
+          "is_root_page": false,
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "update.legislature.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://update.legislature.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://update.legislature.ne.gov/?p=39354",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vrers-dhhs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://vrers-dhhs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "walk2unlock.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://walk2unlock.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://walk2unlock.ne.gov/sign-up/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "waterbill.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://waterbill.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webstercounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://webstercounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://webstercounty.ne.gov/webpages/links/public_notices.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.63",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.beatrice.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.beatrice.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.beatrice.ne.gov/forms",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cdhd.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.cdhd.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cdhd.ne.gov/vnews/display.v/ART/685eb7d726237",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.wisner.ne.us",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.ci.wisner.ne.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.wisner.ne.us/vcalendar/?FROMPAGE=Nav_Signin",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.wisner.ne.us/vnews/display.v/SEC/Wisner%20Volunteer%20Fire%20%26%20Rescue%20Department",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crete.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.crete.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.87"
+        },
+        {
+          "url": "https://www.crete.ne.gov/vnews/display.v/ART/65380d4c322de",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92"
+        },
+        {
+          "url": "https://www.crete.ne.gov/vnews/display.v/SEC/City%20Government%7CCity%20Hall%20%26%20Officials",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.education.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.education.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.education.ne.gov/live/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hickman.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.hickman.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.hickman.ne.gov/vnews/display.v/ART/60ff10f625339",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.hickman.ne.gov/vnews/display.v/ART/68406fc1b9f02",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lancaster.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.lancaster.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.lancaster.ne.gov/27/Departments",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.lancaster.ne.gov/832/Online-Payments",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lincoln.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.lincoln.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.lincoln.ne.gov/City",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.lincoln.ne.gov/City/Departments/LTU/Utilities/LWS/Customer-Service/Payment-Options",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ne.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ne.gov/government/executive-branch/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nebraskaeducationjobs.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.nebraskaeducationjobs.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.nebraskaeducationjobs.ne.gov/job-posting-faq/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.nebraskaeducationjobs.ne.gov/user/1271",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.schd.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.schd.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.schd.ne.gov/what-we-do/programs-services/maternal-and-child-health/mch.html",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.swhealth.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.swhealth.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.swhealth.ne.gov/aboutus/locations",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.swhealth.ne.gov/environmentalhealth",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.trphd.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.trphd.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.trphd.ne.gov/programs-services/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.votercheck.necvr.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.votercheck.necvr.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.yorkcounty.ne.gov",
+      "subnational": "Nebraska",
+      "pages": [
+        {
+          "url": "https://www.yorkcounty.ne.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.yorkcounty.ne.gov/aging-services.html",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.yorkcounty.ne.gov/public-transportation.html",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.59",
+          "seo_score": "0.75"
+        }
+      ]
+    }
+  ]
+}

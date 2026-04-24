@@ -1,0 +1,2595 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "New Hampshire",
+  "domain_count": 99,
+  "page_count": 249,
+  "domains": [
+    {
+      "canonical_domain": "app.sos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://app.sos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://app.sos.nh.gov/statelistclerkandpolling",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://app.sos.nh.gov/voterinformation",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cfs.sos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://cfs.sos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cfs.sos.nh.gov/login/resetpassword",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childrensbehavioralhealthresources.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://childrensbehavioralhealthresources.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://childrensbehavioralhealthresources.nh.gov/acute-crisis-care",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://childrensbehavioralhealthresources.nh.gov/families-youth",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.cheshire.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://co.cheshire.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://co.cheshire.nh.us/careers/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.strafford.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://co.strafford.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.strafford.nh.us/current-bids-for-strafford-county",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dashboard.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://dashboard.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dover.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "http://dover.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://dover.nh.gov/services/online-services/news-events/news-2025/utility-work-begins-at-oak-street-broadway-intersection.html",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.76",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "e-childsupport.dhhs.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://e-childsupport.dhhs.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gc.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://gc.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gc.nh.gov/house/members/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "getactive.dover.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://getactive.dover.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.08",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://getactive.dover.nh.gov/wbwsc/webtrac.wsc/search.html?module=AR",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ios.nhfirst.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://ios.nhfirst.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "librarycatalog.dover.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://librarycatalog.dover.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://librarycatalog.dover.nh.gov/cgi-bin/koha/opac-detail.pl?biblionumber=295414",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.56",
+          "seo_score": "0.46"
+        },
+        {
+          "url": "https://librarycatalog.dover.nh.gov/cgi-bin/koha/opac-showreviews.pl",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lsfp.nhfirst.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://lsfp.nhfirst.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "medicaidquality.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://medicaidquality.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://medicaidquality.nh.gov/measures-topic-list",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "milford.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://milford.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://milford.nh.gov/index",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://milford.nh.gov/minutesandagendas",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "my.doe.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://my.doe.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://my.doe.nh.gov/myNHDOE/Help/PublicReports.aspx?ReportName=I4SEEContacts",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newlondon.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://newlondon.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://newlondon.nh.gov/clerk",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://newlondon.nh.gov/index.asp?Type=NONE&SEC=738FE00F-EA18-4987-95FC-DA709C433C8F&month=6&year=2025",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nheasy.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nheasy.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhhealthcost.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nhhealthcost.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://nhhealthcost.nh.gov/costs/select",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhiispublicportalprod.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nhiispublicportalprod.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nhiispublicportalprod.nh.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhmmis.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nhmmis.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nhmmis.nh.gov/portals/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziXX2dw1zcfQwNLAz8LA2MjC0cvYNcDQwCLYz0wwkpiAJKG-AAjgZA_VFgJbhMcDeHKsBjRkFuhEGmo6IiAM320y0!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0VNQ1ZER0wxMDgwTjkwMjM4QUtSRTAwUTgy/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhvrinplus.sos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nhvrinplus.sos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhvrinweb.sos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nhvrinweb.sos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nhvrinweb.sos.nh.gov/nhivs_about.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.51",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhworksjobmatch.nhes.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://nhworksjobmatch.nhes.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://nhworksjobmatch.nhes.nh.gov/vosnet/guest.aspx?action=indguest&whereto=jobseeker",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nhworksjobmatch.nhes.nh.gov/vosnet/guest.aspx?action=indguest&whereto=labormarket",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onlineforms.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://onlineforms.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://onlineforms.nh.gov/TermsDisclaimer",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "payment.dover.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://payment.dover.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.dover.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://permits.dover.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://permits.dover.nh.gov/EnerGov_Prod/selfservice/DoverNHProd",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "quickstart.sos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://quickstart.sos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://quickstart.sos.nh.gov/online/BusinessInquire",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schoolsafetyresources.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://schoolsafetyresources.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://schoolsafetyresources.nh.gov/school-emergency-operations-plans-hsem-august-2023/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "strafford.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://strafford.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://strafford.nh.gov/events/month/",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://strafford.nh.gov/town-offices-directory/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "surry.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://surry.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://surry.nh.gov/dog-licensing-requirements/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://surry.nh.gov/land-boards-planning-zba/zoning-board-of-adjustments-meeting-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.agriculture.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.agriculture.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.agriculture.nh.gov/publications-forms/agricultural-development.htm",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.alton.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.alton.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.alton.nh.gov/node/74",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.alton.nh.gov/site-page/about-town-alton",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.app-support.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.app-support.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.banking.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.banking.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.banking.nh.gov/consumer-assistance",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.banking.nh.gov/news-and-media/ftc-issues-consumer-alert-warning-about-scams-related-helping-texas-flood-victims",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.barrington.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.barrington.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.barrington.nh.gov/doglicenses",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.barrington.nh.gov/minutes-agendas",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.btla.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.btla.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.btla.nh.gov/jurisdiction",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.chesterfield.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.chesterfield.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.chesterfield.nh.gov/contacts-directory",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.chesterfield.nh.gov/home/webforms/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.strafford.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.co.strafford.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.strafford.nh.us/current-bids-for-strafford-county",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.compliance.lottery.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.compliance.lottery.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.compliance.lottery.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.compliance.lottery.nh.gov/resources-guidance",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.corrections.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.corrections.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.corrections.nh.gov/inmate-relations",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.corrections.nh.gov/policy-procedure-directives",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.council.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.council.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.council.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.council.nh.gov/district-2",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courtcareers.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.courtcareers.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courtcareers.nh.gov/compensation-benefits",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courts.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.courts.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courts.nh.gov/our-courts",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.courts.nh.gov/self-help",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.das.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.das.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.das.nh.gov/comm/das-employee-recognition-program.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.das.nh.gov/comm/index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.des.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.des.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.des.nh.gov/home-and-recreation",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.des.nh.gov/water",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.desc.dos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.desc.dos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.desc.dos.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.desc.dos.nh.gov/public-outreach-education",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dhhs.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dhhs.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dhhs.nh.gov/about-dhhs",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dhhs.nh.gov/programs-services/food-meals-assistance",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dmavs.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dmavs.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dmavs.nh.gov/business-administration-office",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dmavs.nh.gov/transition-and-career-resources-militaryveterans",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dmv.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dmv.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-warns-text-message-scam",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dmv.nh.gov/tickets-accidents-or-restorations",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dncr.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dncr.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dncr.nh.gov/commissioners-office",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dncr.nh.gov/social-media-center",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doit.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.doit.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.doit.nh.gov/cybersecurity",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.doit.nh.gov/digital-accessibility",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dol.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dol.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dol.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dol.nh.gov/about-us/news-announcements",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dos.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dos.nh.gov/services-resources",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dot.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dot.nh.gov/about-nh-dot/start-your-career-nhdot",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dover.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.dover.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.dover.nh.gov/services/online-services/news-events/news-2025/utility-work-begins-at-oak-street-broadway-intersection.html",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.education.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.education.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.education.nh.gov/parents-and-students",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.education.nh.gov/pathways-education",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.energy.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.energy.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.energy.nh.gov/consumers",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.energy.nh.gov/consumers/help-energy-and-utility-bills",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.enforcement.liquor.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.enforcement.liquor.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.enforcement.liquor.nh.gov/education-training",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.enforcement.liquor.nh.gov/enforcement",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.firemarshal.dos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.firemarshal.dos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.firemarshal.dos.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.firemarshal.dos.nh.gov/prevention-safety",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fremont.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.fremont.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.fremont.nh.gov/contacts-directory",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.89",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.fremont.nh.gov/home/news/virtual-options-town-services",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.goferr.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.goferr.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.goferr.nh.gov/american-rescue-plan-act/arpa-transparency",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.goferr.nh.gov/cares-act",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.governor.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.governor.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.governor.nh.gov/contact-governor-ayotte",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.governor.nh.gov/meet-governor-ayotte",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.greenland.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.greenland.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.greenland.nh.gov/home/news/supervisors-checklist-tuesday-07152025",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.greenland.nh.gov/home/pages/300th-anniversary",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hsem.dos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.hsem.dos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.hsem.dos.nh.gov/preparedness",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.hsem.dos.nh.gov/prevention",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.humanrights.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.humanrights.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.humanrights.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.humanrights.nh.gov/types-discrimination/employment-discrimination",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.insurance.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.insurance.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.insurance.nh.gov/consumers",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.insurance.nh.gov/producersadjusters",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jobs.corrections.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.jobs.corrections.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.jobs.corrections.nh.gov/benefits",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.jobs.corrections.nh.gov/job-postings",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.joinstatepolice.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.joinstatepolice.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.joinstatepolice.nh.gov/requirements-standards",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.joinstatepolice.nh.gov/salary-benefits",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.milford.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.milford.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.milford.nh.gov/index",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.milford.nh.gov/minutesandagendas",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ncwp.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.ncwp.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ncwp.nh.gov/home/news/ridgeline-communities-public-utilities-commission-notice",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ncwp.nh.gov/minutes-and-agendas",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.newbury.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.newbury.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nh.gov/businesses",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nh.gov/online-services",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nharts.dncr.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nharts.dncr.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nharts.dncr.nh.gov/awards-and-honors",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nhcdd.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nhcdd.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhcdd.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhcdd.nh.gov/media-and-resources",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nhdfl.dncr.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nhdfl.dncr.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhdfl.dncr.nh.gov/forest-management",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhdfl.dncr.nh.gov/urban-community-forestry",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nhdhr.dncr.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nhdhr.dncr.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhdhr.dncr.nh.gov/grants-incentives",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhdhr.dncr.nh.gov/research-learn",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nhes.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nhes.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhes.nh.gov/elmi/index.htm",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nhsl.dncr.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nhsl.dncr.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhsl.dncr.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhsl.dncr.nh.gov/collections/ask-a-librarian",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nhsp.dos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.nhsp.dos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhsp.dos.nh.gov/missing-persons",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.nhsp.dos.nh.gov/our-services",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oplc.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.oplc.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.oplc.nh.gov/find-board",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.oplc.nh.gov/professional-licensing",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.paidfamilymedicalleave.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.paidfamilymedicalleave.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.paidfamilymedicalleave.nh.gov/healthcare-providers",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.paidfamilymedicalleave.nh.gov/overview",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pfas.des.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.pfas.des.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pfas.des.nh.gov/funding",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pfas.des.nh.gov/health-impacts",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pstc.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.pstc.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pstc.nh.gov/faq/index.htm",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pstc.nh.gov/leac/meetings.htm",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.puc.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.puc.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.puc.nh.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.puc.nh.gov/regulated-industries",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.revenue.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.revenue.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.revenue.nh.gov/about-dra",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.revenue.nh.gov/resource-center/taxpayer-assistance",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.richmond.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.richmond.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.richmond.nh.gov/index.asp?SEC=7560CC1B-7D88-48D2-AA58-ED8707BE1A86",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.richmond.nh.gov/index.asp?SEC=76113709-B2B9-46CD-833F-CBFC3F1FA9CB",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sau10.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.sau10.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sau10.nh.gov/calendar",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.sau10.nh.gov/school-board/index",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.sos.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sos.nh.gov/administration",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sos.nh.gov/elections/voters",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.thedoorway.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.thedoorway.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.thedoorway.nh.gov/about-doorway",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.thedoorway.nh.gov/doorway-locations",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.hinsdale.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.town.hinsdale.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.town.hinsdale.nh.us/meetings",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.town.hinsdale.nh.us/planningboard",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.lyndeborough.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.town.lyndeborough.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.lyndeborough.nh.us/where",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.rye.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.town.rye.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.town.rye.nh.us/home/news/notice-public-meeting-project-alternatives-meeting",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.sunapee.nh.us",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.town.sunapee.nh.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.sunapee.nh.us/meetings",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.unemploymentbenefits.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.unemploymentbenefits.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.unemploymentbenefits.nh.gov/guidance-returning-work",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.unemploymentbenefits.nh.gov/language-assistance",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.weare.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.weare.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.weare.nh.gov/home/news/public-hearing-notice-board-of-selectmen-will-be-holding-a-public-hearing-for-public-input",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.weare.nh.gov/town-administrator/pages/online-services",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wildlife.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.wildlife.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.wildlife.nh.gov/hunting-nh",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wildlife.nh.gov/law-enforcement-division",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ydcclaims.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www.ydcclaims.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ydcclaims.nh.gov/resources-forms",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www3.des.nh.gov",
+      "subnational": "New Hampshire",
+      "pages": [
+        {
+          "url": "https://www3.des.nh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

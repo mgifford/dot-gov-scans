@@ -1,0 +1,334 @@
+{
+  "states": [
+    {
+      "state": "Alabama",
+      "file": "data/toon-seeds/states/alabama.toon",
+      "domain_count": 24,
+      "page_count": 48
+    },
+    {
+      "state": "Alaska",
+      "file": "data/toon-seeds/states/alaska.toon",
+      "domain_count": 15,
+      "page_count": 34
+    },
+    {
+      "state": "American Samoa",
+      "file": "data/toon-seeds/states/american-samoa.toon",
+      "domain_count": 3,
+      "page_count": 7
+    },
+    {
+      "state": "Arizona",
+      "file": "data/toon-seeds/states/arizona.toon",
+      "domain_count": 141,
+      "page_count": 337
+    },
+    {
+      "state": "Arkansas",
+      "file": "data/toon-seeds/states/arkansas.toon",
+      "domain_count": 12,
+      "page_count": 29
+    },
+    {
+      "state": "California",
+      "file": "data/toon-seeds/states/california.toon",
+      "domain_count": 1131,
+      "page_count": 2495
+    },
+    {
+      "state": "Colorado",
+      "file": "data/toon-seeds/states/colorado.toon",
+      "domain_count": 71,
+      "page_count": 134
+    },
+    {
+      "state": "Connecticut",
+      "file": "data/toon-seeds/states/connecticut.toon",
+      "domain_count": 90,
+      "page_count": 167
+    },
+    {
+      "state": "DC",
+      "file": "data/toon-seeds/states/dc.toon",
+      "domain_count": 211,
+      "page_count": 486
+    },
+    {
+      "state": "Delaware",
+      "file": "data/toon-seeds/states/delaware.toon",
+      "domain_count": 7,
+      "page_count": 17
+    },
+    {
+      "state": "Federal",
+      "file": "data/toon-seeds/states/federal.toon",
+      "domain_count": 22142,
+      "page_count": 50035
+    },
+    {
+      "state": "Florida",
+      "file": "data/toon-seeds/states/florida.toon",
+      "domain_count": 78,
+      "page_count": 140
+    },
+    {
+      "state": "Georgia",
+      "file": "data/toon-seeds/states/georgia.toon",
+      "domain_count": 119,
+      "page_count": 217
+    },
+    {
+      "state": "Hawaii",
+      "file": "data/toon-seeds/states/hawaii.toon",
+      "domain_count": 3,
+      "page_count": 8
+    },
+    {
+      "state": "Idaho",
+      "file": "data/toon-seeds/states/idaho.toon",
+      "domain_count": 44,
+      "page_count": 103
+    },
+    {
+      "state": "Illinois",
+      "file": "data/toon-seeds/states/illinois.toon",
+      "domain_count": 41,
+      "page_count": 91
+    },
+    {
+      "state": "Indiana",
+      "file": "data/toon-seeds/states/indiana.toon",
+      "domain_count": 272,
+      "page_count": 598
+    },
+    {
+      "state": "Iowa",
+      "file": "data/toon-seeds/states/iowa.toon",
+      "domain_count": 12,
+      "page_count": 21
+    },
+    {
+      "state": "Kansas",
+      "file": "data/toon-seeds/states/kansas.toon",
+      "domain_count": 89,
+      "page_count": 194
+    },
+    {
+      "state": "Kentucky",
+      "file": "data/toon-seeds/states/kentucky.toon",
+      "domain_count": 313,
+      "page_count": 738
+    },
+    {
+      "state": "Louisiana",
+      "file": "data/toon-seeds/states/louisiana.toon",
+      "domain_count": 136,
+      "page_count": 266
+    },
+    {
+      "state": "Maine",
+      "file": "data/toon-seeds/states/maine.toon",
+      "domain_count": 1,
+      "page_count": 1
+    },
+    {
+      "state": "Maryland",
+      "file": "data/toon-seeds/states/maryland.toon",
+      "domain_count": 52,
+      "page_count": 89
+    },
+    {
+      "state": "Massachusetts",
+      "file": "data/toon-seeds/states/massachusetts.toon",
+      "domain_count": 77,
+      "page_count": 153
+    },
+    {
+      "state": "Michigan",
+      "file": "data/toon-seeds/states/michigan.toon",
+      "domain_count": 71,
+      "page_count": 122
+    },
+    {
+      "state": "Minnesota",
+      "file": "data/toon-seeds/states/minnesota.toon",
+      "domain_count": 397,
+      "page_count": 785
+    },
+    {
+      "state": "Mississippi",
+      "file": "data/toon-seeds/states/mississippi.toon",
+      "domain_count": 218,
+      "page_count": 486
+    },
+    {
+      "state": "Missouri",
+      "file": "data/toon-seeds/states/missouri.toon",
+      "domain_count": 154,
+      "page_count": 336
+    },
+    {
+      "state": "Montana",
+      "file": "data/toon-seeds/states/montana.toon",
+      "domain_count": 127,
+      "page_count": 264
+    },
+    {
+      "state": "Nebraska",
+      "file": "data/toon-seeds/states/nebraska.toon",
+      "domain_count": 99,
+      "page_count": 205
+    },
+    {
+      "state": "Nevada",
+      "file": "data/toon-seeds/states/nevada.toon",
+      "domain_count": 159,
+      "page_count": 358
+    },
+    {
+      "state": "New Hampshire",
+      "file": "data/toon-seeds/states/new-hampshire.toon",
+      "domain_count": 99,
+      "page_count": 249
+    },
+    {
+      "state": "New Jersey",
+      "file": "data/toon-seeds/states/new-jersey.toon",
+      "domain_count": 129,
+      "page_count": 203
+    },
+    {
+      "state": "New Mexico",
+      "file": "data/toon-seeds/states/new-mexico.toon",
+      "domain_count": 130,
+      "page_count": 288
+    },
+    {
+      "state": "New York",
+      "file": "data/toon-seeds/states/new-york.toon",
+      "domain_count": 342,
+      "page_count": 732
+    },
+    {
+      "state": "North Carolina",
+      "file": "data/toon-seeds/states/north-carolina.toon",
+      "domain_count": 140,
+      "page_count": 292
+    },
+    {
+      "state": "North Dakota",
+      "file": "data/toon-seeds/states/north-dakota.toon",
+      "domain_count": 94,
+      "page_count": 215
+    },
+    {
+      "state": "Ohio",
+      "file": "data/toon-seeds/states/ohio.toon",
+      "domain_count": 182,
+      "page_count": 388
+    },
+    {
+      "state": "Oklahoma",
+      "file": "data/toon-seeds/states/oklahoma.toon",
+      "domain_count": 82,
+      "page_count": 160
+    },
+    {
+      "state": "Oregon",
+      "file": "data/toon-seeds/states/oregon.toon",
+      "domain_count": 89,
+      "page_count": 163
+    },
+    {
+      "state": "Pennsylvania",
+      "file": "data/toon-seeds/states/pennsylvania.toon",
+      "domain_count": 201,
+      "page_count": 354
+    },
+    {
+      "state": "Puerto Rico",
+      "file": "data/toon-seeds/states/puerto-rico.toon",
+      "domain_count": 225,
+      "page_count": 496
+    },
+    {
+      "state": "Rhode Island",
+      "file": "data/toon-seeds/states/rhode-island.toon",
+      "domain_count": 55,
+      "page_count": 108
+    },
+    {
+      "state": "South Carolina",
+      "file": "data/toon-seeds/states/south-carolina.toon",
+      "domain_count": 198,
+      "page_count": 481
+    },
+    {
+      "state": "South Dakota",
+      "file": "data/toon-seeds/states/south-dakota.toon",
+      "domain_count": 79,
+      "page_count": 164
+    },
+    {
+      "state": "Tennessee",
+      "file": "data/toon-seeds/states/tennessee.toon",
+      "domain_count": 88,
+      "page_count": 162
+    },
+    {
+      "state": "Texas",
+      "file": "data/toon-seeds/states/texas.toon",
+      "domain_count": 283,
+      "page_count": 562
+    },
+    {
+      "state": "US Virgin Islands",
+      "file": "data/toon-seeds/states/us-virgin-islands.toon",
+      "domain_count": 26,
+      "page_count": 64
+    },
+    {
+      "state": "Utah",
+      "file": "data/toon-seeds/states/utah.toon",
+      "domain_count": 3,
+      "page_count": 9
+    },
+    {
+      "state": "Vermont",
+      "file": "data/toon-seeds/states/vermont.toon",
+      "domain_count": 9,
+      "page_count": 15
+    },
+    {
+      "state": "Virginia",
+      "file": "data/toon-seeds/states/virginia.toon",
+      "domain_count": 40,
+      "page_count": 79
+    },
+    {
+      "state": "Washington",
+      "file": "data/toon-seeds/states/washington.toon",
+      "domain_count": 326,
+      "page_count": 713
+    },
+    {
+      "state": "West Virginia",
+      "file": "data/toon-seeds/states/west-virginia.toon",
+      "domain_count": 88,
+      "page_count": 217
+    },
+    {
+      "state": "Wisconsin",
+      "file": "data/toon-seeds/states/wisconsin.toon",
+      "domain_count": 265,
+      "page_count": 573
+    },
+    {
+      "state": "Wyoming",
+      "file": "data/toon-seeds/states/wyoming.toon",
+      "domain_count": 13,
+      "page_count": 30
+    }
+  ]
+}

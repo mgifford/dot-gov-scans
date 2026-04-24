@@ -2,15 +2,26 @@
 
 ## 1. Our Commitment
 
-We believe accessibility is a subset of quality. This project — scanning and cataloguing EU and allied government accessibility statements — commits to **WCAG 2.2 AA** standards for all documentation, data outputs, and any user-facing interfaces. We track our progress publicly to remain accountable to users and to the governments whose accessibility obligations we monitor.
+We believe accessibility is a subset of quality. This project — scanning and cataloguing US state and federal government accessibility statements — commits to **WCAG 2.2 AA** standards for all documentation, data outputs, and any user-facing interfaces produced by this project. We track our progress publicly to remain accountable to users and to the governments whose accessibility obligations we monitor.
+
+### The Standard We Track: WCAG 2.1 AA (ADA Title II)
+
+The government websites we **scan** are measured against **WCAG 2.1 AA**, which is the conformance level required under the US Department of Justice's final rule implementing Title II of the Americans with Disabilities Act (ADA) for state and local government websites and mobile apps.
+
+Key compliance context:
+- All state and local government entities (regardless of population size) were required to meet WCAG 2.1 AA by **April 24, 2026** (population > 50,000) or **April 26, 2027** (smaller entities) — though DOJ extensions have shifted some deadlines.
+- The DOJ extended the deadline for some entities; see [DOJ ADA Title II update (Deque)](https://www.deque.com/blog/ada-title-ii-update-the-key-takeaway-from-the-april-20-compliance-date-extension-from-the-doj/).
+- Federal government sites remain subject to **Section 508**, which also maps to WCAG 2.1 AA.
+
+This project tracks **accessibility statement presence and Lighthouse accessibility scores over time** per US state and federal scope, providing a longitudinal record of how jurisdictions are progressing toward the legal WCAG 2.1 AA requirement.
 
 ## 2. Real-Time Health Metrics
 
 | Metric | Status / Value |
 | :--- | :--- |
-| **Open A11y Issues** | [View open accessibility issues](https://github.com/mgifford/eu-plus-government-scans/labels/accessibility) |
+| **Open A11y Issues** | [View open accessibility issues](https://github.com/mgifford/dot-gov-scans/labels/accessibility) |
 | **Automated Test Pass Rate** | Monitored via CI/CD and URL validation workflows |
-| **A11y PRs Merged (MTD)** | Tracked in [project insights](https://github.com/mgifford/eu-plus-government-scans/pulse) |
+| **A11y PRs Merged (MTD)** | Tracked in [project insights](https://github.com/mgifford/dot-gov-scans/pulse) |
 
 ## 3. Contributor Requirements (The Guardrails)
 
@@ -23,11 +34,11 @@ To contribute to this repo, you must follow these guidelines:
 
 ## 4. Reporting & Severity Taxonomy
 
-Please use our [issue templates](https://github.com/mgifford/eu-plus-government-scans/issues/new) when reporting issues. We prioritise based on:
+Please use our [issue templates](https://github.com/mgifford/dot-gov-scans/issues/new) when reporting issues. We prioritise based on:
 
 - **Critical:** A defect that causes the scanner to misclassify, skip, or corrupt accessibility-statement data at scale
 - **High:** A significant gap in coverage, a broken validation workflow, or misleading output that affects research conclusions
-- **Medium:** Clarity issues in documentation or reports; incomplete coverage for certain countries or URL patterns
+- **Medium:** Clarity issues in documentation or reports; incomplete coverage for certain states, territories, or URL patterns
 - **Low:** Minor improvements, typos, or cosmetic enhancements
 
 ## 5. Automated Check Coverage
@@ -49,7 +60,7 @@ Although this project is primarily a data-pipeline and CLI tool, any future web 
 
 ## 7. Machine-Readable Standards
 
-This project uses structured data (TOON seed files, SQLite metadata) to track government accessibility-statement URLs across Europe. We align our data model with [WAI accessibility standards](https://www.w3.org/WAI/) and reference [WCAG 2.2](https://www.w3.org/TR/WCAG22/) when evaluating statement completeness.
+This project uses structured data (TOON seed files, SQLite metadata) to track government accessibility-statement URLs across US states and federal scope. We align our data model with [WAI accessibility standards](https://www.w3.org/WAI/) and reference [WCAG 2.1](https://www.w3.org/TR/WCAG21/) as the legal benchmark when evaluating statement completeness for US government sites.
 
 ### Respecting Content Creator Preferences
 
@@ -61,14 +72,14 @@ When crawling or referencing external accessibility resources:
 
 ## 8. Known Limitations
 
-- The scanner detects the *presence* of accessibility statements, not their quality or WCAG conformance level
+- The scanner detects the *presence* of accessibility statements and records Lighthouse accessibility scores; it does not perform a full WCAG 2.1 AA manual or automated audit
 - Coverage depends on the quality of seed domain lists; some government sites may be missed
-- Automated link validation cannot replace manual review of statement content
+- Automated link validation cannot replace manual review of statement content or true conformance testing
 
 ## 9. Getting Help
 
-- **Questions:** Open a [discussion](https://github.com/mgifford/eu-plus-government-scans/discussions)
-- **Bugs or gaps:** Open an [issue](https://github.com/mgifford/eu-plus-government-scans/issues)
+- **Questions:** Open a [discussion](https://github.com/mgifford/dot-gov-scans/discussions)
+- **Bugs or gaps:** Open an [issue](https://github.com/mgifford/dot-gov-scans/issues)
 - **Contributions:** See [README.md](./README.md) for setup and contribution guidance
 - **Accommodations:** Request via the `accessibility-accommodation` label
 

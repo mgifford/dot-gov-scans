@@ -1,0 +1,371 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Alaska",
+  "domain_count": 15,
+  "page_count": 34,
+  "domains": [
+    {
+      "canonical_domain": "catalog.ci.homer.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://catalog.ci.homer.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://catalog.ci.homer.ak.us/eg/opac/browse",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://catalog.ci.homer.ak.us/eg/opac/record/124503",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpaweb.hss.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "http://dpaweb.hss.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://dpaweb.hss.state.ak.us/node/602",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "drop.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://drop.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://drop.state.ak.us/drop/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epv.ci.juneau.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://epv.ci.juneau.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "evostc.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://evostc.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.79",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://evostc.state.ak.us/policies-procedures/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.72",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://evostc.state.ak.us/policies-procedures/proposal-submission/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "labor.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://labor.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://labor.state.ak.us/dvr/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://labor.state.ak.us/lss/ballot-1-faq-2025.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "list.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://list.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://list.state.ak.us/mailman/listinfo/aea.renewable.energy.fund.advisory.committee",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "paycbj.ci.juneau.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://paycbj.ci.juneau.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ajc.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.ajc.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ajc.state.ak.us/selection/vacancies.html",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.64",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.borough.ketchikan.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.borough.ketchikan.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.borough.ketchikan.ak.us/822/Public-Notice-Announcements",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cfec.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.cfec.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cfec.state.ak.us/plook/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.city.kodiak.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.city.kodiak.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.city.kodiak.ak.us/library/page/teen-dd-club",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.city.kodiak.ak.us/projects/page/geotechincal-findings-report-landslide-risk-assessment",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fairbanks.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.co.fairbanks.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.fairbanks.ak.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jobs.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.jobs.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.jobs.state.ak.us/career-readiness.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.jobs.state.ak.us/video/akjobs-training.html",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.labor.state.ak.us",
+      "subnational": "Alaska",
+      "pages": [
+        {
+          "url": "https://www.labor.state.ak.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.labor.state.ak.us/dvr/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.labor.state.ak.us/lss/ballot-1-faq-2025.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    }
+  ]
+}

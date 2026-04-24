@@ -1,0 +1,1596 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Florida",
+  "domain_count": 78,
+  "page_count": 140,
+  "domains": [
+    {
+      "canonical_domain": "access-adi-barcode.dcf.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://access-adi-barcode.dcf.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "addressverification.co.walton.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://addressverification.co.walton.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://addressverification.co.walton.fl.us/MSAG.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asm.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://asm.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atms.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://atms.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.67",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "attach.dbpr.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://attach.dbpr.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://attach.dbpr.state.fl.us/workflow/logonAnonymous.do?FCWEB.FORM.TOKEN=f1WlnogTKVFWMQcuChr0",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "billinfo.leg.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://billinfo.leg.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "caps.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://caps.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cchinet.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://cchinet.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://cchinet.fdle.state.fl.us/search/app/faq",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.zephyrhills.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://ci.zephyrhills.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.zephyrhills.fl.us/AlertCenter.aspx?AID=Notice-of-Public-Hearings-July-14-2025-141",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cityofsweetwater.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://cityofsweetwater.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://cityofsweetwater.fl.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofsweetwater.fl.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cloud.santarosa.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://cloud.santarosa.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.6"
+        },
+        {
+          "url": "https://cloud.santarosa.fl.gov/portal/home/groups.html",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coffender.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://coffender.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "customer.flwins.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://customer.flwins.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://customer.flwins.fl.gov/flwins/s/service-catalog",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "depedms.dep.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://depedms.dep.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doah.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://doah.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dos.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://dos.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dos.fl.gov/sunbiz/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecua.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://ecua.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ecua.fl.gov/contact-ecua",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ecua.fl.gov/live-green/recycling",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edocs.dlis.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://edocs.dlis.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.64",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edr.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://edr.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://edr.state.fl.us/Content/conferences/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efs.dos.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://efs.dos.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.85",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://ethics.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ethics.state.fl.us/Index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ethics.state.fl.us/PublicInformation/NewsAndEvents.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fdotewp1.dot.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://fdotewp1.dot.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fdotwp1.dot.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://fdotwp1.dot.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fes.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://fes.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "flfacmgt-dev.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://flfacmgt-dev.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "flfacmgt.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://flfacmgt.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "floridafiscalportal.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://floridafiscalportal.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.71",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "http://floridafiscalportal.state.fl.us/DocumentTypes.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.64",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fpcweb.fcor.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://fpcweb.fcor.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "frs.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://frs.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geodata.dep.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://geodata.dep.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://geodata.dep.state.fl.us/search?groupIds=44c839bbd62946f599654eeb9b6aaf3e",
+          "is_root_page": false,
+          "performance_score": "0.02",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://geodata.dep.state.fl.us/search?groupIds=487b00aa0a2e421fbc07c9c209b53e8c",
+          "is_root_page": false,
+          "performance_score": "0.04",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthfinder.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://healthfinder.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://healthfinder.fl.gov/privacy-policy/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "initiativepetitions.dos.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://initiativepetitions.dos.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://initiativepetitions.dos.fl.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jcc.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://jcc.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://jcc.state.fl.us/JCC/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "keybiscayne.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://keybiscayne.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://keybiscayne.fl.gov/calendar.php?view=month&month=02&day=01&year=2025",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://keybiscayne.fl.gov/elevating_our_island_paradise/index.php",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "leg.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://leg.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://leg.state.fl.us/index.cfm?Tab=committees",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "locate.dev.healthfinder.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://locate.dev.healthfinder.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://locate.dev.healthfinder.fl.gov/floridacares/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ls-web.co.walton.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://ls-web.co.walton.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ls-web.co.walton.fl.us/kids",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mips.doh.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://mips.doh.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mips.doh.state.fl.us/onlineReview/ProspectiveContractor/Intake",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mqa-vo.doh.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://mqa-vo.doh.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "notaries.dos.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://notaries.dos.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.66",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oppaga.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://oppaga.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://oppaga.fl.gov/Home",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://oppaga.fl.gov/PolicyNotes/Index",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "orsearch.clerkofcourts.co.walton.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://orsearch.clerkofcourts.co.walton.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://orsearch.clerkofcourts.co.walton.fl.us/FraudAlert",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pas.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://pas.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.79",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prescription.healthfinder.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://prescription.healthfinder.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://prescription.healthfinder.fl.gov/DataMethodology",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://prescription.healthfinder.fl.gov/Index",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "price.healthfinder.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://price.healthfinder.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.co.pinellas.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://public.co.pinellas.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.81",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://public.co.pinellas.fl.us/mfilm/faces/index.jspx",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "quality.dev.healthfinder.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://quality.dev.healthfinder.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://quality.dev.healthfinder.fl.gov/floridacares/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "quality.healthfinder.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://quality.healthfinder.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://quality.healthfinder.fl.gov/floridacares/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reportabuse.dcf.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://reportabuse.dcf.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sa14.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://sa14.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://sa14.fl.gov/our-mission/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sa14.fl.gov/washington-county/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "santarosa.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://santarosa.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://santarosa.fl.gov/318",
+          "is_root_page": false,
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sar.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://sar.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shield.fdle.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://shield.fdle.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "skillpro.djj.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://skillpro.djj.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://skillpro.djj.state.fl.us/Account/ResetPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stac1.pd10.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://stac1.pd10.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://stac1.pd10.state.fl.us/bomsweb",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxsmart.clerkofcourts.co.walton.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://taxsmart.clerkofcourts.co.walton.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wbt.dot.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://wbt.dot.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webtrnsport.dot.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://webtrnsport.dot.state.fl.us:7000/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ww10.doh.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://ww10.doh.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.zephyrhills.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.ci.zephyrhills.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.zephyrhills.fl.us/AlertCenter.aspx?AID=Notice-of-Public-Hearings-July-14-2025-141",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityofsweetwater.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.cityofsweetwater.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cityofsweetwater.fl.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityofsweetwater.fl.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.digital.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.digital.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.digital.fl.gov/digital_forward",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.djj.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.djj.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.djj.state.fl.us/partners-providers-staff",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.djj.state.fl.us/search?q=Programs%20and%20Facilities",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doah.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.doah.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ethics.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.ethics.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ethics.state.fl.us/Index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ethics.state.fl.us/PublicInformation/NewsAndEvents.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fcor.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.fcor.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.fcor.state.fl.us/media-public-information",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.floridacapitalcases.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://www.floridacapitalcases.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.54",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "http://www.floridacapitalcases.state.fl.us/InmateStatus.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.54",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jcc.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.jcc.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://www.jcc.state.fl.us/JCC/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.keybiscayne.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.keybiscayne.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.keybiscayne.fl.gov/calendar.php?view=month&month=02&day=01&year=2025",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.keybiscayne.fl.gov/elevating_our_island_paradise/index.php",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.leg.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://www.leg.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.leg.state.fl.us/index.cfm?Tab=committees",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pd13.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.pd13.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.pd13.state.fl.us/employment/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.pd13.state.fl.us/news-updates/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.psc.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.psc.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.psc.state.fl.us/hurricane-preparation-workshops",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.psc.state.fl.us/watch-archive-psc-events",
+          "is_root_page": false,
+          "performance_score": "0.03",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.santarosa.fl.gov",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.santarosa.fl.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.santarosa.fl.gov/318",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.swfwmd.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.swfwmd.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.swfwmd.state.fl.us/about",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.swfwmd.state.fl.us/residents/water-conservation/watch-the-weather-wait-water",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.windermere.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www.town.windermere.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.windermere.fl.us/forms",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.windermere.fl.us/o/tow/page/centennial-celebration",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www19.swfwmd.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www19.swfwmd.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www3.co.okaloosa.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "http://www3.co.okaloosa.fl.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www39.swfwmd.state.fl.us",
+      "subnational": "Florida",
+      "pages": [
+        {
+          "url": "https://www39.swfwmd.state.fl.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

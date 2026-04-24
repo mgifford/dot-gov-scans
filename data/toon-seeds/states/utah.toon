@@ -1,0 +1,99 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Utah",
+  "domain_count": 3,
+  "page_count": 9,
+  "domains": [
+    {
+      "canonical_domain": "weberapps.co.weber.ut.us",
+      "subnational": "Utah",
+      "pages": [
+        {
+          "url": "https://weberapps.co.weber.ut.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.96",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://weberapps.co.weber.ut.us/Home/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://weberapps.co.weber.ut.us/Home/Help",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.heber.ut.us",
+      "subnational": "Utah",
+      "pages": [
+        {
+          "url": "https://www.ci.heber.ut.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.ci.heber.ut.us/257/Online-Payments",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.heber.ut.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.davis.ut.us",
+      "subnational": "Utah",
+      "pages": [
+        {
+          "url": "https://www.co.davis.ut.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.co.davis.ut.us/commission-announcement",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.co.davis.ut.us/property-search",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        }
+      ]
+    }
+  ]
+}

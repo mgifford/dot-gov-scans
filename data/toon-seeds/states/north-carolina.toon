@@ -1,0 +1,3181 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "North Carolina",
+  "domain_count": 140,
+  "page_count": 292,
+  "domains": [
+    {
+      "canonical_domain": "aahc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://aahc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aahc.nc.gov/north-carolina-freedom-park",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aahc.nc.gov/resources/professional-advancement",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aihc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://aihc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aihc.nc.gov/american-indian-resources",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://aihc.nc.gov/webform/user_feedback?source_entity_type=node&source_entity_id=1",
+          "is_root_page": false,
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apnep.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://apnep.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://apnep.nc.gov/news-and-events/soundings-blog",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aps.abc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://aps.abc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bc.governor.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://bc.governor.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://bc.governor.nc.gov/BoardsAndCommissions",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.51",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bi.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://bi.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boards.abc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://boards.abc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://boards.abc.nc.gov/Home/PasswordReset",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccip.schools.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ccip.schools.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ccip.schools.nc.gov/User/SignIn.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccms.ic.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ccms.ic.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ccms.ic.nc.gov/docs/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.lincolnton.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ci.lincolnton.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.lincolnton.nc.us/AlertCenter.aspx?AID=OnlineConvenience-Fee-for-Payments-104",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "claims.ui.des.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://claims.ui.des.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.beaufort.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://co.beaufort.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.beaufort.nc.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.beaufort.nc.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cottweb.co.lenoir.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://cottweb.co.lenoir.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cud.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://cud.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cud.nc.gov/Laws-Regulations",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cvportal.co.surry.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://cvportal.co.surry.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cvportal.co.surry.nc.us/CityViewPortal/Permit/Application?category=E",
+          "is_root_page": false,
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cws.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://cws.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcdee.works.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://dcdee.works.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.65",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhsrenterprise.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://dhsrenterprise.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://dhsrenterprise.nc.gov/Doc/Provider%20Renewal%20HASP/index.html",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.66",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "digitalcommons.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://digitalcommons.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://digitalcommons.nc.gov/support-blog",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edmv-cts.dot.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://edmv-cts.dot.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edmv-lts.dot.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://edmv-lts.dot.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edocs.deq.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://edocs.deq.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://edocs.deq.nc.gov/WebLink",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energyproviderportal.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://energyproviderportal.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epass.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://epass.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://epass.nc.gov/signuphomepage",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epay.abc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://epay.abc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eprocurement.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://eprocurement.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://eprocurement.nc.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eprocurement.nc.gov/training",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.dor.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://eservices.dor.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ethics.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ethics.nc.gov/about-us/about-us",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "evp.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://evp.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://evp.nc.gov/SignIn?returnUrl=%2F",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://evp.nc.gov/solicitations",
+          "is_root_page": false,
+          "performance_score": "0.07",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fed.div.des.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://fed.div.des.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fiman.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://fiman.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "flood.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://flood.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://flood.nc.gov/ncflood/announcement_one.html",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fris.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://fris.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://fris.nc.gov/download",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fts.dot.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://fts.dot.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://fts.dot.state.nc.us/ForgotPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.surry.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://gis.co.surry.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.11",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gooutside.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://gooutside.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gooutside.nc.gov/outdoor-patches/",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gooutside.nc.gov/youth-sports-grants/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "governor.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://governor.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://governor.nc.gov/contact/contact-governor-stein",
+          "is_root_page": false,
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://governor.nc.gov/josh-stein",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "henderson.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://henderson.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://henderson.nc.gov/departments/development_services/comprehensive_plan.php",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://henderson.nc.gov/news_detail_T1_R46.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hiea.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://hiea.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://hiea.nc.gov/about-us/roadmap-2030",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://hiea.nc.gov/blog/2025/07/01/nc-hiea-advisory-board-meeting-discusses-behavioral-health-data-integration",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "historicsites.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://historicsites.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://historicsites.nc.gov/documents/files/shs-language-resource",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://historicsites.nc.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hpp.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://hpp.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hpp.nc.gov/2023-24-annual-report/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://hpp.nc.gov/resources/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ic.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ic.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ic.nc.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idppre.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://idppre.nc.gov:8443/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idpprod.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://idpprod.nc.gov:8443/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "it.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://it.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://it.nc.gov/blog/2025/06/23/be-vigilant-cyberthreats",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://it.nc.gov/news-events",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "itservices.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://itservices.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://itservices.nc.gov/services/collaboration-communication/enterprise-ip-telephony",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://itservices.nc.gov/services/security-privacy/web-application-firewall",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "launchpad.dpi.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://launchpad.dpi.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licsalweb.dpi.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://licsalweb.dpi.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "linc.osbm.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://linc.osbm.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://linc.osbm.nc.gov/explore/",
+          "is_root_page": false,
+          "performance_score": "0.09",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://linc.osbm.nc.gov/pages/vital-statistics-health/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ltgov.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ltgov.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ltgov.nc.gov/about/rachel-hunt",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ltgov.nc.gov/north-carolina-medal-valor",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "meis.ocme.dhhs.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://meis.ocme.dhhs.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncabcms.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncabcms.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ncabcms.nc.gov/DHSR",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncable.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncable.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ncable.nc.gov/benefits/able-work",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ncable.nc.gov/nc-able-account/investing-basics",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nccob.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://nccob.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nccob.nc.gov/consumer-information",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nccob.nc.gov/consumer-information/consumer-inquiries-and-complaint-information",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncfast.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncfast.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncfasthelp.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncfasthelp.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncfasttraining.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncfasttraining.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://ncfasttraining.nc.gov/course/index.php?categoryid=152",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncgs.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncgs.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncgs.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncgs.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ncgs.state.nc.us/Donate_CORS",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ncgs.state.nc.us/pages/news_archive.htm",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.42",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nclwf.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://nclwf.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nclwf.nc.gov/board-trustees-and-nclwf-board-guidelines",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncprek.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncprek.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ncprek.nc.gov/app2/logon.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncpro.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncpro.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ncpro.nc.gov/about-ncpro",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ncpro.nc.gov/stories",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncsuits.des.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ncsuits.des.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ng.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ng.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ng.nc.gov/army-250th-birthday-ncng-soldier-spotlights",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ng.nc.gov/senior-leader-conference",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oems.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://oems.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oems.nc.gov/ncoems-rules-updates/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oems.nc.gov/news/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opendata.co.cumberland.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://opendata.co.cumberland.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://opendata.co.cumberland.nc.us/search",
+          "is_root_page": false,
+          "performance_score": "0.02",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opus.doc.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://opus.doc.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.89",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oshr.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://oshr.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oshr.nc.gov/state-employee-resources",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oshr.nc.gov/state-employee-resources/employee-relations/furlough-resource-center",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ourncmilitary.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://ourncmilitary.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ourncmilitary.nc.gov/honor-veterans-hiring-veterans",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ourncmilitary.nc.gov/node/79",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pcr.ebs.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://pcr.ebs.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.co.rockingham.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://permits.co.rockingham.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pricing.abc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://pricing.abc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://pricing.abc.nc.gov/Home/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "providerportal.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://providerportal.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicstaff.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://publicstaff.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://publicstaff.nc.gov/public-staff-divisions/transportation-division",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rod.co.robeson.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://rod.co.robeson.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://rod.co.robeson.nc.us/?page_id=114",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rod.co.surry.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://rod.co.surry.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rtn.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://rtn.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://rtn.nc.gov/PrivacyPolicy.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.45",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schfin.dpi.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://schfin.dpi.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scholarships.milvets.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://scholarships.milvets.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://scholarships.milvets.nc.gov/Pages/Help.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.co.lenoir.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://selfservice.co.lenoir.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sera.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://sera.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "server3.co.orange.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://server3.co.orange.nc.us:8088/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxbill.co.mecklenburg.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://taxbill.co.mecklenburg.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://taxbill.co.mecklenburg.nc.us/publicwebaccess/SpecialAssessmentSearch.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxpwa.co.cumberland.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://taxpwa.co.cumberland.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxsearch.co.davidson.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://taxsearch.co.davidson.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://taxsearch.co.davidson.nc.us/RealEstateSearch",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tocgis.ci.carrboro.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://tocgis.ci.carrboro.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trails.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://trails.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://trails.nc.gov/nc-trails-program/regional-trails-specialists",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vitalrecords.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://vitalrecords.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vitalrecords.nc.gov/change.htm",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vitalrecords.nc.gov/order.htm",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.doc.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://webapps.doc.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.42",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps7.doc.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://webapps7.doc.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.42",
+          "best_practices_score": "0.93",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webgis.co.davidson.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://webgis.co.davidson.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://webgis.co.davidson.nc.us/website/MobileGIS/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.abc.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.abc.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.abc.nc.gov/everybottlegivesback",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.abc.nc.gov/product-section-beer-wine",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.america250.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.america250.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.america250.nc.gov/news/events/glorious-cause-liberty-250th-anniversary-burning-fort-johnston",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.america250.nc.gov/voices-north-carolina",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.auditor.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.auditor.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.auditor.nc.gov/helene",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bbee.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.bbee.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.bbee.nc.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.asheboro.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ci.asheboro.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.asheboro.nc.us/news_detail_T34_R367.php",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.carrboro.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://www.ci.carrboro.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.ci.carrboro.nc.us/101/Experience-Carrboro",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.ci.carrboro.nc.us/AlertCenter.aspx?AID=Sign-Up-for-OC-Alerts-76",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.55",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.drexel.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://www.ci.drexel.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.ci.drexel.nc.us/drexel_properties_update/index.php",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.king.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ci.king.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.king.nc.us/departments",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.king.nc.us/index.asp?SEC=99C7D1B1-E53D-435F-B754-33E60E417052&DE=0078346D-AFDA-4E93-8E73-741EDD6CBCEC",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.lincolnton.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ci.lincolnton.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.lincolnton.nc.us/AlertCenter.aspx?AID=OnlineConvenience-Fee-for-Payments-104",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.longview.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ci.longview.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.longview.nc.us/single-post/the-planning-board-meeting-scheduled-for-thursday-june-19-2025-has-been-cancelled",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.maxton.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ci.maxton.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.maxton.nc.us/employment/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.maxton.nc.us/local-utilities-covid-19/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.anson.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.anson.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.anson.nc.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.anson.nc.us/Jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.beaufort.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.beaufort.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.beaufort.nc.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.beaufort.nc.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.bertie.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://www.co.bertie.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.46",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "http://www.co.bertie.nc.us/calendar/calendar.asp",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.co.bertie.nc.us/employment/employment.html",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.66",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cumberland.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.cumberland.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.cumberland.nc.us/departments/finance-group/finance-services/procurement/bids-notices",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.cumberland.nc.us/departments/public-information-group/public-information/news-releases/news-release-full-story/2025/07/14/cumberland-county-cooling-center-information-for-july-15---21",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.davidson.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.davidson.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.davidson.nc.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.davidson.nc.us/987/Adoptable-Animals",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.forsyth.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.forsyth.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.forsyth.nc.us/article.aspx?NewsID=28795",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.forsyth.nc.us/article.aspx?NewsID=28806",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.greene.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://www.co.greene.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lincoln.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "http://www.co.lincoln.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.co.lincoln.nc.us/63/Government",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.55",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.co.lincoln.nc.us/CivicAlerts.aspx?AID=1734",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.stokes.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.stokes.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.stokes.nc.us/departments/agendas___minutes.php",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.surry.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.surry.nc.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.surry.nc.us/departments/(a_through_j)/commissioners/ordinances.php",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.surry.nc.us/departments/(a_through_j)/finance/transparency/index.php",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.commerce.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.commerce.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.commerce.nc.gov/grants-incentives",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.commerce.nc.gov/recovery",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.commercerecovery.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.commercerecovery.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.commercerecovery.nc.gov/i-am/nonprofits",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.commercerecovery.nc.gov/plans-policies-and-reports",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dac.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.dac.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dac.nc.gov/careers",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.deq.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.deq.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.deq.nc.gov/about/ncdeq-commissions",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.deq.nc.gov/news/key-issues/emerging-compounds/water-quality-pfas-standards-north-carolina",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.des.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.des.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.des.nc.gov/employers",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.des.nc.gov/vietnamese",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dncr.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.dncr.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.dncr.nc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dnpesys.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.dnpesys.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dnpesys.nc.gov/NPEPublic/NOIHomeSchool.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doa.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.doa.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doa.nc.gov/boards-commissions",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doa.nc.gov/parking-update",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dpi.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.dpi.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dpi.nc.gov/districts-schools/classroom-resources/office-teaching-and-learning",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dpi.nc.gov/educators/work-nc-schools",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ebs.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ebs.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.henderson.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.henderson.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.henderson.nc.gov/departments/development_services/comprehensive_plan.php",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.henderson.nc.gov/news_detail_T1_R46.php",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hpo.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.hpo.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.hpo.nc.gov/grants/additional-resources",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.hpo.nc.gov/survey-and-national-register/architectural-survey/architectural-survey-status-records-reports",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ic.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ic.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ic.nc.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.interscope.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.interscope.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.labor.communications.its.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.labor.communications.its.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.labor.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.labor.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.labor.nc.gov/MEGA",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.labor.nc.gov/news/press-releases/2025/07/10/nc-labor-commissioner-smart-labor-policy-helps-make-north-carolina-1-business",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.milvets.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.milvets.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.milvets.nc.gov/frequently-asked-questions",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.milvets.nc.gov/news/press-releases",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.music.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.music.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.music.nc.gov/blog/2025/06/26/come-hear-nc-artist-profile-clark-blomquist",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nc.gov/exploring",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.nc.gov/living/housing-property",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nctracks.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.nctracks.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nctracks.nc.gov/content/public/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oah.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.oah.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.oah.nc.gov/civil-rights-division",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ocme.dhhs.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.ocme.dhhs.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ocme.dhhs.nc.gov/index.shtml",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.osbm.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.osbm.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.osbm.nc.gov/budget/governors-budget-recommendations",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pwss.enr.state.nc.us",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.pwss.enr.state.nc.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://www.pwss.enr.state.nc.us/SDWISROLE/jsp/secure/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rebuild.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.rebuild.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.rebuild.nc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.rebuild.nc.gov/news/events/cac-mtg-072525",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.resilienceexchange.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.resilienceexchange.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.resilienceexchange.nc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.resilienceexchange.nc.gov/understand-your-vulnerabilities",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.warrenton.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.warrenton.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.54",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.warrenton.nc.gov/page/bus_home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.warrenton.nc.gov/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.54",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wncrecovery.nc.gov",
+      "subnational": "North Carolina",
+      "pages": [
+        {
+          "url": "https://www.wncrecovery.nc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wncrecovery.nc.gov/recovery-overview/progress-and-dashboard",
+          "is_root_page": false,
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wncrecovery.nc.gov/resources/upcoming-deadlines",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

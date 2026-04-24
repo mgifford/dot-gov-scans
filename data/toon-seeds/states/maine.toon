@@ -1,0 +1,23 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Maine",
+  "domain_count": 1,
+  "page_count": 1,
+  "domains": [
+    {
+      "canonical_domain": "www.town.lincolnville.me.us",
+      "subnational": "Maine",
+      "pages": [
+        {
+          "url": "https://www.town.lincolnville.me.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

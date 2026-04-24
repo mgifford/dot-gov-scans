@@ -1,0 +1,1096 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Idaho",
+  "domain_count": 44,
+  "page_count": 103,
+  "domains": [
+    {
+      "canonical_domain": "adacounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://adacounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://adacounty.id.gov/commissioners/the-park-at-expo-idaho/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.adacounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://apps.adacounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bonnersferry.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://bonnersferry.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bonnersferry.id.gov/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://bonnersferry.id.gov/maps/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "caiportal.co.jefferson.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://caiportal.co.jefferson.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://caiportal.co.jefferson.id.us/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "camascounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://camascounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://camascounty.id.gov/commissioner-meeting-minutes-june-23-2025/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://camascounty.id.gov/departments-2/emergency-management-services-ems/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cityofdover.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://cityofdover.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofdover.id.gov/2025-monarch-celebration",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://cityofdover.id.gov/letter-from-mayor-eskridge-over-the-canfield-mountain-tragedy/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.madison.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://co.madison.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://co.madison.id.us/departments/clerk/marriage_licenses/index.php",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://co.madison.id.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "currentarrests.canyoncounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://currentarrests.canyoncounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.68",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://currentarrests.canyoncounty.id.gov/Arrests",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.68",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eiph.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://eiph.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eiph.id.gov/?p=22499",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eiph.id.gov/clinical-services-program/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.nezperce.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://gis.co.nezperce.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://gis.co.nezperce.id.us/Agreed.cshtml",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gisprod.adacounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://gisprod.adacounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gisprod.adacounty.id.gov/apps/countymapper",
+          "is_root_page": false,
+          "performance_score": "0.1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gisprod.adacounty.id.gov/apps/crimemapper/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "heyburn.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://heyburn.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://heyburn.id.gov/accessibility",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://heyburn.id.gov/index.asp?SEC=19B76168-6D46-4040-9FE1-FF697F1DAFE6",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jail.co.power.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://jail.co.power.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://jail.co.power.id.us/BookingInfo.aspx?id=87823",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jailroster.canyoncounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://jailroster.canyoncounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://jailroster.canyoncounty.id.gov/Roster",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kellogg.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://kellogg.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://kellogg.id.gov/2024/12/30/city-hall-will-be-closing-at-noon-tuesday-12-31-24-through-wednesday-1-1-25-happy-new-year/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kunacity.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://kunacity.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://kunacity.id.gov/93/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.canyoncounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://maps.canyoncounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.blaine.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://maps.co.blaine.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://maps.co.blaine.id.us/datadownload.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "middleton.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://middleton.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://middleton.id.gov/calendar",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://middleton.id.gov/departments/building",
+          "is_root_page": false,
+          "performance_score": "0.13",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "montpelier.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://montpelier.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://montpelier.id.gov/online-payments/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.co.blaine.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://portal.co.blaine.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertyreports.canyoncounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://propertyreports.canyoncounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rec-search.canyoncounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://rec-search.canyoncounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recording.co.madison.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://recording.co.madison.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://recording.co.madison.id.us/Home/Instructions",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shoshonecounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://shoshonecounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://shoshonecounty.id.gov/directory",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://shoshonecounty.id.gov/weather",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "swdh.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://swdh.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://swdh.id.gov/emergency-preparedness-information/",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://swdh.id.gov/licensing-permitting/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wallace.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://wallace.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://wallace.id.gov/community-and-visitor-info/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://wallace.id.gov/governance/",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webtime.co.madison.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://webtime.co.madison.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wendell.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://wendell.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://wendell.id.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://wendell.id.gov/online-payments",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cambridge.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.cambridge.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cambridge.id.gov/meetings",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.canyoncounty.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.canyoncounty.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.canyoncounty.id.gov/canyon-county-to-celebrate-grand-opening-of-new-elections-building/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.canyoncounty.id.gov/careers",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.jerome.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.ci.jerome.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.jerome.id.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.moscow.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.ci.moscow.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.moscow.id.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.moscow.id.us/CivicSend/ViewMessage/message/264533",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.clark-co.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.clark-co.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.clark-co.id.gov/meetings",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.adams.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.adams.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.adams.id.us/department/assessor/gis-maps",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.adams.id.us/departments/sheriff",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.blaine.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.blaine.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.blaine.id.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.blaine.id.us/AgendaCenter",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fremont.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.fremont.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.fremont.id.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.fremont.id.us/315/Agendas",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.madison.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.madison.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.madison.id.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.madison.id.us/news_detail_T2_R18.php",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.nezperce.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.nezperce.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.56",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.nezperce.id.us/Elected-Officials",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.nezperce.id.us/Elected-Officials/Clerk-Auditor/Jury.aspx",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.power.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.power.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.7",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://www.co.power.id.us/recreation/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://www.co.power.id.us/welcome-to-power-county-idaho/power-county-today-and-the-future/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.68",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.valley.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.valley.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.valley.id.us/meetingdashboard",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.washington.id.us",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.co.washington.id.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.washington.id.us/101/Visitors",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.washington.id.us/Jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kunacity.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.kunacity.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.kunacity.id.gov/93/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rexburg.id.gov",
+      "subnational": "Idaho",
+      "pages": [
+        {
+          "url": "https://www.rexburg.id.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.rexburg.id.gov/article/2303195",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

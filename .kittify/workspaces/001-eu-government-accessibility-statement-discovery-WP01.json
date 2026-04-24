@@ -1,8 +1,8 @@
 {
   "wp_id": "WP01",
-  "feature_slug": "001-eu-government-accessibility-statement-discovery",
-  "worktree_path": ".worktrees/001-eu-government-accessibility-statement-discovery-WP01",
-  "branch_name": "001-eu-government-accessibility-statement-discovery-WP01",
+  "feature_slug": "001-us-government-accessibility-statement-discovery",
+  "worktree_path": ".worktrees/001-us-government-accessibility-statement-discovery-WP01",
+  "branch_name": "001-us-government-accessibility-statement-discovery-WP01",
   "base_branch": "main",
   "base_commit": "798ba6324ea80c93200da3d4a0b2fc8db3c6a2d3",
   "dependencies": [],

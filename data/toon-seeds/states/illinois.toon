@@ -1,0 +1,982 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Illinois",
+  "domain_count": 41,
+  "page_count": 91,
+  "domains": [
+    {
+      "canonical_domain": "19thcircuitcourt.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://19thcircuitcourt.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://19thcircuitcourt.state.il.us/1303/Center-for-Self-Representation",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://19thcircuitcourt.state.il.us/1466/Current-Jurors",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "berep.elections.il.gov",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://berep.elections.il.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://berep.elections.il.gov/help/helpmain.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.galesburg.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://ci.galesburg.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.galesburg.il.us/government/finance/water_service.php",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.pinckneyville.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://ci.pinckneyville.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ci.pinckneyville.il.us/alert_detail_top.php",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ci.pinckneyville.il.us/how_do_i/contact_us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "circuitclerk.co.jackson.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://circuitclerk.co.jackson.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://circuitclerk.co.jackson.il.us/miscellaneous-forms/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://circuitclerk.co.jackson.il.us/traffic-city-court/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.cass.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://co.cass.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.cass.il.us/contact",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.champaign.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://co.champaign.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://co.champaign.il.us/HeaderMenu/generalinfo.php",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "documents.ci.champaign.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://documents.ci.champaign.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.53",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://documents.ci.champaign.il.us/object?id=0B9AX7CNToF-5RU9uRzl2TzRIREE",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.53",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://documents.ci.champaign.il.us/object?id=0B9AX7CNToF-5dzdiRE8xZWpCX3c",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elections.il.gov",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://elections.il.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://elections.il.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epayment.co.kane.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://epayment.co.kane.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epayment.co.sangamon.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://epayment.co.sangamon.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gismaps.co.sangamon.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://gismaps.co.sangamon.il.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iceage.museum.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://iceage.museum.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://iceage.museum.state.il.us/content/paleoclimates-past-ice-ages",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idis3.elections.il.gov",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://idis3.elections.il.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://idis3.elections.il.gov/PasswordRecovery.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmate.co.kendall.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "http://inmate.co.kendall.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://inmate.co.kendall.il.us/NewWorld.InmateInquiry/kendall/Inmate/Detail/-1259255",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.72",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://inmate.co.kendall.il.us/NewWorld.InmateInquiry/kendall/Inmate/Detail/-290771",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juror.co.kendall.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://juror.co.kendall.il.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://juror.co.kendall.il.us/index.asp",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jury.co.madison.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://jury.co.madison.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://jury.co.madison.il.us/index.asp",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.kendall.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://maps.co.kendall.il.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ova.elections.il.gov",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://ova.elections.il.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://ova.elections.il.gov/RegistrationLookup.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.iema.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://public.iema.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.sangamon.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://tax.co.sangamon.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.85",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://tax.co.sangamon.il.us/SangamonCountyWeb/app/searchByParcelNumber.action",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.85",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "village.rantoul.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://village.rantoul.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://village.rantoul.il.us/256/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://village.rantoul.il.us/294/Government",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "water.epa.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://water.epa.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://water.epa.state.il.us/docs/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webs.osad.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://webs.osad.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.19thcircuitcourt.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.19thcircuitcourt.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.19thcircuitcourt.state.il.us/1303/Center-for-Self-Representation",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.19thcircuitcourt.state.il.us/1466/Current-Jurors",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.antioch.il.gov",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.antioch.il.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.antioch.il.gov/event/park-commission-meeting-canceled-2/?instance_id=2704",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://www.antioch.il.gov/resident-services/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cclerk.co.macon.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.cclerk.co.macon.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.cclerk.co.macon.il.us/courthouse-map-and-parking/",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cclerk.co.macon.il.us/rules-of-practice-macon-county-circuit-clerk/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.galesburg.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.ci.galesburg.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.galesburg.il.us/government/finance/water_service.php",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.olney.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.ci.olney.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.olney.il.us/alert_detail.php",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.olney.il.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.pekin.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.ci.pekin.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ci.pekin.il.us/enotify/index.php",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ci.pekin.il.us/for_businesses/submit_business_tax/submit_form.php",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.streator.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.ci.streator.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ci.streator.il.us/newsletter/index.php",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ci.streator.il.us/your_government/city_council_and_mayor/agendas_and_minutes.php",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.washington.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.ci.washington.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.washington.il.us/egov/apps/document/center.egov?view=browse&eGov_searchType=14&eGov_searchDepartment=1",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.champaign.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.co.champaign.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.champaign.il.us/CountyExecutive/Contracts.php",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.champaign.il.us/HeaderMenu/generalinfo.php",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.macon.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.co.macon.il.us/",
+          "is_root_page": true,
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dhs.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.dhs.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dhs.state.il.us/?item=123529",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dhs.state.il.us/page.aspx?item=173457",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.egov.aging.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.egov.aging.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.egov.aging.state.il.us/eGov/root/dn.asp",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.elections.il.gov",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.elections.il.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.elections.il.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.procure.stateuniv.state.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.procure.stateuniv.state.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.procure.stateuniv.state.il.us/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.village.homewood.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.village.homewood.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.61",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://www.village.homewood.il.us/government-departments/fire-department/weather-emergencies",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.57",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.village.lakewood.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.village.lakewood.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.village.lakewood.il.us/business-community",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.village.lakewood.il.us/foia-requests",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.village.rantoul.il.us",
+      "subnational": "Illinois",
+      "pages": [
+        {
+          "url": "https://www.village.rantoul.il.us/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.village.rantoul.il.us/256/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.village.rantoul.il.us/294/Government",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Delaware",
+  "domain_count": 7,
+  "page_count": 17,
+  "domains": [
+    {
+      "canonical_domain": "ci.lewes.de.us",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://ci.lewes.de.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ci.lewes.de.us/1420/Questions-Comments-and-Concerns",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.lewes.de.us/35/Business",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "de.gov",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://de.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://de.gov/state-directory",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dealers.dmv.de.gov",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://dealers.dmv.de.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dealers.dmv.de.gov/Dealer/News/Index/167",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmv.de.gov",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://dmv.de.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dmv.de.gov/OnlineServices/index.shtml?dc=faq",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ivote.de.gov",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://ivote.de.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ivote.de.gov/VoterView/voteractions/federalpostcardapplication",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "services.dmv.de.gov",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://services.dmv.de.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://services.dmv.de.gov/OnlineServices/index.shtml?dc=faq",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://services.dmv.de.gov/VehicleServices/licensedtransporterinfo/index.shtml",
+          "is_root_page": false,
+          "performance_score": "0.06",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.lewes.de.us",
+      "subnational": "Delaware",
+      "pages": [
+        {
+          "url": "https://www.ci.lewes.de.us/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.ci.lewes.de.us/1420/Questions-Comments-and-Concerns",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.lewes.de.us/35/Business",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6422 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Indiana",
+  "domain_count": 272,
+  "page_count": 598,
+  "domains": [
+    {
+      "canonical_domain": "911.lakecounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://911.lakecounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://911.lakecounty.in.gov/employment",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "access.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://access.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://access.in.gov/signup/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "allencountyclerk.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://allencountyclerk.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://allencountyclerk.in.gov/legal-forms-resources/other/judicial-nominating-commission/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://allencountyclerk.in.gov/news/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apply.ihcda.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://apply.ihcda.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.idem.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://apps.idem.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://apps.idem.in.gov/ELTFClaimStatus/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.57",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "archive.iga.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://archive.iga.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://archive.iga.in.gov/2013/year_2013.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "audit.sboa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://audit.sboa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bargersville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bargersville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://bargersville.in.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bartholomew.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bartholomew.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bartholomew.in.gov/phone-listings.html",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bddsgateway.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bddsgateway.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bddsportal.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bddsportal.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://bddsportal.fssa.in.gov/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bedford.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bedford.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://bedford.in.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bicknell.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bicknell.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bicknell.in.gov/parade-sign-up",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "blog.history.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://blog.history.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://blog.history.in.gov/the-case-of-agnes-szabo-bootlegger-entrepreneur-whistleblower/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "blog.library.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://blog.library.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://blog.library.in.gov/ways-for-libraries-to-partner-with-the-indiana-department-of-natural-resources/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "blog.newspapers.library.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://blog.newspapers.library.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://blog.newspapers.library.in.gov/nappanee-advance-news-available-on-hoosier-state-chronicles/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://blog.newspapers.library.in.gov/new-titles-available-on-chronicling-america/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bloomington.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bloomington.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bloomington.in.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bloomington.in.gov/utilities/forms",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boonecounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://boonecounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://boonecounty.in.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "brazil.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://brazil.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://brazil.in.gov/board-of-works-minutes-06-25-25/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://brazil.in.gov/water-treatment/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bsd.sos.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://bsd.sos.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "budgetnotices.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://budgetnotices.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://budgetnotices.in.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "campaignfinance.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://campaignfinance.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://campaignfinance.in.gov/PublicSite/Filing/FilingStatementOfOrganization.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "carnegiemuseum.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://carnegiemuseum.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://carnegiemuseum.in.gov/moco-then-now-2/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "caseclips.courts.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://caseclips.courts.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://caseclips.courts.in.gov/2025/06/30/kelly-v-ind-bureau-of-motor-vehicles-no-25s-ct-158-__-n-e-3d-__-ind-june-23-2025/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://caseclips.courts.in.gov/2025/07/07/state-v-b-h-no-25s-jv-47-__-n-e-3d-__-ind-jun-30-2025/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chalmers.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://chalmers.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://chalmers.in.gov/bill-payment",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://chalmers.in.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chesterfield.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://chesterfield.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://chesterfield.in.gov/calendar/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://chesterfield.in.gov/covid-19/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childcaregrants.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://childcaregrants.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.72",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://childcaregrants.fssa.in.gov/users/sign_in_reviewer",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chirp.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://chirp.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://chirp.in.gov/downloads.jsp",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.auburn.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ci.auburn.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.13",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.auburn.in.us/101/Departments",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.auburn.in.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.valparaiso.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ci.valparaiso.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.valparaiso.in.us/1684/Watch-City-Meetings",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.valparaiso.in.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cityofaustin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://cityofaustin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofaustin.in.gov/city-government/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofaustin.in.gov/redevelopment-commission/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cityofmarion.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://cityofmarion.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofmarion.in.gov/news-events/additional-appropriation-request-misc-contractual-services-8-19-25",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://cityofmarion.in.gov/news-events/listen-to-the-latest-how-marion-works-feat-splash-house",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "civiform.bloomington.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://civiform.bloomington.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clarkcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://clarkcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://clarkcounty.in.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://clarkcounty.in.gov/index.php/clark-county-indiana-government/clark-county-indiana-assessor-s-office",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.fulton.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://co.fulton.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.fulton.in.us/320/Agendas-and-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.johnson.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://co.johnson.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.johnson.in.us/department/index.php?structureid=42",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.putnam.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://co.putnam.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://co.putnam.in.us/board-of-commissioners/commissioner-agendas",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.putnam.in.us/departments",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cocdocs.carmel.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://cocdocs.carmel.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "continuinged.isl.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://continuinged.isl.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://continuinged.isl.in.gov/certification/",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://continuinged.isl.in.gov/helpful-tools-for-libraries/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crawfordsvillelibrary.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://crawfordsvillelibrary.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crawfordsvillelibrary.in.gov/calendar/",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crawfordsvillelibrary.in.gov/resources/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crownpoint.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://crownpoint.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://crownpoint.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crownpoint.in.gov/555/Licensing-and-Permitting",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cw.carmel.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://cw.carmel.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.bloomington.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://data.bloomington.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://data.bloomington.in.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "datavizpublic.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://datavizpublic.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ddrsprovider.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ddrsprovider.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://ddrsprovider.fssa.in.gov/bdds/IE7TrustedSiteInstructions.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dealers.sos.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://dealers.sos.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "decaturcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://decaturcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://decaturcounty.in.gov/boards/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://decaturcounty.in.gov/government/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "digital.library.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://digital.library.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://digital.library.in.gov/Web/CollectionsAcrossIndiana",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "digitalcollections.library.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://digitalcollections.library.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://digitalcollections.library.in.gov/?page=collections",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmhaproviderportal.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://dmhaproviderportal.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doeonline.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://doeonline.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://doeonline.doe.in.gov/PasswordReset.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dowos.dnr.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://dowos.dnr.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "drive.health.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://drive.health.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://drive.health.in.gov/Web/ResetPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dwdportal.dwd.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://dwdportal.dwd.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dwdportal.dwd.in.gov/owbla/owbla_landing",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecm.idem.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ecm.idem.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ecm.idem.in.gov/cs/idcplg?IdcService=GET_DYNAMIC_PAGE&PageName=index",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "empchildsupport.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://empchildsupport.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://empchildsupport.in.gov/viewnews.asp",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "enr.indianavoters.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://enr.indianavoters.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eps.indot.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://eps.indot.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://eps.indot.in.gov/Users/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "er.dol.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://er.dol.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://er.dol.in.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "erm.inprs.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://erm.inprs.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.ci.auburn.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://eservices.ci.auburn.in.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esuite.bloomington.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://esuite.bloomington.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://esuite.bloomington.in.gov/eSuite.Utilities",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "events.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://events.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://events.in.gov/auth/login",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://events.in.gov/monroe_lake_296",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "extranet.dfi.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://extranet.dfi.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://extranet.dfi.in.gov/ConsumerCredit/ConsumerCredit",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "faqs.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://faqs.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://faqs.in.gov/hc/en-us/articles/360041068371-Information-about-novel-coronavirus-COVID-19",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://faqs.in.gov/hc/en-us/sections/36987111307668-RAMP-Cybersecurity",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "filebound.mishawaka.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://filebound.mishawaka.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fishtournamentsponsor.dnr.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://fishtournamentsponsor.dnr.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.79",
+          "seo_score": "0.7"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forestryexchange.dnr.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://forestryexchange.dnr.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://forestryexchange.dnr.in.gov/INForestryX/default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.carmel.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://forms.carmel.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fssabenefits.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://fssabenefits.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gateway.isdh.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://gateway.isdh.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geohub.hamiltoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://geohub.hamiltoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://geohub.hamiltoncounty.in.gov/pages/f019bf207c5f47ecb7123fcb57bcbadc",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://geohub.hamiltoncounty.in.gov/pages/imagery-hub",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "georgetown.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://georgetown.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://georgetown.in.gov/about-georgetown/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.monroe.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://gis.co.monroe.in.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis1.hamiltoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://gis1.hamiltoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grantmanagement.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://grantmanagement.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://grantmanagement.doe.in.gov/Account/Register.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hagerstown.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://hagerstown.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://hagerstown.in.gov/business-directory/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://hagerstown.in.gov/video-hagerstown-town-council-meeting-april-7-2025/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hamiltoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://hamiltoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://hamiltoncounty.in.gov/774/Pay",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hamiltoncounty.in.gov/9/Important-Information",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hcapps.co.hendricks.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "http://hcapps.co.hendricks.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "http://hcapps.co.hendricks.in.us/DataWarehouse/Archive/ArchiveHome.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "help.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://help.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "highland.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://highland.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://highland.in.gov/highland-town-council-minutes-memos/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hoosierrx.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://hoosierrx.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hub.mph.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://hub.mph.in.gov/group/environmental",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iar.iga.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://iar.iga.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://iar.iga.in.gov/code",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://iar.iga.in.gov/register/20250326-IR-345250151PHA",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ichamp.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ichamp.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ichamp.doe.in.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ichamp.doe.in.gov/signin",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "identity.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://identity.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iedc.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://iedc.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://iedc.in.gov/business-retention-and-expansion",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.52",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://iedc.in.gov/entrepreneurship",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iedcportal.iedc.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://iedcportal.iedc.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://iedcportal.iedc.in.gov/pims-program/system-helpdesk/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://iedcportal.iedc.in.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iga.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://iga.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://iga.in.gov/session/2025/video/livestreams/house",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inbiz.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://inbiz.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://inbiz.in.gov/BOS/PublicSearch/Search",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "incmhwportal.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://incmhwportal.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://incmhwportal.fssa.in.gov/new-referral",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "indianagps.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://indianagps.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://indianagps.doe.in.gov/Search",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "indianasavin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://indianasavin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://indianasavin.in.gov/Account/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://indianasavin.in.gov/Site/Feedback.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "indianavoters.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://indianavoters.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.54",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://indianavoters.in.gov/MVPHome/ElectionSecurity",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://indianavoters.in.gov/MVPHome/PrintDocuments",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "intime.dor.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://intime.dor.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "intrain.isdh.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://intrain.isdh.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "intraining.dwd.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://intraining.dwd.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ispportal.isp.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ispportal.isp.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ispportal.isp.in.gov/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iurc.portal.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://iurc.portal.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.82",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://iurc.portal.in.gov/SignIn?returnUrl=%2F",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://iurc.portal.in.gov/complaint",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jeffersoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://jeffersoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://jeffersoncounty.in.gov/101/Departments",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jeffersoncounty.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kb.dol.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://kb.dol.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kentland.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://kentland.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://kentland.in.gov/workreation/",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "knoxcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://knoxcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://knoxcounty.in.gov/documents",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lafayette.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://lafayette.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://lafayette.in.gov/1042/Job-Postings",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://lafayette.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "laporteco.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://laporteco.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://laporteco.in.gov/departments-directory/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lawrencecounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://lawrencecounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.18",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://lawrencecounty.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lawrencecounty.in.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lebanon.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://lebanon.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://lebanon.in.gov/opengov-financial-transparency-portal/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legislativeupdate.courts.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://legislativeupdate.courts.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://legislativeupdate.courts.in.gov/2025/05/16/2025-legislative-session-digest/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "license.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://license.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://license.doe.in.gov/public_data/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "loogootee.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://loogootee.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://loogootee.in.gov/news/loogootee-water-works-releases-corrected-2024-annual-drinking-water-quality-report",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "magik.dcs.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://magik.dcs.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://magik.dcs.in.gov/Portal/Account/ResetPassword",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://magik.dcs.in.gov/Portal/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.westfield.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://maps.westfield.in.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mccordsville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://mccordsville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://mccordsville.in.gov/document_center/agendas_minutes/index.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mccordsville.in.gov/document_center/public_notices.php",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcssso.dor.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://mcssso.dor.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "merrillville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://merrillville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://merrillville.in.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "metsmyride.evansville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://metsmyride.evansville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://metsmyride.evansville.in.gov/RouteMap",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.68",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mishawaka.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://mishawaka.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mishawaka.in.gov/our-community/residents/",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mishawaka.in.gov/things-to-do/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "monrovia.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://monrovia.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://monrovia.in.gov/departments/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://monrovia.in.gov/events/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "morgancounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://morgancounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://morgancounty.in.gov/permits",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://morgancounty.in.gov/topic/index.php?topicid=230&structureid=1",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "motorcarrier.dor.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://motorcarrier.dor.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://motorcarrier.dor.in.gov/loginHome.html",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myble.courts.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://myble.courts.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://myble.courts.in.gov/news.action?id=1741",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://myble.courts.in.gov/osfp",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mycitrix.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://mycitrix.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mylicense.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://mylicense.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newpalestine.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://newpalestine.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://newpalestine.in.gov/agendasandminutes",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://newpalestine.in.gov/index",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newspapers.library.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://newspapers.library.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://newspapers.library.in.gov/?a=d&d=INN18890629-01&e=-------en-20--1--txt-txIN-------",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://newspapers.library.in.gov/?a=d&d=JPOST19891213-01&e=-------en-20--1--txt-txIN-------",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nextest.idacs.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://nextest.idacs.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://nextest.idacs.in.gov/nextest/index.cgi",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.78",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "northmanchester.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://northmanchester.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://northmanchester.in.gov/boards",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://northmanchester.in.gov/egov/apps/locations/facilities.egov?view=detail&id=6",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oas.dhs.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://oas.dhs.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "offenderlocator.idoc.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://offenderlocator.idoc.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ogdendunes.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ogdendunes.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ogdendunes.in.gov/home/news/ogden-dunes-prime-timers-presents-woman",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ogdendunes.in.gov/home/news/update-be-part-history-kratz-field-buy-brick-today",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "omppproviders.fssa.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://omppproviders.fssa.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://omppproviders.fssa.in.gov/ProviderEnrollmentApplication/s/login/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.ihcda.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://online.ihcda.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osw.motorcarrier.dor.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://osw.motorcarrier.dor.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://osw.motorcarrier.dor.in.gov/NewAccountStart.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.78",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "paoli.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://paoli.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://paoli.in.gov/government/clerktreasurer/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://paoli.in.gov/utility/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "passport.library.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://passport.library.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://passport.library.in.gov/faqs/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "perrycounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://perrycounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://perrycounty.in.gov/departments/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.hamiltoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://portal.hamiltoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.idem.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://portal.idem.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://portal.idem.in.gov/ctap/",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ppopin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ppopin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ppopin.in.gov/Help/Help",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "princeslakes.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://princeslakes.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://princeslakes.in.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://princeslakes.in.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pscsrfp.indot.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://pscsrfp.indot.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.7"
+        },
+        {
+          "url": "https://pscsrfp.indot.in.gov/Rfp/TwelveMonthRfp",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.courts.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://public.courts.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.63"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "qase.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://qase.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "qwidor.dor.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://qwidor.dor.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "redcap.isdh.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://redcap.isdh.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://redcap.isdh.in.gov/redcap_v13.1.26/Authentication/password_recovery.php",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "researchindiana.iara.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://researchindiana.iara.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.5",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://researchindiana.iara.in.gov/solr/axaem/Container",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.93",
+          "seo_score": "0.7"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reynolds.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://reynolds.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ripleycounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://ripleycounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ripleycounty.in.gov/auction/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rockport.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://rockport.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.07",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://rockport.in.gov/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.09",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rreal.idoi.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://rreal.idoi.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://rreal.idoi.in.gov/register",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rushcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://rushcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://rushcounty.in.gov/county-offices/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://rushcounty.in.gov/events/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scholarships.tos.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://scholarships.tos.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scholartrack.che.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://scholartrack.che.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scottcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://scottcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.18",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://scottcounty.in.gov/196/Departments",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure2.hamiltoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://secure2.hamiltoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://secure2.hamiltoncounty.in.gov/ParksOnline/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://secure2.hamiltoncounty.in.gov/propertyreports/index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "securities.sos.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://securities.sos.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://securities.sos.in.gov/SignIn",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.greenwood.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://selfservice.greenwood.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://selfservice.greenwood.in.gov/ess/employmentopportunities/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://selfservice.greenwood.in.gov/ess/login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.lafayette.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://selfservice.lafayette.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://selfservice.lafayette.in.gov/ess",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shelburn.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://shelburn.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://shelburn.in.gov/employment.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://shelburn.in.gov/events.html",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shelbyville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://shelbyville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://shelbyville.in.gov/AlertCenter.aspx?AID=The-Shelbyville-Parks-and-Recreation-App-38",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheridan.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://sheridan.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sheridan.in.gov/economic-development/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sheridan.in.gov/reorganization/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheriff.co.wayne.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://sheriff.co.wayne.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "signin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://signin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://signin.in.gov/help/login",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://signin.in.gov/privacy",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "starke.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://starke.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://starke.in.gov/?page_id=150",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://starke.in.gov/homepage/document-library/commissioners-agenda/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stateaid.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://stateaid.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "successfactors.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://successfactors.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://successfactors.in.gov/ui/createForgottenPasswordMail?spId=624d865287bde6408e4c87ac&targetUrl=&sourceUrl=",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tellcity.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://tellcity.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.86",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://tellcity.in.gov/employment-application/",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.86",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://tellcity.in.gov/planning-and-zoning/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "terrehaute.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://terrehaute.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://terrehaute.in.gov/general-information/explore-terre-haute.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://terrehaute.in.gov/mayors-office",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "time.lafayette.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://time.lafayette.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "times.courts.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://times.courts.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://times.courts.in.gov/2025/05/05/finding-balance-innovation-committee-researches-solutions-to-the-states-lawyer-shortage/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://times.courts.in.gov/2025/05/05/spotlight-events-and-in-memoriam/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "title1.doe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://title1.doe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://title1.doe.in.gov/TransitionInfo.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.centerville.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://town.centerville.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.centerville.in.us/documents/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.orleans.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://town.orleans.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.orleans.in.us/events-links/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://town.orleans.in.us/government/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofcloverdale.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://townofcloverdale.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofcloverdale.in.gov/about/community/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://townofcloverdale.in.gov/about/community/events-and-entertainment/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofmichianashores.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://townofmichianashores.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofmichianashores.in.gov/events/advisory-plan-commission-august-2025-meeting/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://townofmichianashores.in.gov/events/bza-november-2025-meeting/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofmorocco.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://townofmorocco.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofmorocco.in.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://townofmorocco.in.gov/government/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofnewcarlisle.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://townofnewcarlisle.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofnewcarlisle.in.gov/departments/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vaccine.coronavirus.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://vaccine.coronavirus.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vevay.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://vevay.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://vevay.in.gov/draft-americans-with-disabilities-act-ada-transition-plan/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://vevay.in.gov/forms/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "view.communications.bmv.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "http://view.communications.bmv.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.64",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "view.subscription.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://view.subscription.in.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.85",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vigosheriff.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://vigosheriff.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vigosheriff.in.gov/department/division.php?structureid=53",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vigosheriff.in.gov/egov/apps/search.egov?view=advanced;",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "warsaw.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://warsaw.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://warsaw.in.gov/652/Live",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://warsaw.in.gov/654/Explore",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "washingtoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://washingtoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://washingtoncounty.in.gov/online_bill_pay/index.php",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wc.dol.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://wc.dol.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webtrac.bloomington.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://webtrac.bloomington.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.06",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webtrac.bloomington.in.gov/wbwsc/webtrac.wsc/search.html?module=AR&type=LESSN",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "weconnect.westfield.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://weconnect.westfield.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://weconnect.westfield.in.gov/service-requests/service-requests-list/information-request/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "whitestown.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://whitestown.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://whitestown.in.gov/community/new-residents/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://whitestown.in.gov/news/celebrate-independence-day-with-family-fun-and-fireworks/",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "workforindiana.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://workforindiana.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://workforindiana.in.gov/content/Our-Benefits/?locale=en_US",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.allencounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.allencounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.allencounty.in.gov/101/Departments",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.allencounty.in.gov/27/Law-Justice",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bartholomew.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.bartholomew.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.bartholomew.in.gov/phone-listings.html",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bentoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.bentoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.bentoncounty.in.gov/attractions",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.bentoncounty.in.gov/business-info",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bloomington.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.bloomington.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.bloomington.in.gov/calendars",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.bloomington.in.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bloomingtontownship.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.bloomingtontownship.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.bloomingtontownship.in.gov/2024-highlights/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://www.bloomingtontownship.in.gov/food-pantry/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.carmel.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.carmel.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.carmel.in.gov/government",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.carmel.in.gov/our-city/news-releases",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.auburn.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.ci.auburn.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.11",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.auburn.in.us/101/Departments",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.auburn.in.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.valparaiso.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.ci.valparaiso.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityofberne.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.cityofberne.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityofberne.in.gov/government",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityofberne.in.gov/how-to",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityofdecatur.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.cityofdecatur.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.cityofdecatur.in.gov/311-Reporter",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.cityofdecatur.in.gov/311-reporter",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityoffortwayne.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.cityoffortwayne.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cityoffortwayne.in.gov/162/Animal-Care-Control",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityoffortwayne.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityoflinton.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.cityoflinton.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityoflinton.in.gov/egov/apps/services/index.egov?view=item;id=2",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityofrushville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.cityofrushville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityofrushville.in.gov/departments-services/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityofrushville.in.gov/directory/waggener-community-pool/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.clarkcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.clarkcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.clarkcounty.in.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.clarkcounty.in.gov/index.php/clark-county-indiana-government/clark-county-indiana-assessor-s-office",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.adams.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.adams.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.adams.in.us/207/Pay",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.adams.in.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.dekalb.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.dekalb.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.dekalb.in.us/egov/apps/document/center.egov?view=item&id=6359",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.delaware.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.delaware.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.86",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.delaware.in.us/egov/apps/services/index.egov?view=item&id=49",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fulton.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.fulton.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.fulton.in.us/320/Agendas-and-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.greene.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.greene.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.greene.in.us/egov/apps/services/index.egov?view=detail;id=12",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hendricks.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.hendricks.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.hendricks.in.us/boards",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.hendricks.in.us/egov/apps/search.egov?view=advanced;",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.marshall.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.marshall.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.marshall.in.us/department/division.php?structureid=44",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.monroe.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.monroe.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.monroe.in.us/egov/apps/services/index.egov?view=detail;id=11",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.steuben.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.steuben.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.steuben.in.us/government/board_of_commissioners/index.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.steuben.in.us/news_detail_T2_R152.php",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wayne.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.co.wayne.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.wayne.in.us/recorder/index.php",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.columbus.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.columbus.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.columbus.in.gov/planning/mtp/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.columbus.in.gov/redevelopment/columbus-downtown-2030/",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.coronavirus.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.coronavirus.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.coronavirus.in.gov/vaccine",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crawfordsville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.crawfordsville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.crawfordsville.in.gov/101/Work-Here",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.crawfordsville.in.gov/27/Live-Here",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crownpoint.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.crownpoint.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.crownpoint.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crownpoint.in.gov/555/Licensing-and-Permitting",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dekalbsheriff.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.dekalbsheriff.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.dekalbsheriff.in.gov/application",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.empchildsupport.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.empchildsupport.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.empchildsupport.in.gov/viewnews.asp",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fortville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.fortville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.fortville.in.gov/events",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.fortville.in.gov/fortville-code-of-ordinances",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.franklin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.franklin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.franklin.in.gov/egov/apps/bill/pay.egov?view=home;itemid=2",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.franklin.in.gov/egov/apps/search.egov?view=advanced;",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.franklincounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.franklincounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.franklincounty.in.gov/commissioners/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.franklincounty.in.gov/offices/",
+          "is_root_page": false,
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.greenwood.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.greenwood.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.greenwood.in.gov/division/blocks.php?structureid=44",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.greenwood.in.gov/live",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hamiltoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.hamiltoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.hamiltoncounty.in.gov/774/Pay",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.hamiltoncounty.in.gov/9/Important-Information",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.henrycounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.henrycounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.henrycounty.in.gov/9/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.henrycounty.in.gov/calendar.aspx?CID=14",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.highland.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.highland.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.highland.in.gov/highland-town-council-minutes-memos/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hoosierdata.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.hoosierdata.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.hoosierdata.in.gov/index.asp",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.iedc.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.iedc.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.iedc.in.gov/business-retention-and-expansion",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.52",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.in.gov/bmv/licenses-permits-ids/real-id-overview/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.in.gov/core/government.html",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.inbiz.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.inbiz.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.indianasavin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.indianasavin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.71",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.indianasavin.in.gov/Account/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ingalls.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.ingalls.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ingalls.in.gov/boil-water-advisory-issued-for-prairie-hollow-subdivision-4-28-25",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ingalls.in.gov/bza",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.inspire.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.inspire.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.inspire.in.gov/indiana",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.intime.dor.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.intime.dor.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jacksoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.jacksoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.jacksoncounty.in.gov/alert_detail.php",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.jacksoncounty.in.gov/feature_links/meeting_minutes.php",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kosciusko.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.kosciusko.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.kosciusko.in.gov/category/index.php?categoryid=10",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lafayette.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.lafayette.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.lafayette.in.gov/1042/Job-Postings",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.lafayette.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.madisoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.madisoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.madisoncounty.in.gov/departments/election-office",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.madisoncounty.in.gov/voter-registration",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.martinsville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.martinsville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.martinsville.in.gov/31/Living-Here",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.martinsville.in.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mccordsville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.mccordsville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.mccordsville.in.gov/document_center/agendas_minutes/index.php",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.mccordsville.in.gov/document_center/public_notices.php",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.merrillville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.merrillville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.merrillville.in.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.montgomerycounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.montgomerycounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.montgomerycounty.in.gov/transparency",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mooresville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.mooresville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.mooresville.in.gov/?page_id=196",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.82",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.morristown.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.morristown.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.morristown.in.gov/egov/apps/document/center.egov?view=browse&eGov_searchTitle=&eGov_searchType=54",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.morristown.in.gov/egov/apps/document/center.egov?view=browse&eGov_searchType=60&eGov_searchDepartment=1",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.muncie.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.muncie.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.muncie.in.gov/meetings",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.muncie.in.gov/topic/index.php?topicid=27&structureid=17",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nappanee.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.nappanee.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.nappanee.in.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.newhaven.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.newhaven.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.newhaven.in.gov/496/About",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.newhaven.in.gov/618/Planning-Permits-Applications",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.newtoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.newtoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.newtoncounty.in.gov/category/subcategory.php?categoryid=14",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.newtoncounty.in.gov/mobile",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.noblesville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.noblesville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.noblesville.in.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.owencounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.owencounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.owencounty.in.gov/departments/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.owencounty.in.gov/site-updates",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.petersburg.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.petersburg.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.petersburg.in.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.petersburg.in.gov/fire-department",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pikecounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.pikecounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pikecounty.in.gov/category?categoryid=10",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pikecounty.in.gov/egov/apps/document/center.egov?view=item&id=414",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ppopin.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.ppopin.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ppopin.in.gov/Help/Help",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.princeton.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.princeton.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rensselaer.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.rensselaer.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.rensselaer.in.gov/egov/apps/services/index.egov?view=item&id=36",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.scottcounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.scottcounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.scottcounty.in.gov/196/Departments",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.scottcounty.in.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.shelbyville.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.shelbyville.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.shelbyville.in.gov/AlertCenter.aspx?AID=The-Shelbyville-Parks-and-Recreation-App-38",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sheriff.steubencounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.sheriff.steubencounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sheriff.steubencounty.in.gov/sheriffs-honor-guard",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.spencer.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.spencer.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.spencer.in.gov/contact_us/forms___applications.php",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.spencer.in.gov/town_government/index.php",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sullivancounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.sullivancounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sullivancounty.in.gov/egov/apps/action/center.egov?view=login",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.terrehaute.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.terrehaute.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.terrehaute.in.gov/general-information/explore-terre-haute.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.terrehaute.in.gov/mayors-office",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tippecanoe.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.tippecanoe.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.tippecanoe.in.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.tippecanoe.in.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.cumberland.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.town.cumberland.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.town.cumberland.in.us/residents/utility_bill.php",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.pendleton.in.us",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.town.pendleton.in.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.pendleton.in.us/subscribe",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.town.pendleton.in.us/town-code-approved-plans-standards",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.veedersburg.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.veedersburg.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.veedersburg.in.gov/community/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.veedersburg.in.gov/government/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vigocounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.vigocounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.vigocounty.in.gov/egov/apps/document/center.egov?view=item;id=3829",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.warrencounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.warrencounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.warrencounty.in.gov/how_do_i/general_information/meeting_minutes.php",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.warrencounty.in.gov/news_detail_T4_R41.php",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.warsaw.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.warsaw.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.warsaw.in.gov/652/Live",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.warsaw.in.gov/654/Explore",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.washingtoncounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.washingtoncounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.washingtoncounty.in.gov/online_bill_pay/index.php",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.westlafayette.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.westlafayette.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.westlafayette.in.gov/?splash=https%3a%2f%2fgreaterlafayetteind.com%2fwork-play-belong%2f&____isexternal=true",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.whitleycounty.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.whitleycounty.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.whitleycounty.in.gov/departments",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.whitleycounty.in.gov/egov/apps/services/index.egov?view=detail;id=111",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.winfield.in.gov",
+      "subnational": "Indiana",
+      "pages": [
+        {
+          "url": "https://www.winfield.in.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.winfield.in.gov/home-page/page/homepage-background-photo-sign-trees",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

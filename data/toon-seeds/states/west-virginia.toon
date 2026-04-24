@@ -1,0 +1,2272 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "West Virginia",
+  "domain_count": 88,
+  "page_count": 217,
+  "domains": [
+    {
+      "canonical_domain": "abca.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://abca.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://abca.wv.gov/education/psacontest/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "administration.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://administration.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://administration.wv.gov/Pages/department_faqs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://administration.wv.gov/department-news/Pages/Samantha_Willis_Announced_as_20_Under_40_Recipient.aspx",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agriculture.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://agriculture.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://agriculture.wv.gov/licenses/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://agriculture.wv.gov/mountain-state-co-op-to-boost-local-food-infrastructure-with-rfsi-grant/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appraiserboard.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://appraiserboard.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://appraiserboard.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://appraiserboard.wv.gov/education/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.sos.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://apps.sos.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://apps.sos.wv.gov/adlaw/erules/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://apps.sos.wv.gov/elections/ecie/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://apps.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.67",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bfa.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://bfa.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://bfa.wv.gov/bfa-faqs",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bfa.wv.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "brdarch.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://brdarch.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://brdarch.wv.gov/rules-laws",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "broadband.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://broadband.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://broadband.wv.gov/broadband-workforce-development",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://broadband.wv.gov/news-center/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business4.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://business4.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://business4.wv.gov/planmybusiness/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://business4.wv.gov/resources/Pages/Contact-Us.aspx",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cares.dhhr.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://cares.dhhr.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://cares.dhhr.wv.gov/Auth/LoginMessage/7",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chip.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://chip.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://chip.wv.gov/Pages/PopularForms.aspx",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.68",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://chip.wv.gov/what_is_chip",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "claycounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://claycounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://claycounty.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coalheritage.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://coalheritage.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://coalheritage.wv.gov/tourist/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://coalheritage.wv.gov/visitors",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.68",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "commerce.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://commerce.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://commerce.wv.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://commerce.wv.gov/modelregistry/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "daily304.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://daily304.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://daily304.wv.gov/newsletter",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://daily304.wv.gov/post/local-eats-wv-agriculture-funding-and-a-new-hatfield-mccoy-trail/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "das.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://das.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://das.wv.gov/Directory/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://das.wv.gov/sections/fiscal/Pages/jail-per-diem.aspx",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcr.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://dcr.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dcr.wv.gov/careers/Pages/careers.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcr.wv.gov/offendersearch",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.5",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dep.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://dep.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dep.wv.gov/Data",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dep.wv.gov/environmental-advocate/reap/tires/Pages/TireCollectionEvents.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfi.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://dfi.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dfi.wv.gov/Pages/contact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dfi.wv.gov/consumers/complaints/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhhr.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://dhhr.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dhhr.wv.gov/News/2025/Pages/West-Virginia-Department-of-Human-Services-Accepting-School-Clothing-Allowance-Applications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dhhr.wv.gov/health",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhs.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://dhs.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dhs.wv.gov/Pages/Emergency_Contacts.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnrsurvey.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://dnrsurvey.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dnrsurvey.wv.gov/Survey/Create",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "documents.dep.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://documents.dep.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "emd.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://emd.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://emd.wv.gov/About/News/Pages/SBADR_March2025Drought.aspx",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://emd.wv.gov/About/Pages/Work-with-WVEMD.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://ethics.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ethics.wv.gov/Pages/alj.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fayettecounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://fayettecounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://fayettecounty.wv.gov/commission/Pages/Career-Opportunities-.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "firemarshal.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://firemarshal.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://firemarshal.wv.gov/Divisions/FireInvestigation/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://firemarshal.wv.gov/pages/How-Do-I.aspx",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.68",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "generalservices.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://generalservices.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://generalservices.wv.gov/employee-resources/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://generalservices.wv.gov/guide-to-our-buildings",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.transportation.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://gis.transportation.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gis.transportation.wv.gov/Fuel_Sites/",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gis.transportation.wv.gov/wvairports/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "governor.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://governor.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://governor.wv.gov/article/governor-patrick-morrisey-appoints-members-wvu-board-governors-announces-additional",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://governor.wv.gov/article/governor-patrick-morrisey-releases-statement-pro-life-victory-4th-circuit-court-appeals",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "governorjustice.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://governorjustice.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://governorjustice.wv.gov/News/press-releases/2025/Pages/First-Lady-Justice-delivers-final-remarks,-presents-United-Way-of-Central-WV-President-Margaret-O%E2%80%99Neal-Rhododendron-Award.aspx",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://governorjustice.wv.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grants.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://grants.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://grants.wv.gov/grants",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hca.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://hca.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hca.wv.gov/About/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jacksoncounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://jacksoncounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jacksoncounty.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobsandhope.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://jobsandhope.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://jobsandhope.wv.gov/start-your-journey",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.39",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kchd.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://kchd.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://kchd.wv.gov/environmental/Pages/Smoking-and-Vaping.aspx",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://kchd.wv.gov/preventionwellness/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "labor.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://labor.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://labor.wv.gov/Announcements-and-News",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://labor.wv.gov/pages/online-payments.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lcso.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://lcso.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://lcso.wv.gov/events",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "librarycommission.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://librarycommission.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://librarycommission.wv.gov/events/Pages/event-details.aspx?eventid=3",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "logancounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://logancounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://logancounty.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lpnboard.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://lpnboard.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lpnboard.wv.gov/newsannouncements/Pages/Test-News-Page-4.aspx",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "militaryauthority.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://militaryauthority.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://militaryauthority.wv.gov/Forms/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://militaryauthority.wv.gov/employees",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "minesafety.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://minesafety.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://minesafety.wv.gov/west-virginia-training-and-conference-center/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.57",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mywvretirement.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://mywvretirement.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mywvretirement.wv.gov/Common/Pages/Login.aspx?userType=Medical",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oeps.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://oeps.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://oeps.wv.gov/healthalerts",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://oeps.wv.gov/measles/pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oig.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://oig.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oig.wv.gov/ohflac/public-comment",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://oig.wv.gov/operational-integrity-and-oversight",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "omc.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://omc.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.52",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://omc.wv.gov/patient-application",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.52",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onestop.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://onestop.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://onestop.wv.gov/B4WVPublic/default.aspx?pagename=newpublicuserregistration",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ovr.sos.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://ovr.sos.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ovr.sos.wv.gov/pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pai.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://pai.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pai.wv.gov/programs-and-departments",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pai.wv.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "paroleboard.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://paroleboard.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://paroleboard.wv.gov/aboutus",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://paroleboard.wv.gov/aboutus/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pds.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://pds.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://pds.wv.gov/News-Announcements/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://pds.wv.gov/Pages/contact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "peia.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://peia.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://peia.wv.gov/forms-downloads",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://peia.wv.gov/understand_my_benefits/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "personnel.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://personnel.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://personnel.wv.gov/bulletinboard/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://personnel.wv.gov/empopp/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "privacy.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://privacy.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://privacy.wv.gov/incidentresponse/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "providerportal.wvpath.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://providerportal.wvpath.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psychbd.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://psychbd.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://psychbd.wv.gov/license-info/license-search",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ready.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://ready.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ready.wv.gov/informed",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ready.wv.gov/news/Pages/WV-COVID-19-Resources.aspx",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rec.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://rec.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://rec.wv.gov/License-Info/Pages/Salesperson.aspx",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rec.wv.gov/News/Pages/Renewal-Double-Charge-Issue-and-Information.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "revenue.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://revenue.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://revenue.wv.gov/homerule",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ritchiecounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://ritchiecounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ritchiecounty.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sba.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://sba.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sba.wv.gov/grantawards/Pages/NEEDs-Grants.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sba.wv.gov/grantawards/Pages/Submission-Deadlines.aspx",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://sos.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sos.wv.gov/business/Pages/FundingInformation.aspx",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sos.wv.gov/news/Pages/07-11-25-A.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stmarys.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://stmarys.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://stmarys.wv.gov/Departments/watersewerdept",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://stmarys.wv.gov/pages/contact-us.aspx",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tagis.dep.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://tagis.dep.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tagis.dep.wv.gov/home/gis%20data",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://tax.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://tax.wv.gov/Individuals/Pages/MotorVehiclePropertyTaxAdjustmentCredit.aspx",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "technology.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://technology.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://technology.wv.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://technology.wv.gov/technology-services",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofcaponbridge.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://townofcaponbridge.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://townofcaponbridge.wv.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://townofcaponbridge.wv.gov/pages/resources.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "transportation.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://transportation.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://transportation.wv.gov/Pages/WVDOT-Projects.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tuckercounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://tuckercounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://tuckercounty.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "veterans.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://veterans.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://veterans.wv.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://veterans.wv.gov/news",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "volunteer.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://volunteer.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://volunteer.wv.gov/Volunteer/Pages/Submit-Opportunity.aspx",
+          "is_root_page": false,
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.54",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://volunteer.wv.gov/whoweare/Pages/Annual-Report.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.transportation.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://webapps.transportation.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webstercounty.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://webstercounty.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://webstercounty.wv.gov/about/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvbom.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvbom.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://wvbom.wv.gov/calendar.asp",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvbopt.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvbopt.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wvbopt.wv.gov/news/Pages/Test-Article-2.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvbot.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvbot.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wvbot.wv.gov/Pages/License-Verification-Request.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://wvbot.wv.gov/ruleslaws/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvbps.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvbps.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://wvbps.wv.gov/Pages/contact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://wvbps.wv.gov/events",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvclboard.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvclboard.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://wvclboard.wv.gov/account/guide.asp",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://wvclboard.wv.gov/calendar.asp",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.89",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvpath.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvpath.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wvpath.wv.gov/programs&services",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvrnboard.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvrnboard.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wvrnboard.wv.gov/Pages/Board-Message-Regarding-APRN-Prescriptive-Authority.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wvrnboard.wv.gov/licensing/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wvstatemuseumed.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://wvstatemuseumed.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://wvstatemuseumed.wv.gov/Planning-visit.html",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.boa.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://www.boa.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.boa.wv.gov/article.asp?action2=showArticle&id=72&ty=GEN",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.legis.state.wv.us",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "http://www.legis.state.wv.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.psc.state.wv.us",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://www.psc.state.wv.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.psc.state.wv.us/Bios/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://www.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.wv.gov/agencies",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wv.gov/pages/business.aspx",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wvpath.wv.gov",
+      "subnational": "West Virginia",
+      "pages": [
+        {
+          "url": "https://www.wvpath.wv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wvpath.wv.gov/programs&services",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

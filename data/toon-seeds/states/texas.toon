@@ -1,0 +1,6202 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Texas",
+  "domain_count": 283,
+  "page_count": 562,
+  "domains": [
+    {
+      "canonical_domain": "applications.tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://applications.tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.tpwd.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://apps.tpwd.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "arbitration.app.cpa.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://arbitration.app.cpa.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "arcgisportal.ci.temple.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://arcgisportal.ci.temple.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bei.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://bei.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://bei.hhsc.state.tx.us/g/0f9ec16cd2244715ad654b89f58a72a9/Register/Register",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://bei.hhsc.state.tx.us/g/c22a07c0d2424decb24f80415bd8ae0f/Register/Register",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beta.co.gregg.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://beta.co.gregg.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "castro.tea.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://castro.tea.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.68",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cc.co.bastrop.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://cc.co.bastrop.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.67",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://cc.co.bastrop.tx.us/users/basket.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.67",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cc.co.cass.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://cc.co.cass.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.7",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cceo.co.comal.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://cceo.co.comal.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.desoto.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.desoto.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ci.desoto.tx.us/how_do_i/index.php",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.italy.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.italy.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.italy.tx.us/city-documents/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ci.italy.tx.us/government/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.kerens.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.kerens.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.kerens.tx.us/government/agendas-and-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.lubbock.tx.us/departments/city-secretary/home/code-of-ordinances",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.palmer.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.palmer.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.palmer.tx.us/2024-2025-proposed-tax-rate/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.palmer.tx.us/government/city-council/current-agenda/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.saginaw.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.saginaw.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ci.saginaw.tx.us/government/agendas___minutes.php",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ci.saginaw.tx.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.selma.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.selma.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.selma.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.selma.tx.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.sherman.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.sherman.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.sherman.tx.us/35/Your-Community",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.sherman.tx.us/RequestTracker.aspx",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.smithville.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ci.smithville.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.smithville.tx.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ci.smithville.tx.us/AlertCenter.aspx?AID=Traffic-Notice-4th-Avenue-31",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cijspub.co.collin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://cijspub.co.collin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cijspub.co.collin.tx.us/PublicAccess/MyAccount.aspx?ReturnURL=default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "citysearch.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://citysearch.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://citysearch.hhsc.state.tx.us/home/searchalpha/w",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cmbhs.dshs.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://cmbhs.dshs.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.andrews.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://co.andrews.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.andrews.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.cherokee.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://co.cherokee.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://co.cherokee.tx.us/ips/cms/othercountyoffices/index.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.ellis.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://co.ellis.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://co.ellis.tx.us/439/Explore-Ellis-County",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://co.ellis.tx.us/RequestTracker.aspx?CID=1",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.maverick.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://co.maverick.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://co.maverick.tx.us/resources",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.maverick.tx.us/work-order",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coluforms.ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://coluforms.ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://coluforms.ci.lubbock.tx.us/commercial-move-out",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "commbook.app.cpa.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://commbook.app.cpa.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://commbook.app.cpa.state.tx.us/class/005",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "contract.tdhca.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://contract.tdhca.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://contract.tdhca.state.tx.us/alligator/Login.m",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crimereports.ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://crimereports.ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cris.dot.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://cris.dot.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cris.dot.state.tx.us/public/Purchase",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "diagsearch.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://diagsearch.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://diagsearch.hhsc.state.tx.us/Eligibility/Child/14430",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://diagsearch.hhsc.state.tx.us/Eligibility/Child/5879",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "direct.sos.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://direct.sos.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://direct.sos.state.tx.us/home/home-corp.asp",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dshsnbsweb.dshs.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://dshsnbsweb.dshs.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.67",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dshsnbsweb.dshs.state.tx.us/toolbar/a_ForgotPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.67",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "egovaccess.ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://egovaccess.ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electricoutage.ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://electricoutage.ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "emr.dads.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://emr.dads.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://emr.dads.state.tx.us/DadsEMRWeb/emrRegistrySearch.jsp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://emr.dads.state.tx.us/DadsEMRWeb/index.jsp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eresponse.co.caldwell.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://eresponse.co.caldwell.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eresponse.co.comal.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://eresponse.co.comal.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esearch.co.comal.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://esearch.co.comal.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esearch.co.kerr.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://esearch.co.kerr.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://esearch.co.kerr.tx.us/Search/Help",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esearch.co.maverick.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://esearch.co.maverick.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://esearch.co.maverick.tx.us/Search/Help",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esuites.co.hays.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://esuites.co.hays.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://esuites.co.hays.tx.us/Websites.HR.Employee/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ethics.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.thecb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://forms.thecb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "franchise.app.cpa.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://franchise.app.cpa.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ftp.dot.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ftp.dot.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ftp.dot.state.tx.us/pub/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gcitmail.co.grayson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://gcitmail.co.grayson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hcm.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://hcm.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "helmnet.thecb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://helmnet.thecb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hhsportal.hhs.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://hhsportal.hhs.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://hhsportal.hhs.state.tx.us/publicHelpGuide/Content/15_Public/INTRO_Public.htm",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hrc-ic.tdhca.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://hrc-ic.tdhca.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://hrc-ic.tdhca.state.tx.us/hrc/VacancyClearinghouseSearch.m",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hrportal.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://hrportal.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://hrportal.hhsc.state.tx.us/PORTAL/pages/EmployeeID.htm",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.67",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iamonline.hhs.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://iamonline.hhs.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://iamonline.hhs.state.tx.us/signin/forgot-password",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "icms.co.collin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://icms.co.collin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.66",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iftareg.app.cpa.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://iftareg.app.cpa.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobshrportal.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://jobshrportal.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://jobshrportal.hhsc.state.tx.us/ENG/default.cfm?szCat=hr",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "judicialsearch.co.grayson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://judicialsearch.co.grayson.tx.us:8443/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juroraccess.co.wichita.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://juroraccess.co.wichita.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jury.co.hays.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://jury.co.hays.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jury.co.midland.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://jury.co.midland.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jury.co.midland.tx.us/Login.asp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juryresponse.co.bastrop.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://juryresponse.co.bastrop.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lf.hpc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://lf.hpc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "list.tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://list.tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.bastrop.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://maps.co.bastrop.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://maps.co.bastrop.tx.us/GIS_Map_Viewer_v2.0",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.dot.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://maps.dot.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcpl-websvr.co.midland.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://mcpl-websvr.co.midland.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mcpl-websvr.co.midland.tx.us/kids",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mft.twc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://mft.twc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mhweb.tdhca.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://mhweb.tdhca.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mhweb.tdhca.state.tx.us/mhweb/tdlr_title_view.jsp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mhweb.tdhca.state.tx.us/mhweb/title_download.jsp",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "net2nac.ci.nacogdoches.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://net2nac.ci.nacogdoches.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ng.accesshr.hhsc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://ng.accesshr.hhsc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ng.accesshr.hhsc.state.tx.us/SkillSoft/Content/comm_04_a04_bs_enusA1.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.86",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ng.accesshr.hhsc.state.tx.us/SkillSoft/Content/comm_23_a05_bs_enusA1.htm",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oag.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://oag.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oag.state.tx.us/initiatives/border-security",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://oag.state.tx.us/initiatives/human-trafficking-initiative",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ors.co.orange.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://ors.co.orange.tx.us:8052/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "payments.ci.corsicana.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://payments.ci.corsicana.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "payments.ci.smithville.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://payments.ci.smithville.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "policereports.ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://policereports.ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.co.grayson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://portal.co.grayson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://portal.co.grayson.tx.us/PortalProd/Home/Dashboard/29",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.cs.oag.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://portal.cs.oag.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pox.tdhca.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://pox.tdhca.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://pox.tdhca.state.tx.us/aims2/pox",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "profile.tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://profile.tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.co.comal.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://public.co.comal.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://public.co.comal.tx.us/MyAccount.aspx?ReturnURL=default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.co.hays.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://public.co.hays.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://public.co.hays.tx.us/MyAccount.aspx?ReturnURL=default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "records.co.bastrop.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://records.co.bastrop.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "renewals.tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://renewals.tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ritter.tea.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://ritter.tea.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.68",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "security.app.cpa.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://security.app.cpa.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sso.tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://sso.tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://sso.tmb.state.tx.us/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "survey.tpwd.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://survey.tpwd.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://survey.tpwd.state.tx.us/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.anderson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://tax.co.anderson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.cherokee.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tax.co.cherokee.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://tax.co.cherokee.tx.us/landing-page-en-us",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://tax.co.cherokee.tx.us/search",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.hays.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tax.co.hays.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.67",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tax.co.hays.tx.us/More-Resources",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.waller.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://tax.co.waller.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.5",
+          "seo_score": "1"
+        },
+        {
+          "url": "http://tax.co.waller.tx.us/General-Information",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.5",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.wise.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tax.co.wise.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://tax.co.wise.tx.us/search",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tbpg.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tbpg.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://tbpg.state.tx.us/code-of-professional-conduct/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://tbpg.state.tx.us/file-a-complaint/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tea4avcastro.tea.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tea4avcastro.tea.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tealprod.tea.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tealprod.tea.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://tealprod.tea.state.tx.us/TSP/TEASecurePortal/jsp/manage_profile.jsp",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.67",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "texreg.sos.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://texreg.sos.state.tx.us/",
+          "is_root_page": true,
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.5",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://tmb.state.tx.us/page/resources-continuing-ed-tracking",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://tmb.state.tx.us/showdoc/tmb-bulletins",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.northlake.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://town.northlake.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.northlake.tx.us/220/Employment-Opportunities",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.northlake.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "txdot4avapptr05.dot.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://txdot4avapptr05.dot.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.66",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vo.ras.dshs.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://vo.ras.dshs.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://vo.ras.dshs.state.tx.us/datamart/registration.do?from=loginPage",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "w4.co.potter.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://w4.co.potter.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://w4.co.potter.tx.us/Login.asp",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.co.mclennan.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://webapps.co.mclennan.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.rrc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://webapps.rrc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://webapps.rrc.state.tx.us/security/login.do",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "weblink.ci.lubbock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://weblink.ci.lubbock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webservices.sos.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://webservices.sos.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://webservices.sos.state.tx.us/default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "websvr.co.cameron.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://websvr.co.cameron.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webtrac.ci.temple.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://webtrac.ci.temple.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webtrac.ci.temple.tx.us/wbwsc/webtrac.wsc/login.html?_csrf_token=Mh6F6W5Y1R712646354Z2L4H72646M4V1F6T4G4I56015P4F4Z5E1G5W4U5E54005S4I584A1G5O4I584U0E704O5A6L075O5Z504W6F015Y596B6Z064R6S521L5W5U5B",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webtrac.ci.temple.tx.us/wbwsc/webtrac.wsc/login.html?_csrf_token=bk6J050T1Q721Y4G1R3J485D5H4L6Q6J0J5I4M6J6F0B58666I580C5A4J535402684J59691J00466U6A07605G6E4Z045O54526J1C5N4Q6058005X6662666Z5X604D",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.capitol.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.capitol.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.capitol.state.tx.us/Resources/FAQ.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.benbrook.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://www.ci.benbrook.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.ci.benbrook.tx.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.59",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://www.ci.benbrook.tx.us/CivicAlerts.aspx?AID=751",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.boerne.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.boerne.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.boerne.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.boerne.tx.us/79/Animal-Care-Services",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.brownfield.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.brownfield.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.brownfield.tx.us/35/Services",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.brownfield.tx.us/Facilities",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.crowley.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.crowley.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.crowley.tx.us/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.desoto.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.desoto.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ci.desoto.tx.us/how_do_i/index.php",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.dublin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.dublin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.dublin.tx.us/index",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.dublin.tx.us/notices",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.friendswood.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.friendswood.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.friendswood.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.friendswood.tx.us/523/Make-a-Payment",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.greenville.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.greenville.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.greenville.tx.us/391",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.greenville.tx.us/jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.59",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.lamesa.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.lamesa.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ci.lamesa.tx.us/government/city_departments/parks_and_recreation/index.php",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.levelland.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://www.ci.levelland.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.54",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://www.ci.levelland.tx.us/1640/About",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.59",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://www.ci.levelland.tx.us/Bids.aspx",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.lorena.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.lorena.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.ci.lorena.tx.us/58/Our-Community",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.lorena.tx.us/69",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.nederland.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.nederland.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ci.nederland.tx.us/page/financemain_transparency",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ci.nederland.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.saginaw.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.saginaw.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ci.saginaw.tx.us/government/agendas___minutes.php",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ci.saginaw.tx.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.sealy.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.sealy.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ci.sealy.tx.us/government/meeting_agendas_and_minutes/index.php",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.selma.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.selma.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.selma.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.selma.tx.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.sherman.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.sherman.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.sherman.tx.us/35/Your-Community",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.sherman.tx.us/RequestTracker.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.smithville.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.smithville.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.smithville.tx.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.ci.smithville.tx.us/AlertCenter.aspx?AID=Traffic-Notice-4th-Avenue-31",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.willis.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ci.willis.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.willis.tx.us/229/New-Resident-Information",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.willis.tx.us/35/I-Want-To",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.anderson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.anderson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.anderson.tx.us/page/anderson.Home",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.andrews.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.andrews.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.andrews.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.andrews.tx.us/Jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.archer.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.archer.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.archer.tx.us/page/archer.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.armstrong.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.armstrong.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.armstrong.tx.us/page/armstrong.Home",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.bailey.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.bailey.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.bailey.tx.us/page/bailey.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.bastrop.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.bastrop.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.bastrop.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.baylor.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.baylor.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.baylor.tx.us/page/baylor.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.bee.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.bee.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.bee.tx.us/page/bee.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.blanco.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.blanco.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.blanco.tx.us/page/blanco.Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.borden.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.borden.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.borden.tx.us/page/borden.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.bowie.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.bowie.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.bowie.tx.us/page/bowie.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.briscoe.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.briscoe.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.briscoe.tx.us/page/briscoe.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.brooks.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.brooks.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.brooks.tx.us/page/brooks.Home",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.burleson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.burleson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.burleson.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.caldwell.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.caldwell.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.caldwell.tx.us/page/article/1168",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.camp.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.camp.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.camp.tx.us/page/camp.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.carson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.carson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.carson.tx.us/page/carson.Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cass.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.cass.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.cass.tx.us/page/cass.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.castro.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.castro.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.castro.tx.us/page/castro.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cherokee.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.cherokee.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.cherokee.tx.us/ips/cms/othercountyoffices/index.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cochran.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.cochran.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.cochran.tx.us/page/cochran.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.coke.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.coke.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.coke.tx.us/page/coke.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.coleman.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.coleman.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.coleman.tx.us/page/coleman.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.collingsworth.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.collingsworth.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.collingsworth.tx.us/page/collingsworth.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.colorado.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.colorado.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.colorado.tx.us/page/colorado.Home",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.comal.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.comal.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.comal.tx.us/CCHC.htm",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.comal.tx.us/fire_marshal.htm",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.comanche.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.comanche.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.comanche.tx.us/page/comanche.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.concho.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.concho.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.concho.tx.us/page/concho.Home",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cooke.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.cooke.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.cooke.tx.us/page/cooke.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cottle.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.cottle.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.cottle.tx.us/page/cottle.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.crane.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.crane.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.crane.tx.us/page/crane.Home",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.crockett.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.crockett.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.crockett.tx.us/page/crockett.Home",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.crosby.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.crosby.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.crosby.tx.us/page/crosby.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.culberson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.culberson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.culberson.tx.us/page/culberson.Home",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.dawson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.dawson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.dawson.tx.us/page/dawson.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.dewitt.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.dewitt.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.dewitt.tx.us/page/dewitt.Home",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.dickens.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.dickens.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.dickens.tx.us/page/dickens.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.donley.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.donley.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.donley.tx.us/page/donley.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.duval.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.duval.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.duval.tx.us/page/duval.Home",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ector.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.ector.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.ector.tx.us/page/ector.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.edwards.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.edwards.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.edwards.tx.us/page/edwards.Home",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ellis.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.ellis.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.co.ellis.tx.us/439/Explore-Ellis-County",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.ellis.tx.us/RequestTracker.aspx?CID=1",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.erath.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.erath.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.erath.tx.us/246/Commissioners",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.erath.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.falls.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.falls.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.falls.tx.us/page/falls.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fannin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.fannin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.fannin.tx.us/page/fannin.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fayette.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.fayette.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.fayette.tx.us/page/fayette.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.floyd.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.floyd.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.floyd.tx.us/page/floyd.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.franklin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.franklin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.franklin.tx.us/page/franklin.Home",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.freestone.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.freestone.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.freestone.tx.us/page/freestone.Home",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.frio.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.frio.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.frio.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.gaines.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.gaines.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.gaines.tx.us/page/gaines.Home",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.glasscock.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.glasscock.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.glasscock.tx.us/page/glasscock.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.goliad.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.goliad.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.goliad.tx.us/page/goliad.Home",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.gonzales.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.gonzales.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.gonzales.tx.us/page/gonzales.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.gray.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.gray.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.gray.tx.us/page/gray.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.grayson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.grayson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.grayson.tx.us/page/co.ccourt",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.grayson.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hall.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hall.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hall.tx.us/page/hall.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hansford.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hansford.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hansford.tx.us/page/hansford.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hardeman.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hardeman.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hardeman.tx.us/page/hardeman.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hardin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hardin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hardin.tx.us/page/hardin.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hartley.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hartley.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hartley.tx.us/page/hartley.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hemphill.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hemphill.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hemphill.tx.us/page/hemphill.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hill.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hill.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hill.tx.us/page/hill.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hockley.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hockley.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hockley.tx.us/page/hockley.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.houston.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.houston.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.houston.tx.us/page/houston.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.howard.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.howard.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.howard.tx.us/page/howard.Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hudspeth.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hudspeth.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hudspeth.tx.us/page/hudspeth.Home",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hutchinson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.hutchinson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.hutchinson.tx.us/page/hutchinson.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.irion.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.irion.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.irion.tx.us/page/irion.Home",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.jackson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.jackson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.jackson.tx.us/page/jackson.Home",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.jasper.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.jasper.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.jasper.tx.us/page/jasper.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.jones.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.jones.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.jones.tx.us/page/jones.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.karnes.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.karnes.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.karnes.tx.us/page/karnes.Home",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.kimble.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.kimble.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.kimble.tx.us/page/kimble.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.kinney.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.kinney.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.kinney.tx.us/page/kinney.Home",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.kleberg.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.kleberg.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.kleberg.tx.us/page/kleberg.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lamar.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.lamar.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.lamar.tx.us/page/lamar.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lamb.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.lamb.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.lamb.tx.us/page/lamb.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lampasas.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.lampasas.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.lampasas.tx.us/page/lampasas.Home",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lavaca.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.lavaca.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.lavaca.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lee.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.lee.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.lee.tx.us/page/lee.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.leon.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.leon.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.leon.tx.us/page/leon.Home",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.liberty.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.liberty.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.liberty.tx.us/page/liberty.Home",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.limestone.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.limestone.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.limestone.tx.us/page/limestone.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.llano.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.llano.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.llano.tx.us/page/llano.Home",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.loving.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.loving.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.loving.tx.us/page/loving.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lynn.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.lynn.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.lynn.tx.us/page/lynn.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.madison.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.madison.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.madison.tx.us/page/madison.Home",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.marion.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.marion.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.marion.tx.us/page/marion.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.martin.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://www.co.martin.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "http://www.co.martin.tx.us/Archive.aspx",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.mason.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.mason.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://www.co.mason.tx.us/page/mason.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.mcculloch.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.mcculloch.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.mcculloch.tx.us/page/mcculloch.Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.menard.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.menard.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.menard.tx.us/page/menard.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.midland.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.midland.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.midland.tx.us/150/Public-Libraries",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.midland.tx.us/27/County-Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.mitchell.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.mitchell.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.mitchell.tx.us/page/mitchell.Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.montague.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.montague.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.montague.tx.us/page/montague.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.moore.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.moore.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.moore.tx.us/page/moore.Home",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.morris.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.morris.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.morris.tx.us/page/morris.Home",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.nacogdoches.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.nacogdoches.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.nacogdoches.tx.us/countyoffices/CommissionersCourtVideos.asp",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.nacogdoches.tx.us/events.asp?Number=1431",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.navarro.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.navarro.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.navarro.tx.us/page/navarro.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.newton.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.newton.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.newton.tx.us/page/newton.Home",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.nolan.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.nolan.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.nolan.tx.us/page/nolan.Home",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ochiltree.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.ochiltree.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.ochiltree.tx.us/page/ochiltree.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.oldham.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.oldham.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.oldham.tx.us/page/oldham.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.orange.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.orange.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.orange.tx.us/Public-Notices-News",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.orange.tx.us/meetingdashboard",
+          "is_root_page": false,
+          "performance_score": "0.11",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.panola.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.panola.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.panola.tx.us/page/panola.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.pecos.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.pecos.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.pecos.tx.us/regular_session_agenda/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.pecos.tx.us/special_session-budgetworkshop3/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.potter.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.potter.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.potter.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.presidio.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.presidio.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.presidio.tx.us/page/presidio.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.rains.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.rains.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.rains.tx.us/page/rains.Home",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.reagan.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.reagan.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.reagan.tx.us/page/reagan.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.real.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.real.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.real.tx.us/page/real.Home",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.refugio.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.refugio.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.refugio.tx.us/page/refugio.Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.robertson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.robertson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.robertson.tx.us/page/robertson.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sabine.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.sabine.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.sabine.tx.us/page/jones.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.scurry.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.scurry.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.scurry.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.shelby.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.shelby.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.shelby.tx.us/page/shelby.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sherman.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.sherman.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.sherman.tx.us/page/sherman.Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.starr.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.starr.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.starr.tx.us/page/starr.Home",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.stephens.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.stephens.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.stephens.tx.us/page/stephens.Home",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sterling.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.sterling.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.sterling.tx.us/page/sterling.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sutton.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.sutton.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.sutton.tx.us/page/sutton.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.swisher.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.swisher.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.swisher.tx.us/page/swisher.Home",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.terrell.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.terrell.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.terrell.tx.us/page/terrell.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.terry.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.terry.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.terry.tx.us/page/terry.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.titus.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.titus.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.titus.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.trinity.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.trinity.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.trinity.tx.us/page/trinity.Forms.Commissioners",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.trinity.tx.us/page/trinity.Home",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.tyler.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.tyler.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.tyler.tx.us/page/tyler.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.upton.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.upton.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.upton.tx.us/page/upton.Home",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.walker.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.walker.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.waller.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.waller.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.waller.tx.us/page/Hurricane",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.waller.tx.us/page/OEM.Main",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ward.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.ward.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.ward.tx.us/page/ward.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.washington.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.washington.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.washington.tx.us/page/washington.Home",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wharton.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.wharton.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.wharton.tx.us/page/wharton.Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wilbarger.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.wilbarger.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.wilbarger.tx.us/page/wilbarger.Home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.willacy.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.willacy.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.willacy.tx.us/page/willacy.Home",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wilson.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.wilson.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.wilson.tx.us/page/wilson.Home",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.winkler.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.winkler.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.winkler.tx.us/31/Departments",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.winkler.tx.us/jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wise.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.wise.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.wise.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.wise.tx.us/315/Elections",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.yoakum.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.yoakum.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.yoakum.tx.us/page/yoakum.Home",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.young.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.young.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.young.tx.us/page/young.Home",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.zapata.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.zapata.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.zapata.tx.us/page/zapata.Home",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.zavala.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.co.zavala.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.zavala.tx.us/page/homepage",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ethics.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.ethics.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.legis.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.legis.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.legis.state.tx.us/Resources/FAQ.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oag.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.oag.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.oag.state.tx.us/initiatives/border-security",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.oag.state.tx.us/initiatives/human-trafficking-initiative",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rrc.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.rrc.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.rrc.state.tx.us/critical-infrastructure/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sorm.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.sorm.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.sorm.state.tx.us/sorm-welcomes-new-members-to-board-of-directors/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.sos.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sos.state.tx.us/office-hours-notice.shtml",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tbce.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.tbce.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.tbce.state.tx.us/publications.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tcjs.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.tcjs.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.61",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.tcjs.state.tx.us/meetings/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.tcjs.state.tx.us/technical-assistance/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tmb.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.tmb.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.5",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.tmb.state.tx.us/page/resources-continuing-ed-tracking",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.tmb.state.tx.us/showdoc/tmb-bulletins",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.northlake.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www.town.northlake.tx.us/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.northlake.tx.us/186/Utility-Billing",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.northlake.tx.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tsbpe.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "http://www.tsbpe.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.64",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.co.midland.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www2.co.midland.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.trec.state.tx.us",
+      "subnational": "Texas",
+      "pages": [
+        {
+          "url": "https://www2.trec.state.tx.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

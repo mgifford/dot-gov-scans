@@ -1,0 +1,2458 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Georgia",
+  "domain_count": 119,
+  "page_count": 217,
+  "domains": [
+    {
+      "canonical_domain": "apps.dca.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://apps.dca.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.48",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://apps.dca.ga.gov/main/FairHousing.asp",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.dor.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://apps.dor.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ata.grec.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://ata.grec.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ata.grec.state.ga.us/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ata.grec.state.ga.us/Account/ResetCredentials",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atltransit.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://atltransit.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://atltransit.ga.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://atltransit.ga.gov/planning/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cancelmyregistration.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://cancelmyregistration.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.19",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "caps.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://caps.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.71",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://caps.decal.ga.gov/en/ApplicationProcess",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.dbhdd.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://careers.dbhdd.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://careers.dbhdd.ga.gov/your-journey/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.65",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cashassistance.gateway.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://cashassistance.gateway.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cavespring.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://cavespring.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cavespring.ga.gov/government",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://cavespring.ga.gov/news/-pigout-and-car-show-september-27%2C-2025-10am---3pm",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "civilserve.co.henry.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://civilserve.co.henry.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "classroom.dcs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://classroom.dcs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://classroom.dcs.ga.gov/course/index.php?categoryid=2",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cmv.dor.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://cmv.dor.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "communicare.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://communicare.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cprs2.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://cprs2.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cps.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://cps.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.64",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crashmanual.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://crashmanual.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://crashmanual.dot.ga.gov/contactus",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crimevictimscomp.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://crimevictimscomp.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.57",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://crimevictimscomp.ga.gov/events-training/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://crimevictimscomp.ga.gov/for-service-providers/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crs.psc.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://crs.psc.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://crs.psc.state.ga.us/Home/emailCredentials.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.46",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "csrarc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://csrarc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://csrarc.ga.gov/area-agency-aging",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://csrarc.ga.gov/economic-workforce-development",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dbhddapps.dbhdd.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://dbhddapps.dbhdd.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dds.drives.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://dds.drives.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "development.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://development.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhsjobs.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://dhsjobs.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.67",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dhsjobs.dhs.ga.gov/Home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.67",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doas.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://doas.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doas.ga.gov/state-purchasing/news/state-purchasing-division-nextgen-team-receive-source-contract-achievement",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doas.ga.gov/strategic-priorities",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecorp.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://ecorp.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ecorp.sos.ga.gov/BusinessSearch",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efile.ethics.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://efile.ethics.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "employer.ers.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://employer.ers.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://employer.ers.ga.gov/Home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eportal.osah.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://eportal.osah.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.drives.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://eservices.drives.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://ethics.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://ethics.ga.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://ethics.ga.gov/faqs/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "etrips.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://etrips.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "families.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://families.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://families.decal.ga.gov/ChildCare/Choosing",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://families.decal.ga.gov/PreK",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "firefly.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://firefly.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://firefly.sos.ga.gov/_layouts/15/SPSolutions/ExCM/ResetMyPassword.aspx?Source=%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gaawards.gosa.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gaawards.gosa.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gapds.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gapds.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://gapds.decal.ga.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "garc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://garc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://garc.ga.gov/event/garc-economic-development-conference-2025/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://garc.ga.gov/news-list/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gaspsdata.dbhdd.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gaspsdata.dbhdd.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://gaspsdata.dbhdd.ga.gov/index.php/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://gaspsdata.dbhdd.ga.gov/index.php/data/national-substance-use-and-mental-health-services-survey-n-sumhss-2023-data-substance-use-and",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gateway.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gateway.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gavers.dph.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gavers.dph.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gcals.gdc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gcals.gdc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gcals.gdc.ga.gov/student/reset-password",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gcalshelp.gdc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gcalshelp.gdc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://gcalshelp.gdc.ga.gov/portal/en/kb/articles/gcals-new-account-setup-guide",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gcicweb.gbi.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gcicweb.gbi.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://gcicweb.gbi.state.ga.us/content/2025-gbi-gcic-training-symposium",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://gcicweb.gbi.state.ga.us/content/handling-criminal-justice-information-cji-telework-environment",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gdconnect.gdc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gdconnect.gdc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gelds.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gelds.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gelds.decal.ga.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gelds.decal.ga.gov/Public/Resources",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "georgiarentalassistance.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://georgiarentalassistance.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gims.oci.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gims.oci.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "goals.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://goals.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gpas.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://gpas.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grantsportal.cjcc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://grantsportal.cjcc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://grantsportal.cjcc.ga.gov/ForgotLogin",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idhs.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://idhs.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://idhs.dhs.ga.gov/Home/RecordsCheck",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "incidentreport.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://incidentreport.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmatesearch.co.henry.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://inmatesearch.co.henry.ga.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ionsrequestportal.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://ionsrequestportal.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ionsrequestportal.dhs.ga.gov/Screening/Home/AgencyRequest",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "itsmyturnnow.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://itsmyturnnow.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://itsmyturnnow.dhs.ga.gov/WebForms/FeedbackSurvey.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs.gdc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://jobs.gdc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jobs.gdc.ga.gov/html/app_instrctions.html",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jobs.gdc.ga.gov/jsp/vacancyframe4.jsp",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "learning.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://learning.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://learning.dot.ga.gov/psp/elms/EMPLOYEE/ELM/c/MAINTAIN_SECURITY.GX_EXTERNAL_REGSTR.GBL",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://learning.dot.ga.gov/psp/elms/EMPLOYEE/ELM/c/MAINTAIN_SECURITY.GX_USER_FIND.GBL",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lobbyist.ethics.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://lobbyist.ethics.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "m.gateway.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://m.gateway.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "media.ethics.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://media.ethics.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.48",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "micropact.co.henry.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://micropact.co.henry.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvd.dor.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://mvd.dor.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvp.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://mvp.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.09",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydocs.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://mydocs.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mydocs.dot.ga.gov/Procurement%20Debriefing/Forms/AllItems.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oasis.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://oasis.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://oasis.state.ga.us/CHNADashboard/Default",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ociapp.oci.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://ociapp.oci.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oha-lms.dph.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://oha-lms.dph.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://oha-lms.dph.ga.gov/index.php/lp-profile/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://oha-lms.dph.ga.gov/index.php/pha-traning-request/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.dds.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://online.dds.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "open.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://open.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.63",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osah.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://osah.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://osah.ga.gov/court-decisions/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://osah.ga.gov/what-to-expect-at-an-osah-hearing/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.54",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pamms.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://pamms.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pamms.dhs.ga.gov/olao/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "paymyrent.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://paymyrent.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.ers.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://portal.ers.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "primeweb.co.henry.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://primeweb.co.henry.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://primeweb.co.henry.ga.us/Renew/Renew1/HotelMotel",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "providers.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://providers.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://psc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://psc.ga.gov/about-the-psc/commissioners/jason-shaw/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://psc.ga.gov/facilities-protection/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "qualityrated.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://qualityrated.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://qualityrated.decal.ga.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://qualityrated.decal.ga.gov/Shared/Legal.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "referral.gvs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://referral.gvs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://referral.gvs.ga.gov/prescreening",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://referral.gvs.ga.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "registration.dcs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://registration.dcs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://registration.dcs.ga.gov/student/reset-password",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "results.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://results.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://results.sos.ga.gov/results/public/Georgia/2025PSCPrimaryRunoff",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rules.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://rules.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rules.sos.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://rules.sos.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rules.sos.state.ga.us/gac/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scheduler.doas.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://scheduler.doas.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schoolslikemine.gosa.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://schoolslikemine.gosa.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure.sos.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://secure.sos.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "securemyabsenteeballot.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://securemyabsenteeballot.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.ci.roswell.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://selfservice.ci.roswell.ga.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sendss.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://sendss.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.85",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://sendss.state.ga.us/newsendss/Admin.ForgotPassword.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "service.doas.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://service.doas.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://service.doas.ga.gov/app/ask",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://service.doas.ga.gov/app/utils/login_form/redirect/account%252Foverview",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "servicedesk.dcs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://servicedesk.dcs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shinesportal.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://shinesportal.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sos.ga.gov/licensing-division-georgia-secretary-states-office",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sos.ga.gov/page/about-secretary-raffensperger",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "srta.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://srta.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://srta.ga.gov/annual-reports/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://srta.ga.gov/grta/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sso.dor.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://sso.dor.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "staff.dol.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://staff.dol.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://staff.dol.state.ga.us/Access/jsp/ChangePwd.jsp",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "state.sor.gbi.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://state.sor.gbi.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "staycovered.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://staycovered.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://staycovered.ga.gov/medicaid-members/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://staycovered.ga.gov/partners-providers/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "testportal.ers.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://testportal.ers.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://testportal.ers.ga.gov/Account/ForgotUsernameVerification",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "training.gema.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://training.gema.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://training.gema.ga.gov/TRS/firstTimeReg.do",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "utilities.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://utilities.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.5",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vaccinerecordsrequest.dph.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://vaccinerecordsrequest.dph.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "verify.sos.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://verify.sos.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://verify.sos.ga.gov/verification/Search.aspx?facility=Y&SubmitComplaint=Y",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "victimscompportal.cjcc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://victimscompportal.cjcc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://victimscompportal.cjcc.ga.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "weather.gfc.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://weather.gfc.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://weather.gfc.state.ga.us/Current2/nesdishrly-2.aspx",
+          "is_root_page": false,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.64",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://weather.gfc.state.ga.us/LEADS/index.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wednesdayschild.dhs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://wednesdayschild.dhs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.67",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://wednesdayschild.dhs.ga.gov/Children/InterestForm.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.audits2.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.audits2.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.audits2.ga.gov/legislative-resources/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.audits2.ga.gov/reports/",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.coastalrc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.coastalrc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.coastalrc.ga.gov/aging",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.coastalrc.ga.gov/cart",
+          "is_root_page": false,
+          "performance_score": "0.14",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dch.gchexs.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.dch.gchexs.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.dch.gchexs.ga.gov/Applicant/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.decal.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.decal.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.decal.ga.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.dot.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.dot.ga.gov/GDOT/Pages/business.aspx",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ers.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.ers.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ers.ga.gov/new-member",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ers.ga.gov/post/are-you-saving-enough-retirement",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gateway.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.gateway.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.gateway.ga.gov/access/languagePopUpPT",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.georgiamortgageassistance.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.georgiamortgageassistance.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.georgiamortgageassistance.ga.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.georgiamortgageassistance.ga.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.georgiarentalassistance.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.georgiarentalassistance.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gmcc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.gmcc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.gmcc.ga.gov/patients/dispensaries",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.gmcc.ga.gov/patients/patient-resources",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gmrc.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.gmrc.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.gmrc.ga.gov/wsgm",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.grits.state.ga.us",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.grits.state.ga.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.grits.state.ga.us/production/security_ui.showLogin",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.legis.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.legis.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAACIeeaKAAAALgAAA6nWrITxUepClGGA2bgmimX9GGA2by4BAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAA%3D%3D",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAAACNzLGGA2bKAAAALgAAA6nWrITxUepClGGA2bgmimX9GGA2by4BAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAA%3D%3D",
+          "is_root_page": false,
+          "performance_score": "0.11",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.open.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.open.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.63",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rabuncounty.ga.gov",
+      "subnational": "Georgia",
+      "pages": [
+        {
+          "url": "https://www.rabuncounty.ga.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.rabuncounty.ga.gov/meetings",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

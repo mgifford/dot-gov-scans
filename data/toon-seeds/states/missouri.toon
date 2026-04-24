@@ -1,0 +1,3619 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Missouri",
+  "domain_count": 154,
+  "page_count": 336,
+  "domains": [
+    {
+      "canonical_domain": "acct.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://acct.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://acct.oa.mo.gov/reports",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://acct.oa.mo.gov/travel-portal",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agmarketnews.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://agmarketnews.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://agmarketnews.mo.gov/market-news-audio",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agriculture.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://agriculture.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://agriculture.mo.gov/news/newsitem/uuid/f5c6f7bf-2b09-4892-b8e8-2f5a4ecdaa32",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://agriculture.mo.gov/stress.php",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ahc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ahc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ahc.mo.gov/case-search-portal-instructions/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ahc.mo.gov/commissioners",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app-jobs.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://app-jobs.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://app-jobs.mo.gov/vosnet/ContactUs.aspx?tab=2&plang=E",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.64",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.dese.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://apps.dese.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://apps.dese.mo.gov/DESEApplicationsSignin/Account/Registration",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://apps.dese.mo.gov/DESEApplicationsSignin/HelpCenter",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "archive.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://archive.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "at.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://at.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://at.mo.gov/device-loan/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://at.mo.gov/how-can-we-help-you/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atc.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://atc.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://atc.dps.mo.gov/team-member-month/index.php",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://auditor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://auditor.mo.gov/WhistleblowerHotline/Form",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://auditor.mo.gov/aboutus/auditor",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "awardedsearch.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://awardedsearch.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "blackvultures.agriculture.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://blackvultures.agriculture.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boards.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://boards.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://boards.mo.gov/UserPages/Home.aspx?style=mobile2",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "broadbandmap.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://broadbandmap.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://broadbandmap.mo.gov/login",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "capitol.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://capitol.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://capitol.mo.gov/missouri-state-capitol-commission-holds-successful-reclaimed-stone-auction/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://capitol.mo.gov/where-we-are-going/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccbis.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ccbis.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childcare.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://childcare.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://childcare.mo.gov/s/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.harrisonville.mo.us",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ci.harrisonville.mo.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.harrisonville.mo.us/7/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.harrisonville.mo.us/CivicAlerts.aspx?AID=1582",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cimor.dmh.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://cimor.dmh.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dci.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dci.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dci.mo.gov/consumer-complaints",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dci.mo.gov/node/2226",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ded.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ded.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ded.mo.gov/press-room",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dese.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dese.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dese.mo.gov/communications/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.86",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dese.mo.gov/media/pdf/notice-public-meeting-msip-6-comprehensive-guide",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfs.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dfs.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dfs.dps.mo.gov/programs/investigations/blasting.php",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dfs.dps.mo.gov/programs/resources/mo-fire-depts.php",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhewd.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dhewd.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dhewd.mo.gov/node/436",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "disability.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://disability.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://disability.mo.gov/aging.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "discount.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://discount.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dls-awo-form.labor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dls-awo-form.labor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dls-awo-form.labor.mo.gov/register",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmh.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dmh.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dmh.mo.gov/behavioral-health/988-suicide-and-crisis-lifeline",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dmh.mo.gov/disaster-services/mass-violence",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnr.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dnr.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dnr.mo.gov/disaster-resources/news-information",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnrservices.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dnrservices.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://doc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://doc.mo.gov/divisions/human-services/staff/welcome",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "documents.house.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://documents.house.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://documents.house.mo.gov/XMLMemberExports.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://documents.house.mo.gov/XMLSenateBillsWithHouseActions.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dor.mo.gov/driver-license/issuance/real-id/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dor.mo.gov/news/newsitem/uuid/b5241eef-7511-49fd-93cb-465d4420cbee",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dps.mo.gov/team-member-month/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpsgrants.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dpsgrants.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dpsgrants.dps.mo.gov/register.do",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dss.mo.gov/mhd/hepc/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dssmanuals.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://dssmanuals.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dssmanuals.mo.gov/child-welfare-manual/child-welfare-manual-2019-update/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dssmanuals.mo.gov/memorandums/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "earlyconnections.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://earlyconnections.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://earlyconnections.mo.gov/families/monitoring-screening-families",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://earlyconnections.mo.gov/mailing-list",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "education.mdc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://education.mdc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://education.mdc.mo.gov/resources/order-classroom-materials",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://education.mdc.mo.gov/school-programs/discover-nature-fishing",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efis.psc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://efis.psc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://efis.psc.mo.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ephtn.dhss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ephtn.dhss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ephtn.dhss.mo.gov/EPHTN_Data_Portal/pollen-and-mold.php",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ess.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ess.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ess.mo.gov/Common/ESSInstruction.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "events.mocareers.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://events.mocareers.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "familyresources.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://familyresources.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://familyresources.mo.gov/signup?redirect_to=%2F",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://familyresources.mo.gov/suggest-program",
+          "is_root_page": false,
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "federalsurpluspublicv2.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://federalsurpluspublicv2.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://federalsurpluspublicv2.oa.mo.gov/Inventory.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "finance.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://finance.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://finance.mo.gov/consumer-complaints/are-my-deposits-safe",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://finance.mo.gov/regulatory-and-industry-links",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "formsportal.dss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://formsportal.dss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gatewayvip.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://gatewayvip.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://gatewayvip.mo.gov/forms/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://gatewayvip.mo.gov/need-to-know/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "genserv.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://genserv.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://genserv.oa.mo.gov/risk-management",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "governor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://governor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://governor.mo.gov/press-releases/archive/governor-kehoe-signs-pro-agriculture-legislation-supporting-missouris",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://governor.mo.gov/press-releases/archive/governor-kehoe-signs-ten-bills-law",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "health.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://health.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://health.mo.gov/seniors/masterplanaging/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthymomsbabies.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://healthymomsbabies.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://healthymomsbabies.mo.gov/moms-babies/healthcare/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "home.house.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://home.house.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "info.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://info.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmate.co.buchanan.mo.us",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "http://inmate.co.buchanan.mo.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.66",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs.mdc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://jobs.mdc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://jobs.mdc.mo.gov/job/Jefferson-City-Construction-Inspector-%282-Vacancies%29-MO-65102/1302204100/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://jobs.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jobs.mo.gov/coursera",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "journeytocollege.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://journeytocollege.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://journeytocollege.mo.gov/live-learn-work-missouri/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jtweb.mshp.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://jtweb.mshp.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "labor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://labor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://labor.mo.gov/employers",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://labor.mo.gov/wcc",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "laborwebapps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://laborwebapps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://laborwebapps.mo.gov/mohumanrights/File_Complaint/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "login.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://login.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://login.mo.gov/help/login",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ltc.health.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ltc.health.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ltc.health.mo.gov/archives/17315",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ltc.health.mo.gov/subscribe",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ltgov.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ltgov.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ltgov.mo.gov/lt-governor-david-wasinger-and-senator-adam-schnelting-to-host-forum-on-elder-abuse-awareness-in-st-charles/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ltgov.mo.gov/lt-governor-david-wasinger-announces-2025-missouri-veterans-hall-of-fame-inductees/",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mansion.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mansion.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mansion.mo.gov/event-rsvp",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.68",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://mansion.mo.gov/tours/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mapyourtaxes.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mapyourtaxes.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mapyourtaxes.mo.gov/MAP/Covid19/HomePage.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcdhh.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mcdhh.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mcdhh.mo.gov/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mcdhh.mo.gov/professional-development/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcpsc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mcpsc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mcpsc.mo.gov/new_school_resources",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mdc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mdc.mo.gov/contact-engage",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://mdc.mo.gov/fishing/species/black-bass",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mec.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mec.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.52",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://mec.mo.gov/MEC/Campaign_Finance/CF_SearchPOCD4_B.aspx",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mec.mo.gov/MEC/Candidate_Central/Home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "meric.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://meric.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://meric.mo.gov/missouri-monthly-jobs-report",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://meric.mo.gov/workforce-research/stem",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mgc.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mgc.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mgc.dps.mo.gov/Index.html",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "military.ded.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://military.ded.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://military.ded.mo.gov/commission",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "missouribuys.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://missouribuys.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://missouribuys.mo.gov/bid-board",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://missouribuys.mo.gov/supplier-registration",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mmac.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mmac.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mmac.mo.gov/providers/provider-enrollment/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mmac.mo.gov/providers/provider-reviews/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mms.modot.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mms.modot.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "moaccount.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://moaccount.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://moaccount.mo.gov/Account/RegisterRequest",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://moaccount.mo.gov/Manage",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "moapss.health.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://moapss.health.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://moapss.health.mo.gov/page/intakereport/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "moarpa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://moarpa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://moarpa.mo.gov/apply-for-funding",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://moarpa.mo.gov/arpa-spending-performance/",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mobenefits.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mobenefits.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mobenefits.mo.gov/benefit-providers/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mocap.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mocap.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mocap.mo.gov/enrollment-overview/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mocareers.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mocareers.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mocareers.mo.gov/apply",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "moevr.dhss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://moevr.dhss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "momiac.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://momiac.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://momiac.mo.gov/momiac/LandingSite/SubmitASAR",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mopro.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mopro.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mopro.mo.gov/license/s/license-downloads",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mowicinterestform.health.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mowicinterestform.health.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "msb.dese.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://msb.dese.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://msb.dese.mo.gov/students-families.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "msd.dese.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://msd.dese.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://msd.dese.mo.gov/academics",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvc.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mvc.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mvc.dps.mo.gov/contact-us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "my.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://my.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://my.mo.gov/fsdbenefits",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.56",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://my.mo.gov/gsp?id=all_services",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydmv.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mydmv.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mydss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mydss.mo.gov/renew",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydssapp.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mydssapp.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mydssapp.mo.gov/UniversalAccess/account",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mydssapp.mo.gov/UniversalAccess/apply",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydssupload.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mydssupload.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mytax.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://mytax.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://mytax.mo.gov/rptp/portal/home/faq",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oa.mo.gov/hall_of_governors",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oca.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://oca.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oca.mo.gov/resources-links/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oca.mo.gov/state-statute/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oembed-dese.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://oembed-dese.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oembed-dese.mo.gov/communications/news-releases/Governor%20Signs%20Wide-Ranging%20Education%20Legislation%2C%20Giving%20Additional%20Tools%20to%20Missouri%20Schools",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oembed-dnr.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://oembed-dnr.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oembed-dnr.mo.gov/disaster-resources/news-information",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oeo.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://oeo.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oeo.mo.gov/about-us/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oeo.mo.gov/am-i-ready-to-apply/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "peoplesoft.modot.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://peoplesoft.modot.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pers.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://pers.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pers.oa.mo.gov/governors-years-service-retention-plan",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.dmh.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://portal.dmh.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://portal.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://portal.mo.gov/help/login",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pr.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://pr.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pr.mo.gov/board-member-application.asp",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pr.mo.gov/boards.asp",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://psc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://psc.mo.gov/General/Agendas%20and%20Minutes",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://psc.mo.gov/General/Power_MO",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "purch.oa.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://purch.oa.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://purch.oa.mo.gov/cooperative-procurement-program",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recovery.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://recovery.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://recovery.mo.gov/find-help-workers-and-employers",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://recovery.mo.gov/state-park-and-conservation-closings",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reportal.dhss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://reportal.dhss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "research.mdc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://research.mdc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://research.mdc.mo.gov/project/ground-flora-and-soft-mast",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://research.mdc.mo.gov/project/missouri-bat-habitat-conservation-plan",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "results.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://results.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "revisor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://revisor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://revisor.mo.gov/main/OneChapter.aspx?chapter=209",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ruralhealthinfocenter.health.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://ruralhealthinfocenter.health.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ruralhealthinfocenter.health.mo.gov/webinar-enhancing-rcm-at-the-point-of-conversation-insights-from-corewell-health-riverside-and-dayton-childrens-july-29/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ruralhealthinfocenter.health.mo.gov/whitepaper-how-health-systems-are-scaling-rpm-to-meet-growing-patient-demand/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "s1.sos.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://s1.sos.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://s1.sos.mo.gov/elections/goVoteMissouri/localelectionauthority",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "safesleep.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://safesleep.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://safesleep.mo.gov/about-safe-sleep/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://safesleep.mo.gov/public-awareness/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "safetrack.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://safetrack.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://safetrack.mo.gov/Identity/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "samii.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://samii.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://samii.mo.gov/missouribuys",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scorecard.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://scorecard.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.67",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "searchapp.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://searchapp.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sema.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://sema.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sema.dps.mo.gov/events/conference.php",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "senate.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://senate.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://senate.mo.gov/Committees/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://senate.mo.gov/Senators",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "showmecrime.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://showmecrime.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://showmecrime.mo.gov/CrimeReporting/CrimeInsight.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "showmeintegrity.mshp.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://showmeintegrity.mshp.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://showmeintegrity.mshp.dps.mo.gov/search?collection=appAndMap",
+          "is_root_page": false,
+          "performance_score": "0.14",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "showmevax.health.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://showmevax.health.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://showmevax.health.mo.gov/smv/UserRegistration/NewRegistration",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "srm.dese.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://srm.dese.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "statepatrol.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://statepatrol.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.09",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://statepatrol.dps.mo.gov/pages/divisions",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://statepatrol.dps.mo.gov/pages/patrollocations",
+          "is_root_page": false,
+          "performance_score": "0.11",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://stc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://stc.mo.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://stc.mo.gov/information/jackson-county-assessment-order-april-22-2025/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stormaware.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://stormaware.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://stormaware.mo.gov/alerts/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://stormaware.mo.gov/tornado-myths/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "surveys.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://surveys.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://surveys.mo.gov/index.php/167418?lang=en",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://surveys.mo.gov/index.php/518857?lang=en",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxcreditreporting.dor.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://taxcreditreporting.dor.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://treasurer.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.mo.gov/UnclaimedProperty/en/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://treasurer.mo.gov/home/privacy-notice",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "veteranbenefits.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://veteranbenefits.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://veteranbenefits.mo.gov/mental-health-resources/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "voteroutreach.sos.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://voteroutreach.sos.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.harrisonville.mo.us",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.ci.harrisonville.mo.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.harrisonville.mo.us/7/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.harrisonville.mo.us/CivicAlerts.aspx?AID=1582",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.buchanan.mo.us",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.co.buchanan.mo.us/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.buchanan.mo.us/assessors-office",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.platte.mo.us",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.co.platte.mo.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.platte.mo.us/commission-calendar",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courts.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.courts.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courts.mo.gov/jurorportal",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.efis.psc.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.efis.psc.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.efis.psc.mo.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.familyresources.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.familyresources.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.familyresources.mo.gov/signup?redirect_to=%2F",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.familyresources.mo.gov/suggest-program",
+          "is_root_page": false,
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.machs.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.machs.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.machs.mo.gov/MocchWebInterface/home.html",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mec.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.mec.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.52",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.mec.mo.gov/FAQ",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mgc.dps.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.mgc.dps.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.mgc.dps.mo.gov/Index.html",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.missouriemployer.dss.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.missouriemployer.dss.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.missouriemployer.dss.mo.gov/TerminationInfo.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.missouriemployer.dss.mo.gov/register.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.mo.gov/information-for",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.mo.gov/work/job-seekers/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.moalerts.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.moalerts.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.moalerts.mo.gov/MoAlerts/Home/GetActiveMOAlerts?alertType=amber",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.86",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pr.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.pr.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.prosecutors.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.prosecutors.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.prosecutors.mo.gov/council",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.prosecutors.mo.gov/mapa",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sebes.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.sebes.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.sebes.mo.gov/PasswordReminder.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.senate.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.senate.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.senate.mo.gov/Committees/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.senate.mo.gov/LegislativeLibrary/index.html",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.sos.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.mo.gov/elections/goVoteMissouri/register",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.treasurer.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.treasurer.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.treasurer.mo.gov/UnclaimedProperty/en/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.treasurer.mo.gov/home/privacy-notice",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vendorservices.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www.vendorservices.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.vendorservices.mo.gov/vendorservices/VendorPayment/Login/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.courts.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www2.courts.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www2.courts.mo.gov/page.jsp?id=46542",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www6.modot.mo.gov",
+      "subnational": "Missouri",
+      "pages": [
+        {
+          "url": "https://www6.modot.mo.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    }
+  ]
+}

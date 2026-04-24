@@ -1,0 +1,2405 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "New Jersey",
+  "domain_count": 129,
+  "page_count": 203,
+  "domains": [
+    {
+      "canonical_domain": "abc.lps.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://abc.lps.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "account.business.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://account.business.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bchapeweb.co.bergen.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://bchapeweb.co.bergen.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bclrs.co.bergen.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://bclrs.co.bergen.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://business.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://business.nj.gov/?r=0",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bvh.dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://bvh.dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccarchive.co.burlington.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "http://ccarchive.co.burlington.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.43",
+          "best_practices_score": "0.5",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdrss.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://cdrss.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://cdrss.nj.gov/cdrss/common/cdrssTrainingNotes",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.6",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerk.co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://clerk.co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.54",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://clerk.co.ocean.nj.us/frmContact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://clerk.co.ocean.nj.us/frmPassportServices.aspx",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.bergen.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://co.bergen.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.burlington.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://co.burlington.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.burlington.nj.us/192/County-Clerk",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.hunterdon.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://co.hunterdon.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.hunterdon.nj.us/AlertCenter.aspx?AID=Hunterdon-County-Transfer-Station-Notice-54",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://co.ocean.nj.us/GalleryWP/a-playground-for-all/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "connecting.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://connecting.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cro.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://cro.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cro.dhs.state.nj.us/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "danielslaw.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://danielslaw.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://danielslaw.nj.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://data.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://data.nj.gov/stories/s/9k98-6fqb",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcaid.dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://dcaid.dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dcaid.dca.nj.gov/en-US/dcaid-services/register-user/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dcaid.dca.nj.gov/en-US/vendor-home/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dddjira.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://dddjira.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dddjira.dhs.state.nj.us/secure/ForgotLoginDetails.jspa",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dep.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://dep.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dep.nj.gov/newsrel/25_0026/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doclookup.co.middlesex.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://doclookup.co.middlesex.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dohlicensing.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://dohlicensing.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dohlicensing.nj.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dohpay.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://dohpay.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dot.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://dot.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dot.nj.gov/transportation/about/press/index_archive.shtml",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "drblookupportal.judiciary.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://drblookupportal.judiciary.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://drblookupportal.judiciary.state.nj.us/DisciplinedAttorneys.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edrs.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://edrs.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://edrs.nj.gov/edrs/form/regNewUser.jsp",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "emvc.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://emvc.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "enroll.getcovered.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://enroll.getcovered.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fara.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://fara.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fast.dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://fast.dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://fast.dca.nj.gov/Account/Login/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fds.dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://fds.dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "firesolutions.dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://firesolutions.dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://firesolutions.dca.nj.gov/ultra-registration?returnUrl=/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homeroom.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://homeroom.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homeroom5.doe.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://homeroom5.doe.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homeroom5.doe.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://homeroom5.doe.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "iehprogram.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://iehprogram.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "innovation.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://innovation.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://innovation.nj.gov/projects",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://innovation.nj.gov/skills/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobsource.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://jobsource.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jobsource.nj.gov/jz/views/jobzone/leaving_site.jsf?id=302&url=aHR0cHM6Ly9sYWJvcjEubmouZ292L1dvcmtGb3JjZURpcmVjdG9yeS9Kb2JTb3VyY2VTdGFydC5qc3A=",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "listserv.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://listserv.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://listserv.dhs.state.nj.us/scripts/wa.exe?A0=CBVI-BRU-EXTERNAL",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://listserv.dhs.state.nj.us/scripts/wa.exe?A0=DMAHS_BENEFICIARYADVISORYCOUNCIL",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "liveacclaim.co.somerset.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://liveacclaim.co.somerset.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lwdlba.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://lwdlba.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.51",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lwdwebpt.dol.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://lwdwebpt.dol.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcapps.co.monmouth.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://mcapps.co.monmouth.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://mcapps.co.monmouth.nj.us/page.aspx?ID=839",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://mcapps.co.monmouth.nj.us/page.aspx?Id=1836",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcclerksng.co.morris.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://mcclerksng.co.morris.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcrecords.co.middlesex.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://mcrecords.co.middlesex.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "members.cyber.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://members.cyber.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://members.cyber.nj.gov/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fs%252F%26ec%3D302&startURL=%2Fs%2F",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://members.cyber.nj.gov/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fs%252F%26ec%3D302&startURL=%2Fs%2F&display=touch",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "morrisgisapps.co.morris.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://morrisgisapps.co.morris.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://morrisgisapps.co.morris.nj.us/gisdata.html",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "my.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://my.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://my.nj.gov/selfservice/PasswordReset",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mycareer.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://mycareer.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mycareer.nj.gov/navigator",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mycareer.nj.gov/tools",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myt1.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://myt1.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://myt1.nj.gov/selfservice/PasswordReset",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://nj.gov/getcoverednj/",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nj.gov/governor/news/news/562025/approved/20250714a.shtml",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nj4s.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://nj4s.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://nj4s.nj.gov/s/news/how-do-i-access-nj4s-services-MCO5DKB76HOVEUBNADKKP2HHJUV4",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njconsumeraffairs.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njconsumeraffairs.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://njconsumeraffairs.nj.gov/file-a-complaint/~/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.71",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njems.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njems.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njfamilycare.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njfamilycare.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://njfamilycare.dhs.state.nj.us/analytics/home.html",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njgin.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njgin.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://njgin.nj.gov/njgin/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://njgin.nj.gov/njgin/edata/elevation/index.html",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njiis.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njiis.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njleg.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njleg.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://njleg.state.nj.us/office-of-legislative-services?staff=1",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://njleg.state.nj.us/session-schedules?house=S",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njmcp.crc.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njmcp.crc.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njmvcknowledgetest.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njmvcknowledgetest.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "njwages.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://njwages.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://njwages.nj.gov/equal-pay-act-mw-563/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ocsme.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://ocsme.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ocsme.nj.gov/ocsme.inquiries@doh.nj.gov",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oprs.co.monmouth.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://oprs.co.monmouth.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://oprs.co.monmouth.nj.us/oprs/GoogleWithUC/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parkreservations.co.middlesex.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://parkreservations.co.middlesex.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://parkreservations.co.middlesex.nj.us/wbwsc/webtrac.wsc/search.html?module=FR&_csrf_token=bd6F1C6W201G3W3F183K264X603O576H086W4U5H6R1L60514H596U0C3N5N551J074G6S6J1Q5T645L4F1J5B6G5M431I7367556K1I654T6R6U0M5Q435T4168734M6R",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pch.mvc.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://pch.mvc.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "planning.co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://planning.co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://planning.co.ocean.nj.us/frmEPPumpoutBoats.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pol.co.monmouth.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://pol.co.monmouth.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://pol.co.monmouth.nj.us/UpcomingRFPQ",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "press.co.burlington.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://press.co.burlington.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertytaxreliefapp.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://propertytaxreliefapp.nj.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.71",
+          "seo_score": "0.4"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicaccess.bpu.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://publicaccess.bpu.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rc.doe.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://rc.doe.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "securexfer.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://securexfer.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://securexfer.dhs.state.nj.us/reset/request",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "serviceportal.dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://serviceportal.dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://serviceportal.dca.nj.gov/quick-pay",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheriff.co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://sheriff.co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sheriff.co.ocean.nj.us/frmOEM.aspx",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sheriff.co.ocean.nj.us/frmSpecServices",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sng.co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://sng.co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ssa.dhs.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://ssa.dhs.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sso.getcovered.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://sso.getcovered.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "surrogatesearch.co.middlesex.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://surrogatesearch.co.middlesex.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "suwebbluestone.co.morris.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://suwebbluestone.co.morris.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://tax.co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://tax.co.ocean.nj.us/frmHome",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://tax.co.ocean.nj.us/frmRegContentTAX.aspx?ID=91a6345c-018a-4836-a914-67a5130fbd7d&Addendum_to_Tax_Appeal_Instructions",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax1.co.monmouth.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://tax1.co.monmouth.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxboardportal.co.monmouth.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://taxboardportal.co.monmouth.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://taxboardportal.co.monmouth.nj.us/TaxBoardPortal/Viewer/PDFViewer?fileName=Revised%20Calendar20210517.xlsx.pdf",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxes.ci.newark.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://taxes.ci.newark.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://taxes.ci.newark.nj.us/Home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://taxes.ci.newark.nj.us/ViewPay?accountNumber=100001",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxportal.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://taxportal.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://taxportal.nj.gov/rptp/portal/create-account/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tre-dotnet.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://tre-dotnet.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "twes.dol.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://twes.dol.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uiclaim.dol.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://uiclaim.dol.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uistatus.dol.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://uistatus.dol.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unclaimedfunds.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://unclaimedfunds.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://unclaimedfunds.nj.gov/app/claim-search",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vcco3.lps.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://vcco3.lps.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://vcco3.lps.nj.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "veri.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://veri.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.66",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vista.co.somerset.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://vista.co.somerset.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "voter.svrs.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://voter.svrs.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://voter.svrs.nj.gov/registration-check",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wagehour.dol.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://wagehour.dol.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://wagehour.dol.state.nj.us/WHATS.Public.Web/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.co.somerset.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://webapps.co.somerset.nj.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-agr.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-agr.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-dca.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-dca.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-dep.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-dep.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-dobi.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-dobi.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-doc.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-doc.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-doh.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-doh.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-lps.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-lps.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.86",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-njlib.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-njlib.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.86",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-tyomb.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-tyomb.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.86",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www-typen.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www-typen.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.bergen.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.co.bergen.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.burlington.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.co.burlington.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.burlington.nj.us/192/County-Clerk",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hunterdon.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.co.hunterdon.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.monmouth.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.co.monmouth.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ocean.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.co.ocean.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.ocean.nj.us/OC/frmAmericanRescuePlanAct.aspx",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.ocean.nj.us/frmNewsContent.aspx?ID=10908",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cyber.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.cyber.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.cyber.nj.gov/Home/Components/News/News/1742/214?fsiteid=2&loadingmode=PreviewContent",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.cyber.nj.gov/guidance-and-best-practices",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.edrs.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.edrs.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.edrs.nj.gov/edrs/form/regNewUser.jsp",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.elec.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.elec.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.52",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.elec.nj.gov/forcandidates/overview.htm",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.nj.gov/mvc/realid/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nj.gov/nj/",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.njclemency.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.njclemency.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.njcta.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.njcta.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.njiis.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.njiis.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.njleg.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.njleg.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.njleg.state.nj.us/office-of-legislative-services?staff=1",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.njleg.state.nj.us/session-schedules?house=S",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.perc.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www.perc.state.nj.us/",
+          "is_root_page": true,
+          "accessibility_score": "0",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www1.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www1.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www1.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www1.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www16.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www16.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www20.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www20.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www7.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www7.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www9.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www9.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www9.state.nj.us",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://www9.state.nj.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwwdnet-dos.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://wwwdnet-dos.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwwdnet-elec.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://wwwdnet-elec.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwwdnet-tre.nj.gov",
+      "subnational": "New Jersey",
+      "pages": [
+        {
+          "url": "https://wwwdnet-tre.nj.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    }
+  ]
+}

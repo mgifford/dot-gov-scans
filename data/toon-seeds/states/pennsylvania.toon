@@ -1,0 +1,4042 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Pennsylvania",
+  "domain_count": 201,
+  "page_count": 354,
+  "domains": [
+    {
+      "canonical_domain": "apps.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://apps.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps02.ins.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://apps02.ins.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appsca.pwp.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://appsca.pwp.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "archives.house.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://archives.house.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://archives.house.state.pa.us/home",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "benefits.uc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://benefits.uc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://benefits.uc.pa.gov/vosnet/loginintro.aspx?blnStartHere=True&plang=E",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "borough.shippensburg.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://borough.shippensburg.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://borough.shippensburg.pa.us/FEMA-Flood-Maps",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.46",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "broadband.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://broadband.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://broadband.pa.gov/broadband-equity-access-and-deployment-bead-program",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://business.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://business.pa.gov/is-ecommerce-right-for-my-business/",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://business.pa.gov/plan/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.employment.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://careers.employment.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://careers.employment.pa.gov/Home/NoDegreeRequired?page=1&education=50620180",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cedatareporting.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://cedatareporting.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "civil.co.butler.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://civil.co.butler.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.armstrong.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://co.armstrong.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://co.armstrong.pa.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://co.armstrong.pa.us/index.php/county-government-m/elections-voters-registration-m",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.lancaster.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://co.lancaster.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.18",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.lancaster.pa.us/170/Services",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.lancaster.pa.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "conservationexplorer.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://conservationexplorer.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://conservationexplorer.dcnr.pa.gov/legal",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "contact.psp.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://contact.psp.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "copaftp.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://copaftp.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://copaftp.state.pa.us/Web/Shadowfax/reg/register.html/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "court.co.lancaster.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://court.co.lancaster.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://court.co.lancaster.pa.us/139/Domestic-Relations-Child-Support",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://court.co.lancaster.pa.us/directory.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crash.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://crash.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crashinfo.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://crashinfo.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://crashinfo.penndot.pa.gov/PCIT/welcome.html",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "customercare.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://customercare.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://data.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://data.pa.gov/browse?sortBy=relevance&pageSize=20&q=education",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://data.pa.gov/stories/s/Locations-for-Popular-State-Related-Services-State/b9e8-gym2/",
+          "is_root_page": false,
+          "performance_score": "0.08",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dced.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://dced.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dced.pa.gov/newsroom/shapiro-administration-kicks-off-2025-urban-agriculture-tour-highlighting-investments-in-innovation-equity-and-opportunity-feeding-progress-in-urban-communities/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dced.pa.gov/newsroom/strengthening-communities-shapiro-administration-visits-lancaster-highlights-the-need-for-funding-to-make-housing-more-affordable-and-accessible-for-pennsylvanians/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dealers.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://dealers.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delcoefile.co.delaware.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://delcoefile.co.delaware.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://delcoefile.co.delaware.pa.us/public/register/new",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delcopublicaccess.co.delaware.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://delcopublicaccess.co.delaware.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delcorealestate.co.delaware.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://delcorealestate.co.delaware.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://delcorealestate.co.delaware.pa.us/pt/search/commonsearch.aspx?mode=address",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delcorodonlineservices.co.delaware.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://delcorodonlineservices.co.delaware.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://delcorodonlineservices.co.delaware.pa.us/countyweb/login.jsp",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delcorowonlineservices.co.delaware.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://delcorowonlineservices.co.delaware.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://delcorowonlineservices.co.delaware.pa.us/countyweb/login.jsp",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "digitalcollections.statelibrary.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://digitalcollections.statelibrary.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://digitalcollections.statelibrary.pa.gov/advancedsearch",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://digitalcollections.statelibrary.pa.gov/using-our-collections",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dliiam.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://dliiam.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dliiam.pa.gov/Lproblm.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "docs.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://docs.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dotcmv.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://dotcmv.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ebriam.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://ebriam.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ebriam.pa.gov/Lproblm.html",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efiling.puc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://efiling.puc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://efiling.puc.pa.gov/TechnicalAssistance",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elibrary.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://elibrary.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epatch.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://epatch.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://epatch.pa.gov/recordcheckhome",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epics.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://epics.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://epics.pa.gov/PICS/PicsWeb.dll/Main?T$CU_cmd=Help&T$CU_Window=Login",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eresponse.co.delaware.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://eresponse.co.delaware.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "events.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://events.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://events.dcnr.pa.gov/event/nature-camp-for-6-8-year-olds-7700",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://events.dcnr.pa.gov/kings_gap_environmental_education_center",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eventsreg.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://eventsreg.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "file.dos.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://file.dos.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://file.dos.pa.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "findmyride.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://findmyride.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://findmyride.penndot.pa.gov/fmr-edu/home/how-to-apply",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://findmyride.penndot.pa.gov/fmr-edu/home/transportation-progams/seniors",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://forms.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.health.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://forms.health.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gamingcontrolboard.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://gamingcontrolboard.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://gamingcontrolboard.pa.gov/about/leadership/board-members/sara-manzano-diaz",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gamingcontrolboard.pa.gov/doing-business-pgcb",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geo.co.butler.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://geo.co.butler.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.clarion.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://gis.co.clarion.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://gis.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.dep.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://gis.dep.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://gis.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.85",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gis.penndot.pa.gov/TIRe",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grants.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://grants.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://grants.pa.gov/ContactUs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "greenport.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://greenport.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://greenport.pa.gov/gpl/GpLogin/Faq",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hub.business.beta.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://hub.business.beta.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://hub.business.beta.pa.gov/Home/HelpCenter",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://hub.business.beta.pa.gov/Login/UnlockAccount",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hub.business.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://hub.business.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://hub.business.pa.gov/Home/HelpCenterDetail/PurchaseBusinessDocumentsinBFS",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "huntfish.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://huntfish.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://huntfish.pa.gov/lookupaccount",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idservices.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://idservices.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmatelocator.cor.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://inmatelocator.cor.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmatelookup.co.armstrong.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://inmatelookup.co.armstrong.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmatevisitation.cor.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://inmatevisitation.cor.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://inmatevisitation.cor.pa.gov/AppForms/VHome.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inspections.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://inspections.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "keystonelogin.ovr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://keystonelogin.ovr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "keystonelogin.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://keystonelogin.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://keystonelogin.pa.gov/ReleaseNote/ReleaseNoteView",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "listserv.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://listserv.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://listserv.dhs.pa.gov/case-mix-county-rates-2006-2007.html",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.64",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://maps.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "matp.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://matp.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://matp.pa.gov/Consumers.aspx",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.62",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "members.sers.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://members.sers.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://members.sers.pa.gov/member/Public/mbrForgotKeystoneID.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mycertificates.health.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://mycertificates.health.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://mycertificates.health.pa.gov/pastorefront/customer/pa/paContactUs.xhtml",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://mycertificates.health.pa.gov/pastorefront/privacyPolicy.xhtml",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.86",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mypath.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://mypath.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osfcegrants.osfc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://osfcegrants.osfc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "padls.agriculture.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://padls.agriculture.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.72",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "http://padls.agriculture.pa.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.72",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "palogin.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://palogin.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://palogin.state.pa.us/Login/User/Edit",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pals.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pals.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "papsrs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://papsrs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://papsrs.pa.gov/Security/AccessRequest.aspx",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pasupplierportal.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pasupplierportal.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.7",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "patientsafety.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://patientsafety.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://patientsafety.pa.gov/Pages/whats-new.aspx",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.38"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pay.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pay.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "payback.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://payback.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.56",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://payback.pa.gov/Home/who",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.56",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pdmp.health.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pdmp.health.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://pdmp.health.pa.gov/PDMPSystemApp/exemptionFlowPage",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://pdmp.health.pa.gov/PDMPSystemApp/guidebeforelogin",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pennwatch.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pennwatch.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pennwatch.pa.gov/Pages/pa-agencies.aspx",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pennwatch.pa.gov/spending/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pennwatchnew.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pennwatchnew.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://pennwatchnew.pa.gov/EmployeeSalaries/AllEmpSalData",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pfbc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pfbc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://pfbc.pa.gov/webprivacy.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pgcdatacollection.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pgcdatacollection.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://pgcdatacollection.pa.gov/DeputyGWForm",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "plans.sers.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://plans.sers.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pmrs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pmrs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://pmrs.pa.gov/forms",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://pmrs.pa.gov/pmrs-board-of-trustees/board-and-committee-meeting-agendas/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.pccd.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://portal.pccd.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://portal.pccd.pa.gov/PortalRegister/Register",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ppcc.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://ppcc.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "promise.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://promise.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://promise.dhs.pa.gov/portal/provider/Home/ForgotUserID/tabid/229/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "property.co.fayette.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://property.co.fayette.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "http://property.co.fayette.pa.us/assessment_office_staff_body.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "http://property.co.fayette.pa.us/search.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.69",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "provider.directory.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://provider.directory.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pua.benefits.uc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://pua.benefits.uc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pua.benefits.uc.pa.gov/vosnet/guest.aspx?action=claimweeks&plang=E",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "qualtrics.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://qualtrics.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "responsibleplay.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://responsibleplay.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://responsibleplay.pa.gov/about-pennsylvania-gaming-control-board/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "retailer.lottery.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://retailer.lottery.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://retailer.lottery.pa.gov/app/contactUs",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sers.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://sers.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sers.pa.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "services.agriculture.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://services.agriculture.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "services.co.schuylkill.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://services.co.schuylkill.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "share.phmc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://share.phmc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tms.ddap.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://tms.ddap.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tms.ddap.pa.gov/about/course-catalog/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trails.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://trails.dcnr.pa.gov/eventscalendar",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uctax.eaudits.uc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://uctax.eaudits.uc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://uctax.eaudits.uc.pa.gov/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ustif.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://ustif.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ustif.pa.gov/register-tanks",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vaccines.health.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://vaccines.health.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wic.health.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://wic.health.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://wic.health.pa.gov/vendorassistant",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.act13-reporting.puc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.act13-reporting.puc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.act13-reporting.puc.pa.gov/Modules/Security/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ahs.dep.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.ahs.dep.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.apply.findmyride.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.apply.findmyride.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://www.apply.findmyride.penndot.pa.gov/tes-web/register",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.borough.brookville.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.borough.brookville.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.borough.brookville.pa.us/finance-tax-collection/pages/online-payments",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.borough.brookville.pa.us/home/news/brookville-municipal-authority-received-prestigious-area-wide-optimization-award-please",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bpp.ob.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.bpp.ob.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.bpp.ob.pa.gov/Portal/Services",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.campaignfinanceonline.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.campaignfinanceonline.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.campaignfinanceonline.pa.gov/Pages/IndependentExpenditure.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cfrs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.cfrs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.charities.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.charities.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.clientportal.osig.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.clientportal.osig.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.armstrong.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.co.armstrong.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.armstrong.pa.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.armstrong.pa.us/index.php/county-government-m/elections-voters-registration-m",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.clarion.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.co.clarion.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.clarion.pa.us/how_do_i/apply_for/employment_opportunities/index.php",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.forest.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.co.forest.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.forest.pa.us/contact_us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fulton.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.co.fulton.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.fulton.pa.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://www.co.fulton.pa.us/treasurer.php",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lancaster.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.co.lancaster.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.14",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.lancaster.pa.us/170/Services",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.lancaster.pa.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.somerset.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.co.somerset.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.somerset.pa.us/pages/Commissioners/commagenda.asp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.67",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.compass.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.compass.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.compass.dhs.pa.gov/providersearch/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.court.co.lancaster.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.court.co.lancaster.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.court.co.lancaster.pa.us/139/Domestic-Relations-Child-Support",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.court.co.lancaster.pa.us/directory.aspx",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cwds.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.cwds.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cwds.pa.gov/cwdsonline/Admin/ManageStaffUsers/Registration.aspx?pEzkqOyGohzPjZmADqQ3H6xYWtZWLJCI39jAk02ruFr2@Yv6ws1GrAPZzp2TUduSElY@V6FNh4FLN6yFM@Roc0@35m3ZRv6sIJpociaNkClf9k6A@3Vo",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cwds.pa.gov/cwdsonline/Admin/ManageStaticContent/ViewSiteMap.aspx?Gwc3yukNnMtj28d94XyiMoeVntq@RACrv3JJSkncml_RsKiWR4TUXyZcNI@31fLfy7zU1IMDeZAi8CHsMg1tK3p3Ho5WcdBFo3FovzpwXXnLn5leU31t",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cwdsrpt.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.cwdsrpt.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dgs.internet.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.dgs.internet.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot6.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.dot6.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dotdom1.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.dotdom1.state.pa.us/",
+          "is_root_page": true,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dotdom2.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.dotdom2.state.pa.us/",
+          "is_root_page": true,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dotdom3.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.dotdom3.state.pa.us/",
+          "is_root_page": true,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.drinkingwater.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://www.drinkingwater.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.64",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.drivecleanpa.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://www.drivecleanpa.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://www.drivecleanpa.state.pa.us/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ecamms.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.ecamms.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ecms.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.ecms.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ecms.penndot.pa.gov/ECMS/SVCOMFileCabinet?action=GETURL&FILE_NAME=Contractor%20Integrity%20Provisions",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.edna.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://www.edna.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.edna.pa.gov/Screens/wfContact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.edna.pa.gov/Screens/wfSearchEntity.aspx",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.46",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.egrants.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.egrants.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.electionreturns.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.electionreturns.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.emarketplace.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.emarketplace.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.emarketplace.state.pa.us/Search.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.etides.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.etides.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.findmyride.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.findmyride.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://www.findmyride.penndot.pa.gov/fmr-edu/home/how-to-apply",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://www.findmyride.penndot.pa.gov/fmr-edu/home/transportation-progams/seniors",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.flp.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.flp.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.frcpp.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.frcpp.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gis.dcnr.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.gis.dcnr.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hcsis.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.hcsis.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hhsapps.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.hhsapps.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hhsapps.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.hhsapps.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hhsidm.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.hhsidm.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hhsidm.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.hhsidm.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.humanservices.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.humanservices.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.humanservices.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.humanservices.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.huntfish.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.huntfish.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.huntfish.pa.gov/lookupaccount",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hunting.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.hunting.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.idservices.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.idservices.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ifo.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://www.ifo.state.pa.us/",
+          "is_root_page": true,
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "http://www.ifo.state.pa.us/releases.cfm",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.inet.jnet.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.inet.jnet.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.63",
+          "best_practices_score": "1",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://www.inet.jnet.pa.gov/enroll",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.irrc.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.irrc.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.irrc.state.pa.us/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.irrc.state.pa.us/regulations/RegSrchRslts.cfm?ID=3462",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lgc.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.lgc.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.lgc.state.pa.us/act38SpeedEnforcement.cfm",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.lgc.state.pa.us/frequentlyCitedLaws.cfm",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.meganslaw.psp.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.meganslaw.psp.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.meganslaw.psp.pa.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.meganslaw.psp.pa.gov/Home/Contact",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mylicense.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://www.mylicense.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.76",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mypath.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.mypath.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mypdeapps.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.mypdeapps.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.mypdeapps.pa.gov/wfTIMS.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.naturalheritage.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.naturalheritage.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.naturalheritage.state.pa.us/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.notaries.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.notaries.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.notaries.pa.gov/Pages/EServices.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oca.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.oca.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.oca.pa.gov/electricity/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.oca.pa.gov/oca-annual-reports/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.openrecords.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.openrecords.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.openrecords.pa.gov/Portal/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.openrecords.pa.gov/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pa.gov/agencies",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://www.pa.gov/en",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pacareerlink.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pacareerlink.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.pacareerlink.pa.gov/jponline/Common/LandingPage/Provider",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.pacareerlink.pa.gov/jponline/SkillUpPA?B5RbaisQHL0fTvkBPNsoA9LuySx0RohyOyxbVIKLQX8-SjER09Y2_b16xtMDOAthJzSARMwGGla21IX_ieXlRLdo9QyaRA0h",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pacareerlinkrpt.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pacareerlinkrpt.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.pacareerlinkrpt.pa.gov/jponline/Admin/Common/CareerResources.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.pacareerlinkrpt.pa.gov/jponline/Common/LandingPage/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pafoodsafety.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pafoodsafety.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pairs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pairs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.palobbyingservices.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.palobbyingservices.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.palobbyingservices.pa.gov/Public/wfSearch.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.palottery.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.palottery.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.19",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.palottery.pa.gov/Draw-Games.aspx",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.palottery.pa.gov/Draw-Games/Watch-Drawings.aspx",
+          "is_root_page": false,
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pals.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pals.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pameals.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pameals.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.pameals.pa.gov/Authentication/RecoverUsername",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.paplants.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.paplants.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.paplants.pa.gov/FAQ.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.paschoolclimate.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.paschoolclimate.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://www.paschoolclimate.pa.gov/wfContact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pavoterservices.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pavoterservices.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pay.penndot.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pay.penndot.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pears.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pears.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.pears.pa.gov/snp/Common/DownloadFormProgramList.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pelican.dhs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pelican.dhs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.pelican.dhs.pa.gov/ccmiscwopa/MFARedirect.asp?target=https://www.pelican.dhs.pa.gov/ccmis/default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.penndotesafety.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.penndotesafety.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.85",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://www.penndotesafety.pa.gov/PAeSafety/forms/recallInformation",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.perms.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.perms.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.perms.pa.gov/Screens/wfPublicAccess.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pfad.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pfad.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.pfad.pa.gov/Account/ResetPassword",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.pfad.pa.gov/Request/Edit",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pimsreportsv2.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pimsreportsv2.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.portal.dobs.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.portal.dobs.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pss.cupss.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.pss.cupss.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.85",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.puc.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.puc.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.puc.pa.gov/press-release/2025/puc-damage-prevention-committee-announces-actions-against-underground-facility-owners-excavators-and-project-owners-7182025",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.puc.pa.gov/water-wastewater/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rbaprovider.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.rbaprovider.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rbauth.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.rbauth.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.redistricting.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.redistricting.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.redistricting.state.pa.us/commission/hearings",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.reportucfraud.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.reportucfraud.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.reportucfraud.pa.gov/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rural.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.rural.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.rural.pa.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.safeschools.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.safeschools.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.7",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sers.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.sers.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sers.pa.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.serv.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.serv.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.serv.pa.gov/agreement.php",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.snowatvdealer.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.snowatvdealer.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.snowatvdealer.pa.gov/Identity/Account/NewDealerAccountSetup",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.snowatvowner.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.snowatvowner.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.snowatvreg.dcnr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.snowatvreg.dcnr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.snowatvreg.dcnr.pa.gov/Home/Snowreg",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.snowatvreg.dcnr.pa.gov/Home/snowregos",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.teachercertification.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "http://www.teachercertification.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.5",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ucr.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.ucr.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ucr.pa.gov/PAUCRSPublic",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.uctax.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.uctax.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.uctax.pa.gov/site-check/maintenance/scheduled-maintenance.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.volunteers.dcnr.state.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.volunteers.dcnr.state.pa.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.volunteers.dcnr.state.pa.us/VolunteerApplication.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.7",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wcais.pa.gov",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www.wcais.pa.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.co.butler.pa.us",
+      "subnational": "Pennsylvania",
+      "pages": [
+        {
+          "url": "https://www2.co.butler.pa.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

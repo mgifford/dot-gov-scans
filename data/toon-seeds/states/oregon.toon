@@ -1,0 +1,1846 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Oregon",
+  "domain_count": 89,
+  "page_count": 163,
+  "domains": [
+    {
+      "canonical_domain": "apps.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://apps.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://apps.co.marion.or.us/AppraiserContactForm/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://apps.co.marion.or.us/SurveyLFSearch/FieldBooks/FieldBooks.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.86",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.puc.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://apps.puc.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://apps.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps2.co.polk.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://apps2.co.polk.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ascendweb.co.yamhill.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://ascendweb.co.yamhill.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.7",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://ascendweb.co.yamhill.or.us/AcsendWeb/(S(4fnjddms321ywsc2hlmmrle1))/Authenticated/logon.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.7",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://ascendweb.co.yamhill.or.us/AcsendWeb/(S(x5hnks3lxcpz0c5hxee45ec4))/Authenticated/logon.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.64",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.irrigon.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://ci.irrigon.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.irrigon.or.us/event/city-council-meeting-3/2025-08-19/",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.irrigon.or.us/pay-your-utility-bill-online/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.manzanita.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://ci.manzanita.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.manzanita.or.us/pay-online/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.manzanita.or.us/services/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.monroe.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://ci.monroe.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.monroe.or.us/2025/04/25/informe-de-confianza-del-consumidor-de-agua-2024/",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.monroe.or.us/2025/06/27/new-website-is-located-at-monroeoregon-gov/",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cityview.ci.bend.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://cityview.ci.bend.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://cityview.ci.bend.or.us/Portal",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cnp.ode.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://cnp.ode.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.marion.or.us/HR/Pages/jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.marion.or.us/pages/Events.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.umatilla.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://co.umatilla.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.umatilla.or.us/departments/bcc/meetings",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "daportal.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://daportal.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://daportal.co.marion.or.us/?q=user/password",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.oda.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://data.oda.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.olcc.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://data.olcc.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delta.co.clatsop.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://delta.co.clatsop.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://delta.co.clatsop.or.us/portal/home/groups.html",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfw.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://dfw.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dfw.state.or.us/MRP/index.asp",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://dfw.state.or.us/resources/licenses_regs/agents.asp",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "docpub.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://docpub.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eac.ode.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://eac.ode.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eac.ode.state.or.us/o/eac/page/eac-meeting-archive",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elite.hlo.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://elite.hlo.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "exprs.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://exprs.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://exprs.state.or.us/exprsDocs",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ftefile.odot.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://ftefile.odot.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.67",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://ftefile.odot.state.or.us/Dashboard/Dashboard.aspx",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geo.co.crook.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://geo.co.crook.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geocortex.co.douglas.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://geocortex.co.douglas.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.douglas.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://gis.co.douglas.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.linn.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://gis.co.linn.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://gis.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://gis.co.marion.or.us/SurveyGraphicIndex",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gisims.co.washington.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://gisims.co.washington.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hciregistry.dhsoha.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://hciregistry.dhsoha.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://hciregistry.dhsoha.state.or.us/Search",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "helion.co.lincoln.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://helion.co.lincoln.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "heritagedata.prd.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://heritagedata.prd.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://heritagedata.prd.state.or.us/index.cfm?do=v.dsp_newLogin",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "highway.odot.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://highway.odot.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jailviewer.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://jailviewer.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.67",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://jailviewer.co.marion.or.us/Home/BookingSearchQuery",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://jailviewer.co.marion.or.us/Home/BookingSearchQuery?Length=4",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lands.dsl.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://lands.dsl.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.85",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://lands.dsl.state.or.us/index.cfm?fuseaction=Home.home",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.85",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lc-helionweb.co.linn.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://lc-helionweb.co.linn.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "libweb.ci.lebanon.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://libweb.ci.lebanon.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://libweb.ci.lebanon.or.us/eg/opac/browse",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.jefferson.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "http://maps.co.jefferson.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.48",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "http://maps.co.jefferson.or.us/disclaimer.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.68",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.lincoln.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://maps.co.lincoln.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.63"
+        },
+        {
+          "url": "https://maps.co.lincoln.or.us/limitations.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.polk.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://maps.co.polk.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.13",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.dsl.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://maps.dsl.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.prd.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://maps.prd.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcasr.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://mcasr.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mylicense.oda.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://mylicense.oda.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mylicense.oda.state.or.us/ords/f?p=106:3:12459576381770:::::",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mylicense.oda.state.or.us/ords/f?p=106:6",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oraqi.deq.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://oraqi.deq.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.48",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "orelap.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://orelap.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://orelap.state.or.us/lab-user-menu",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.ci.tualatin.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://permits.ci.tualatin.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://permits.ci.tualatin.or.us/eTRAKIT/PermitApplication/confirmation.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.ccb.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://portal.ccb.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.co.lincoln.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://portal.co.lincoln.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://portal.co.lincoln.or.us/reset_password/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pprmaca.co.washington.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://pprmaca.co.washington.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.68",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://pprmaca.co.washington.or.us/CitizenAccess/Account/RegisterDisclaimer.aspx",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.68",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertyweb.co.lincoln.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://propertyweb.co.lincoln.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://propertyweb.co.lincoln.or.us/Home",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pswebpub.co.washington.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://pswebpub.co.washington.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.86",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://pswebpub.co.washington.or.us/jms/forced/photos",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.86",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.co.umatilla.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://public.co.umatilla.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.co.wasco.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://public.co.wasco.or.us/",
+          "is_root_page": true,
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "query.co.tillamook.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://query.co.tillamook.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "records.co.benton.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://records.co.benton.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "records.co.coos.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://records.co.coos.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "records.sos.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://records.sos.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.64",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://records.sos.state.or.us/ORSOSWebDrawer/help/index",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reservations.co.tillamook.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://reservations.co.tillamook.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://reservations.co.tillamook.or.us/index_C5.asp",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "roboprode.emp.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://roboprode.emp.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "search.ccb.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://search.ccb.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://search.ccb.state.or.us/search/pwbond_search.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://secure.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sharedsystems.dhsoha.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://sharedsystems.dhsoha.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "snapestimate.dhsoha.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://snapestimate.dhsoha.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.86",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tanfcalc.dhsoha.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://tanfcalc.dhsoha.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://tanfcalc.dhsoha.state.or.us/Home/Exp284GSp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visual-data.dhsoha.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://visual-data.dhsoha.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "washcotax.co.washington.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://washcotax.co.washington.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cbs.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.cbs.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ccb.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ccb.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.ccb.state.or.us/search/pwbond_search.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.aurora.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.aurora.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.aurora.or.us/meetings",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.carlton.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.carlton.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.carlton.or.us/bc-pc/job-opening/vacancy-planning-commissioner-4",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.carlton.or.us/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.creswell.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.creswell.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.creswell.or.us/page/urban-renewal-district",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.creswell.or.us/page/utility-service-providers",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.garibaldi.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.garibaldi.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.garibaldi.or.us/2143/Government",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.garibaldi.or.us/2147/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.gladstone.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.gladstone.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.gladstone.or.us/generalnews/page/public-notice-measure-seeking-voter-approval-annexation-city-clackamas-fire",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.independence.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.independence.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ci.independence.or.us/agenda-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.independence.or.us/license-and-permits/",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.myrtlepoint.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.myrtlepoint.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.myrtlepoint.or.us/calendar",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.myrtlepoint.or.us/index",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.oakridge.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.oakridge.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.oakridge.or.us/community/page/community-yard-sale-willamette-activity-center-wac-0",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.sisters.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.sisters.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.sisters.or.us/community-development/page/job-announcement-assistantassociate-planner",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.sutherlin.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.ci.sutherlin.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ci.sutherlin.or.us/document_center/index.php",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.sutherlin.or.us/government/city_council_and_mayor/2024-2025_cc_agendas,_minutes,_audio,_packets.php",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.coos.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.coos.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.coos.or.us/taxes",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lincoln.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.lincoln.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.lincoln.or.us/129",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.marion.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.marion.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.marion.or.us/HR/Pages/jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.marion.or.us/pages/Events.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sherman.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.sherman.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.sherman.or.us/about-the-county/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.sherman.or.us/departments/county-court/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.umatilla.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.umatilla.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.umatilla.or.us/departments/bcc/meetings",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wallowa.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.wallowa.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.wallowa.or.us/boc/page/calling-all-veterans-complimentary-chief-joseph-days-rodeo-tickets-available-courthouse",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.wallowa.or.us/home-page/page/welcome-wallowa-county",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wasco.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.co.wasco.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.wasco.or.us/how_do_i_(faq)/index.php",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.wasco.or.us/visitors/fair_fairgrounds_and_hunt_park/wasco_county_fair.php",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dfw.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.dfw.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.dfw.state.or.us/fish/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.dfw.state.or.us/wildlife/living_with/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.39",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doj.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.doj.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.doj.state.or.us/child-support/",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doj.state.or.us/oregon-department-of-justice",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.olcc.state.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www.olcc.state.or.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.co.tillamook.or.us",
+      "subnational": "Oregon",
+      "pages": [
+        {
+          "url": "https://www2.co.tillamook.or.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

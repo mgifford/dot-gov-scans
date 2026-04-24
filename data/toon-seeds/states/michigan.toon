@@ -1,0 +1,1411 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Michigan",
+  "domain_count": 71,
+  "page_count": 122,
+  "domains": [
+    {
+      "canonical_domain": "adultfostercare.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://adultfostercare.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://adultfostercare.apps.lara.state.mi.us/Home/FacilityProfile/AS820418669",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ars.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://ars.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ars.apps.lara.state.mi.us/AdminCode/AdminCode",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ars.apps.lara.state.mi.us/Transaction/RFRTransaction?TransactionID=1236",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asbestosprogram.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://asbestosprogram.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://asbestosprogram.apps.lara.state.mi.us/Course/CourseSearch",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.hillsdale.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://co.hillsdale.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://co.hillsdale.mi.us/index.php/tm-gov/m-clerk",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.hillsdale.mi.us/index.php/tm-meeting-calendar/eventdetail/11482/-/hillsdale-county-planning-commission",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.marquette.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://co.marquette.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.marquette.mi.us/departments/county_clerk/elections_voter_information.php",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.monroe.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://co.monroe.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.monroe.mi.us/31/Community",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.monroe.mi.us/AgendaCenter",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.muskegon.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://co.muskegon.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.muskegon.mi.us/129/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "council.legislature.mi.gov",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://council.legislature.mi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://council.legislature.mi.gov/Council/Index",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://council.legislature.mi.gov/CouncilAdministrator/SDTCAC",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "difs.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://difs.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "docs.ci.livonia.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://docs.ci.livonia.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efiling.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://efiling.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://efiling.apps.lara.state.mi.us/Account/PasswordRecovery.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eresponse.co.genesee.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://eresponse.co.genesee.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esuite.ci.livonia.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://esuite.ci.livonia.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "et.leo.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://et.leo.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fireservicedirectory.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://fireservicedirectory.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://fireservicedirectory.apps.lara.state.mi.us/Home/CountySearch",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://fireservicedirectory.apps.lara.state.mi.us/Home/CrossRefReport",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.leo.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://forms.leo.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gaschoice.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://gaschoice.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://gaschoice.apps.lara.state.mi.us/Info/WhatIsChoice",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "house.mi.gov",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://house.mi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://house.mi.gov/Index",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "housing.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://housing.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "interpreter.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://interpreter.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://interpreter.apps.lara.state.mi.us/education_search.asp",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jtc.courts.mi.gov",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://jtc.courts.mi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jtc.courts.mi.gov/newsdetail_T2_R257.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jury.co.muskegon.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://jury.co.muskegon.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legislature.mi.gov",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://legislature.mi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://legislature.mi.gov/Home/Help",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcoles.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mcoles.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdhhsmiimmsportal.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mdhhsmiimmsportal.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdotjboss.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mdotjboss.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdotjboss4.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mdotjboss4.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdotwiki.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mdotwiki.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mdotwiki.state.mi.us/aashtoware/index.php/Main_Page",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mdotwiki.state.mi.us/construction/index.php?title=File:DI-06801-092.jpg",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mgcb.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mgcb.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "micase.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://micase.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://micase.state.mi.us/micaseapp/public/home.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "micjinidp.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://micjinidp.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.96",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "midap.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://midap.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://midap.state.mi.us/Account/Logout",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mifts.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mifts.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "minotifytpl.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://minotifytpl.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://minotifytpl.state.mi.us/tedpublic/coveragerequests/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mistatepolicepmts.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mistatepolicepmts.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mitracking.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mitracking.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvic.sos.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://mvic.sos.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mvic.sos.state.mi.us/Home/VoteAtHome/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mvic.sos.state.mi.us/Voter/Index",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.61",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myhbcld.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://myhbcld.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "notetolara.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://notetolara.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nurseaideregistry.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://nurseaideregistry.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ok2say.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://ok2say.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osmisdashboard.leo.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://osmisdashboard.leo.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "qvf.sos.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://qvf.sos.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://qvf.sos.state.mi.us/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "safetyhealthhazards.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://safetyhealthhazards.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "smoke.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://smoke.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sport.mde.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://sport.mde.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sport.mde.state.mi.us/Home/Contact",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "statelicensing.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://statelicensing.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "talentdashboard.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://talentdashboard.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxdocketlookup.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://taxdocketlookup.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tcps.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://tcps.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "techsupport.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://techsupport.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treas-secure.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://treas-secure.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treas-secureportal.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://treas-secureportal.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "utilitysearch.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://utilitysearch.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "val.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://val.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wageandbenefitcomplaint.apps.lara.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://wageandbenefitcomplaint.apps.lara.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://wageandbenefitcomplaint.apps.lara.state.mi.us/Home/BeforeFilingAWageClaim",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.hudson.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.hudson.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.hudson.mi.us/about-us",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ci.hudson.mi.us/past-newsletter",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.ionia.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.ionia.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.ionia.mi.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.lapeer.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.lapeer.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ci.lapeer.mi.us/directory/index.php",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.lapeer.mi.us/news_detail_T3_R285.php",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.northville.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.northville.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.ci.northville.mi.us/services/building_and_planning/historic_district/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ci.northville.mi.us/services/finance/online_property_information___payments",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.owosso.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.owosso.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.43",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.ci.owosso.mi.us/DepartmentsServices/CodeEnforcement.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.plymouth.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.plymouth.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ci.plymouth.mi.us/cms/one.aspx?portalid=12421732&pageid=15687128",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.plymouth.mi.us/government/departments",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.rochester.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.ci.rochester.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.rochester.mi.us/Archive.aspx",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.rochester.mi.us/CivicAlerts.aspx?AID=1187",
+          "is_root_page": false,
+          "performance_score": "0.14",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hillsdale.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.co.hillsdale.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.hillsdale.mi.us/index.php/tm-gov/m-clerk",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.hillsdale.mi.us/index.php/tm-meeting-calendar/eventdetail/11482/-/hillsdale-county-planning-commission",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.huron.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.co.huron.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.huron.mi.us/community-info",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.huron.mi.us/forms-and-applications",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.marquette.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.co.marquette.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.marquette.mi.us/departments/county_clerk/elections_voter_information.php",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.monroe.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.co.monroe.mi.us/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.monroe.mi.us/31/Community",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.monroe.mi.us/AgendaCenter",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.house.mi.gov",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.house.mi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.house.mi.gov/Index",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.legislature.mi.gov",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.legislature.mi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.legislature.mi.gov/Home/Help",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mcgi.state.mi.us",
+      "subnational": "Michigan",
+      "pages": [
+        {
+          "url": "https://www.mcgi.state.mi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    }
+  ]
+}

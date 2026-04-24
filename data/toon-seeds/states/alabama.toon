@@ -1,0 +1,536 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Alabama",
+  "domain_count": 24,
+  "page_count": 48,
+  "domains": [
+    {
+      "canonical_domain": "accessdl.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://accessdl.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://accessdl.state.al.us/content/VirtuOwl_ACCESS_Academic_Support_Application",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://accessdl.state.al.us/content/Virtual_Learning_Strategies_and_Tips",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "admincode.legislature.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://admincode.legislature.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://admincode.legislature.state.al.us/login",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adphnotes.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://adphnotes.state.al.us/",
+          "is_root_page": true,
+          "accessibility_score": "0",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aidbess.aidb.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://aidbess.aidb.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "alletting.dot.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://alletting.dot.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://alletting.dot.state.al.us/DW_Pages/Pages/ALDOT_Expedite_To_Bids.html",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://alletting.dot.state.al.us/DW_Pages/Pages/OE_Forms.html",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "alpass.dot.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://alpass.dot.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://alpass.dot.state.al.us/permits/registration.asp",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aplsws2.apls.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://aplsws2.apls.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://aplsws2.apls.state.al.us/index.php/publications-training/announcements/alabama-regional-library-hosting-veterans-reading-group-on-march-26",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://aplsws2.apls.state.al.us/library-for-the-blind/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cammsweb.dot.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://cammsweb.dot.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.cullman.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://co.cullman.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.cullman.al.us/commission.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.cullman.al.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://doc.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://doc.state.al.us/inmatesearch.aspx",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ehr.adph.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://ehr.adph.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ems.adph.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://ems.adph.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "foodscores.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://foodscores.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gsa.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://gsa.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gsa.state.al.us/apps/mms/oasis",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gsa.state.al.us/inter/facilities",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "insurealabama.adph.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://insurealabama.adph.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "keys.adph.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://keys.adph.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://keys.adph.state.al.us/b/lp.e?OWASP_CSRFTOKEN=TGZJ-1V8H-LDPX-KWRH-WI2J-XVWA-LYSJ-NOTI",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.7",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newbornwebportal.adph.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://newbornwebportal.adph.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://newbornwebportal.adph.state.al.us/forgot-password",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "siis.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://siis.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://siis.state.al.us/ImmPrint/user/providerenrollmentagreement.aspx",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wellnessappointments.adph.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://wellnessappointments.adph.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.archives.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "http://www.archives.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.76",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.archives.state.al.us/EventView.aspx?id=111",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.76",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "http://www.archives.state.al.us/EventView.aspx?id=113",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cullman.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://www.co.cullman.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.cullman.al.us/commission.html",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.cullman.al.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doc.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://www.doc.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.doc.state.al.us/inmatesearch.aspx",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://www.dot.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.dot.state.al.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gsa.state.al.us",
+      "subnational": "Alabama",
+      "pages": [
+        {
+          "url": "https://www.gsa.state.al.us/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.gsa.state.al.us/apps/mms/oasis",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.gsa.state.al.us/inter/facilities",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

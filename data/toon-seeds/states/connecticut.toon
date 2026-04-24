@@ -1,0 +1,1885 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Connecticut",
+  "domain_count": 90,
+  "page_count": 167,
+  "domains": [
+    {
+      "canonical_domain": "accidents.despp.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://accidents.despp.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apcp.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://apcp.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://apcp.ct.gov/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://apcp.ct.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appellateinquiry.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://appellateinquiry.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://appellateinquiry.jud.ct.gov/CaseNameInq.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beachadvisory.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://beachadvisory.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.61",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://beachadvisory.ct.gov/BeachAlert/~/",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.61",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://beachadvisory.ct.gov/New-Subscription/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "biznet.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://biznet.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.7",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://biznet.ct.gov/AccountMaint/DefaultBU.aspx?sc=0&recno=3",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://biznet.ct.gov/DCP_MMRPDispensary",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.68",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://business.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://business.ct.gov/knowledge-base/articles/start-your-business/business-types-in-ct/choose-a-business-structure",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://business.ct.gov/start-your-business",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "carecompass.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://carecompass.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://carecompass.ct.gov/state/medical/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdcs.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://cdcs.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdlmedcert.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://cdlmedcert.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cga.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://cga.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.68",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://cga.ct.gov/asp/menu/cgafindleg.asp",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://cga.ct.gov/asp/menu/senate.asp",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "civilinquiry.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://civilinquiry.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.67",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://civilinquiry.jud.ct.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.67",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "conncris.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://conncris.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://conncris.ct.gov/pages/e311f306a71a430d8fc9d31fac4ac5dc",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://conncris.ct.gov/pages/resources",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "connect.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://connect.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.44",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://connect.ct.gov/access/accessController?VALID_GET=Y&PAGE_ACTION=loadPFCoverSheetGenerator",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corect.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://corect.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coreguest.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://coreguest.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corehr.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://corehr.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corevss.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://corevss.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ct-vitals.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://ct-vitals.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ct-vitals.ct.gov/production/Logon.aspx",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ctbaradmissions.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://ctbaradmissions.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ctbaradmissions.jud.ct.gov/allnews.action",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ctseds.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://ctseds.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ctwiz.dph.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://ctwiz.dph.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ctwiz.dph.ct.gov/ctwiz/UserRegistration/NewRegistration",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ctwizpublicportal.dph.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://ctwizpublicportal.dph.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ctwizpublicportal.dph.ct.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cvoportal.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://cvoportal.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.44",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "data.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://data.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://data.ct.gov/stories/s/Infrastructure-Investment-and-Jobs-Act-IIJA-Bipart/3psc-2qa4/",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "deepmaps.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://deepmaps.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://deepmaps.ct.gov/pages/f0b3e60c088e4fe69d8a8bcdcf18ae7e",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmvcivls-wselfservice.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dmvcivls-wselfservice.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dmvcivls-wselfservice.ct.gov/SpecialPlate/ReplacePlateOrganization",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmvirp.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dmvirp.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://dmvirp.ct.gov/CTEnterprise/Login/ProcessRequest/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dph-cthelpdesk.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dph-cthelpdesk.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dphflisevents.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dphflisevents.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dphsubmissions.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dphsubmissions.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "drsrefundverify.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://drsrefundverify.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://drsrefundverify.ct.gov/Home/IndexSpanish",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dspjobs.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dspjobs.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dspjobs.ct.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dss.service.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://dss.service.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ece-reporter.oec.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://ece-reporter.oec.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ece-reporter.oec.ct.gov/account/login",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electionhistory.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://electionhistory.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://electionhistory.ct.gov/contests/search/date:2025-05-05",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://electionhistory.ct.gov/contests/view/38473",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elicense.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://elicense.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://elicense.ct.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epardonportal.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://epardonportal.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://eservices.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://eservices.jud.ct.gov/Public/DFOverview.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geodata.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://geodata.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://geodata.ct.gov/pages/95131a01560d4d33a1b095931091a760",
+          "is_root_page": false,
+          "performance_score": "0.08",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://geodata.ct.gov/search",
+          "is_root_page": false,
+          "performance_score": "0",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "health.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://health.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://health.ct.gov/Insurance-and-Paying-for-Care",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://health.ct.gov/womens-services",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "health.service.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://health.service.ct.gov/myctportal/s/eligibility-screener?language=en_US",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "helpdesk.oec.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://helpdesk.oec.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://helpdesk.oec.ct.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "housedems.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://housedems.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://housedems.ct.gov/leadership",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://jobs.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jobs.ct.gov/training",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jud.ct.gov/ADA/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://jud.ct.gov/external/super/E-Services/efile/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jury.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://jury.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "login.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://login.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "manufacturing.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://manufacturing.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://manufacturing.ct.gov/knowledge-base/categories/service-categories",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://manufacturing.ct.gov/mif",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://maps.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://maps.ct.gov/portal",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydss.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://mydss.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oedmtraining.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://oedmtraining.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://oedmtraining.ct.gov/Forgot.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opencheckbook.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://opencheckbook.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openpayroll.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://openpayroll.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openpension.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://openpension.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osc.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://osc.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://osc.ct.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oscforms.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://oscforms.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pie.dcf.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://pie.dcf.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.74",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://pie.dcf.ct.gov/ViewSupportTopicFile.aspx?id=265",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.74",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://portal.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://portal.ct.gov/ctprepares",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://portal.ct.gov/services/driving-and-transportation",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.dcf.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://portal.dcf.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://portal.dcf.ct.gov/Portal/CPSOR",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public-edsight.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://public-edsight.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://public-edsight.ct.gov/students/enrollment-dashboard",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reemployct.dol.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://reemployct.dol.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://reemployct.dol.ct.gov/accessct/faces/login/login_local.xhtml;jsessionid=H4i05xLhfcZUcEJc-sMRZresvBIYej4FSmnX20q9.ctuimapp0011:ReEmployCTBenefits22",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://reemployct.dol.ct.gov/accessct/faces/users/registerclaimant.xhtml;jsessionid=SljeG8WWjcmIJgo9weIaDcjQQZb4QbVwZnDZGb1e.ctuimapp006:ReEmployCTBenefits11?resGroup=linkaction&_accessSessionCleanseKey_=true&_accessNavOutcome_=registerClaimant&forwardName=registerClaimant&fromLoginScreen=1",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reemploycttax.dol.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://reemploycttax.dol.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://reemploycttax.dol.ct.gov/accessct/faces/login/login_local.xhtml;jsessionid=NcQbkIHG_AUC8jWs0UBcJtYXmo-rGMab331Wg0gD.ctuimapp002:ReEmployCTTax02",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://reemploycttax.dol.ct.gov/accessct/faces/tax/enterauthorizationcode.xhtml?resGroup=twrlinkaction&_accessNavOutcome_=.enterauthorizationcode&forwardName=enterauthorizationcode&fromLoginScreen=1",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "restitutionepay.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://restitutionepay.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "retguest.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://retguest.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "retirees.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://retirees.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "search.cga.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://search.cga.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.78",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://search.cga.state.ct.us/dtSearch_help.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure-edsight.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://secure-edsight.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sft.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://sft.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stg-pars.wcc.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://stg-pars.wcc.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://stg-pars.wcc.ct.gov/HrgDocketParams.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "testyourwell.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://testyourwell.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.59",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uat.wpaccesshealth.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://uat.wpaccesshealth.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://uat.wpaccesshealth.ct.gov/AHCTWorker/UserLogin",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visitingrequest.doc.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://visitingrequest.doc.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.52",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://visitingrequest.doc.ct.gov/?Length=0",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.52",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "voterregistration.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://voterregistration.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.44",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://voterregistration.ct.gov/OLVR",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.44",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.access.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.access.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.44",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.access.state.ct.us/policies/accesspolicy40.html",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.44",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cga.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.cga.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.cga.ct.gov/asp/menu/cgafindleg.asp",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://www.cga.ct.gov/asp/menu/senate.asp",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.connect.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.connect.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.44",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.connect.ct.gov/access/accessController?VALID_GET=Y&PAGE_ACTION=loadPFCoverSheetGenerator",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.core-ct.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.core-ct.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.44",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.core-ct.state.ct.us/Default.htm",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.44",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.csde.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.csde.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.89",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://www.csde.state.ct.us/CrystalReports_InstallActiveX.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ctinmateinfo.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.ctinmateinfo.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ctinmateinfo.state.ct.us/searchhints.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ddsapp.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.ddsapp.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://www.ddsapp.ct.gov/DDSGateway/PasswordResetRequest.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dmvct.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.dmvct.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.dmvct.state.ct.us/E220.aspx",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dmvselfservice.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.dmvselfservice.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.67",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://www.dmvselfservice.ct.gov/Restoration/Pages/Recordverification.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.elicense.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.elicense.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.elicense.ct.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.housedems.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.housedems.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.housedems.ct.gov/leadership",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jud.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.jud.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.jud.ct.gov/ADA/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.jud.ct.gov/help/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mydss.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.mydss.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oseapps.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.oseapps.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.phone.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.phone.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.phone.ct.gov/departmental.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.senatedems.ct.gov",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www.senatedems.ct.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.senatedems.ct.gov/get-involved",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.senatedems.ct.gov/sen-lesser-slams-trump-administration-for-withholding-1-4m-from-local-schools",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www1.ctdol.state.ct.us",
+      "subnational": "Connecticut",
+      "pages": [
+        {
+          "url": "https://www1.ctdol.state.ct.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www1.ctdol.state.ct.us/lmi/laborsit.asp",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    }
+  ]
+}

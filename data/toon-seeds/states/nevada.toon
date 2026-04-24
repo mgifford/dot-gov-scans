@@ -1,0 +1,3826 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Nevada",
+  "domain_count": 159,
+  "page_count": 358,
+  "domains": [
+    {
+      "canonical_domain": "accessguest.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://accessguest.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "accessnevada.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://accessnevada.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ada.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ada.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ada.nv.gov/Training/New/learning-paths/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ada.nv.gov/Training/New/tools/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adahelp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://adahelp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://adahelp.nv.gov/form?id=digital",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://adahelp.nv.gov/statement",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "admin.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://admin.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://admin.nv.gov/Governance/Governance/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://admin.nv.gov/Policy-Directives/",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adsd.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://adsd.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://adsd.nv.gov/Careers/Home/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://adsd.nv.gov/Programs/InfantsToddlers/Infants_Toddlers/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ag.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ag.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ag.nv.gov/Complaints/CSU_Complaints___FAQ/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ag.nv.gov/Hot_Topics/Dobbs_v__Jackson_Women_s_Health_Organization_Supreme_Court_Decision/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agri.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://agri.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://agri.nv.gov/Food/Home_Feeds_Nevada/Home_Feeds_Nevada/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aiisprodsaas.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://aiisprodsaas.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "alcohol.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://alcohol.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://alcohol.nv.gov/About/Board/2025/2025/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://alcohol.nv.gov/About/Board/Meetings/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "amberalert.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://amberalert.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://amberalert.nv.gov/Activation/AMBER_Alert_Activation/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "announcements.dwss.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://announcements.dwss.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beltca.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://beltca.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://beltca.nv.gov/About/Board/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://beltca.nv.gov/About/News/News_Notices/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bgcheck.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://bgcheck.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bom.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://bom.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bom.nv.gov/Licensee/CME/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bop.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://bop.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bop.nv.gov/Board/BoardMtgs/",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://bop.nv.gov/services/Self_Reporting_Disciplinary_Information/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boxing.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://boxing.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://boxing.nv.gov/licensing/Online_Licensing/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://boxing.nv.gov/schedule/Events_Schedule/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "budget.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://budget.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://budget.nv.gov/Documents/Publications/Reports/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://budget.nv.gov/StateBudget/2026-2027/2026-2027/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://business.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://business.nv.gov/Resource_Center/Access_to_Capital/Access_to_Capital/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://business.nv.gov/Resource_Center/Calendar_of_Events/Calendar_of_Events/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cards.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://cards.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://cards.nv.gov/form/form-public-complaint",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccb.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ccb.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ccb.nv.gov/list-of-licensees/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccbgcheck.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ccbgcheck.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "charterschools.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://charterschools.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://charterschools.nv.gov/Home/Features/Career_Opportunities_with_the_SPCSA/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chirobd.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://chirobd.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://chirobd.nv.gov/Application_Info/Preceptor_Program/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "consumeraffairs.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://consumeraffairs.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://consumeraffairs.nv.gov/Alerts/Senior/Senior_Fraud/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://consumeraffairs.nv.gov/Forms/Business_Registration_Forms/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "controller.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://controller.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://controller.nv.gov/FinancialRpts/PermSchool/PermSchool/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://controller.nv.gov/Vendor/Electronic_Vendor_Registration/",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpe.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://cpe.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cpe.nv.gov/Meetings/2020/2020_Commission_Meetings/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crptr.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://crptr.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crptr.nv.gov/CE/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crptr.nv.gov/covid19/home/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cvpublicaccess.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://cvpublicaccess.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cvpublicaccess.co.clark.nv.us/eservices/accessibility.page",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcfs.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dcfs.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcfs.nv.gov/Programs/SA/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcnr.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dcnr.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.51",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dcnr.nv.gov/divisions-boards/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dcnr.nv.gov/news/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "defcomp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://defcomp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://defcomp.nv.gov/About/About/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://defcomp.nv.gov/Meetings/2025/2025_Meetings/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dem.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dem.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dem.nv.gov/DEM/DEM_Chief/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dental.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dental.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dental.nv.gov/Home/Features/AB_474/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dental.nv.gov/Public_Info/Meetings/2025/2025_Meetings/2025_Board_Meetings/",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "detr.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://detr.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://detr.nv.gov/NERC",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://detr.nv.gov/Page/Unemployment_Fraud",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhcfp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dhcfp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dhcfp.nv.gov/LegislativeSessions/home/",
+          "is_root_page": false,
+          "performance_score": "0.07",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dhcfp.nv.gov/Pgms/CPT/IHP/",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhhs.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dhhs.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dhhs.nv.gov/Programs/Home/",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "di.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://di.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dids.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dids.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dids.nv.gov/PD/Home/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dids.nv.gov/Training/Resources/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dir.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dir.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dir.nv.gov/BLS/Nonfatal_Occupational_Injury_Data/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dir.nv.gov/home/Nevada_Revised_Statutes_by_Section/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmv.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dmv.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://dmv.nv.gov/fuel.htm",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dmv.nv.gov/nvdl.htm",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmvapp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dmvapp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnaa.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dnaa.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dnaa.nv.gov/about-dnaa/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dnaa.nv.gov/tribal-nations/",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://doc.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://doc.nv.gov/Home/features/Professional_Links/",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doc.nv.gov/Inmates/Escapes/Home/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doe.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://doe.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://doe.nv.gov/champion",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://doe.nv.gov/news-media/2025-press-releases/nevada-department-of-education-announces-new-family-and-community-engagement-program",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doi.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://doi.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://doi.nv.gov/News_Notices/Press_Releases/July_03,_2025_-_Ned_Gaines_Named_Acting_Commissioner_at_Nevada_Division_of_Insurance/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://doi.nv.gov/News_Notices/Press_Releases/May_06,_2025_-_2025_Annual_Administration_and_Enforcement_Assessment/",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.64",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpbh.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dpbh.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dpbh.nv.gov/About/AdminSvcs/HR/Human_Resources/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dpbh.nv.gov/Boards/BoardsCouncils/",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dps.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dps.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dps.nv.gov/HR/All/Employment/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dwss.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://dwss.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dwss.nv.gov/Apply/APPLY/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energy.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://energy.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://energy.nv.gov/Resources/Federal_Funding_Opportunities/Funding_Updates/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epayments.ndep.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://epayments.ndep.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.48",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://epayments.ndep.nv.gov/Epay2Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.48",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ethics.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ethics.nv.gov/Forms/Home/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fid.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://fid.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://fid.nv.gov/Licensing/Check_Cashing,_Deferred_Deposit_Services/CHECK_CASHING_-_DEFERRED_DEPOSIT_SERVICES/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://fid.nv.gov/Resources/Resources/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fire.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://fire.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://fire.nv.gov/Resources/Hot_Topics/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forestry.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://forestry.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://forestry.nv.gov/natural-resource-management",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gaming.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://gaming.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gaming.nv.gov/about/agenda-disposition/minutes/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gcbapps.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://gcbapps.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://gcbapps.nv.gov/Contact",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://gcbapps.nv.gov/LocAdmin",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.dot.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://gis.dot.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gisgate.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "http://gisgate.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.64",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "goed.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://goed.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://goed.nv.gov/doing-business-nevada/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gov.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://gov.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "1",
+          "best_practices_score": "0.39",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gov.nv.gov/Forms/Share/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gov.nv.gov/Newsroom/PRs/news-releases/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hal.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://hal.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://hal.nv.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://hal.nv.gov/newAccount",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hearings.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://hearings.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hearings.nv.gov/Calendars/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "housing.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://housing.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://housing.nv.gov/Resources/Meetings/2019/Public_Meetings_and_Agendas/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hr.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://hr.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hr.nv.gov/Sections/AHRS/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hr.nv.gov/StateEmployees/Employee_Assistance_Program(EAP)/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "id.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://id.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://id.nv.gov/programs/State_of_Nevada_Fusion_Centers/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idcnv.dwss.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://idcnv.dwss.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "it.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://it.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://it.nv.gov/prs/home/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "izrecord.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://izrecord.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://izrecord.nv.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jic.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://jic.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jic.nv.gov/About/JICinfo/",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jic.nv.gov/TO/DEMTrainSchedule/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "judicial.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://judicial.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://judicial.nv.gov/Discipline/Commission_Home/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://judicial.nv.gov/Standing/Standing_Committee/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "labor.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://labor.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://labor.nv.gov/PrevailingWage/prevailing-wage-construction-survey-2025-2027/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lands.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://lands.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lands.nv.gov/general-administration/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lands.nv.gov/news/",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "listserv.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://listserv.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://listserv.state.nv.us/scripts/wa.exe?A0=21STCENTURY",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://listserv.state.nv.us/scripts/wa.exe?A0=ADVOCACYPROTECTION",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ltgov.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ltgov.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ltgov.nv.gov/OSBA/Small_Business_Resources/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://maps.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "marriage.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://marriage.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://marriage.nv.gov/Application/ApplicationProcessingNew",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://marriage.nv.gov/Regs",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "massagetherapy.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://massagetherapy.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://massagetherapy.nv.gov/About/Regulations/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://massagetherapy.nv.gov/Applicants/How_to_Apply_for_a_License/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mdp.medicaid.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://mdp.medicaid.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "medboard.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://medboard.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://medboard.nv.gov/Licensees/L_A_Main/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://medboard.nv.gov/Licensees/License_Reinstatement_2025-2027/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "medicaid.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://medicaid.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://medicaid.nv.gov/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mfa-ext.dwss.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://mfa-ext.dwss.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "minerals.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://minerals.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://minerals.nv.gov/Programs/DMRE/DMRE/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://minerals.nv.gov/home/home/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mld.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://mld.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mld.nv.gov/Forms/Forms/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mmportal.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://mmportal.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mmportal.nv.gov/PatientRegistryOnline/PatientRegistryOLCreateLogin",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mynerccomplaint.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://mynerccomplaint.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mynvtax.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://mynvtax.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "naiw.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://naiw.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://naiw.nv.gov/Resources/Home/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ndep.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ndep.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ndep.nv.gov/environmental-cleanup",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ndep.nv.gov/reg-review/",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.66",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nest.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nest.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://nest.nv.gov/resources/retirement-calculator",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nevadareportcard.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nevadareportcard.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nevadareportcard.nv.gov/DI/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nevadatax.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nevadatax.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://nevadatax.nv.gov/signup/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nhp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nhp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nhp.nv.gov/Business/Doing_Business/",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nhp.nv.gov/Reports/Reports/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "notice.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://notice.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.65",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://notice.nv.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "npp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://npp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://npp.nv.gov/Home/Judicial_Services/Judicial_Services/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://npp.nv.gov/Home/Offender_Supervision/Offender_Supervision/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nsbaidrd.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nsbaidrd.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://nsbaidrd.state.nv.us/renew-online/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nsla.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nsla.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nsla.nv.gov/imaging-preservation",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nsla.nv.gov/local_government_records_services",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nta.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nta.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nta.nv.gov/Home/Virtual_Vehicle_Inpsections/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nui.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nui.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nui.nv.gov/_/?Language=ESP",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nutrition.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nutrition.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://nv.gov/agencies",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nv.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nvamberpermit.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nvamberpermit.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://nvamberpermit.nv.gov/Index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nvapps.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nvapps.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nvapps.state.nv.us/NEATS/Recruiting/ViewAnnouncement.aep2?recruitmentId=51711",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://nvapps.state.nv.us/NEATS/Recruiting/ViewAnnouncement.aep2?recruitmentId=51850",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nvelearn.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nvelearn.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://nvelearn.nv.gov/moodle/course/index.php?categoryid=3",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nvjobs.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nvjobs.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nvjobs.nv.gov/Apply/How_to_Apply_for_a_State_Job/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nvjobs.nv.gov/Home/nvjobs_home/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nvvetboard.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://nvvetboard.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nvvetboard.nv.gov/FAQ/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nvvetboard.nv.gov/news/Newsletters/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ob.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ob.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "odvp.dot.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://odvp.dot.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://odvp.dot.nv.gov/AnnualPermitAttachment",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ofa.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ofa.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ofa.nv.gov/Single_Point_of_Contact/Federal_Assistance_Notification_(SF-424)_Submissions/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ofdsearch.doc.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ofdsearch.doc.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ohv.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ohv.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ohv.nv.gov/trails",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osit.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://osit.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://osit.nv.gov/Grants/Grants/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ots.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ots.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ots.nv.gov/About/About/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ots.nv.gov/Resources/Resources/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "owinn.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://owinn.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://owinn.nv.gov/boards-commissions/gwdb/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://owinn.nv.gov/workforce-development-matters/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pardons.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://pardons.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pardons.nv.gov/About/About_The_Board/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pardons.nv.gov/About/Restoration_of_Civil_Rights/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parks.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://parks.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://parks.nv.gov/learn",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.66",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://parks.nv.gov/parks",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.68",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parole.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://parole.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://parole.nv.gov/Information/Victims/Information/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pebp.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://pebp.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pebp.nv.gov/Plans/2026/2026-getting-to-know-your-plan/",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pilb.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://pilb.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pilb.nv.gov/Boards-commissions/Biographies/",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pilb.nv.gov/Public_Access/Public_Access/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pilbonbaseweb.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://pilbonbaseweb.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.bighorn.doe.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://portal.bighorn.doe.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://portal.bighorn.doe.nv.gov/Bighorn",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "post.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://post.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://post.nv.gov/Forms/Command_Level_Basic_Certificate/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psyexam.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://psyexam.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://psyexam.nv.gov/Board/2025/2025_BOARD_MEETINGS/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ptboard.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://ptboard.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ptboard.nv.gov/About/Meetings/2025/2025/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ptboard.nv.gov/About/PA/",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicloginportal-gcb.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://publicloginportal-gcb.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://publicloginportal-gcb.nv.gov/Identity/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicworks.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://publicworks.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://publicworks.nv.gov/Documents/FCA_Reports/FCA_Reports/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "puc.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://puc.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://puc.nv.gov/Consumers/Be_Informed/PUCN_Fact_Sheets/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://puc.nv.gov/FAQ/Resolving_Disputes/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pucweb1.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://pucweb1.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "purchasing.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://purchasing.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.11",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://purchasing.nv.gov/LocalGovernments/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pwgate.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://pwgate.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://pwgate.co.clark.nv.us/currentSOQ/submittal/Contacts.asp?Out=1",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rccd.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://rccd.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://rccd.nv.gov/FeesForms/Brady/Point_Of_Contact_Firearms_Program/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "red.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://red.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://red.nv.gov/Content/Education/Calendars_and_Education_Providers/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://red.nv.gov/Content/Real_Estate/Main/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "red.prod.secure.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://red.prod.secure.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://red.prod.secure.nv.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://red.prod.secure.nv.gov/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "regapp-gcb.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://regapp-gcb.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "registertovote.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://registertovote.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://registertovote.nv.gov/SOSVoterServices/registration/step0.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "risk.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://risk.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://risk.nv.gov/About/RB/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "roadhazards.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://roadhazards.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "search.leg.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "http://search.leg.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.4",
+          "best_practices_score": "0.5",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "services.socwork.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://services.socwork.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://services.socwork.nv.gov/lic/app/initial/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://services.socwork.nv.gov/lic/intern/change/login.asp",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sexoffenders.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://sexoffenders.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sexoffenders.nv.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shpo.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://shpo.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://shpo.nv.gov/get-involved",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://shpo.nv.gov/get-involved/shpo-career-opportunities/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "silverstateelection.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://silverstateelection.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://silverstateelection.nv.gov/USPresidential/index.shtml",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "socwork.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://socwork.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://socwork.nv.gov/board/Mtgs/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "suicideprevention.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://suicideprevention.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://suicideprevention.nv.gov/SP/CRSF/CRSFhome/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://suicideprevention.nv.gov/SP/CRSF/Mtgs/2025/Home",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://tax.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tax.nv.gov/education/how-to-videos-for-nevada-tax/",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://tax.nv.gov/laws-statutes-regulations/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxi.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://taxi.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://taxi.nv.gov/Resources/Forms/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://taxi.nv.gov/Rider_Info/Las_Vegas_Strip_Airport_Zones_Fares/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tools.water.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://tools.water.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://tools.water.nv.gov/ClaytonValley.aspx",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://tools.water.nv.gov/Evapotranspiration.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trtitle.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://trtitle.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trweb.co.clark.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://trweb.co.clark.nv.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://trweb.co.clark.nv.us/search_public1.asp",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "veterans.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://veterans.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://veterans.nv.gov/newsroom/ndvs-enewsletter/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "voc.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://voc.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://voc.nv.gov/Advocates/Victim_Advocates/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://voc.nv.gov/VOC/VOC_Home/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vrnevada.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://vrnevada.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://vrnevada.nv.gov/bsbvi/",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vrnevada.nv.gov/free-summer-camps-helping-las-vegas-youth-with-disabilities-plan-for-their-future/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "water.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://water.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://water.nv.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://water.nv.gov/programs/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webgis.water.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://webgis.water.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webiz.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://webiz.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://webiz.nv.gov/webiznet_nv/LoginPageHelp.aspx",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.4safenv.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://www.4safenv.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.4safenv.state.nv.us/about-scats/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://www.dot.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.leg.state.nv.us",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://www.leg.state.nv.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/Session/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.leg.state.nv.us/accessibility/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.medicaid.nv.gov",
+      "subnational": "Nevada",
+      "pages": [
+        {
+          "url": "https://www.medicaid.nv.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.medicaid.nv.gov/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3086 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "New Mexico",
+  "domain_count": 130,
+  "page_count": 288,
+  "domains": [
+    {
+      "canonical_domain": "apcd.doh.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://apcd.doh.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.72",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://apcd.doh.nm.gov/faqs",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://apcd.doh.nm.gov/procedure-search",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app.clean.energy.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://app.clean.energy.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://app.clean.energy.nm.gov/create-account.html",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "arcgisce2.co.valencia.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://arcgisce2.co.valencia.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "biz.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://biz.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://biz.nm.gov/financial-assistance/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bvm.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://bvm.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bvm.nm.gov/spay-and-neuter/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.share.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://careers.share.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childcare.ececd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://childcare.ececd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://childcare.ececd.nm.gov/-12186",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.42",
+          "best_practices_score": "0.54",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://childcare.ececd.nm.gov/-13743",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.56",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.alamogordo.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://ci.alamogordo.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.alamogordo.nm.us/336/City-Commission",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.alamogordo.nm.us/35/Doing-Business",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clean.energy.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://clean.energy.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://clean.energy.nm.gov/become-a-contractor",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://clean.energy.nm.gov/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.mckinley.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://co.mckinley.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.mckinley.nm.us/203/Transparency-Portal",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.mckinley.nm.us/9/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.otero.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://co.otero.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.otero.nm.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.otero.nm.us/requesttracker.aspx",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.sanmiguel.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://co.sanmiguel.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://co.sanmiguel.nm.us/departments/human_resources/job_posting.php",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://co.sanmiguel.nm.us/departments/index.php",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.valencia.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://co.valencia.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.valencia.nm.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://co.valencia.nm.us/AlertCenter.aspx?AID=June-21-2025-is-a-NO-Burn-Day-13",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "connect.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://connect.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://connect.nm.gov/cnm-council--working-groups.html",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://connect.nm.gov/mapping--data.html",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpms.dfa.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://cpms.dfa.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://cpms.dfa.state.nm.us/reports.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crop.rld.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://crop.rld.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://crop.rld.nm.gov/dispensaries.html",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://crop.rld.nm.gov/plants.html",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cvcapp.cvrc.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://cvcapp.cvrc.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cvcapp.cvrc.nm.gov/Legal/CookiePolicy",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cvcapp.cvrc.nm.gov/SignUp",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "da2nd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://da2nd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://da2nd.nm.gov/about/biographies/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://da2nd.nm.gov/victims-services/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dash.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://dash.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dash.ped.state.nm.us/?locale=en",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dww.water.net.env.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://dww.water.net.env.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.85",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://dww.water.net.env.nm.gov/DWW/Maps/Map_Template.jsp",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eagleweb.co.mckinley.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://eagleweb.co.mckinley.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edisc.da.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://edisc.da.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edocket.prc.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://edocket.prc.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://edocket.prc.nm.gov/AspSoft/Security/ForgotPwd.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electionresults.sos.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://electionresults.sos.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://electionresults.sos.nm.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electionstats.sos.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://electionstats.sos.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://electionstats.sos.nm.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eligibility.ececd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://eligibility.ececd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "enterprise.sos.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://enterprise.sos.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://enterprise.sos.nm.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epics.ececd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://epics.ececd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "evitals.health.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://evitals.health.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.web.env.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://gis.web.env.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gis.web.env.nm.gov/oem/help",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.41",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hed.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://hed.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://hed.nm.gov/info-session-tuition-free-college-in-new-mexico",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hed.nm.gov/resources-for-schools",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homeschool.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://homeschool.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://homeschool.ped.state.nm.us/ContactUs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://homeschool.ped.state.nm.us/ForgotPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hprdpw.share.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://hprdpw.share.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ibis.doh.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://ibis.doh.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ibis.doh.nm.gov/topic/population/Introduction.html",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "info.share.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://info.share.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.66",
+          "best_practices_score": "1",
+          "seo_score": "0.33"
+        },
+        {
+          "url": "https://info.share.nm.gov/news-archive.html",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.51",
+          "best_practices_score": "0.78",
+          "seo_score": "0.33"
+        },
+        {
+          "url": "https://info.share.nm.gov/support.html",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ironline.hca.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://ironline.hca.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ironline.hca.nm.gov/admin/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kiteworks.doit.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://kiteworks.doit.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licensesearch.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://licensesearch.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licensureapp.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://licensureapp.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://licensureapp.ped.state.nm.us/forgetpassword",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "login.cfis.sos.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://login.cfis.sos.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lwop.waste.web.env.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://lwop.waste.web.env.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "magazine.wildlife.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://magazine.wildlife.state.nm.us/birding-in-new-mexico/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://magazine.wildlife.state.nm.us/department-adapts-management-of-eagle-nest-trout-fishery/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "meas.ose.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://meas.ose.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.67",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://meas.ose.state.nm.us/districtMap.jsp?dist=1",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.67",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "missingpersons.dps.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "http://missingpersons.dps.state.nm.us/",
+          "is_root_page": true,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nmtracking.doh.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://nmtracking.doh.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nmtracking.doh.nm.gov/environment/Introduction.html",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nmwrrs.ose.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://nmwrrs.ose.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nmwrrs.ose.nm.gov/nmwrrs/index",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "obms.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://obms.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "occlerk.co.otero.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "http://occlerk.co.otero.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.bvm.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://online.bvm.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onlinesales.wildlife.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://onlinesales.wildlife.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://onlinesales.wildlife.state.nm.us/public/lucky-lookup",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://onlinesales.wildlife.state.nm.us/public/recover-account",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osaconnect.osa.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://osaconnect.osa.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://osaconnect.osa.nm.gov/password-recovery.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "perass.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://perass.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://perass.state.nm.us/SelfService",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.sos.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://portal.sos.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "providersearch.health.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://providersearch.health.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pulltogether.cyfd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://pulltogether.cyfd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pulltogether.cyfd.nm.gov/contact-us/community-hotlines",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://pulltogether.cyfd.nm.gov/support/resources-for-behavioral-distress",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "referral.dvr.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://referral.dvr.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://referral.dvr.nm.gov/Home/Privacy",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "renew.hsd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://renew.hsd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://renew.hsd.nm.gov/partners",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://renew.hsd.nm.gov/video-how-to",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ridenm.dgf.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://ridenm.dgf.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ridenm.dgf.nm.gov/registration-permits/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "row-permits.dot.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://row-permits.dot.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://row-permits.dot.nm.gov/s/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sam.dws.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://sam.dws.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "search.cd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://search.cd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.6"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure.slo.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://secure.slo.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sep.net.env.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://sep.net.env.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://sep.net.env.nm.gov/reg",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "spd.gsd.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://spd.gsd.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ssp.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://ssp.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ssp.nm.gov/about-the-sunshine-portal/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tap.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://tap.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "truckpermits.dot.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://truckpermits.dot.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://truckpermits.dot.nm.gov/NewAccountStart.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vaxview.doh.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://vaxview.doh.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://vaxview.doh.nm.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "voterportal.servis.sos.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://voterportal.servis.sos.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.63",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "w3.wca.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://w3.wca.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://w3.wca.state.nm.us/aer/logon.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "web.ped.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://web.ped.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://web.ped.nm.gov/administrators/administrative-services/nm-ped-leadership/",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://web.ped.nm.gov/bureaus/licensure",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webed.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://webed.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webed.ped.state.nm.us/_layouts/viewlsts.aspx?BaseType=0",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wildlife.dgf.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://wildlife.dgf.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wildlife.dgf.nm.gov/enforcement/operation-game-thief-overview/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://wildlife.dgf.nm.gov/home/publications/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.aging.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.aging.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.aging.nm.gov/adult-protective-services/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.aging.nm.gov/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bea.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.bea.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.bea.state.nm.us/s/reinstatement-process",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bon.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.bon.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.bon.nm.gov/advisory-committees/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.bon.nm.gov/events/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.breakingbadhabits.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.breakingbadhabits.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "best_practices_score": "0.54",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.breakingbadhabits.nm.gov/event/rio-fernando-abandoned-campsites-cleanup/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.breakingbadhabits.nm.gov/toolkit/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.cd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cd.nm.gov/careers/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cd.nm.gov/divisions/training-academy/recruiting/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cdhh.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.cdhh.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.cdhh.nm.gov/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.13",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cdhh.nm.gov/tedp/",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cfb.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.cfb.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cfb.nm.gov/cookie-policy-us/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cfb.nm.gov/legal-information/determination-of-eligibility/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cfis.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.cfis.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.7",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://www.cfis.state.nm.us/ForgotPassword.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.46",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.alamogordo.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.ci.alamogordo.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.alamogordo.nm.us/336/City-Commission",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.alamogordo.nm.us/35/Doing-Business",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.colfax.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.co.colfax.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.colfax.nm.us/government/meeting_stream_archive.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.colfax.nm.us/news_detail_T6_R76.php",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.eddy.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.co.eddy.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.eddy.nm.us/187/County-Treasurer",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.eddy.nm.us/633/National-Night-Out-2025",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.mckinley.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.co.mckinley.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.mckinley.nm.us/203/Transparency-Portal",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.mckinley.nm.us/9/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.otero.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.co.otero.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.otero.nm.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.otero.nm.us/requesttracker.aspx",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sanmiguel.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.co.sanmiguel.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.sanmiguel.nm.us/clerk/index.php",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.sanmiguel.nm.us/departments/index.php",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.valencia.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.co.valencia.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.valencia.nm.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.valencia.nm.us/AlertCenter.aspx?AID=June-21-2025-is-a-NO-Burn-Day-13",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cvrc.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.cvrc.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cvrc.nm.gov/employee-info/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cvrc.nm.gov/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cyfd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.cyfd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cyfd.nm.gov/protective-services/foster/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dhsem.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.dhsem.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dhsem.nm.gov/2025wildfires/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.dhsem.nm.gov/cookie-policy-us/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doit.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.doit.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.doit.nm.gov/programs/services/enterprise-application-and-desktop/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.dot.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.dot.nm.gov/blog/2025/07/10/scam-alert-nmdot-does-not-issue-traffic-tickets/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dps.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.dps.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dps.nm.gov/financial-management-bureau/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dps.nm.gov/whats-happening/",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dvr.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.dvr.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.dvr.state.nm.us/latest-news/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.39",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.dvr.state.nm.us/policies-forms-reports/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dws.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.dws.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dws.state.nm.us/DUA",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dws.state.nm.us/Office-Locations",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.emnrd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.emnrd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.emnrd.nm.gov/ecmd/tax-credit-programs/%20",
+          "is_root_page": false,
+          "performance_score": "0.13",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.emnrd.nm.gov/officeofsecretary/contact/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.env.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.env.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.env.nm.gov/es/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.env.nm.gov/pfas/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.erb.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.erb.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.erb.nm.gov/contact-erb-member-services/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.erb.nm.gov/member-handbook/",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gcb.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.gcb.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.gcb.nm.gov/new-mexico-gaming-control-board-compulsive-problem-gambling/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.gcb.nm.gov/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.63",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gcd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.gcd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.generalservices.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.generalservices.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.generalservices.state.nm.us/green-energy-project/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.generalservices.state.nm.us/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.governor.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.governor.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.governor.state.nm.us/2025/07/10/governor-secures-some-federal-resources-for-ruidoso-state-works-with-federal-partners-for-additional-financial-assistance/",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.governor.state.nm.us/about-the-governor/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hca.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.hca.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.16",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.52",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.hca.nm.gov/lookingforinformation/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.hca.nm.gov/privacy-statement-us/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.68",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.iad.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.iad.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.iad.nm.gov/cookie-policy-us/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.iad.nm.gov/jobs/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jobs.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.jobs.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.jobs.state.nm.us/vosnet/guest.aspx?action=lmiguest&whereto=LMISTART&plang=E",
+          "is_root_page": false,
+          "performance_score": "0.08",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lea.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.lea.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.lea.nm.gov/law-enforcement-certification-board/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.literacy.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.literacy.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.literacy.nm.gov/summer-reading-program-partner-toolkit/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.nm.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.nm.gov/departments-and-agencies/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nmdfa.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.nmdfa.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.nmdfa.state.nm.us/infrastructure-planning-and-development-division/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nmdfa.state.nm.us/office-of-the-secretary/strategic-plan/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nmmb.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.nmmb.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nmmb.state.nm.us/complaints/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nmmb.state.nm.us/professional-resources/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nmrc.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.nmrc.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nmrc.state.nm.us/medications/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nmrc.state.nm.us/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.osa.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.osa.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.osa.nm.gov/slpb/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ose.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.ose.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ose.nm.gov/NFP/nfp.php",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ose.nm.gov/WR/forms.php",
+          "is_root_page": false,
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.osi.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.osi.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://www.osi.state.nm.us/en/news/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pelrb.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.pelrb.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.pelrb.nm.gov/local-labor-boards/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pelrb.nm.gov/resources/statute-peba-ii/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.prc.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.prc.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.prc.nm.gov/2024/11/01/prc-report-to-the-legislature-on-the-status-of-the-community-solar-program-november-1-2024/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sblpes.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.sblpes.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.sblpes.state.nm.us/licensing/exams/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sec.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.sec.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.sec.nm.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sic.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.sic.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.sic.state.nm.us/history",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.sos.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.sos.nm.gov/avr/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sp.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.sp.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.sp.nm.gov/port-of-entry/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.spo.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.spo.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.spo.state.nm.us/about-us",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.srca.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.srca.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.srca.nm.gov/opt-out-preferences/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tap.gcd.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.tap.gcd.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.tap.gcd.nm.gov/accessibility-information/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.tap.gcd.nm.gov/events/lanl-disability-celebration-month-presentation/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.workerscomp.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://www.workerscomp.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.workerscomp.nm.gov/medical-cost-containment",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.workerscomp.nm.gov/opt-out-preferences-2/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "yes.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://yes.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://yes.nm.gov/nmhr/s/non-discrimination-statement?language=en_US",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "yesnmconnect.nm.gov",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://yesnmconnect.nm.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://yesnmconnect.nm.gov/signup?redirect_to=%2F",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://yesnmconnect.nm.gov/suggest-program",
+          "is_root_page": false,
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "zis.ped.state.nm.us",
+      "subnational": "New Mexico",
+      "pages": [
+        {
+          "url": "https://zis.ped.state.nm.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

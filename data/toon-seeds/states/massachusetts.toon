@@ -1,0 +1,1693 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Massachusetts",
+  "domain_count": 77,
+  "page_count": 153,
+  "domains": [
+    {
+      "canonical_domain": "apps.impact.dot.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://apps.impact.dot.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "archives.lib.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://archives.lib.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://archives.lib.state.ma.us/aggregations-list",
+          "is_root_page": false,
+          "performance_score": "0.08",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "areaofficelocator.dds.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://areaofficelocator.dds.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://areaofficelocator.dds.state.ma.us/Home/LookupByZipcode",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atlas-myrmv.massdot.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://atlas-myrmv.massdot.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atlas-portal.massdot.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://atlas-portal.massdot.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.ashby.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://ci.ashby.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ci.ashby.ma.us/2025/05/14/corrective-measures-for-the-ashby-recycling-transfer-station/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.southbridge.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://ci.southbridge.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.southbridge.ma.us/184/Boards-Commissions",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corp.sec.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://corp.sec.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhcfpinet.hcf.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://dhcfpinet.hcf.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "digitalarchives.sec.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://digitalarchives.sec.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://digitalarchives.sec.state.ma.us/archive",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://digitalarchives.sec.state.ma.us/rev250/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "disputeresolution.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://disputeresolution.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dls-gw.dor.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://dls-gw.dor.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "duahearings.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://duahearings.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "earlyedncareop.eec.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://earlyedncareop.eec.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eeaonline.eea.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://eeaonline.eea.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electionstats.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://electionstats.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://electionstats.state.ma.us/ballot_questions/search/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gateway.edu.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://gateway.edu.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gateway.edu.state.ma.us/stardust/elareactivation",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gateway.edu.state.ma.us/stardust/home",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gatewayccfa.eec.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://gatewayccfa.eec.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gatewayccfa.eec.state.ma.us/account/signin",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.massdot.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://gis.massdot.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "guides.mblc.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://guides.mblc.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://guides.mblc.state.ma.us/elements-of-ux",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hrcms-prod.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://hrcms-prod.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.93",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "icori.chs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://icori.chs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://icori.chs.state.ma.us/icori/ext/breakdown/requestorBreakdown.action?_p=jrSw8VW0a8XpIaUA-PIYygfLhTCq1ydB3ugYX7gNBtPUZAAysFdRiyaqdNUO5qcqfSdBbV4mDr8",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://icori.chs.state.ma.us/icori/ext/breakdown/requestorBreakdown.action?_p=jrSw8VW0a8XpIaUA-PIYypvfDIKTBg8z3ugYX7gNBtPUZAAysFdRiyaqdNUO5qcqfSdBbV4mDr8",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "laserweb.town.barnstable.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://laserweb.town.barnstable.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lcsurveyaccess.jud.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://lcsurveyaccess.jud.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "libraries.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://libraries.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://libraries.state.ma.us/get-started/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licensing.reg.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://licensing.reg.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "masscans.ehs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://masscans.ehs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://masscans.ehs.state.ma.us/ExplainStates/training.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "massclearinghouse.ehs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://massclearinghouse.ehs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://massclearinghouse.ehs.state.ma.us/ADS_CF.html",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://massclearinghouse.ehs.state.ma.us/PROG-BID/BIDLS_page.html",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "massfinance.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://massfinance.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://massfinance.state.ma.us/VendorWeb/MassHealthProviderJA.asp",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "masshealth.ehs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://masshealth.ehs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "matracking.ehs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://matracking.ehs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://matracking.ehs.state.ma.us/EPHT_Program/index.html",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://matracking.ehs.state.ma.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mblc.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mblc.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mblc.state.ma.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mblc.state.ma.us/news/news-releases/2025/nr250711.php",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mircs.chs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mircs.chs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mircsportal.chs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mircsportal.chs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mmis-portal.ehs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mmis-portal.ehs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mspcert.chs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mspcert.chs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mtc.dor.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mtc.dor.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mtrs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://mtrs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://mtrs.state.ma.us/hero-act-deadline-is-approaching/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mtrs.state.ma.us/news/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oasis.massdot.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://oasis.massdot.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://oasis.massdot.state.ma.us/RequestSupport.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publichousingapplication.ocd.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://publichousingapplication.ocd.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://publichousingapplication.ocd.state.ma.us/login_landing/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sandyneck.town.barnstable.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://sandyneck.town.barnstable.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.38",
+          "best_practices_score": "0.44",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://sandyneck.town.barnstable.ma.us/AboutSandyNeck.aspx",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.45",
+          "best_practices_score": "0.48",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.ci.newton.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://selfservice.ci.newton.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.town.canton.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://selfservice.town.canton.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://selfservice.town.canton.ma.us/ess/employmentopportunities/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shaps.massdot.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://shaps.massdot.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://shaps.massdot.state.ma.us/RecoverUsername.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sorb.chs.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://sorb.chs.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tobweb.town.barnstable.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://tobweb.town.barnstable.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://tobweb.town.barnstable.ma.us/BoardsCommittees.asp",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tobweb.town.barnstable.ma.us/Departments/Recreation",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.barnstable.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.barnstable.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.67",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.barnstable.ma.us/BoardsCommittees.asp",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.barnstable.ma.us/Departments/Recreation",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.billerica.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.billerica.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.billerica.ma.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://town.billerica.ma.us/FormCenter/Town-Manager-4/Report-a-Concern-58",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.canton.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.canton.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.18",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://town.canton.ma.us/137/Assessors-Office",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.dartmouth.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.dartmouth.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.dartmouth.ma.us/27/Town-Government",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.dartmouth.ma.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.dennis.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.dennis.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.dennis.ma.us/170/Departments",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.dennis.ma.us/604/Online-Services",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.holland.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.holland.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.holland.ma.us/minutes-and-agendas",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.holland.ma.us/whats-happening",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.orleans.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.orleans.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.orleans.ma.us/9/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://town.orleans.ma.us/948/Alerts-and-Notifications",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.pepperell.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://town.pepperell.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ufr.osd.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://ufr.osd.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.63",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ufr.osd.state.ma.us/WebAccess/BasicSearch.asp",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.63",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "web-server.city.waltham.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://web-server.city.waltham.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wfb.dor.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://wfb.dor.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.lancaster.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.ci.lancaster.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.lancaster.ma.us/173/Community-Development-Planning",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.lancaster.ma.us/AgendaCenter",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.southbridge.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.ci.southbridge.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.southbridge.ma.us/184/Boards-Commissions",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.city.waltham.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.city.waltham.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.city.waltham.ma.us/home/pages/welcome-to-waltham",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.eec.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.eec.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.eec.state.ma.us/SSI_V2/ProfileSetup/CreateProfile.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sec.state.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.sec.state.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.sec.state.ma.us/divisions/accessibility-statement.htm",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sec.state.ma.us/divisions/elections/elections-and-voting.htm",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.adams.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.adams.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.adams.ma.us/adams-free-library/events/38686",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.barnstable.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.barnstable.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.barnstable.ma.us/BoardsCommittees.asp",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.barnstable.ma.us/Departments/Recreation",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.billerica.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.billerica.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.billerica.ma.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.11",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.town.billerica.ma.us/AlertCenter.aspx?AID=Tax-Assessment-Explanation-71",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.buckland.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.buckland.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.buckland.ma.us/home/pages/staff-contacts",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.buckland.ma.us/personnel-board",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.canton.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.canton.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.2",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.town.canton.ma.us/9/Connect",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.canton.ma.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.dartmouth.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.dartmouth.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.dartmouth.ma.us/27/Town-Government",
+          "is_root_page": false,
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.dartmouth.ma.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.dennis.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.dennis.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.dennis.ma.us/170/Departments",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.dennis.ma.us/604/Online-Services",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.duxbury.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.duxbury.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.duxbury.ma.us/employment-volunteer-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.duxbury.ma.us/where",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.hull.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.hull.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.hull.ma.us/departments",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.town.hull.ma.us/treasurer-tax-collector/pages/online-bill-payments",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.northborough.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.northborough.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.northborough.ma.us/home/news/household-hazardous-waste-day-saturday-july-26-2025-9am-12noon",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.orleans.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.orleans.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.orleans.ma.us/1742/Orleans-Fire-Rescue-Station-Headquarters",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.pepperell.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.pepperell.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.pepperell.ma.us/101/Departments",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.plympton.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.plympton.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.plympton.ma.us/home/pages/ricketts-pond-estates-proposed-40b",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.princeton.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.princeton.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.princeton.ma.us/home/news/construction-will-start-wed-july-9-fri-july-11-sam-cobb-road-resurfacing-sam-cobb-rd-will",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.town.princeton.ma.us/home/pages/online-payments",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.raynham.ma.us",
+      "subnational": "Massachusetts",
+      "pages": [
+        {
+          "url": "https://www.town.raynham.ma.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.raynham.ma.us/home/news/unofficial-special-town-election-results-june-24-2025",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    }
+  ]
+}

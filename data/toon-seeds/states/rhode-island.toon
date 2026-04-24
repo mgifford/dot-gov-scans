@@ -1,0 +1,1203 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Rhode Island",
+  "domain_count": 55,
+  "page_count": 108,
+  "domains": [
+    {
+      "canonical_domain": "barrington.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://barrington.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://barrington.ri.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://barrington.ri.gov/451/Public-Notices",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beta.uionline.dlt.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://beta.uionline.dlt.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.46",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://beta.uionline.dlt.ri.gov/forgotUsername",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.46",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://business.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://business.sos.ri.gov/corp/LoginSystem/FormRouter.asp?FilingCode=2180291&NewFormation=True",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://business.sos.ri.gov/uccfiling/ucc/uccmenu.aspx?FilingMethod=I",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cannabislicensing.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://cannabislicensing.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cannabislicensing.ri.gov/ricannabis/s/login/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "catalog.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://catalog.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://catalog.sos.ri.gov/classifications",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://catalog.sos.ri.gov/staff",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "climatechange.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://climatechange.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "datacenter.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://datacenter.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.56",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://datacenter.ride.ri.gov/Home/FileDetail?fileid=1090",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "datadcyf.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://datadcyf.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://datadcyf.ri.gov/policyregs/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dbr.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://dbr.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dbr.ri.gov/gift-card-fraud-mandate",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dlt.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://dlt.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmv.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://dmv.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dmv.ri.gov/online-services",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dmv.ri.gov/services/support-our-troops.php",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "docs.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://docs.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dot.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://dot.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "earlylearningprograms.dhs.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://earlylearningprograms.dhs.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elicensing.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://elicensing.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://elicensing.ri.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eohhs.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://eohhs.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://eohhs.ri.gov/about-eohhs",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eohhs.ri.gov/initiatives/opioid-settlement-municipal-incentive-fund",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://forms.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://forms.sos.ri.gov/contactus.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.48",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gms.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://gms.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gms.ride.ri.gov/DocumentLibrary/Default.aspx?t=638882742109685796",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.7",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthyrhode.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://healthyrhode.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://healthyrhode.ri.gov/HIXWebI3/CreateGenericUserAccount?accountFlow=true",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hr.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://hr.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.47",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://hr.ri.gov/learning",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jury.courts.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://jury.courts.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kidsnet.health.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://kidsnet.health.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://kidsnet.health.ri.gov/kidsnet-prod/forgot_userid_password.do",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.85",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lobbytracker.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://lobbytracker.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://lobbytracker.sos.ri.gov/Login/Register",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "olis.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://olis.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opengov.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://opengov.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://opengov.sos.ri.gov/NewMeetingsFiler/CreatingMeetingFilerUser?topmenuid=104",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://portal.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.72",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://portal.ride.ri.gov/Core/Default/PasswordRecovery",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicportal.courts.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://publicportal.courts.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reportcard.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://reportcard.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://reportcard.ride.ri.gov/Navigate.aspx",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "riap.courts.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://riap.courts.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://riap.courts.ri.gov/riap/viewFaq.do?subAction=6&faqCategory=3",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.46",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ridmvreservations.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://ridmvreservations.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ridmvservices.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://ridmvservices.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ridmvservices.ri.gov/vehicle-lookup",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rijrs.courts.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "http://rijrs.courts.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.64",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rio.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://rio.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rio.ri.gov/lookupaccount?ref=home",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rio.ri.gov/wildlife/harvest",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "riparks.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://riparks.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://riparks.ri.gov/events-rentals/special-use-policy-and-permits",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ripay.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://ripay.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ripay.ri.gov/ACHQuasiPublicPayments.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ripreklottery.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://ripreklottery.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "risegis.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://risegis.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rules.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://rules.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rules.sos.ri.gov/Admin/Login",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rules.sos.ri.gov/Users/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sps.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://sps.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "support.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://support.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://support.ride.ri.gov/support/solutions/articles/32000010569-i-work-for-an-agency-affiliated-with-race-to-the-top-early-learning-challenge-i-need-to-be-setup-w",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tableau.ride.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://tableau.ride.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxportal.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://taxportal.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://taxportal.ri.gov/rptp/portal/home/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijS0MnN09DIy83EODjQwc_R1DTcIcvYAsE_1wQgqigNIGOICjAVB_FCElBbkRBumOiooA7YFcLQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?1dmy&urile=wcm%3apath%3a%2Fitsc_content_en%2Fhome%2Ffaqs%2Fwho%2Bshould%2Buse%2Bthe%2Bonline%2Btaxpayer%2Bportal%2Band%2Bwhat%2Btaxes%2Bcan%2Bbe%2Bfiled&page=itsc.public.home.faqdetail",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://taxportal.ri.gov/rptp/portal/home/liquor_license_renewals/",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "transparency.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://transparency.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://transparency.ri.gov/payroll/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vote.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://vote.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://vote.sos.ri.gov/Elections/VoterParticipationReports",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.barrington.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.barrington.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.barrington.ri.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.barrington.ri.gov/451/Public-Notices",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ccap.dhs.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.ccap.dhs.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.93",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courts.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.courts.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courts.ri.gov/Public-Resources/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crmc.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.crmc.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crmc.ri.gov/faqs.html",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crmc.ri.gov/news/2025_0612_pubhearing.html",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cseinfo.dhs.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.cseinfo.dhs.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cseinfo.dhs.ri.gov/clientPortal/accountCreationOne.do",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.cseinfo.dhs.ri.gov/clientPortal/forgotUsername.do",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.dot.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.dot.ri.gov/projects/WashingtonBridgeClosure",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.film.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "http://www.film.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.55",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.film.ri.gov/documents/ESR.php",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.film.ri.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.55",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ri.gov/press/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.richr.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "http://www.richr.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.38",
+          "seo_score": "1"
+        },
+        {
+          "url": "http://www.richr.ri.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.38",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.sos.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.sos.ri.gov/divisions/business-services",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.sos.ri.gov/divisions/business-services/business-assistant",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tiverton.ri.gov",
+      "subnational": "Rhode Island",
+      "pages": [
+        {
+          "url": "https://www.tiverton.ri.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.54",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.tiverton.ri.gov/departments/taxcollector.php",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    }
+  ]
+}

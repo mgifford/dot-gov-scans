@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Validate URLs for a specific country:
 
 ```bash
-python3 -m src.cli.validate_urls --country iceland --rate-limit 2
+python3 -m src.cli.validate_urls --country texas --rate-limit 2
 ```
 
 Validate all countries:
@@ -40,9 +40,9 @@ python3 -m src.cli.validate_urls --all --rate-limit 2
 ```
 
 Options:
-- `--country <name>` - Specific country to scan (e.g., iceland, france)
+- `--country <name>` - Specific country to scan (e.g., texas, california)
 - `--all` - Scan all countries in the TOON directory
-- `--toon-dir <path>` - Directory containing TOON files (default: data/toon-seeds/countries)
+- `--toon-dir <path>` - Directory containing TOON files (default: data/toon-seeds/states)
 - `--rate-limit <float>` - Maximum requests per second (default: 2.0)
 
 ## Output

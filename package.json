@@ -1,5 +1,5 @@
 {
-  "name": "eu-plus-government-scans-site-tests",
+  "name": "dot-gov-scans-site-tests",
   "private": true,
   "version": "1.0.0",
   "description": "Accessibility smoke tests for the generated GitHub Pages site.",

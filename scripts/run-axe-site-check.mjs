@@ -76,7 +76,8 @@ async function run() {
       await page.goto(url, { waitUntil: "networkidle" });
 
       const results = await new AxeBuilder({ page })
-        .withTags(["wcag2a", "wcag2aa", "wcag21a", "wcag21aa", "wcag22a", "wcag22aa"])
+        // US ADA Title II requires WCAG 2.1 AA — WCAG 2.2 rules are intentionally excluded.
+        .withTags(["wcag2a", "wcag2aa", "wcag21a", "wcag21aa"])
         .analyze();
 
       if (results.violations.length) {

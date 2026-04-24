@@ -1,0 +1,3548 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Arizona",
+  "domain_count": 141,
+  "page_count": 337,
+  "domains": [
+    {
+      "canonical_domain": "aci.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://aci.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://aci.az.gov/capabilities/printing-signage/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "activetransportation.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://activetransportation.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://activetransportation.az.gov/commuting",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://activetransportation.az.gov/transportation-alternatives-program",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "acupuncture.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://acupuncture.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://acupuncture.az.gov/about/faq",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://acupuncture.az.gov/applications-and-forms",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "addpc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://addpc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://addpc.az.gov/events/community-conversation-forum-navajo-nation",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://addpc.az.gov/research-resources",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adjc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://adjc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://adjc.az.gov/adjc-careers/youth-corrections-officer",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adoasurplusauctionpayments.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://adoasurplusauctionpayments.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://adoasurplusauctionpayments.az.gov/node/15",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agic.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://agic.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.93",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://agic.az.gov/agic/participate",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://agic.az.gov/agic/resources",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agriculture.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://agriculture.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://agriculture.az.gov/animals/cruelty-livestock-law",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://agriculture.az.gov/boards-councils",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apaac.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://apaac.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://apaac.az.gov/contact-us-sp-738227848",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://apaac.az.gov/event-calendar/training/trainings/webinar-wednesday-unit-of-prosecution-when-can-you-charge-more-than-one-count-of-the-same-offense",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://app.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://app.az.gov/?lang=en",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appeals2.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://appeals2.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.62",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://appeals2.az.gov/ODSPlus/caseInfo.cfm",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://appeals2.az.gov/ODSPlus/jobs.cfm?jid=33",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.63",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.coconino.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://apps.coconino.az.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aprs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://aprs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asbcs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://asbcs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://asbcs.az.gov/academic-performance/guidance/amendment-request-instructions",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://asbcs.az.gov/new-charter-application",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asdb.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://asdb.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://asdb.az.gov/general-information/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://asdb.az.gov/superintendent/",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aset.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://aset.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://aset.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asmi.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://asmi.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://asmi.az.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://asmi.az.gov/services/reclamation",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "at.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://at.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://at.az.gov/resources/applications",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atoz.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://atoz.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://az.gov/discover",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://az.gov/government",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "az360.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://az360.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://az360.az.gov/all-staffretireemanagers-resources",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://az360.az.gov/quicktabs/nojs/news_tab_list/1",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "azbngateway.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://azbngateway.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://azbngateway.az.gov/content/admin-penalty",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://azbngateway.az.gov/content/donations",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "azcaaa.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://azcaaa.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://azcaaa.az.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://azcaaa.az.gov/node/439",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "azdirect.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://azdirect.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://azdirect.az.gov/search/node",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "azicagateway.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://azicagateway.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://azicagateway.az.gov/node/45",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "azsbe.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://azsbe.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://azsbe.az.gov/news/highlights-recent-state-board-action-june-23-2025",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://azsbe.az.gov/public-meetings",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bbhe.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://bbhe.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://bbhe.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bbhe.az.gov/applying-licensure",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bbhepay.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://bbhepay.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bbhepay.az.gov/fingerprints",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bcb.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://bcb.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://bcb.az.gov/apply",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bcb.az.gov/schools",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bcbpayments.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://bcbpayments.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bcbpayments.az.gov/public-records-reproduction-request",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "benefitoptions.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://benefitoptions.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://benefitoptions.az.gov/employee",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boec.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://boec.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://boec.az.gov/hearings",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "btr.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://btr.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://btr.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "btrpay.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://btrpay.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://btrpay.az.gov/node/19",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "businessonestop.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://businessonestop.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://businessonestop.az.gov/news",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://businessonestop.az.gov/news/arizonas-business-one-stop-revolutionizing-way-arizonans-do-business-human-centric-design",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cbc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://cbc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chiroboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://chiroboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://chiroboard.az.gov/resources/fy-2024-board-annual-report",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clarkdale.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://clarkdale.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://clarkdale.az.gov/129/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://clarkdale.az.gov/27/Your-Government",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cochise.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://cochise.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://cochise.az.gov/161/Courts",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cochise.az.gov/AlertCenter.aspx?AID=CLICK-HERE-FOR-2025-SPECIAL-PRIMARY-ELEC-25",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corrections.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://corrections.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://corrections.az.gov/adcrr-prisons",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://corrections.az.gov/extreme-heat-safety-and-relief-strategy",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://dcs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dcs.az.gov/report-child-abuse",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dema.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://dema.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dema.az.gov/arizona-national-guard",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dema.az.gov/emergency-management",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dentalboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://dentalboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dentalboard.az.gov/applications-and-forms",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dentalpay.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://dentalpay.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dentalpay.az.gov/node/15",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "des.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://des.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://des.az.gov/calendar/2025/07/17/developmental-disabilities-advisory-council-public-forum",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://des.az.gov/services/basic-needs/adult-protective-services",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dffm.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://dffm.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dffm.az.gov/fire",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "difi.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://difi.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://difi.az.gov/general-information",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://difi.az.gov/mailing-lists",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doa.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://doa.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://doa.az.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://doa.az.gov/news/gov-hobbs-orders-flags-half-staff-honor-granite-mountain-hotshots",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dvs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://dvs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dvs.az.gov/services/memorials-burials",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dvs.az.gov/services/veteran-homes-mission",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eagleassessor.co.apache.az.us",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://eagleassessor.co.apache.az.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eagleassessor.coconino.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://eagleassessor.coconino.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ebook.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://ebook.az.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ein.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://ein.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ein.az.gov/emergency-kit-cookoff",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ein.az.gov/node/98",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esuite.co.apache.az.us",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://esuite.co.apache.az.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://esuite.co.apache.az.us/Websites.HR.Portal/ActivateAccount.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fingerprint.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://fingerprint.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://fingerprint.az.gov/application-process",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://fingerprint.az.gov/forms",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "flagstaff.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://flagstaff.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://flagstaff.az.gov/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://flagstaff.az.gov/AlertCenter.aspx?AID=City-in-Stage-2-Fire-Restrictions-28",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gaming.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://gaming.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://gaming.az.gov/boxing",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://gaming.az.gov/resources/charitable-gaming",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gao.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://gao.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://gao.az.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gao.az.gov/news/temporary-month-13-soft-close-june-9-2025",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gcwebinfo.graham.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://gcwebinfo.graham.az.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.ci.yuma.az.us",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://gis.ci.yuma.az.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gohs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://gohs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://gohs.az.gov/enforcement-reporting",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "goyff.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://goyff.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://goyff.az.gov/GYC2025",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://goyff.az.gov/content/domestic-sexual-violence",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "graham.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://graham.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://graham.az.gov/27/Departments",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://graham.az.gov/jobs",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grants.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://grants.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://grants.az.gov/grant-resources-1",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "greenlee.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://greenlee.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://greenlee.az.gov/ova_dep/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grrc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://grrc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://grrc.az.gov/seminars",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homeopath.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://homeopath.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://homeopath.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "housing.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://housing.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://housing.az.gov/about/open-funding-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "housingsearch.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://housingsearch.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://housingsearch.az.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hr.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://hr.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://hr.az.gov/about/resources/family-leave-expansion",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "irc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://irc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://irc.az.gov/public-meetings",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jerome.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://jerome.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://jerome.az.gov/alerts",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://jerome.az.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jt.co.apache.az.us",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://jt.co.apache.az.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jt.co.apache.az.us/index.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "land.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://land.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://land.az.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lenders.housing.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://lenders.housing.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.89",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "massagetherapy.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://massagetherapy.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://massagetherapy.az.gov/complaint-form",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mountainline.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://mountainline.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://mountainline.az.gov/trip-planner-arrivals/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nciaboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://nciaboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://nciaboard.az.gov/news/rulemaking-notice",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nciaboard.az.gov/resources/how-start-administrator-license-application",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nd.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://nd.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nd.az.gov/medical-marijuana",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oeo.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://oeo.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://oeo.az.gov/afa",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oeo.az.gov/workforce-planning/builditaz",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.asbcs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://online.asbcs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://online.asbcs.az.gov/complaints/info",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openbooks.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://openbooks.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://openbooks.az.gov/help-and-info",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://openbooks.az.gov/node/24",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "optometry.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://optometry.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://optometry.az.gov/about/services/public-information-and-records-request",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://optometry.az.gov/file-complaint",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osi.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://osi.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://osi.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ot.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://ot.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ot.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "our.willcox.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://our.willcox.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://our.willcox.az.gov/willcoxar/calendar",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parcelinquirytreasurer.cochise.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://parcelinquirytreasurer.cochise.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://parcelinquirytreasurer.cochise.az.gov/Main/ParcelSearch",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "paydocs.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://paydocs.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pharmacy.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://pharmacy.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://pharmacy.az.gov/node/1171",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pharmacypmp.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://pharmacypmp.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://pharmacypmp.az.gov/resources/arizona-cspmp-annual-report-2024",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pimajury.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://pimajury.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pinaljury.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://pinaljury.az.gov/",
+          "is_root_page": true,
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pioneershome.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://pioneershome.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://pioneershome.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "podiatry.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://podiatry.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://podiatry.az.gov/about/statutes-and-rules",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "post.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://post.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://post.az.gov/training/advanced-training/azpost-partnerships",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ppse.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://ppse.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://ppse.az.gov/rules-revised",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ppse.az.gov/student",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "problemgambling.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://problemgambling.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://problemgambling.az.gov/self-exclusion",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://problemgambling.az.gov/sportswagering",
+          "is_root_page": false,
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psychboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://psychboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://psychboard.az.gov/investigations",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://psychboard.az.gov/news/notice-recent-steven-marshall-scam",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ptboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://ptboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://ptboard.az.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ptboard.az.gov/resources/new-applicants",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicaccess.cochise.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "http://publicaccess.cochise.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicmeetings.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://publicmeetings.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://publicmeetings.az.gov/arizona-public-meetings",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://publicmeetings.az.gov/executive-tower-directory",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "remotework.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://remotework.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://remotework.az.gov/employee-resources",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://remotework.az.gov/program-information",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reproductivehealth.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://reproductivehealth.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://reproductivehealth.az.gov/es/home",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://reproductivehealth.az.gov/know-the-facts",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "resilient.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://resilient.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://resilient.az.gov/news/governors-office-resiliency-launches-first-phase-efficiency-arizona-implement-energy-saving",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://resilient.az.gov/resiliency-programs/energy-programs/climate-pollution-reduction-grant-cprg",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "respiratoryboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://respiratoryboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://respiratoryboard.az.gov/about/leadership",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://respiratoryboard.az.gov/agendas-minutes",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "results.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://results.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://results.az.gov/form/newsletter-signup",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://results.az.gov/news-events",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "roc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://roc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://roc.az.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://roc.az.gov/get-a-license-checklist",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ruco.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://ruco.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ruco.az.gov/ruco-staff",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schoolspending.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://schoolspending.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://schoolspending.az.gov/compare/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://schoolspending.az.gov/find/as-parent-guardian",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://secc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://secc.az.gov/charity-corner/charity-application",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://secc.az.gov/events-and-promotions/sports-promos",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "seethemoney.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://seethemoney.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://seethemoney.az.gov/Reporting/Explore",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.coconino.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://selfservice.coconino.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://selfservice.coconino.az.gov/ess/login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sfb.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://sfb.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://sfb.az.gov/resources/new-school-facilities",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sfmd.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://sfmd.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://sfmd.az.gov/community-safety-education/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://sfmd.az.gov/home/disclaimer/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "spo.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://spo.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://spo.az.gov/node/69",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://spo.az.gov/suppliers",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "staterisk.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://staterisk.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://staterisk.az.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tolleson.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://tolleson.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://tolleson.az.gov/15",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://tolleson.az.gov/3/Departments",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tourism.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://tourism.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tourism.az.gov/arizona-visitor-information-centers/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tourism.az.gov/data-trends/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "travel-id-documents.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://travel-id-documents.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://travel-id-documents.az.gov/scheduling",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "usetax.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://usetax.az.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://usetax.az.gov/Home/VehicleUseTaxCalculator?Length=23",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "venpay.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://venpay.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.74",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vetboard.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://vetboard.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vetboard.az.gov/licensing",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vetboard.az.gov/licensing/license-renewal",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visitwillcox.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://visitwillcox.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://visitwillcox.az.gov/events",
+          "is_root_page": false,
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://visitwillcox.az.gov/lodging",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wellness.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://wellness.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://wellness.az.gov/health-management",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wildlandfire.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://wildlandfire.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://wildlandfire.az.gov/file/105",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://wildlandfire.az.gov/wildfire-situation",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "willcox.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://willcox.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://willcox.az.gov/directory",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://willcox.az.gov/parks-recreation",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.afma.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.afma.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.afma.az.gov/events",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.afma.az.gov/index.asp?SEC=56FB6819-C8E4-4775-B22B-7BE11AB51110",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.appeals2.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.appeals2.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.62",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://www.appeals2.az.gov/ODSPlus/caseInfo.cfm",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.53",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://www.appeals2.az.gov/ODSPlus/jobs.cfm?jid=33",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.63",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.campverde.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.campverde.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.campverde.az.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cbc.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.cbc.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.quartzsite.az.us",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.ci.quartzsite.az.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ci.quartzsite.az.us/community/welcome_guide.php",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ci.quartzsite.az.us/i_want_to/contact_us.php",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.clarkdale.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.clarkdale.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.clarkdale.az.gov/129/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.clarkdale.az.gov/27/Your-Government",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cochise.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.cochise.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.cochise.az.gov/161/Courts",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.cochise.az.gov/AlertCenter.aspx?AID=CLICK-HERE-FOR-2025-SPECIAL-PRIMARY-ELEC-25",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.coconino.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.coconino.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.59",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.coconino.az.gov/AlertCenter.aspx?AID=Fire-Restrictions-Currently-In-Effect-fo-65",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.coconino.az.gov/AlertCenter.aspx?AID=White-Sage-Fire-Evacuation-Notice-66",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.flagstaff.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.flagstaff.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.flagstaff.az.gov/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.flagstaff.az.gov/AlertCenter.aspx?AID=City-in-Stage-2-Fire-Restrictions-28",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.graham.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.graham.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.graham.az.gov/27/Departments",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.graham.az.gov/jobs",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mohavecourts.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.mohavecourts.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.mohavecourts.az.gov/forms-form-kits-page",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.mohavecourts.az.gov/node/588",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pimatown.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.pimatown.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.pimatown.az.gov/alert_detail_T27_R1.php",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.pimatown.az.gov/town_code/index.php",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.scfmd.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.scfmd.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.scfmd.az.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.thatcher.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.thatcher.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.thatcher.az.gov/government/agendas",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.thatcher.az.gov/residents/calendar",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tolleson.az.gov",
+      "subnational": "Arizona",
+      "pages": [
+        {
+          "url": "https://www.tolleson.az.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.tolleson.az.gov/15",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.tolleson.az.gov/3/Departments",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Hawaii",
+  "domain_count": 3,
+  "page_count": 8,
+  "domains": [
+    {
+      "canonical_domain": "jimspss1.courts.state.hi.us",
+      "subnational": "Hawaii",
+      "pages": [
+        {
+          "url": "http://jimspss1.courts.state.hi.us:8080/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.29",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://jimspss1.courts.state.hi.us:8080/eCourt",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.29",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jimspss1.courts.state.hi.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://jimspss1.courts.state.hi.us/eCourt",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicweb1.co.maui.hi.us",
+      "subnational": "Hawaii",
+      "pages": [
+        {
+          "url": "https://publicweb1.co.maui.hi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courts.state.hi.us",
+      "subnational": "Hawaii",
+      "pages": [
+        {
+          "url": "https://www.courts.state.hi.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courts.state.hi.us/remote-court-hearings-via-zoom-or-webex",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.courts.state.hi.us/self-help/landlord/tenant_claims",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    }
+  ]
+}

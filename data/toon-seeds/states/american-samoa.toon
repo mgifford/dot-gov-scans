@@ -1,0 +1,83 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "American Samoa",
+  "domain_count": 3,
+  "page_count": 7,
+  "domains": [
+    {
+      "canonical_domain": "legalaffairs.as.gov",
+      "subnational": "American Samoa",
+      "pages": [
+        {
+          "url": "https://legalaffairs.as.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://legalaffairs.as.gov/attorney-generals",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portadministration.as.gov",
+      "subnational": "American Samoa",
+      "pages": [
+        {
+          "url": "https://portadministration.as.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://portadministration.as.gov/airports/airport-management",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://portadministration.as.gov/seaports/local-seaports",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doc.as.gov",
+      "subnational": "American Samoa",
+      "pages": [
+        {
+          "url": "https://www.doc.as.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doc.as.gov/applyforbusinesslicense",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

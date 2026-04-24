@@ -1,0 +1,5018 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "DC",
+  "domain_count": 211,
+  "page_count": 486,
+  "domains": [
+    {
+      "canonical_domain": "311.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://311.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://311.dc.gov/citizen/s/service-requests?servicerequested=all",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "abca.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://abca.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://abca.dc.gov/service/meeting-board-agendas",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aca20.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://aca20.dcra.dc.gov/",
+          "is_root_page": true,
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "accessdc.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://accessdc.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://accessdc.dcra.dc.gov/privacy",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apply.myschooldc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://apply.myschooldc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://apply.myschooldc.dc.gov/Account/Register.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apprenticeship.does.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://apprenticeship.does.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://apprenticeship.does.dc.gov/Home/Apprentices",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "archives.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://archives.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://archives.dc.gov/advancedsearch",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://archives.dc.gov/collections",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asc.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://asc.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.19",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://asc.ddot.dc.gov/pages/clear-lanes",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://asc.ddot.dc.gov/pages/school-stop-arm-safety-program",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aspen.dcps.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://aspen.dcps.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://aspen.dcps.dc.gov/aspen/passwordRecovery.do?mobile=1&deploymentId=dcps",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atlasplus.dcgis.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "http://atlasplus.dcgis.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.46",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bega.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://bega.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bega.dc.gov/service/advice",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bikelanes.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://bikelanes.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bikelanes.ddot.dc.gov/pages/strategicbikeplan",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "business.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://business.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://business.dc.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://business.dc.gov/en-US/~/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "buspriority.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://buspriority.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.11",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://buspriority.ddot.dc.gov/pages/473d964c7d424f5c9c47a98e66614869",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://buspriority.ddot.dc.gov/pages/spotimprovements",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cab.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cab.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://cab.dc.gov/node/204082",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cap.dhs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cap.dhs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://cap.dhs.dc.gov/self/terms-of-use",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careerpaths.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://careerpaths.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.61",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://careerpaths.dc.gov/page/district-demand",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://careers.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.56",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "certifi.dob.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://certifi.dob.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://certifi.dob.dc.gov/app",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cfo.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cfo.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://cfo.dc.gov/page/long-range-capital-financial-plan-report",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cfo.dc.gov/service/annual-comprehensive-financial-reports-0",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cfsa.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cfsa.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://cfsa.dc.gov/page/office-thriving-families-otf",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cfsa.dc.gov/page/partners-kids-and-families-pkf",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cic.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cic.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://cic.dc.gov/events?field_date_time_rep_value%5Bvalue%5D%5Bdate%5D=&field_date_time_rep_value2%5Bvalue%5D%5Bdate%5D=&keys=&type=All&field_topic_tid=All&field_audience_tid=All&field_ward_tid=All&field_police_service_area_tid=All&sort_by=field_date_time_rep_value&sort_order=DESC",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "citizenaccess.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://citizenaccess.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://citizenaccess.dc.gov/dc/CommunityView/account/new",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.63",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cjcc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cjcc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://cjcc.dc.gov/page/history-justis-2002-2022",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cjcc.dc.gov/page/subscribe-criminal-justics-coordinating-council",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cjdt.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cjdt.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://cjdt.dc.gov/page/about-cjdt",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "collectionday.dcgis.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "http://collectionday.dcgis.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.5",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "communityaffairs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://communityaffairs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://communityaffairs.dc.gov/content/community-grant-program",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.68",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://communityaffairs.dc.gov/content/resident-resources",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "connave-streetscape.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://connave-streetscape.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://connave-streetscape.ddot.dc.gov/pages/53d4090cafaf44eda3b9284544f8d898",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://connave-streetscape.ddot.dc.gov/pages/public-engagement",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "contracts.ocp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://contracts.ocp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://contracts.ocp.dc.gov/agencies",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corponline.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://corponline.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://corponline.dcra.dc.gov/Home.aspx/index",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corponline.dlcp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://corponline.dlcp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://corponline.dlcp.dc.gov/Home.aspx/index",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crimecards.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://crimecards.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "csgc.oag.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://csgc.oag.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cson.oag.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://cson.oag.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dacl.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dacl.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dacl.dc.gov/page/iona-senior-services-resource-guide",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dacl.dc.gov/service/transportation",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dataviz1.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dataviz1.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dbh.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dbh.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dbh.dc.gov/service/children-youth-and-family-services",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dbh.dc.gov/service/community-response-team",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dbh.sp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dbh.sp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dbh.sp.dc.gov/register",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.33",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dc.gov/release/mayor-bowser-invites-residents-celebrate-first-ever-capitol-hill-open-streets-event",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dc.gov/service/basic-business-license-maintenance",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dc2050.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dc2050.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.22",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dc2050.dc.gov/pages/93420c25609c46b497b527d9ae22e80e",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dc2050.dc.gov/search?collection=appAndMap",
+          "is_root_page": false,
+          "performance_score": "0",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcarts.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcarts.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dcarts.dc.gov/node/404502",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcarts.dc.gov/service/cah-grants",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.68",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcforms.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcforms.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dcforms.dc.gov/address/executive-building",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dchealth.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dchealth.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dchealth.dc.gov/release/dc-health-warns-health-professional-license-scam",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dchealth.dc.gov/vital-records",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dchr.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dchr.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dchr.dc.gov/2025-Financially-Fit-Live",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcia.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcia.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dcia.dc.gov/page/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcnet.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcnet.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dcnet.dc.gov/page/community-anchor-profiles",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcnet.dc.gov/service/support-services",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dconeapp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dconeapp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.82",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://dconeapp.dc.gov/news",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcoz.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcoz.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dcoz.dc.gov/page/determine-which-zoning-department-contact-your-zoning-matters",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcoz.dc.gov/service/watch-live-virtual",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcpaidfamilyleave.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcpaidfamilyleave.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.82",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dcpaidfamilyleave.dc.gov/apply/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcpl.sp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcpl.sp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcps.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcps.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dcps.dc.gov/fytp",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcraonline-rms.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcraonline-rms.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dcraonline-rms.dcra.dc.gov/SurDocsPublic/faces/t0.jsp",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcratransition.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcratransition.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcrb.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcrb.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dcrb.dc.gov/node/1586421",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcregs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcregs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://dcregs.dc.gov/Contact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcwet.dhs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcwet.dhs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dcwet.dhs.dc.gov/Webforms/UTA",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dcwet.dhs.dc.gov/Webforms/UserDashboard.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcworks.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dcworks.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dcworks.dc.gov/page/about-us-6",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcworks.dc.gov/page/programs-and-services-dcworks",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dda.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dda.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ddc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ddc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ddc.dc.gov/page/2027-2031-ddc-state-plan",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ddc.dc.gov/release/el-consejo-de-discapacidades-de-desarrollo-del-distrito-de-colombia-ddc-celebrar%C3%A1-audiencias",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.2",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ddot.dc.gov/page/projects-and-programs",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ddot.dc.gov/release/martin-luther-king-jr-ave-se-and-howard-rd-se-intersection-work-begin-july-7",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dds.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dds.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dds.dc.gov/node/1135307",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dds.dc.gov/page/dc-department-disability-services-dds-housing-resource-guide",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "des.dslbd.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://des.dslbd.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://des.dslbd.dc.gov/Registration",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://des.dslbd.dc.gov/s/login/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfhv.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dfhv.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dfhv.dc.gov/page/dc-schoolconnect",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dfhv.dc.gov/service/client-and-customer-services",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dfs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dfs.dc.gov/page/crime-scene-sciences-division",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dfs.dc.gov/release/statement-mayor-bowser-reaccreditation-forensic-biology-and-forensic-chemistry-units-0",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dgs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dgs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dgs.dc.gov/page/active-solicitations",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dgs.dc.gov/page/spring-summer-readiness-operations",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhcd.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dhcd.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "best_practices_score": "0.52",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dhcd.dc.gov/publication/2025-low-income-housing-tax-credit-lihtc-qualified-allocation-plan-qap",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dhcd.dc.gov/solicitations",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhcf.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dhcf.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dhcf.dc.gov/page/about-dhcf",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dhs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.68",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dhs.dc.gov/page/apply-recertify-benefits",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.67",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dhs.dc.gov/page/what-you-can-do-protect-your-benefits",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.68",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "disb.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://disb.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://disb.dc.gov/page/earned-income-tax-credit-campaign",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://disb.dc.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "districtdirect.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://districtdirect.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dlcp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dlcp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.68",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dlcp.dc.gov/newsroom?field_date_value%5Bmin%5D%5Bdate%5D=&field_date_value%5Bmax%5D%5Bdate%5D=&keys=&field_release_type_tid=21&sort_by=field_date_value&sort_order=DESC",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dlcp.dc.gov/service/obtain-documents-forms-and-records",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.67",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dme.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dme.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmhhs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dmhhs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dmhhs.dc.gov/page/encampments",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dmhhs.dc.gov/service/age-friendly-dc",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmped.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dmped.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dmped.dc.gov/page/dc-venture-capital-program",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dmped.dc.gov/service/grant-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmpsj.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dmpsj.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dmpsj.dc.gov/page/safe-commercial-corridors-fy-26",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dmv.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dmv.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dmv.dc.gov/service/for-new-district-residents",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dmv.dc.gov/service/new-look-new-security-same-you",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "best_practices_score": "0.52",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dob.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dob.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dob.dc.gov/release/department-buildings-issues-2000-violations-against-razjooyan-associated-properties-after",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dob.dc.gov/service/appeal-stop-work-order",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://doc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://doc.dc.gov/service/online-scheduling-video-visitationscheduling-face-face-visitation",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doee.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://doee.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://doee.dc.gov/node/16802",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doee.dc.gov/service/urban-agriculture",
+          "is_root_page": false,
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "does.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://does.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.68",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://does.dc.gov/release/mayor-bowser-kicks-46th-year-iconic-mayor-marion-s-barry-summer-youth-employment-program%E2%80%AF",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://does.dc.gov/service/federal-government-shutdown-frequently-asked-questions",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "does.pflbas.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://does.pflbas.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://does.pflbas.dc.gov/vosnet/ContactUs.aspx?tab=2",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpr.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dpr.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dpr.dc.gov/findapool",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dpr.dc.gov/permits",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpw.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dpw.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.54",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dpw.dc.gov/node/1684121",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dpw.dc.gov/node/1770066",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dslbd.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dslbd.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://dslbd.dc.gov/greenbook",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "best_practices_score": "0.52",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dslbd.dc.gov/service/current-funding-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dtap.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dtap.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dtap.ddot.dc.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dtap.ddot.dc.gov/Project/Procurement",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dyrs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://dyrs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dyrs.dc.gov/page/about-dyrs-0",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dyrs.dc.gov/page/achievement-centers",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecis.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ecis.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecourt.oah.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ecourt.oah.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edpm.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://edpm.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://edpm.dc.gov/issuances/impact-non-pay-statuses-employee-deductions-and-benefit-programs/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edscape.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://edscape.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://edscape.dc.gov/node/1393451",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efiler.bega.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://efiler.bega.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://efiler.bega.dc.gov/LobbyistAccount/Login",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efiling.ocf.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://efiling.ocf.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://efiling.ocf.dc.gov/ContributionExpenditure",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eip.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://eip.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://eip.osse.dc.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "emancipation.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://emancipation.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://emancipation.dc.gov/page/dc-emancipation-day-commission",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "enrolldcps.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://enrolldcps.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://enrolldcps.dc.gov/node/41",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.71",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://enrolldcps.dc.gov/node/76",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "entertainment.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://entertainment.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://entertainment.dc.gov/events",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://entertainment.dc.gov/page/cao-biographies",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eplan9x.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://eplan9x.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "erap.dhs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://erap.dhs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://erap.dhs.dc.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://erap.dhs.dc.gov/FAQs",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "es.does.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://es.does.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://es.does.dc.gov/accesibilidad/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://es.does.dc.gov/esvideoUI/story_html5.html",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esa.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://esa.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://esa.dc.gov/service/dc-evacuation-route-planning",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://esa.dc.gov/service/request-data-sheets-through-msdsonline",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ess.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ess.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "essp.does.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://essp.does.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fedsupport.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://fedsupport.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://fedsupport.dc.gov/page/capital-area-food-bank",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fems.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://fems.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "best_practices_score": "0.52",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://fems.dc.gov/page/fireworks-2025",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://forms.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.59",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://forms.dc.gov/ng/signup",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "frspoversight.dhs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://frspoversight.dhs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://frspoversight.dhs.dc.gov/Identity/Account/Register",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "grants.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://grants.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://grants.osse.dc.gov/info/training",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "greatstreets.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://greatstreets.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://greatstreets.dc.gov/page/all-grantees-2024",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://greatstreets.dc.gov/service/grantees-corner",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "handbook.dcoz.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://handbook.dcoz.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://handbook.dcoz.dc.gov/pages/definitions",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hbx.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://hbx.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://hbx.dc.gov/node/556702",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthcareombudsman.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://healthcareombudsman.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://healthcareombudsman.dc.gov/node/965652",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://healthcareombudsman.dc.gov/page/health-care-tap",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "helc.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://helc.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://helc.osse.dc.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "housing.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://housing.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://housing.dc.gov/page/housing-dc-resident-resources",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://housing.dc.gov/resourcesforlearning",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hsema.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://hsema.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://hsema.dc.gov/page/alertdc",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://hsema.dc.gov/service/plan-special-event",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ids.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ids.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://ids.osse.dc.gov/dashboard",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inauguration.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://inauguration.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://inauguration.dc.gov/page/accessing-60th-presidential-inauguration",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://inauguration.dc.gov/release/new-access-point-presidential-inaugural-parade-capital-one-arena-2",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inspections.dob.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://inspections.dob.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://inspections.dob.dc.gov/forms/business_license_rental_housing_inspection/step_1",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jnc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://jnc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://jnc.dc.gov/publication/report-commission-recom",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jnc.dc.gov/service/evaluate-candidates",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "joindcps.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://joindcps.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://joindcps.dc.gov/privacy-policy",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://joindcps.dc.gov/rsp-applications",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "joindcsbravest.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://joindcsbravest.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://joindcsbravest.dc.gov/page/recruitment",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://joindcsbravest.dc.gov/release/firefighter-emt-register-november-12-2024",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "joinmpd.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://joinmpd.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://joinmpd.dc.gov/basic-page-2020/mpd-benefits",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "learn24.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://learn24.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://learn24.dc.gov/page/most-dc-program-finder",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lottery.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://lottery.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.dcoz.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://maps.dcoz.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://maps.dcoz.dc.gov/casesdashboard/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps2.dcgis.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://maps2.dcgis.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://maps2.dcgis.dc.gov/dcgis/rest/services/OCF_Campaign_Finance_Application/MapServer",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mayor.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mayor.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://mayor.dc.gov/page/mayor-government-services",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mayor.dc.gov/release/mayor-bowser-presents-fiscal-year-2026-budget-grow-dc",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mbt-forttotten-takoma.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mbt-forttotten-takoma.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mbt-forttotten-takoma.ddot.dc.gov/feedback/surveys/ce74faba4dc54a30ac6ae6fd830df712",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "missing.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://missing.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://missing.dc.gov/biography/female-2826",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "most.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://most.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://most.dc.gov/en-US/logsupportreq/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mota.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mota.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://mota.dc.gov/page/join-board-or-commission",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mota.dc.gov/release/mayor-bowser-announces-key-appointments-may-7-2024",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mpdc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mpdc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://mpdc.dc.gov/page/district-crime-data-glance",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mpdc.dc.gov/page/working-together-mpdc",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mpdccr.mpdc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mpdccr.mpdc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mpdrequest.mpdc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mpdrequest.mpdc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://mpdrequest.mpdc.dc.gov/Support.aspx",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mybusiness.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mybusiness.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mychildcare.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mychildcare.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mychildcare.dc.gov/Home/SearchFacilities",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mychildcare.dc.gov/MyChildCare/home",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mytax.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://mytax.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nap.os.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://nap.os.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oag.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://oag.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oag.dc.gov/about-oag/our-structure-divisions/about-attorney-general",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oag.dc.gov/release/attorney-general-schwalb-recovers-over-300000",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oah.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://oah.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oah.dc.gov/page/filings-forms",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oah.dc.gov/page/help",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oanc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://oanc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oanc.dc.gov/basic-page/about-oanc",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oanc.dc.gov/release/charter-738-news-march-2025-oancs-quarterly-newsletter",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oca.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://oca.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://oca.dc.gov/newsroom",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oca.dc.gov/page/about-oca",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ocf.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ocf.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ocf.dc.gov/page/campaign-finance-enforcement",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ocme.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ocme.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ocme.dc.gov/page/2022-maternal-mortality-review-committee-mmrc-annual-report",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ocme.dc.gov/service/public-dispositions",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ocp.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ocp.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "best_practices_score": "0.52",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://ocp.dc.gov/service/procurement-center-excellence",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "octo.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://octo.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://octo.dc.gov/cybersecurity",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://octo.dc.gov/service/apply-dc-one-card",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "odr.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://odr.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "best_practices_score": "0.52",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://odr.dc.gov/page/are-you-prepared-emergency",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://odr.dc.gov/service/agency-ada-coordinators",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ogag.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ogag.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ogag.dc.gov/page/open-government-advisory-group-recommendations",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ohr.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ohr.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ohr.dc.gov/page/public-comment-ohr-strategic-action-plan",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ohr.dc.gov/service/know-your-rights-presentations-outreach",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oig.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://oig.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oig.dc.gov/node/1836",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oig.dc.gov/node/1865",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://onse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "best_practices_score": "0.52",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://onse.dc.gov/service/family-and-survivor-support",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://onse.dc.gov/service/pathways-program",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opendata.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://opendata.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.19",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://opendata.dc.gov/pages/apps-and-maps",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openstreets.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://openstreets.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://openstreets.dc.gov/pages/volunteer-at-open-streets",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://openstreets.dc.gov/search?collection=appAndMap",
+          "is_root_page": false,
+          "performance_score": "0",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opr.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://opr.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://opr.dc.gov/requestrecords",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ora-cfo.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ora-cfo.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ora-cfo.dc.gov/page/reports-publications",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ora-cfo.dc.gov/release/ocfo-releases-june-2025-revenue-estimates",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "orchard.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://orchard.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://orchard.osse.dc.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "orm.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://orm.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://orm.dc.gov/page/filing-workers-compensation-claim-district-columbia",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://orm.dc.gov/service/filing-tort-liability-claims",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "os.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://os.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://os.dc.gov/service/ceremonial-services",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://osse.dc.gov/ed-credentials",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://osse.dc.gov/page/2024-osse-annual-report-recovery-renewal-accelerating-progress-together",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ota.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ota.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ota.dc.gov/release/rhc-publishes-new-rent-increase-caps-25-elderlydisability-tenants-48-other-rent-controlled",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ota.dc.gov/service/ota-housing-assistance-and-community-service",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "otr.cfo.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://otr.cfo.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://otr.cfo.dc.gov/page/certificate-clean-hands",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ouc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ouc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ouc.dc.gov/page/311-about",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ouc.dc.gov/page/junior-academy",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ourrfk.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ourrfk.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ourrfk.dc.gov/page/our-history-0",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ourrfk.dc.gov/page/sign-receive-updates-our-vision-rfk",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ovsjg.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ovsjg.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://ovsjg.dc.gov/cameras",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ovsjg.dc.gov/service/dc-victim-hotline",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parent.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://parent.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permitwizard.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://permitwizard.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "planning.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://planning.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://planning.dc.gov/node/1777851",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://planning.dc.gov/node/885932",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "policecomplaints.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://policecomplaints.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://policecomplaints.dc.gov/service/mediation-service",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://policecomplaints.dc.gov/service/toll-free-number-866-588-0569",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "profiles.dcps.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://profiles.dcps.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://profiles.dcps.dc.gov/Amidon-Bowen+Elementary+School",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://profiles.dcps.dc.gov/Bard+High+School+Early+College+DC+(Bard+DC)",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "projects.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://projects.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.22",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://projects.ddot.dc.gov/pages/programs",
+          "is_root_page": false,
+          "performance_score": "0.13",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertyquest.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://propertyquest.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ready.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://ready.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ready.dc.gov/documents/0575ac317171422caed7c5fdd6bea94b/explore",
+          "is_root_page": false,
+          "performance_score": "0.01",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ready.dc.gov/pages/assess-your-risk",
+          "is_root_page": false,
+          "performance_score": "0.16",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rentregistry.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://rentregistry.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://rentregistry.dc.gov/SignIn?returnUrl=%2F",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://rentregistry.dc.gov/welcome-housing-providers",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reuse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://reuse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://reuse.dc.gov/page/reuse-directory",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "best_practices_score": "0.68",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "safepassage.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://safepassage.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://safepassage.dc.gov/page/faqs-01",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://safepassage.dc.gov/page/safe-passage-priority-areas-2024-2025",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sboe.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://sboe.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://sboe.dc.gov/page/roles",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scdc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://scdc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://scdc.dc.gov/page/published-scdc-annual-reports",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdc.dc.gov/service/training-materials",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scholarships.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://scholarships.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.81",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schoolreportcard.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://schoolreportcard.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scout.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://scout.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://scout.dcra.dc.gov/resouces-9986",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sexoffender.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://sexoffender.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://sexoffender.dc.gov/disclaimer",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sharedmobility.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://sharedmobility.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sharedmobility.ddot.dc.gov/pages/provide-feedback",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sharedmobility.ddot.dc.gov/search?collection=appAndMap",
+          "is_root_page": false,
+          "performance_score": "0",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shorttermrentals.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://shorttermrentals.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://shorttermrentals.dc.gov/MyServices",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.78",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sled.osse.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://sled.osse.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sled.osse.dc.gov/vPage/SLEDTrainingCaldenar/2588/0",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "solarforall.doee.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://solarforall.doee.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.2",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://solarforall.doee.dc.gov/pages/1a443eef00dd4063b4cd651d025b9452",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://solarforall.doee.dc.gov/search?collection=appAndMap",
+          "is_root_page": false,
+          "performance_score": "0",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "specialeducation.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://specialeducation.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://specialeducation.dc.gov/page/special-education-eligibility-implementation",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://specialeducation.dc.gov/page/who-we-are",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "start.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://start.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://start.dc.gov/page/hr-information-coronavirus-reponse",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "statehood.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://statehood.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://statehood.dc.gov/page/contact-congress",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://statehood.dc.gov/page/why-statehood-dc",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stay.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://stay.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.79",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://stay.dc.gov/ko/home",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://stay.dc.gov/zh-hant/home",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "summer.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://summer.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://summer.dc.gov/page/support-parents-and-families",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://summer.dc.gov/page/things-to-do",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "summerjobs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://summerjobs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.71",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://summerjobs.dc.gov/page/mbsyep",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://summerjobs.dc.gov/page/scholarships",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sunbucks.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://sunbucks.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://sunbucks.dc.gov/page/sunbucks-frequently-asked-questions",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://sunbucks.dc.gov/page/what-dc-sun-bucks",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sustainable.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://sustainable.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.7",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://sustainable.dc.gov/page/sustainable-dc-newsletter",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "syip.does.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://syip.does.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tertius.dcra.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://tertius.dcra.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://tertius.dcra.dc.gov/customers",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "thelabprojects.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://thelabprojects.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://thelabprojects.dc.gov/public-safety",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tops.ddot.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://tops.ddot.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.7",
+          "seo_score": "0.25"
+        },
+        {
+          "url": "https://tops.ddot.dc.gov/DDOTPERMITSYSTEM/DDOTPERMITonline/MapLookup.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.7",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trainingtrack.hsema.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://trainingtrack.hsema.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trees.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://trees.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.26",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://trees.dc.gov/pages/outreach",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://trees.dc.gov/pages/tree-services",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unclaimedproperty.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://unclaimedproperty.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://unclaimedproperty.dc.gov/app/claim-search",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unemployment.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://unemployment.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.7",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://unemployment.dc.gov/page/overview-ui-benefits",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://unemployment.dc.gov/page/prevent-fraud",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vaccinerecord.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://vaccinerecord.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vendorportal.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://vendorportal.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "video.oct.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://video.oct.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visionzero.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://visionzero.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://visionzero.dc.gov/pages/crash-analysis",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visitation.doc.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://visitation.doc.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://visitation.doc.dc.gov/VisitorKiosk/app?component=englishButton&page=Home&service=direct&session=T&sp=Sen_US",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://visitation.doc.dc.gov/app;jsessionid=CFE5677CFDFE73FC1BA1E6C7DA1D1764?component=registerToday&page=LoginPage&service=direct&session=T",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wallcheck.dob.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://wallcheck.dob.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://wallcheck.dob.dc.gov/app",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.does.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://webapps.does.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://webapps.does.dc.gov/BAMOnline",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dcregs.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://www.dcregs.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.dcregs.dc.gov/Contact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.frontdoor.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://www.frontdoor.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.frontdoor.dc.gov/help-maintaining-saving-money-on-my-home",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.frontdoor.dc.gov/take-a-short-quiz",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oig.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://www.oig.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.oig.dc.gov/node/1836",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.oig.dc.gov/node/1865",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "zerowaste.dc.gov",
+      "subnational": "DC",
+      "pages": [
+        {
+          "url": "https://zerowaste.dc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://zerowaste.dc.gov/page/plasticbagremoval",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://zerowaste.dc.gov/page/resources-multi-family",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        }
+      ]
+    }
+  ]
+}

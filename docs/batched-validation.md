@@ -47,7 +47,7 @@ The `validation_batch_state` table tracks cycle progress:
 ```sql
 CREATE TABLE validation_batch_state (
     cycle_id TEXT NOT NULL,           -- Format: YYYYMMDD-HHMMSS
-    country_code TEXT NOT NULL,       -- e.g., "FRANCE", "GERMANY"
+    country_code TEXT NOT NULL,       -- e.g., "TEXAS", "CALIFORNIA"
     status TEXT NOT NULL,             -- pending, processing, completed, failed
     started_at TEXT,                  -- ISO timestamp
     completed_at TEXT,                -- ISO timestamp
@@ -86,7 +86,7 @@ Validate a specific country:
 
 ```bash
 python3 -m src.cli.validate_urls_batch \
-  --country FRANCE \
+  --country TEXAS \
   --rate-limit 2.0
 ```
 
@@ -184,7 +184,7 @@ Issues are labeled with:
 - `url-validation`
 - `automated`
 
-Find open issues: https://github.com/mgifford/eu-plus-government-scans/issues?q=is%3Aissue+is%3Aopen+label%3Aurl-validation
+Find open issues: https://github.com/mgifford/dot-gov-scans/issues?q=is%3Aissue+is%3Aopen+label%3Aurl-validation
 
 ## Resumability
 

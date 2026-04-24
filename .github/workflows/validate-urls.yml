@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       country:
-        description: 'Specific country code to validate (e.g., ICELAND, FRANCE) or leave empty for all'
+        description: 'Specific country code to validate (e.g., TEXAS, CALIFORNIA) or leave empty for all'
         required: false
         type: string
       rate_limit:

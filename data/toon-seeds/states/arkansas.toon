@@ -1,0 +1,313 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Arkansas",
+  "domain_count": 12,
+  "page_count": 29,
+  "domains": [
+    {
+      "canonical_domain": "arcserv.co.washington.ar.us",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://arcserv.co.washington.ar.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "arkleg.state.ar.us",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://arkleg.state.ar.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://arkleg.state.ar.us/Bills/Tracking",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://arkleg.state.ar.us/Legislators/List",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://auditor.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://auditor.ar.gov/news-feed/state-auditor-dennis-milligan-promotes-josh-wood-of-alexander-to-interim-assistant-chief-of-staff-unclaimed-property-operations-manager/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.ar.gov/search-for-property/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clrweb.littlerock.state.ar.us",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://clrweb.littlerock.state.ar.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://clrweb.littlerock.state.ar.us/upermits/utpass.php",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eportal.adeq.state.ar.us",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://eportal.adeq.state.ar.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://eportal.adeq.state.ar.us/webfiles/ADEQ/Videos/List.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcso.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://mcso.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://mcso.ar.gov/2023/06/12/press-release/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nlr.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://nlr.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://nlr.ar.gov/elected-officials/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nlr.ar.gov/elected-officials/mayors-office/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sexoffenderregistry.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://sexoffenderregistry.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.adeq.state.ar.us",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://www.adeq.state.ar.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.adeq.state.ar.us/covid-19/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.85",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.adeq.state.ar.us/water/planning/hab",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fcso.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://www.fcso.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.fcso.ar.gov/message",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.fcso.ar.gov/press_view.php?id=1979",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hwh.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://www.hwh.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.hwh.ar.gov/departments",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.hwh.ar.gov/helena-ar-contact",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.whitecounty.ar.gov",
+      "subnational": "Arkansas",
+      "pages": [
+        {
+          "url": "https://www.whitecounty.ar.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.whitecounty.ar.gov/advancing-white-county",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.whitecounty.ar.gov/services-and-resources",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

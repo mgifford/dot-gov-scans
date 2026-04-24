@@ -1,0 +1,248 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Iowa",
+  "domain_count": 12,
+  "page_count": 21,
+  "domains": [
+    {
+      "canonical_domain": "ccmis.dhs.state.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://ccmis.dhs.state.ia.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ezps.city.ames.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://ezps.city.ames.ia.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "icrime.dps.state.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://icrime.dps.state.ia.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nextest.dps.state.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://nextest.dps.state.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://nextest.dps.state.ia.us/nextest/index.cgi",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secureapp.dhs.state.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://secureapp.dhs.state.ia.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "web.assess.co.polk.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://web.assess.co.polk.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://web.assess.co.polk.ia.us/cgi-bin/web/tt/infoqry.cgi?tt=adjustments/summary/DVH",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://web.assess.co.polk.ia.us/cgi-bin/web/tt/infoqry.cgi?tt=info/help/help-v2/FAQ",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.assess.co.polk.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://www.assess.co.polk.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.assess.co.polk.ia.us/cgi-bin/web/tt/infoqry.cgi?tt=adjustments/summary/DVH",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.assess.co.polk.ia.us/cgi-bin/web/tt/infoqry.cgi?tt=info/help/help-v2/FAQ",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.monticello.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://www.ci.monticello.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.monticello.ia.us/city-departments/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.waterloo.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://www.ci.waterloo.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ci.waterloo.ia.us/quick_links/report_problems.php",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.plymouth.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://www.co.plymouth.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.scott.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://www.co.scott.ia.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.co.scott.ia.us/ema/post/2025/08/17/scott-county-emergency-management-commission-has-declared-state-emergency",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.iowacourts.state.ia.us",
+      "subnational": "Iowa",
+      "pages": [
+        {
+          "url": "https://www.iowacourts.state.ia.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.63",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.iowacourts.state.ia.us/ESAWebApp/SelectFrame",
+          "is_root_page": false,
+          "accessibility_score": "0.36",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    }
+  ]
+}

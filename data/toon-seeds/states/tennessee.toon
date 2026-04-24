@@ -1,0 +1,1831 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Tennessee",
+  "domain_count": 88,
+  "page_count": 162,
+  "domains": [
+    {
+      "canonical_domain": "411.app.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://411.app.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.61",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "able.treasury.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://able.treasury.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://able.treasury.tn.gov/Eligibility",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://able.treasury.tn.gov/Features-and-Benefits",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "access.cloud.commerce.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://access.cloud.commerce.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.health.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://apps.health.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "assessment.cot.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://assessment.cot.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://assessment.cot.tn.gov/TPAD/Utilities/Glossary",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "benefitssupport.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://benefitssupport.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://benefitssupport.tn.gov/hc/en-us/categories/202551567-Employees",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://benefitssupport.tn.gov/hc/en-us/categories/202589697-Agency-Benefits-Coordinators-ABCs",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cadre.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://cadre.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.13",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "capitol.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://capitol.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "carat.app.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://carat.app.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://carat.app.tn.gov/apps/html/privacy.html",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.edison.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://careers.edison.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://careers.edison.tn.gov/hrprdrs/signon.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careersat.edison.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://careersat.edison.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://careersat.edison.tn.gov/hrprdra/signon.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cjdir.tbi.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://cjdir.tbi.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cjisaudit.tbi.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://cjisaudit.tbi.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://cjisaudit.tbi.tn.gov/cjisaudit/index.pl",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cloudmh.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://cloudmh.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cloudmh.tn.gov/TNCRT/story.html",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "communitycompass.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://communitycompass.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://communitycompass.tn.gov/signup?redirect_to=%2F",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://communitycompass.tn.gov/suggest-program",
+          "is_root_page": false,
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "comptroller.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://comptroller.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://comptroller.tn.gov/advanced-search.html",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://comptroller.tn.gov/content/cot.html",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.54",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cprs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://cprs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://cprs.tn.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ddasiri.dda.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://ddasiri.dda.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dl.safety.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://dl.safety.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edplan.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://edplan.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eplan.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://eplan.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://eplan.tn.gov/User/SignIn.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "exemptionregistry.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://exemptionregistry.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://exemptionregistry.tn.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms-dpsa.thec.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://forms-dpsa.thec.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forms.tdec.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://forms.tdec.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geodata.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://geodata.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.1",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://geodata.tn.gov/datasets",
+          "is_root_page": false,
+          "performance_score": "0.02",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.safety.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://gis.safety.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://gis.safety.tn.gov/Maps/Public/CommercialMotorVehicleCrashes/?&mobileBreakPoint=300",
+          "is_root_page": false,
+          "performance_score": "0.05",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://gis.safety.tn.gov/Maps/Public/DrugRelatedCrashes/?&mobileBreakPoint=300",
+          "is_root_page": false,
+          "performance_score": "0.01",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.82",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthdata.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://healthdata.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://healthdata.tn.gov/stories/s/pz92-gr5r",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "help.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://help.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://help.tn.gov/$pwd_reset.do?sysparm_url=ss_default",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hrsupport.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://hrsupport.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://hrsupport.tn.gov/hc/en-us/articles/38237910334611-If-I-receive-a-message-from-Oracle-PeopleSoft-asking-for-my-User-ID-and-password-when-trying-to-log-in-to-the-applicant-portal-what-should-I-do",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.5",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://hrsupport.tn.gov/hc/en-us/categories/200807577-TN-State-Government-Human-Resources-Topics",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hrts.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://hrts.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://hrts.tn.gov/Identity/Account/ForgotUsername",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hub.edison.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://hub.edison.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ice.aoc.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://ice.aoc.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "identity-prod.cloud.commerce.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://identity-prod.cloud.commerce.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "imagery.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://imagery.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.08",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://imagery.tn.gov/pages/86d55614cb2b4fa69e7191835ea65715",
+          "is_root_page": false,
+          "performance_score": "0.1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://imagery.tn.gov/search?collection=appAndMap",
+          "is_root_page": false,
+          "performance_score": "0",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "internet.health.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://internet.health.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "isoms.co.hamblen.tn.us",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://isoms.co.hamblen.tn.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs4tnwfs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://jobs4tnwfs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jobs4tnwfs.tn.gov/vosnet/Guest.aspx?action=indguest&whereto=dashboard",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.56",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://jobs4tnwfs.tn.gov/vosnet/guest.aspx?guesttype=lmi&whereto=INDPRJ",
+          "is_root_page": false,
+          "performance_score": "0.03",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lars.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://lars.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://lars.tn.gov/datamart/registration.do?from=loginPage",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licenses.app.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://licenses.app.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://licenses.app.tn.gov/apps/html/privacy.html",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lidar.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://lidar.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.05",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lidar.tn.gov/pages/data-downloads",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lwdsupport.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://lwdsupport.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://lwdsupport.tn.gov/hc/en-us/categories/200070604-Unemployment",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lwdsupport.tn.gov/hc/en-us/categories/200104510-Adult-Education",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvds.revenue.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://mvds.revenue.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mytcrs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://mytcrs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.48",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mytcrs.tn.gov/DPAS.WebUI.Internet/Common/Pages/Login.aspx?userType=Medical",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newborn.health.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://newborn.health.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onedhs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://onedhs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://onedhs.tn.gov/csp?id=csp_index",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ovr.govote.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://ovr.govote.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pay.tdlwd.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://pay.tdlwd.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://pay.tdlwd.tn.gov/LSPAY/",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pdms.tenncare.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://pdms.tenncare.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://pdms.tenncare.tn.gov/ProviderPersonRegistration/Process/Register.aspx",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "personalizedplates.revenue.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://personalizedplates.revenue.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://personalizedplates.revenue.tn.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "revenue.support.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://revenue.support.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://revenue.support.tn.gov/hc/en-us/categories/360001796551-Out-of-State-Dealers-Marketplace-Facilitators-Marketplace-Sellers",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rlpsmobile.abc.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://rlpsmobile.abc.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://rlpsmobile.abc.tn.gov/LicenseSearch/licensesearchindex",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "safetysupport.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://safetysupport.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://safetysupport.tn.gov/hc/en-us/categories/26925277477011-Handgun-Permit-Assistance",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://safetysupport.tn.gov/hc/en-us/sections/25742156873107-FAQs",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "salary.app.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://salary.app.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://salary.app.tn.gov/searchsalary",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.61",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "search.cloud.commerce.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://search.cloud.commerce.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "share.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://share.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://share.tn.gov/governor",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "smartfile.cot.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://smartfile.cot.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://smartfile.cot.tn.gov/smartfile/Pub/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "smartway.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://smartway.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://smartway.tn.gov/home-more",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://smartway.tn.gov/traffic",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sor.tbi.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://sor.tbi.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://sos.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sos.tn.gov/elections/services/download-the-govotetn-app",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sos.tn.gov/node/2258",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "support.commerce.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://support.commerce.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://support.commerce.tn.gov/hc/en-us/sections/360010147454",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tdeccustomerportal.tdec.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tdeccustomerportal.tdec.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://tdeccustomerportal.tdec.tn.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tdeconline.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tdeconline.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tdlwd.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tdlwd.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tenncareconnect.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tenncareconnect.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://tenncareconnect.tn.gov/faq?lang=en",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tfactscluster1.dcs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tfactscluster1.dcs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tfactscluster2.dcs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tfactscluster2.dcs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tfactscluster3.dcs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tfactscluster3.dcs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tfactscluster4.dcs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tfactscluster4.dcs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "titan.safety.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://titan.safety.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://titan.safety.tn.gov/Areas/Public/Login",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tncrim.apps.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tncrim.apps.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.48",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tnmap.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tnmap.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tnmap.tn.gov/arcgis/rest",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tnsfmo.app.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tnsfmo.app.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.3",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://tnsfmo.app.tn.gov/tnsfmo/demo/index.html",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tnstars.treasury.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tnstars.treasury.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://tnstars.treasury.tn.gov/Plan-for-College/Before-Opening-an-Account",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tntrips.tdot.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tntrips.tdot.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://tntrips.tdot.tn.gov/TNEnterprise/Login/ProcessRequest/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.82",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasury.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://treasury.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://treasury.tn.gov/Explore-Your-TN-Treasury/Communications/Press-Room/tennessee-treasury-promotes-2-senior-investment-professionals-to-key-leadership-roles",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasury.tn.gov/Services/Claims-and-Risk-Management/Criminal-Injuries-Compensation",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tslaindexes.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://tslaindexes.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://tslaindexes.tn.gov/death-records-database-name/davidson-county-death-records-1900-1913",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ui.dhs.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://ui.dhs.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unclaimedproperty.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://unclaimedproperty.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://unclaimedproperty.tn.gov/app/claim-search",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://unclaimedproperty.tn.gov/app/submit-a-report",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "verify.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://verify.tn.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "verifyinsurance.revenue.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://verifyinsurance.revenue.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vitalrecords.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://vitalrecords.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vitalrecords.tn.gov/hc/en-us/categories/40659902724883-General-FAQs",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vitalrecords.tn.gov/hc/en-us/sections/40659936349971-Amendment-FAQs",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vrism.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://vrism.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://vrism.tn.gov/console",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wc.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://wc.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "web.go-vote-tn.elections.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://web.go-vote-tn.elections.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://web.go-vote-tn.elections.tn.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.capitol.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://www.capitol.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.capitol.tn.gov/legislators",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.capitol.tn.gov/senate/speaker.html",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.comptroller.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://www.comptroller.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.comptroller.tn.gov/advanced-search.html",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.59",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.comptroller.tn.gov/content/cot.html",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.54",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.elections.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://www.elections.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.elections.tn.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tn.gov",
+      "subnational": "Tennessee",
+      "pages": [
+        {
+          "url": "https://www.tn.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.tn.gov/government.html",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.tn.gov/state-services.html",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

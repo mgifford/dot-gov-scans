@@ -1,0 +1,1795 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "South Dakota",
+  "domain_count": 79,
+  "page_count": 164,
+  "domains": [
+    {
+      "canonical_domain": "aib.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://aib.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://aib.sd.gov/sd-animal-movement.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "americas250th.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://americas250th.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://americas250th.sd.gov/partners.aspx",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "artscouncil.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://artscouncil.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.63",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://artscouncil.sd.gov/events/student_art_Main.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "atg.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://atg.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://atg.sd.gov/LawEnforcement/Identification/backgroundcheckrequirements.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://atg.sd.gov/OurOffice/Media/pressreleasesdetail.aspx?id=2453",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "b2b.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://b2b.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://b2b.sd.gov/b2b?id=b2b_kb_view",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://b2b.sd.gov/b2b?id=b2b_sc_category",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "backgroundcheck.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://backgroundcheck.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://backgroundcheck.sd.gov/create",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bfm.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://bfm.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.63",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bfm.sd.gov/ess/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bhr.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://bhr.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bhr.sd.gov/benefits/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://bhr.sd.gov/managers-toolkit/index.html",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boa.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://boa.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://boa.sd.gov/central-services/buildings-grounds-facilityUse.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://boa.sd.gov/meetings/consultation.aspx",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boardsandcommissions.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://boardsandcommissions.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://boardsandcommissions.sd.gov/SearchResults.aspx?Letter=ALL",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "brands.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://brands.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://brands.sd.gov/brand_search.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://brands.sd.gov/homepage.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "calendar.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://calendar.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://calendar.sd.gov/forgotpassword.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cash.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://cash.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.pierre.sd.us",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ci.pierre.sd.us/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.pierre.sd.us/jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "claimyourcash.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://claimyourcash.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "consumer.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://consumer.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://consumer.sd.gov/companysearch/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "customerconnect.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://customerconnect.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dakotaathome.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dakotaathome.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dakotaathome.sd.gov/search?query=BD-1800.1500%2CBD-1800.2000%2CBD-1800.2250%2CBD-1800.6400%2CBD-2400.2250%2CBD-2400.2500%2CBD-2400.2590%2CBD-2400.2600%2CBD-2400.4900%2CBD-5000.1470%2CBD-5000.1500%2CBD-5000.3500%2CBD-5000.8300&query_label=Food&query_type=taxonomy",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dakotaathome.sd.gov/search?query=BM-3000.0500-450.03%2CBM-3000.0500-450.15%2CBM-3000.0500-450.25%2CBM-3000.0500-450.70%2CBM-3000.0500-450.80%2CBM-3000.0500-450.95%2CBM-3000.0500-750%2CBM-3000.0500-750.20%2CBM-3000.0500-750.75%2CBM-3000.1000%2CBM-3000.1500%2CBM-3000.2000%2CBM-3000.2500%2CBM-3000.3000%2CBM-3000.4000%2CBM-3000.5000%2CBM-6500.1500-130%2CBM-6500.1500-250%2CBM-6500.1500-830%2CBM-6500.1500-920%2CBM-6500.1500-950%2CBM-6500.6500-300%2CBM-6500.6500-450%2CBM-6500.6500-455%2CBM-6500.6500-650%2CBM-6500.6500-710%2CBM-7000.0500%2CBM-8500%2CBM-9500&query_label=Clothing%20%2F%20Hygiene%20%2F%20Household%20Items&query_type=taxonomy",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "danr.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://danr.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://danr.sd.gov/AboutDANR/EconomicStudy.aspx",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://danr.sd.gov/Agriculture/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhs.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dhs.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dhs.sd.gov/en/ltss/adult-protective-services",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dhs.sd.gov/en/person-seeking-services",
+          "is_root_page": false,
+          "performance_score": "0.07",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dlr.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dlr.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dlr.sd.gov/ra/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dlr.sd.gov/social_media.aspx",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "docadultlookup.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://docadultlookup.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doe.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://doe.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://doe.sd.gov/about.aspx",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://doe.sd.gov/cte/training.aspx",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doh.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://doh.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://doh.sd.gov/diseases/measles/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://doh.sd.gov/healthcare-professionals/phpr/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dor.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dor.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dor.sd.gov/government/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dor.sd.gov/newsroom/request-a-vehicle-or-boat-title/",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dorchat.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dorchat.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dorresources.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dorresources.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.61",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://dorresources.sd.gov/ng/signup",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dot.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dot.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.47",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://dot.sd.gov/inside-sddot/forms-publications/forms",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.57",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dot.sd.gov/programs-services/Programs/Adopt-A-Highway",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.47",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dss.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dss.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dss.sd.gov/childsupport/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dss.sd.gov/medicaid/care_management/babyready.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dssapps.appssd.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://dssapps.appssd.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.59",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dssapps.appssd.sd.gov/ocp/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eaportal.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://eaportal.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://eaportal.sd.gov/UniversalAccess/eligibility/form/new",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecourts.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ecourts.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ecourts.sd.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.61",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electionresults.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://electionresults.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://electionresults.sd.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gfp.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://gfp.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://gfp.sd.gov/habitat-conservation-license-plate/",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "governor.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://governor.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://governor.sd.gov/office/contact.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "history.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://history.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://history.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://history.sd.gov/museum/remodel.aspx",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homeagain.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://homeagain.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://homeagain.sd.gov/?hsLang=en",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://homeagain.sd.gov/get-started?hsLang=en",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legislativeaudit.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://legislativeaudit.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://legislativeaudit.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.71",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://legislativeaudit.sd.gov/fraud.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lewisandclarkpark.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://lewisandclarkpark.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://lewisandclarkpark.sd.gov/recreation-area.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "library.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://library.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://library.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "listserv.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://listserv.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lottery.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://lottery.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://lottery.sd.gov/scratch-games/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "medcannabis.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://medcannabis.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://medcannabis.sd.gov/Establishments/CertifiedEstablishments.aspx",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://medcannabis.sd.gov/Updates/MC-Minute.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "medcannabisapplication.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://medcannabisapplication.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "missingpersons.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://missingpersons.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.08",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "my605drive.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://my605drive.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "news.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://news.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://news.sd.gov/news?id=news_kb_article_view&sys_id=6a0d6b601b3ae210f744edb5604bcb46",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "olaprovider.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://olaprovider.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "olapublic.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://olapublic.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://olapublic.sd.gov/behavioral-health/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "open.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://open.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://open.sd.gov/Info_pr.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pcphhselection.appssd.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://pcphhselection.appssd.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://public.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "puc.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://puc.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://puc.sd.gov/consumer/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rules.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://rules.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://rules.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "savin.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://savin.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.68",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://savin.sd.gov/portal/Account/Register.aspx",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sd4history.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sd4history.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sd4history.sd.gov/Unit7/notableSDlesson3.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdbrandboard.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdbrandboard.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://sdbrandboard.sd.gov/news.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sded.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sded.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sded.sd.gov/browse/division-of-special-education-and-early-learning/office-of-special-education/courses/teaching-students-with-significant-cognitive-disabilities",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdiis.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdiis.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://sdiis.sd.gov/iweb/main.jsp",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdleastwanted.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdleastwanted.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.37",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sdleastwanted.sd.gov/gallery/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.32",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sdleastwanted.sd.gov/resources/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.37",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdschoolreportcard.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdschoolreportcard.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdschools.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdschools.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdtribalrelations.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdtribalrelations.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sdtribalrelations.sd.gov/resources/tribal-ID.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sdtruckinfo.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sdtruckinfo.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sdtruckinfo.sd.gov/2025-spring-load-limit-restrictions-press-release-3-restriction-removals-scheduled-for-the-weeks-of-april-7-18-2025/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sor.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sor.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://sor.sd.gov/LawEnforcement/ContactInfo",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sosenterprise.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://sosenterprise.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sosenterprise.sd.gov/UCC",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujs.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujs.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ujs.sd.gov/about-us/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ujs.sd.gov/supreme-court/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujscourttv.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujscourttv.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujsepay.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujsepay.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.86",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ujsepay.sd.gov/Privacy",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujsfindcourtdate.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujsfindcourtdate.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujsjudgmentquery.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujsjudgmentquery.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://ujsjudgmentquery.sd.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujsjurors.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujsjurors.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ujspars.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://ujspars.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ujspars.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vetaffairs.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://vetaffairs.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://vetaffairs.sd.gov/aboutsddva/contactus.aspx",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://vetaffairs.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vetboard.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://vetboard.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://vetboard.sd.gov/BOD.html",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://vetboard.sd.gov/Complaint.html",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.yankton.sd.us",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "http://www.co.yankton.sd.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.co.yankton.sd.us/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doc.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://www.doc.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.doc.sd.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lake.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "http://www.lake.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "http://www.lake.sd.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sd.gov",
+      "subnational": "South Dakota",
+      "pages": [
+        {
+          "url": "https://www.sd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sd.gov/cs?id=contact_sd",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sd.gov/cs?id=cs_landing",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.75"
+        }
+      ]
+    }
+  ]
+}

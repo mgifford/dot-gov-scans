@@ -1,0 +1,4204 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Ohio",
+  "domain_count": 182,
+  "page_count": 388,
+  "domains": [
+    {
+      "canonical_domain": "adultcourtservices.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://adultcourtservices.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://adultcourtservices.co.delaware.oh.us/additional-programs-services/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://adultcourtservices.co.delaware.oh.us/mental-health-substance-abuse-service-providers/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "applyforpermits.toledo.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://applyforpermits.toledo.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.champaign.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.champaign.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://auditor.co.champaign.oh.us/Posts",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://auditor.co.champaign.oh.us/SalesReport",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.co.delaware.oh.us/county-finances/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://auditor.co.delaware.oh.us/dogtagrenew/",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.madison.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.madison.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.morrow.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.morrow.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://auditor.co.morrow.oh.us/Posts?category=Forfeited%20Land",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.ottawa.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.ottawa.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.co.ottawa.oh.us/Search",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.co.ottawa.oh.us/Search/Location",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.tuscarawas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.tuscarawas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.co.tuscarawas.oh.us/DelinquentList",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.co.tuscarawas.oh.us/Search",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://auditor.co.wood.oh.us/contact/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.eriecounty.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.eriecounty.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://auditor.eriecounty.oh.gov/Search",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "auditor.geauga.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://auditor.geauga.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.geauga.oh.gov/budget-commission-meeting-notice-for-july-21-2025/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://auditor.geauga.oh.gov/for-residents/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bocc.geauga.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://bocc.geauga.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://bocc.geauga.oh.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://bocc.geauga.oh.gov/notice-of-cancellation-board-of-commissioners-july-15-2025-meeting/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boe.co.trumbull.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://boe.co.trumbull.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://boe.co.trumbull.oh.gov/boe_videos.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "buildinginspection.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://buildinginspection.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://buildinginspection.co.trumbull.oh.us/Mechanicall%20Inspection%20Request.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.62",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://buildinginspection.co.trumbull.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "buildingsafety.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://buildingsafety.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://buildingsafety.co.delaware.oh.us/wp-content-uploads-sites-45-2021-10-daily-inspections-pdf/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cases.clerkofcourts.municipal.co.clark.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://cases.clerkofcourts.municipal.co.clark.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccatax.ci.cleveland.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://ccatax.ci.cleveland.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.64",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "http://ccatax.ci.cleveland.oh.us/?p=contact",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.5",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccip.ode.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ccip.ode.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdsearch.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://cdsearch.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cdsearch.co.trumbull.oh.us/recordSearch.php?k=acceptAgreementsearchForm7812",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childsupport.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://childsupport.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://childsupport.co.wood.oh.us/resources/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://childsupport.co.wood.oh.us/services/paternity/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.mansfield.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ci.mansfield.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.mansfield.oh.us/calendar/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.mansfield.oh.us/water-service-shutdown-orange-st/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.moraine.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ci.moraine.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://ci.moraine.oh.us/shearers-snack-food-factory-to-receive-12-5m-in-new-u-s-tax-credits/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://ci.moraine.oh.us/taxes-2/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.54",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.newtonfalls.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ci.newtonfalls.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.newtonfalls.oh.us/events/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.newtonfalls.oh.us/mayor-and-council/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerk.co.madison.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://clerk.co.madison.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerkofcourt.co.warren.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://clerkofcourt.co.warren.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerkofcourt.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://clerkofcourt.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://clerkofcourt.co.wood.oh.us/dockets-online/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerkofcourts.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://clerkofcourts.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://clerkofcourts.co.delaware.oh.us/clerk-forms/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://clerkofcourts.co.delaware.oh.us/passport/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerkofcourts.eriecounty.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://clerkofcourts.eriecounty.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clerkofcourts.municipal.co.clark.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://clerkofcourts.municipal.co.clark.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.46",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://clerkofcourts.municipal.co.clark.oh.us/web.nsf/RulesPage?OpenForm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.46",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cmsportal.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://cmsportal.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://cmsportal.dot.state.oh.us/Home/ContractorReports",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.clinton.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.clinton.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://co.clinton.oh.us/directory",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.delaware.oh.us/2025/07/14/touch-a-truck-happening-this-saturday-at-olentangy-berlin-h-s/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.delaware.oh.us/contactus/",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.hancock.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.hancock.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.hancock.oh.us/196/Record-Search",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.hardin.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://co.hardin.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.75",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "http://co.hardin.oh.us/c-agenda.php",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.75",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.highland.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.highland.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://co.highland.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.holmes.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.holmes.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.holmes.oh.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.knox.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.knox.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.knox.oh.us/county-offices",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.knox.oh.us/tax-map-and-gis/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.lucas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.lucas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.lucas.oh.us/369/Board-of-Revision-Challenge-Your-Value",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.madison.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.madison.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://co.madison.oh.us/i_want_to/download_view/court_records/index.php",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://co.madison.oh.us/news_detail_T11_R74.php",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.miami.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.miami.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.miami.oh.us/122/Commissioners",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.miami.oh.us/434/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.ottawa.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.ottawa.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.ottawa.oh.us/520/Current-Events",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.shelby.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.shelby.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.shelby.oh.us/157/Sheriff",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.shelby.oh.us/Jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.tuscarawas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://co.tuscarawas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://co.tuscarawas.oh.us/government/court_of_common_pleas_court_general_division/how_do_i/find_jury_information.php",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "commonpleas.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://commonpleas.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.76",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://commonpleas.co.trumbull.oh.us/cp_juryservice.html",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.55",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "commonpleascourt.pikecounty.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://commonpleascourt.pikecounty.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://commonpleascourt.pikecounty.oh.gov/announcements/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "consultantprequalification.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://consultantprequalification.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "contracts.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://contracts.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.32",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://contracts.dot.state.oh.us/licensePage.jsp",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.41",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "corrections.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://corrections.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://corrections.co.trumbull.oh.us/AgencyView/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://corrections.co.trumbull.oh.us/PublicView/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "countycourt.co.warren.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://countycourt.co.warren.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "court.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://court.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courtrecords.co.marion.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://courtrecords.co.marion.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://courtrecords.co.marion.oh.us/eservices/register.page?efile=true",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://courtrecords.co.marion.oh.us/eservices/register.page?prtlCd=PUBLIC",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courts.co.ashtabula.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://courts.co.ashtabula.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://courts.co.ashtabula.oh.us/pa.htm",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courts.co.holmes.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://courts.co.holmes.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://courts.co.holmes.oh.us/eservices/home.page?prtlCd=PROBATE",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://courts.co.holmes.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courts.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://courts.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courts.geauga.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://courts.geauga.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://courts.geauga.oh.gov/clerk-of-courts/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://courts.geauga.oh.gov/clerk-of-courts/legal/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courtsvc.co.hancock.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://courtsvc.co.hancock.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://courtsvc.co.hancock.oh.us/eservices/register.page?efile=true",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpcourt.pikecounty.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://cpcourt.pikecounty.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://cpcourt.pikecounty.oh.gov/eservices/accessibility.page",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://cpcourt.pikecounty.oh.gov/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpppublic.ag.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://cpppublic.ag.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpsearch.co.hocking.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://cpsearch.co.hocking.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://cpsearch.co.hocking.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://cpsearch.co.hocking.oh.us/eservices/register.page?prtlCd=ATTORNEY",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "delcoomj.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://delcoomj.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://delcoomj.co.delaware.oh.us/job-seekers/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://delcoomj.co.delaware.oh.us/youth-services/",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "departmentonaging.geauga.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://departmentonaging.geauga.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://departmentonaging.geauga.oh.gov/our-services/in-home-services/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://departmentonaging.geauga.oh.gov/senior-centers-adult-day-service/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dis.puc.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://dis.puc.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://dis.puc.state.oh.us/CasesByIndustryPurposeStatus.aspx",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "document.ode.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://document.ode.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dogwarden.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://dogwarden.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://dogwarden.co.trumbull.oh.us/dw_rescues.html",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.76",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "domestic.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://domestic.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://domestic.co.delaware.oh.us/judicial-biographies/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ea.co.hancock.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ea.co.hancock.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ea.co.hancock.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ea.co.hancock.oh.us/eservices/register.page?efile=true",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eaccess.ci.xenia.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://eaccess.ci.xenia.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://eaccess.ci.xenia.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eaccess.co.ross.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://eaccess.co.ross.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://eaccess.co.ross.oh.us/eservices/emarriagelicense.page",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://eaccess.co.ross.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "economicdevelopment.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://economicdevelopment.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://economicdevelopment.co.delaware.oh.us/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efile2.ccatax.ci.cleveland.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://efile2.ccatax.ci.cleveland.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://efile2.ccatax.ci.cleveland.oh.us/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ellisproj.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ellisproj.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ema.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://ema.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ema.co.delaware.oh.us/contact-ema-staff/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ema.co.delaware.oh.us/warnings-notifications/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "emergencycomms.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://emergencycomms.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://emergencycomms.co.delaware.oh.us/community-watch/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://emergencycomms.co.delaware.oh.us/meeting-information/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "engineer.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://engineer.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://engineer.co.delaware.oh.us/county-road-paving-program-list-of-roadways-scheduled-for-7-8-thru-7-18/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://engineer.co.delaware.oh.us/jewett-road-will-be-closed-on-july-8-2025/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "engineer.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://engineer.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://engineer.co.wood.oh.us/maps_plats_plans/tax_maps.php",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eresponse.montcourt.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://eresponse.montcourt.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.67",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.ci.athens.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://eservices.ci.athens.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://eservices.ci.athens.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://eservices.ci.athens.oh.us/eservices/register.page?efile=true",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.co.union.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://eservices.co.union.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://eservices.co.union.oh.us/eservices/register.page?prtlCd=PROJUV",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geauga.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://geauga.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://geauga.oh.gov/event/planning-commission-meeting-15/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://geauga.oh.gov/government/history/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://gis.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://gis.co.delaware.oh.us/frequently-asked-questions/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.holmes.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://gis.co.holmes.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.ottawa.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://gis.co.ottawa.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis3.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://gis3.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "h2o.ci.akron.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://h2o.ci.akron.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hocking.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://hocking.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://hocking.oh.gov/index.php/node/162",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "humanresources.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://humanresources.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://humanresources.co.delaware.oh.us/meet-the-staff/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "icare.co.lucas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://icare.co.lucas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://icare.co.lucas.oh.us/LucasCare/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "images.clerkofcourts.municipal.co.clark.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://images.clerkofcourts.municipal.co.clark.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jfs.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://jfs.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://jfs.co.delaware.oh.us/about/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juryduty.co.lucas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://juryduty.co.lucas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juvenile.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://juvenile.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://juvenile.co.delaware.oh.us/billingpayments/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://juvenile.co.delaware.oh.us/faq/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juvenilecourt.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://juvenilecourt.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://juvenilecourt.co.wood.oh.us/eservicesJUV/login.page",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://juvenilecourt.co.wood.oh.us/eservicesJUV/register.page?efile=true",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lcenggis.co.lucas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://lcenggis.co.lucas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lucapps.co.lucas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://lucapps.co.lucas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "madison.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://madison.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://madison.oh.gov/i_want_to/download_view/court_records/index.php",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://madison.oh.gov/news_detail_T11_R74.php",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.warren.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://maps.co.warren.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mcogis.co.marion.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://mcogis.co.marion.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "montcourt.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://montcourt.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://montcourt.oh.gov/court-announces-specialized-docket-video-in-honor-of-national-treatment-court-month-kushinda-court/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "municourt.co.geauga.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://municourt.co.geauga.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://municourt.co.geauga.oh.us/eservices/accessibility.page",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myodot.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://myodot.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "odotextrpt.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://odotextrpt.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://odotextrpt.dot.state.oh.us/ViewReport.aspx?reportPath=%2fprd%2fcmsportal%2fpublic%2f07000-materialsandtesting-7001-basisofacceptanceformaterials",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oeds.ode.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://oeds.ode.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://oeds.ode.state.oh.us/EstablishOrg/Instruction",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.52",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "p2c.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://p2c.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "paymentdetail.ode.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://paymentdetail.ode.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://paymentdetail.ode.state.oh.us/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.toledo.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://permits.toledo.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://permits.toledo.oh.gov/terms",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pikeclerk.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://pikeclerk.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://pikeclerk.oh.gov/pike-county-common-pleas/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "probate.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://probate.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://probate.co.delaware.oh.us/localrules/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://probate.co.delaware.oh.us/recordsearch/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "probate.co.hancock.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://probate.co.hancock.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "probate.co.warren.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://probate.co.warren.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "property.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://property.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertysearch.co.marion.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://propertysearch.co.marion.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prosecutor.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://prosecutor.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://prosecutor.co.delaware.oh.us/about/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://prosecutor.co.delaware.oh.us/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pub.clerkofcourt.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://pub.clerkofcourt.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://pub.clerkofcourt.co.wood.oh.us/eservices/accessibility.page",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://pub.clerkofcourt.co.wood.oh.us/eservices/login.page",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "realestate.co.fairfield.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://realestate.co.fairfield.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "realestate.co.hardin.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://realestate.co.hardin.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://realestate.co.hardin.oh.us/reqvx.php",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "realestate.co.wyandot.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://realestate.co.wyandot.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.79",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "http://realestate.co.wyandot.oh.us/re/re-levc.php",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.75",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "realestate.geauga.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://realestate.geauga.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://realestate.geauga.oh.gov/Search",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recorder.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://recorder.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://recorder.co.delaware.oh.us/resources/what-we-do/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recorder.co.geauga.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://recorder.co.geauga.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://recorder.co.geauga.oh.us/document-recording-information/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://recorder.co.geauga.oh.us/links/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recorder.co.medina.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://recorder.co.medina.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://recorder.co.medina.oh.us/uncategorized/public-announcements/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recordersearch.co.medina.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://recordersearch.co.medina.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "records.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://records.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "regionalplanning.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://regionalplanning.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://regionalplanning.co.delaware.oh.us/structure/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scholarship.ode.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://scholarship.ode.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.7",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://scholarship.ode.state.oh.us/Dashboard/SelectProgram?catKey=1&orgKey=0&programTypeKey=11&programTypeName=Autism%20Scholarship&audienceTypeKey=undefined&audienceTypeName=null",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.81",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://scholarship.ode.state.oh.us/Dashboard/SelectProgram?catKey=1&orgKey=0&programTypeKey=17&programTypeName=Educational%20Choice%20Scholarship%20Expansion&audienceTypeKey=undefined&audienceTypeName=null",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.82",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "shelbycity.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://shelbycity.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://shelbycity.oh.gov/events/",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://shelbycity.oh.gov/how-do-i/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheriff.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://sheriff.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sheriff.co.delaware.oh.us/concealed-carry/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheriff.co.geauga.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://sheriff.co.geauga.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://sheriff.co.geauga.oh.us/communications/premises-information/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sheriff.co.geauga.oh.us/law-enforcement/k-9-unit/",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sheriff.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://sheriff.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://sheriff.co.trumbull.oh.us/Commissioners/Meetings",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.76",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxconnect.toledo.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://taxconnect.toledo.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tims.dot.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://tims.dot.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "toledo.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://toledo.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://toledo.oh.gov/employment",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://toledo.oh.gov/government/mayor/podcast",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trc.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://trc.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.champaign.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://treasurer.co.champaign.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.co.champaign.oh.us/Login",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.co.champaign.oh.us/how-to-pay-online",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.delaware.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://treasurer.co.delaware.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://treasurer.co.delaware.oh.us/payments/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.ottawa.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://treasurer.co.ottawa.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.co.ottawa.oh.us/BallotLevy",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.co.ottawa.oh.us/Login",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://treasurer.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://treasurer.co.trumbull.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.64",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.tuscarawas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://treasurer.co.tuscarawas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.co.tuscarawas.oh.us/about-our-office",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.co.tuscarawas.oh.us/additional-resources",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://treasurer.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://treasurer.co.wood.oh.us/about.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.eriecounty.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://treasurer.eriecounty.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.eriecounty.oh.gov/meet-the-treasurer",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://treasurer.eriecounty.oh.gov/property-tax-explanation",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "village.elmore.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://village.elmore.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://village.elmore.oh.us/business___groups/index.php",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://village.elmore.oh.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wcbinspect.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://wcbinspect.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://wcbinspect.co.wood.oh.us/default.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.centralcourt.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.centralcourt.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.centralcourt.co.trumbull.oh.us/cd_probation.html",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.76",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.athens.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.ci.athens.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.athens.oh.us/612",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.bellefontaine.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.ci.bellefontaine.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.bellefontaine.oh.us/o/cob/page/applicationspermits",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.bellefontaine.oh.us/page/municipal-court",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.pickerington.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.ci.pickerington.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.pickerington.oh.us/government/city-council/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.pickerington.oh.us/government/city-council/meeting-minutes-agendas-legal-notices-new/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ciic.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.ciic.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ciic.state.oh.us/members",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.clerkofcourts.co.knox.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.clerkofcourts.co.knox.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.clerkofcourts.co.knox.oh.us/eservices/register.page?prtlCd=ATTORNEY",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.champaign.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.champaign.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.champaign.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.fairfield.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.fairfield.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.fairfield.oh.us/bids/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hancock.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.hancock.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.hancock.oh.us/196/Record-Search",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hardin.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.co.hardin.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.75",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "http://www.co.hardin.oh.us/c-agenda.php",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.75",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.highland.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.highland.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.highland.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.hocking.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.hocking.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.co.hocking.oh.us/contact/feedback",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.hocking.oh.us/index.php/node/162",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.holmes.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.holmes.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.holmes.oh.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lucas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.lucas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.lucas.oh.us/8/Visitors",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.lucas.oh.us/CivicAlerts.aspx?AID=1700",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.madison.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.madison.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.madison.oh.us/i_want_to/download_view/court_records/index.php",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.madison.oh.us/news_detail_T11_R74.php",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.marion.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.marion.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.marion.oh.us/elected_offices/auditor/dog_tags/index.php",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.marion.oh.us/job_openings.php",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.miami.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.miami.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.miami.oh.us/122/Commissioners",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.miami.oh.us/434/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ottawa.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.ottawa.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.ottawa.oh.us/520/Current-Events",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ross.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.co.ross.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.62",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "http://www.co.ross.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.62",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.shelby.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.shelby.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.shelby.oh.us/157/Sheriff",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.shelby.oh.us/Jobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Commissioners/Meetings",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Discover",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.tuscarawas.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.tuscarawas.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.tuscarawas.oh.us/government/court_of_common_pleas_court_general_division/how_do_i/find_jury_information.php",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.tuscarawas.oh.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.vanwert.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.co.vanwert.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "http://www.co.vanwert.oh.us/finances.php",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.wood.oh.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.wyandot.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.co.wyandot.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.wyandot.oh.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.wyandot.oh.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.easterncourt.co.trumbull.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.easterncourt.co.trumbull.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://www.easterncourt.co.trumbull.oh.us/ec_probation.html",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.72",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://www.easterncourt.co.trumbull.oh.us/ec_publicevents.html",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jcarr.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.jcarr.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.jcarr.state.oh.us/about",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.jlec-olig.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.jlec-olig.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.jlec-olig.state.oh.us/?page_id=223",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.juvenile.co.summit.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.juvenile.co.summit.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lcmhrsb.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.lcmhrsb.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.lcmhrsb.oh.gov/service-providers/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.59",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.madison.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.madison.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.madison.oh.gov/news_detail_T11_R74.php",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ninth.courts.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.ninth.courts.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.5",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.ninth.courts.state.oh.us/Dockets.htm",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.72",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.ninth.courts.state.oh.us/localrules.htm",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.police.ci.lancaster.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.police.ci.lancaster.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.police.ci.lancaster.oh.us/recruiting",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.probate-court.co.wood.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.probate-court.co.wood.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.probate-court.co.wood.oh.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.probate.co.stark.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "http://www.probate.co.stark.oh.us/",
+          "is_root_page": true,
+          "accessibility_score": "0",
+          "best_practices_score": "0.68",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.registerofohio.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.registerofohio.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.registerofohio.state.oh.us/about/about-the-register",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.registerofohio.state.oh.us/about/administrative-rule-making-in-ohio",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.seventh.courts.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.seventh.courts.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.seventh.courts.state.oh.us/cheryl-l-waite",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.third.courts.state.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.third.courts.state.oh.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.third.courts.state.oh.us/clerk-of-courts/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.third.courts.state.oh.us/legal-disclaimer/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.treasurer.columbiana.oh.gov",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www.treasurer.columbiana.oh.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.treasurer.columbiana.oh.gov/manufactured-home-tax",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.treasurer.columbiana.oh.gov/the-office",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.co.union.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www2.co.union.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www7.co.union.oh.us",
+      "subnational": "Ohio",
+      "pages": [
+        {
+          "url": "https://www7.co.union.oh.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

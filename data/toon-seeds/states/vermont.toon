@@ -1,0 +1,183 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Vermont",
+  "domain_count": 9,
+  "page_count": 15,
+  "domains": [
+    {
+      "canonical_domain": "childsupportcalculator.ahs.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://childsupportcalculator.ahs.state.vt.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cms.sec.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://cms.sec.state.vt.us:8443/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cms.sec.state.vt.us:8443/alfresco",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "infoonmycase.ahs.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://infoonmycase.ahs.state.vt.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://infoonmycase.ahs.state.vt.us/email.cfm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "middletownsprings.vt.gov",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://middletownsprings.vt.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://middletownsprings.vt.gov/town-departments/transfer-station/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mybenefits.ahs.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://mybenefits.ahs.state.vt.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mybenefits.ahs.state.vt.us/Fair_Hearing.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ahsnet.ahs.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://www.ahsnet.ahs.state.vt.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.ahsnet.ahs.state.vt.us/GCAppeal/gc_pword.cfm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.brightfutures.dcf.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://www.brightfutures.dcf.state.vt.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.state.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "http://www.state.vt.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.williston.vt.us",
+      "subnational": "Vermont",
+      "pages": [
+        {
+          "url": "https://www.town.williston.vt.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.town.williston.vt.us/index.asp?Type=B_BASIC&SEC={FB155410-FC4A-4972-8BBA-A2074746E1CE}&DE={7DA393FB-E96F-4ECC-B28F-E382815BD7E2}",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    }
+  ]
+}

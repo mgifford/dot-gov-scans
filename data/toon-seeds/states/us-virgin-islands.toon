@@ -1,0 +1,677 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "US Virgin Islands",
+  "domain_count": 26,
+  "page_count": 64,
+  "domains": [
+    {
+      "canonical_domain": "bir.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://bir.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://bir.vi.gov/Form",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bmv.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://bmv.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bmv.vi.gov/drivers-license/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bmv.vi.gov/vehicles/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boc.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://boc.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://boc.vi.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://boc.vi.gov/news/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhs.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dhs.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dhs.vi.gov/index.php/office-of-the-commissioner/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dlca.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dlca.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dlca.vi.gov/businesslicense/steps.htm",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dlca.vi.gov/employeedirectory/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doa.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://doa.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://doa.vi.gov/visit-the-usvi/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dof.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dof.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dof.vi.gov/about",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dof.vi.gov/forms-and-policies",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doh.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://doh.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://doh.vi.gov/about-us/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doh.vi.gov/programs/public-health-preparedness/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dot.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dot.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dot.vi.gov/our-islands/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dot.vi.gov/pressroom/u-s-virgin-islands-governor-asks-florida-counterpart-to-consider-vaccination-checks-for-cruise-passengers/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpnr.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dpnr.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dpnr.vi.gov/contact/anonymous-tips/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dpnr.vi.gov/job-opportunities/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpp.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dpp.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dpp.vi.gov/divisions/asset-risk-management/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dpp.vi.gov/divisions/property/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpw.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://dpw.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dpw.vi.gov/citizen-complaints",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dpw.vi.gov/contact/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energy.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://energy.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://energy.vi.gov/solar-for-all",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://energy.vi.gov/vibes",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "excise.bir.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://excise.bir.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://excise.bir.vi.gov/mobile",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gross-receipts.bir.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://gross-receipts.bir.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://gross-receipts.bir.vi.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "income-tax.bir.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://income-tax.bir.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://income-tax.bir.vi.gov/VIBIR_TPP/Taxpayer/Account/RegisterPIN",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "invasives.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://invasives.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mybmv.bmv.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://mybmv.bmv.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://mybmv.bmv.vi.gov/support/sign-in-retry",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myuiclaim.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://myuiclaim.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://myuiclaim.vi.gov/Identity/Account/Register?returnUrl=%2F",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertytax.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://propertytax.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vibnl.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://vibnl.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vibnl.vi.gov/licensing/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vibnl.vi.gov/meetings/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vipd.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://vipd.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://vipd.vi.gov/about-us/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://vipd.vi.gov/join-the-vipd/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vitema.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://vitema.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vitema.vi.gov/about/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vitema.vi.gov/ready/build-a-kit",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.corporationsandtrademarks.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://www.corporationsandtrademarks.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.corporationsandtrademarks.vi.gov/usvi-master/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dlca.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://www.dlca.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dlca.vi.gov/businesslicense/steps.htm",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dlca.vi.gov/employeedirectory/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.gov",
+      "subnational": "US Virgin Islands",
+      "pages": [
+        {
+          "url": "https://www.vi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.vi.gov/governor-bryan-signs-landmark-virgin-islands-land-and-water-use-plan-into-law/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

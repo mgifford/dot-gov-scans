@@ -1,0 +1,878 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Virginia",
+  "domain_count": 40,
+  "page_count": 79,
+  "domains": [
+    {
+      "canonical_domain": "bai.co.campbell.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://bai.co.campbell.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://bai.co.campbell.va.us/applications/trapps/default.htm",
+          "is_root_page": false,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "brrja.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://brrja.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://brrja.state.va.us/employment-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.caroline.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://co.caroline.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.caroline.va.us/1247/Broadband-in-Caroline-County",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.richmond.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://co.richmond.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.richmond.va.us/events/month.calendar/2025/07/15/-",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://courts.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://courts.state.va.us/courts/home",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://courts.state.va.us/home",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "e-services.co.caroline.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://e-services.co.caroline.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eapps.courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://eapps.courts.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ebiz.ci.manassas.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://ebiz.ci.manassas.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "efiling.courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://efiling.courts.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservices.ci.emporia.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://eservices.ci.emporia.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://eservices.ci.emporia.va.us/applications/RePrintPPtaxes/webform1.aspx",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.goochland.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://gis.co.goochland.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.henry.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://gis.co.henry.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://gis.co.henry.va.us/martinsville_henry_county.html",
+          "is_root_page": false,
+          "accessibility_score": "0",
+          "best_practices_score": "0.63",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mss.co.henry.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://mss.co.henry.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oag.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://oag.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://oag.state.va.us/media-center/news-releases/2883-july-7-2025-attorney-general-miyares-announces-national-claims-portal-for-wall-associates-inc-customers",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oag.state.va.us/programs-outreach/human-trafficking",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pwcjury.courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://pwcjury.courts.state.va.us/",
+          "is_root_page": true,
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rrj.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://rrj.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://rrj.state.va.us/community-corrections",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "services.ci.staunton.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://services.ci.staunton.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.augusta.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://tax.co.augusta.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://tax.co.augusta.va.us/applications/ppprepayment/webform1.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.richlands.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://town.richlands.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://town.richlands.va.us/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vacourtformhelp.courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://vacourtformhelp.courts.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visit.rrj.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://visit.rrj.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://visit.rrj.state.va.us/VisitorKiosk/app?component=englishButton&page=Home&service=direct&session=T&sp=Sen_US",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://visit.rrj.state.va.us/app;jsessionid=E65645327A527C39640238D3236DFF3D?component=registerToday&page=LoginPage&service=direct&session=T",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.7",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vlrcs.courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://vlrcs.courts.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "websrv-vmw.dmz.co.middlesex.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://websrv-vmw.dmz.co.middlesex.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://websrv-vmw.dmz.co.middlesex.va.us/Applications/ReprintPPTaxes/webform1.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.emporia.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.ci.emporia.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.emporia.va.us/101/Departments",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.emporia.va.us/187/Incentives",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.poquoson.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.ci.poquoson.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.poquoson.va.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.poquoson.va.us/9/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.staunton.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.ci.staunton.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ci.staunton.va.us/?splash=https%3a%2f%2fstorymaps.arcgis.com%2fstories%2f730d76b1e87242b1b45f136a3b4bd3b2&____isexternal=true",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.accomack.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.accomack.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.accomack.va.us/departments/public-works/public-boating-facilities/boating-facilities-parking-permit",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.accomack.va.us/home",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.alleghany.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.alleghany.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.co.alleghany.va.us/board-of-supervisors/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.co.alleghany.va.us/public-works/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.augusta.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.augusta.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.augusta.va.us/Home/Components/News/News/2657/14",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.campbell.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.campbell.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.17",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.campbell.va.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.campbell.va.us/393/Board-of-Supervisors",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.caroline.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.caroline.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.caroline.va.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.middlesex.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.middlesex.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.middlesex.va.us/AlertCenter.aspx?AID=Commissioners-Office-Closed-July-30-2025-50",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.northampton.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.northampton.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.03",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.co.northampton.va.us/news/what_s_new/recognition_for_support_in_menhaden_regulation",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.61",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.patrick.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.patrick.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.patrick.va.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.rockbridge.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.co.rockbridge.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.rockbridge.va.us/AlertCenter.aspx?AID=Temporary-Closure-of-the-Rockbridge-Coun-35",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.courts.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.courts.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courts.state.va.us/courts/home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.courts.state.va.us/home",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.extranet.vdot.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "http://www.extranet.vdot.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.68",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nnrj.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "http://www.nnrj.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.46",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "http://www.nnrj.state.va.us/about/aboutindex.html",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oag.state.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.oag.state.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.oag.state.va.us/media-center/news-releases/2883-july-7-2025-attorney-general-miyares-announces-national-claims-portal-for-wall-associates-inc-customers",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.oag.state.va.us/programs-outreach/human-trafficking",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.richlands.va.us",
+      "subnational": "Virginia",
+      "pages": [
+        {
+          "url": "https://www.town.richlands.va.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.town.richlands.va.us/default.htm",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    }
+  ]
+}

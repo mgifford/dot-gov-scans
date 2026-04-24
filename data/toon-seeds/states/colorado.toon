@@ -1,0 +1,1507 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Colorado",
+  "domain_count": 71,
+  "page_count": 134,
+  "domains": [
+    {
+      "canonical_domain": "agner.co.routt.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://agner.co.routt.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "assessor.co.grand.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://assessor.co.grand.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://assessor.co.grand.co.us/assessor/web/help.jsp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "avalanche.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://avalanche.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://avalanche.state.co.us/keep-colorado-wild-pass",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://avalanche.state.co.us/observations",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cbi.instacheckappeals.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cbi.instacheckappeals.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cbilab.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cbilab.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cbisdds.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cbisdds.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cbisdds.state.co.us/Login/AccountLogin",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccicportal.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://ccicportal.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://ccicportal.state.co.us/nextest/index.cgi",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.78",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cde.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "http://cde.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "http://cde.state.co.us/cdesped/upkfaqs",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdphe.redcap.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cdphe.redcap.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.45"
+        },
+        {
+          "url": "https://cdphe.redcap.state.co.us/redcap_v15.4.4/Authentication/password_recovery.php",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cedar.cde.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cedar.cde.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childsupport.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://childsupport.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://childsupport.state.co.us/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://childsupport.state.co.us/v2/service-application",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.lamar.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://ci.lamar.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.lamar.co.us/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ci.lamar.co.us/employment-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.sheridan.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://ci.sheridan.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.sheridan.co.us/17/Municipal-Court",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ciis.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://ciis.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ciis.state.co.us/ciis/UserRegistration/NewRegistration",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.routt.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://co.routt.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.routt.co.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.routt.co.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cogccmap.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cogccmap.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "copublicportal.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://copublicportal.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://copublicportal.state.co.us/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "core.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://core.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://core.state.co.us/topics/automated-transaction-submission-ats",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpw.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cpw.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://cpw.state.co.us/camping",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpwconnect.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://cpwconnect.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cpwconnect.state.co.us/Calendar",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfpciqs.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://dfpciqs.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnrweblink.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://dnrweblink.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doraapps.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://doraapps.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dowc.cdle.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://dowc.cdle.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dwr.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://dwr.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dwr.state.co.us/Tools/Home",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dwr.state.co.us/tools/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eagleweb.co.montezuma.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://eagleweb.co.montezuma.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ecomm.co.grand.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://ecomm.co.grand.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ecomm.co.grand.co.us/treasurer/web/login.jsp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ediscovery.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://ediscovery.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ediscovery.state.co.us/ContactUs/Index",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "firearmsdealers.dor.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://firearmsdealers.dor.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gts.co.jefferson.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://gts.co.jefferson.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.pueblo.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://maps.co.pueblo.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "my-pwd.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://my-pwd.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://my-pwd.state.co.us/PMUser/ChangeLanguage/ChangeLanguage",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mycolorado.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://mycolorado.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mycolorado.state.co.us/colorado-digital-id/verify",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://mycolorado.state.co.us/home",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myctbl.cde.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://myctbl.cde.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://myctbl.cde.state.co.us/applications",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myfamliplus.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://myfamliplus.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://myfamliplus.state.co.us/Common/Culture",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://myfamliplus.state.co.us/Common/LoginRedirection",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myfamliplusemployer.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://myfamliplusemployer.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mypw.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://mypw.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mypw.state.co.us/PMUser/ChangeLanguage/ChangeLanguage",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myui.clouduim.cdle.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://myui.clouduim.cdle.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newhire.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://newhire.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "opencdss.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://opencdss.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://opencdss.state.co.us/opencdss/dev-env/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prod.fostercare.cdhs.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://prod.fostercare.cdhs.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://prod.fostercare.cdhs.state.co.us/Public/Create/?culture=es",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recording.co.grand.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://recording.co.grand.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://recording.co.grand.co.us/AcclaimWeb/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "resources.csi.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://resources.csi.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://resources.csi.state.co.us/child-welfare-education-liaison-cwel/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure.ci.lamar.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://secure.ci.lamar.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.co.routt.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://selfservice.co.routt.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://selfservice.co.routt.co.us/ess/employmentopportunities/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://selfservice.co.routt.co.us/ess/login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sitesed.cde.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://sitesed.cde.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sitesed.cde.state.co.us/admin/tool/policy/view.php?versionid=1&returnurl=https%3A%2F%2Fsitesed.cde.state.co.us%2F",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tableau.private.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://tableau.private.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tableau.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://tableau.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "techu.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://techu.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://techu.state.co.us/home",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unify.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://unify.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vss.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://vss.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://vss.state.co.us/home",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webtrac.ci.wheatridge.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://webtrac.ci.wheatridge.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webtrac.ci.wheatridge.co.us/webtrac/web/search.html?module=AR&type=aqua,swimg&_csrf_token=fF061O6E0E142N2Q0Q2N2P4P6R4O6B4X6P696B546J72004G494B1G5Y4J564Y6W563W5K50045F6559416K5W4R576E6Y5I5B5U6R1B5O4K6P5163685Z6U4X045H5O4P",
+          "is_root_page": false,
+          "performance_score": "0.07",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webtrac.ci.wheatridge.co.us/webtrac/web/search.html?module=AR&type=aqua,swimg&_csrf_token=lp716U6I0E032M4C3F363U5V5I4L585B064Q4K50520B015W5C4U1B005S564V0H6Y52534T1G05665E54705I4S6D6F1B654M5P50725T4X5H501K5L4M5C4Y036Z4X5B",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wsinno.ci.loveland.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://wsinno.ci.loveland.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cde.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.cde.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.cde.state.co.us/cdeedserv/cdeleadershiplearningcohorts",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.craig.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.ci.craig.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.craig.co.us/bid_posting/index.php",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.craig.co.us/departments/water/backflow_prevention.php",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.sheridan.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.ci.sheridan.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.sheridan.co.us/17/Municipal-Court",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.wheatridge.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.ci.wheatridge.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.wheatridge.co.us/1422/Watch-a-City-Council-Meeting",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.wheatridge.co.us/27/Your-City",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.cheyenne.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.co.cheyenne.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.cheyenne.co.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.grand.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.co.grand.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.grand.co.us/AlertCenter.aspx",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.co.grand.co.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.routt.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.co.routt.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.routt.co.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.routt.co.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cohealthmaps.dphe.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.cohealthmaps.dphe.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.csi.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.csi.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.csi.state.co.us/about/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dcphrapps.dphe.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.dcphrapps.dphe.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.dcphrapps.dphe.state.co.us/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.dcphrapps.dphe.state.co.us/Home/Contact",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.healthinformatics.dphe.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.healthinformatics.dphe.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.healthinformatics.dphe.state.co.us/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.leg.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.leg.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.37",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.newhire.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.newhire.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pagosasprings.co.gov",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.pagosasprings.co.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.pagosasprings.co.gov/home-page/page/us-160-reconstruction-project-info",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sheriff.co.pueblo.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.sheriff.co.pueblo.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.sheriff.co.pueblo.co.us/27/About-Us",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sheriff.co.pueblo.co.us/280/Records-Request-Form",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.sos.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.state.co.us/pubs/business/businessHome.html",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.state.co.us/pubs/elections/ElectionIntegrity/index.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.trinidad.co.gov",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://www.trinidad.co.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.trinidad.co.gov/citizen_request_form/index.php",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.trinidad.co.gov/news_detail_T74_R116.php",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "xed.ediscovery.state.co.us",
+      "subnational": "Colorado",
+      "pages": [
+        {
+          "url": "https://xed.ediscovery.state.co.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    }
+  ]
+}

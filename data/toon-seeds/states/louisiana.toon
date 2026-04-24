@@ -1,0 +1,2952 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Louisiana",
+  "domain_count": 136,
+  "page_count": 266,
+  "domains": [
+    {
+      "canonical_domain": "adfprodadm.dnr.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://adfprodadm.dnr.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app.lla.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://app.lla.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.lsbme.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://apps.lsbme.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://apps.lsbme.la.gov/disciplinary/actionsDetail.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cas.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://cas.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cas.la.gov/auth/Account/ForgotPassword?ReturnUrl=%2Fauth%2Fconnect%2Fauthorize%2Fcallback%3Fscope%3Dudip%2520openid%2520profile%26client_id%3Dauth-portal%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fcas.la.gov%252Fportal",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cccbcldoe.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://cccbcldoe.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "checkbook.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://checkbook.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://checkbook.la.gov/contracts/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://checkbook.la.gov/expenditures.cfm",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "chp.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://chp.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.81",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://chp.la.gov/searchLicense.aspx",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.thibodaux.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ci.thibodaux.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.thibodaux.la.us/Departments/PR/RecPrograms/Pool",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coastal.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://coastal.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://coastal.la.gov/center-for-river-studies/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://coastal.la.gov/our-plan/2023-coastal-master-plan/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.64",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "connect.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://connect.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://connect.la.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://connect.la.gov/privacy-policy",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coraweb.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://coraweb.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cpaboard.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://cpaboard.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cpaboard.state.la.us/cpa-firm-permits/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://cpaboard.state.la.us/cpa-resources/",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crashreports.dps.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://crashreports.dps.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://crashreports.dps.la.gov/Home/Index",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crt.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://crt.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://crt.state.la.us/publications/accomplishments/index",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crt.state.la.us/rental-facilities/index",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcfs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://dcfs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcfs.la.gov/reportchildabuse",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcfscans.dcfs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://dcfscans.dcfs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doa.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://doa.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://doa.la.gov/doa/comm/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://doc.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doc.la.gov/imprisoned-person-programs-resources/probation-community-corrections/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dotd.la.gov/about/office-of-engineering/critical-projects/",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dotd.la.gov/traffic-travel/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eap.ethics.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://eap.ethics.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "egrants.lcle.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://egrants.lcle.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ethics.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ethics.la.gov/CampFinanHome.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "feta.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://feta.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://feta.la.gov/about/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://feta.la.gov/industrial-training/",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.86",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fraudreporting.dcfs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://fraudreporting.dcfs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geauxbiz.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://geauxbiz.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geauxguard.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://geauxguard.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://geauxguard.la.gov/la-national-guard-holds-annual-military-kids-camp-3/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://geauxguard.la.gov/lang-2052-campaign-plan/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gisweb.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "http://gisweb.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gohsep.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://gohsep.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gohsep.la.gov/about/gohsep-vision-mission-and-goals/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.86",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://gohsep.la.gov/resources/resources-for-em-professionals/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gohsepgrants.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://gohsepgrants.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://gohsepgrants.la.gov/site/newsarchive.cfm?id=64",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthdata.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://healthdata.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.52",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ia.ldi.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ia.ldi.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://jobs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jobs.la.gov/LouisianaJobs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "laatcabc.atc.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://laatcabc.atc.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://laatcabc.atc.la.gov/laatcprod/pub/Default.aspx?PossePresentation=Reset&PosseObjectDef=j_Registration",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.67",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "labems.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://labems.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.81",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://labems.ldh.la.gov/searchLicense.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lageauxpm.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lageauxpm.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "laredcap.oph.dhh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://laredcap.oph.dhh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://laredcap.oph.dhh.la.gov/redcap_v15.0.27/Authentication/password_recovery.php",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://laredcap.oph.dhh.la.gov/surveys/?s=YK489DCNC9",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "laserfiche.adminlaw.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "http://laserfiche.adminlaw.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "latransportationplan.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://latransportationplan.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://latransportationplan.la.gov/library-of-documents/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lcle.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lcle.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://lcle.la.gov/public-service-announcement-support-available-for-victims-of-the-january-1-2025-bourbon-street-attack-new-orleans-la/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lcle.la.gov/resources/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ldh.la.gov/bureau-of-infectious-diseases/west-nile-virus",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ldi.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ldi.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ldi.la.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ldoe.edlink.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ldoe.edlink.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ldwfcivilfines.wlf.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ldwfcivilfines.wlf.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ldwfcivilfines.wlf.la.gov/login",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "leers.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://leers.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legis.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://legis.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://legis.la.gov/legis/Committees.aspx?c=H",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://legis.la.gov/legis/SessionInfo/SessionInfo_25RS.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lep.edlink.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lep.edlink.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lern.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lern.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.43",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lern.la.gov/accessibility-statement/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lern.la.gov/communications-center/",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.41",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "library.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://library.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://library.la.gov/tbbl/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lla.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lla.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://lla.la.gov/reports/audit-reports",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "locddr.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://locddr.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://locddr.la.gov/action-plans",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lsbhi.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lsbhi.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://lsbhi.state.la.us/get-licensed/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lsbhi.state.la.us/home-buyers/find-an-inspector/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lsbme.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lsbme.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://lsbme.la.gov/content/verifications",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://lsbme.la.gov/licensure/index",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lsbpne.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://lsbpne.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lsbpne.la.gov/laws-rules/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lsbpne.la.gov/nurse-portal/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://maps.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mr.dcfs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://mr.dcfs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://mr.dcfs.la.gov/secur/forgotpassword.jsp?locale=us",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://mr.dcfs.la.gov/secur/forgotpassword.jsp?locale=us&lqs=sfdcIFrameOrigin%3Dnull&display=touch",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "my.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://my.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://my.la.gov/en-us",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mylosfa.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://mylosfa.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://mylosfa.la.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://mylosfa.la.gov/applications/student-hub/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.54",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mymedicaidtext.lameds.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://mymedicaidtext.lameds.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myplan.healthy.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://myplan.healthy.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://myplan.healthy.la.gov/en/learn",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "offices.omv.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://offices.omv.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://offices.omv.la.gov/messageDetails.html?message=297",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ofi.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ofi.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ofi.la.gov/depository/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ofi.la.gov/non-depository/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ojj.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ojj.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ojj.la.gov/calendar",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ojj.la.gov/page/services",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.82",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onbase.edlink.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://onbase.edlink.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ppwebgreen.lameds.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://ppwebgreen.lameds.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "produceradjusterportal.ldi.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://produceradjusterportal.ldi.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "remotesellersfiling.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://remotesellersfiling.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://remotesellersfiling.la.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reports.edlink.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://reports.edlink.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reports.lsbhi.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://reports.lsbhi.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://reports.lsbhi.state.la.us/register.php",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "restore.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://restore.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.35",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://restore.la.gov/hurricane-francine-program-overview",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "restore20-egrants.restore.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://restore20-egrants.restore.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://restore20-egrants.restore.la.gov/docs/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "restore24-egrants.restore.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://restore24-egrants.restore.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "revenue.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://revenue.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://revenue.la.gov/individuals/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure.pharmacy.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://secure.pharmacy.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://secure.pharmacy.la.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "senate.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://senate.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://senate.la.gov/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sonlite.dnr.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sonlite.dnr.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sonris-gis.dnr.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sonris-gis.dnr.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sonris-www.dnr.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sonris-www.dnr.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "speed-online.dps.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://speed-online.dps.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://speed-online.dps.la.gov/SuspiciousActivity/SAR",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sso.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sso.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sso.sos.la.gov/CreateAccount/SignOn.aspx",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sspweb.ie.dcfs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sspweb.ie.dcfs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController?VALID_GET=Y&PAGE_ACTION=ASGTSLoad&tab=1",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sspweb.lameds.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sspweb.lameds.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sspweb.lameds.ldh.la.gov/selfservice/selfserviceController?VALID_GET=Y&PAGE_ACTION=ASUIDLoad&tab=1",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sspweb.lameds.ldh.la.gov/selfservice/selfserviceJSPController?ChnageLanguage=ES&VALID_GET=Y&PAGE_ACTION=AGHMEChangeLanguage&tab=1",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.61",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stax.latax.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://stax.latax.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stems.gohsep.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://stems.gohsep.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://stems.gohsep.la.gov/courses/1532/offerings/7418",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://stems.gohsep.la.gov/courses/4893/offerings/8078",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sthelenaparish.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sthelenaparish.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sthelenaparish.la.gov/apps/news/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sumpay.portal.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://sumpay.portal.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxes.mfn.dps.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://taxes.mfn.dps.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "test.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "http://test.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tlc.dhh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://tlc.dhh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.4",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "training.lcle.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://training.lcle.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://training.lcle.la.gov/client/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uccfilings.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://uccfilings.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "usaplantsla.ldaf.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://usaplantsla.ldaf.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vetaffairs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://vetaffairs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vetaffairs.la.gov/cemeteries",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vetaffairs.la.gov/wwii-private-first-class-lebert-interred-at-southwest-louisiana-veterans-cemetery-today-81-years-after-being-killed-in-action",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "virtual.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://virtual.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.17",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://virtual.la.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.01",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vitalrecords.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://vitalrecords.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://vitalrecords.sos.la.gov/Marriages/DataView.aspx?pid=36",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "voterportal.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://voterportal.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://voterportal.sos.la.gov/Home/VoterLogin",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "watershed.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://watershed.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://watershed.la.gov/get-involved",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webmail.corrections.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://webmail.corrections.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wmacheckincheckout.wlf.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://wmacheckincheckout.wlf.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://wmacheckincheckout.wlf.la.gov/User/CreateUser",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wpso.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://wpso.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.able.osfa.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.able.osfa.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.able.osfa.la.gov/Enroll/lookup.aspx",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.able.osfa.la.gov/options.aspx",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.adminlaw.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.adminlaw.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.adminlaw.la.gov/index.php?id=7",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.adminlaw.la.gov/index.php?id=96",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.64"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ag.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ag.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ag.state.la.us/About",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ag.state.la.us/Home",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.thibodaux.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ci.thibodaux.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.thibodaux.la.us/Links",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.thibodaux.la.us/PressReleases/5581",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crt.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.crt.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.crt.state.la.us/publications/accomplishments/index",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crt.state.la.us/rental-facilities/index",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dcfs.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.dcfs.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dcfs.la.gov/reportchildabuse",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doa.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.doa.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.doa.la.gov/doa/comm/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.drugboard.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.drugboard.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.drugboard.la.gov/license-information/",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ethics.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ethics.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.la.gov/for-state-employees/",
+          "is_root_page": false,
+          "performance_score": "0.08",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.la.gov/map-detail/",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.latax.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.latax.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ldaf.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ldaf.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ldaf.la.gov/about/news/article/the-louisiana-agricultural-workforce-development-program-is-now-accepting",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ldaf.la.gov/land/fire/safety",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ldaf.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ldaf.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ldaf.state.la.us/about/news/article/the-louisiana-agricultural-workforce-development-program-is-now-accepting",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ldaf.state.la.us/land/fire/safety",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ldh.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ldh.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ldh.la.gov/bureau-of-infectious-diseases/west-nile-virus",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ldi.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ldi.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.ldi.la.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ldi.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.ldi.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.ldi.state.la.us/home",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lhc.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.lhc.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.lhc.la.gov/homeownership",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.lhc.la.gov/rental-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lla.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.lla.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.lla.la.gov/about/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.lla.la.gov/reports/energy-efficiency-schedule",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lmvc.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "http://www.lmvc.la.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.46",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lsbefd.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.lsbefd.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lsbme.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.lsbme.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.lsbme.la.gov/content/verifications",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.lsbme.la.gov/licensure/index",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lsbn.state.la.us",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.lsbn.state.la.us/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.lsbn.state.la.us/events/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.lsbn.state.la.us/events/july-22-2025-nlc-webinar-understanding-primary-state-of-residence-for-obtaining-a-multistate-license/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.myplan.healthy.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.myplan.healthy.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.myplan.healthy.la.gov/en/learn",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.osfa.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.osfa.la.gov:8181/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pharmacy.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.pharmacy.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.pharmacy.la.gov/page/how-to-file-a-complaint",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.pharmacy.la.gov/page/rulemaking-activity",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.restore.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.restore.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.restore.la.gov/hurricane-francine-action-plan",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.restore.la.gov/hurricane-francine-program-overview",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.sos.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.sos.la.gov/ElectionsAndVoting/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.startsaving.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.startsaving.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.startsaving.la.gov/aboutk12.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.statepublicdefender.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.statepublicdefender.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.statepublicdefender.la.gov/district-offices/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.statepublicdefender.la.gov/events/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sthelenaparish.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.sthelenaparish.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.sthelenaparish.la.gov/apps/news/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.treasury.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.treasury.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.treasury.la.gov/cea",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.treasury.la.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wpso.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www.wpso.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.wpso.la.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www8.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "http://www8.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.46",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www9.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://www9.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwwapps.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://wwwapps.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwwapps3.dotd.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://wwwapps3.dotd.la.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wwwslodms.doa.la.gov",
+      "subnational": "Louisiana",
+      "pages": [
+        {
+          "url": "https://wwwslodms.doa.la.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://wwwslodms.doa.la.gov/HistoricalDocument",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        }
+      ]
+    }
+  ]
+}

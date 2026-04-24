@@ -86,7 +86,11 @@ def main():
         help=(
             "Comma-separated list of Lighthouse categories to run "
             "(e.g. 'performance,accessibility,best-practices,seo'). "
-            "Omitting 'pwa' saves time on government sites.  "
+            "Omitting 'pwa' saves time on government sites. "
+            "Note: Lighthouse accessibility audits are evaluated against "
+            "WCAG 2.1 AA as required by ADA Title II for US state and "
+            "local government sites. WCAG 2.2-specific rules are not "
+            "enforced by this project. "
             "Default: run all categories."
         ),
         type=str,

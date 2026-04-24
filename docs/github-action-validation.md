@@ -8,7 +8,7 @@ This repository includes a GitHub Action workflow for validating government webs
 2. Select **"Validate Government URLs"** from the workflows list
 3. Click **"Run workflow"**
 4. Configure the run:
-   - **Country**: (Optional) Enter a specific country code to validate (e.g., `ICELAND`, `FRANCE`, `BELGIUM`)
+   - **Country**: (Optional) Enter a specific country code to validate (e.g., `TEXAS`, `CALIFORNIA`, `NEW_YORK`)
      - Leave empty to validate all countries
    - **Rate limit**: (Optional) Maximum requests per second (default: 2.0)
 5. Click **"Run workflow"** to start the validation
@@ -94,7 +94,7 @@ You can also run validations locally using the CLI:
 pip install -r requirements.txt
 
 # Validate a specific country
-python3 -m src.cli.validate_urls --country ICELAND --rate-limit 2
+python3 -m src.cli.validate_urls --country TEXAS --rate-limit 2
 
 # Validate all countries
 python3 -m src.cli.validate_urls --all --rate-limit 2

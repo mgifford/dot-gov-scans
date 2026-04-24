@@ -1,0 +1,5043 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "South Carolina",
+  "domain_count": 198,
+  "page_count": 481,
+  "domains": [
+    {
+      "canonical_domain": "admin.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://admin.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://admin.sc.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://admin.sc.gov/transparency",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adulted.ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://adulted.ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://adulted.ed.sc.gov/homepage-parts/dashboard/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://adulted.ed.sc.gov/learner",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aeronautics.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://aeronautics.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aeronautics.sc.gov/aviation-aerospace-education",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aeronautics.sc.gov/media/1475",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aging.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://aging.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aging.sc.gov/programs-and-initiatives",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "agriculture.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://agriculture.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://agriculture.sc.gov/dhectransfer/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://agriculture.sc.gov/resources/emergency-planning-and-disaster-response/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aiken.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://aiken.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://aiken.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "anderson.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://anderson.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://anderson.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "andersoncountymuseum.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://andersoncountymuseum.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://andersoncountymuseum.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://andersoncountymuseum.sc.gov/own-piece-anderson-history",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app.ddsn.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://app.ddsn.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://app.ddsn.sc.gov/ddsnportal/resetPasswordStep1.do",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apply.che.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://apply.che.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appportal.ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://appportal.ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "attorneyportal.fccms.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://attorneyportal.fccms.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "beaufort.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://beaufort.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://beaufort.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "benefitsportal.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://benefitsportal.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "branchville.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://branchville.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://branchville.sc.gov/town-council",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://branchville.sc.gov/town-council/agendas",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "businessfilings.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://businessfilings.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://businessfilings.sc.gov/BusinessFiling/Account/Login?ReturnUrl=%2Fbusinessfiling",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://businessfilings.sc.gov/BusinessFiling/Entity/NewFiling",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cacfp-apps.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://cacfp-apps.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://cacfp-apps.dss.sc.gov/WelcomeSNPM.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.74",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "calhouncounty.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://calhouncounty.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://calhouncounty.sc.gov/2024-calhoun-county-comprehensive-planning-process",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://calhouncounty.sc.gov/freedom-information-act",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://careers.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://careers.sc.gov/demand-careers",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://careers.sc.gov/other-state-government-jobs",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "catch.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://catch.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ccso.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ccso.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ccso.sc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ccso.sc.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cg.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://cg.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://cg.sc.gov/fiscal-transparency/new-taxes-and-fees-road-maintenance",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://cg.sc.gov/guidance-and-forms-state-agencies",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "charleston.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://charleston.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://charleston.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "che.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://che.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://che.sc.gov/2025-che-meetings",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://che.sc.gov/students-families-and-military",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childadvocate.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://childadvocate.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://childadvocate.sc.gov/complaints",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://childadvocate.sc.gov/investigations",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cityofnewellenton.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://cityofnewellenton.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofnewellenton.sc.gov/community",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cityofnewellenton.sc.gov/youth-sports-volunteers-needed",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "clientportal.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://clientportal.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cma.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://cma.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cma.sc.gov/research",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://cma.sc.gov/small-and-minority-business-division",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cnnga.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://cnnga.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cnnga.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cnnga.sc.gov/safety-energy-savings",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "consumer.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://consumer.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://consumer.sc.gov/business-resourceslaws",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://consumer.sc.gov/business-resourceslaws/licensing",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "consumerfinance.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://consumerfinance.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://consumerfinance.sc.gov/index.php/office-inspector-general",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://consumerfinance.sc.gov/regulated-institutions",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dc.statelibrary.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dc.statelibrary.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dc.statelibrary.sc.gov/atmire-cua/reports/SiteTopItemsWithDataType",
+          "is_root_page": false,
+          "performance_score": "0.03",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://dc.statelibrary.sc.gov/entities/publication/bd6e7bc0-4640-4f67-95b5-a7a6677f4f54",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcagateway.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dcagateway.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.6",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dcagateway.sc.gov/Register/CertificateInfo.aspx?START=TRUE",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ddsn.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ddsn.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ddsn.sc.gov/ddsn-divisions",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ddsn.sc.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "des.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://des.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://des.sc.gov/community/community-engagement/environmental-public-notices",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://des.sc.gov/programs/bureau-water/aquatic-science/beach-monitoring",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dew.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dew.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dew.sc.gov/news/2025-06/executive-director-william-floyds-may-2025-employment-statement",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dew.sc.gov/workforce-partners",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "djj.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://djj.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://djj.sc.gov/JoinTeamDJJ",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://djj.sc.gov/fines-fees-report-and-pace-proviso-report",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dms.psc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dms.psc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dms.psc.sc.gov/Web/Calendar/Travelers",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.75",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dms.psc.sc.gov/Web/Ndi/Detail/753",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dnr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dnr.sc.gov/purchase.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://doc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doc.sc.gov/family",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://doc.sc.gov/inmate-search-disclaimer",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doi.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://doi.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://doi.sc.gov/8/Consumers",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dor.sc.gov/resources-site/media-site/Pages/CLARENDON-COUNTY-SCHOOL-DISTRICT-TAX-EXPIRING.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://dor.sc.gov/tax-index/abl/Pages/special-event-permits.aspx",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.57",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dph.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dph.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dph.sc.gov/directors-message",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dph.sc.gov/how-can-we-help",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dss.sc.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://dss.sc.gov/assistance-programs/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ebs.eip.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ebs.eip.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://ebs.eip.sc.gov/ebs/forgotLoginInfo.jsp?st=3FGX-APOW-VFXB-WL7D-KIS8-5A7M-613K-CX5G",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "edgefieldcounty.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://edgefieldcounty.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.68",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://edgefieldcounty.sc.gov/2025/06/17/edgefield-county-receives-15000-duke-energy-foundation-grant-to-enhance-emergency-preparedness/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://edgefieldcounty.sc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ees.retirement.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ees.retirement.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ees.retirement.sc.gov/ees/fwdResetPasswordInit.do",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energy.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://energy.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://energy.sc.gov/focus-area/clean-transportation/electric-vehicles/electric-vehicle-stakeholder-initiative",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://energy.sc.gov/focus-area/state-energy-plan",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energysaver.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://energysaver.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://energysaver.sc.gov/for-your-home",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://energysaver.sc.gov/your-business",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eoc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://eoc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eoc.sc.gov/about-us/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://eoc.sc.gov/families",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "eservice.llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://eservice.llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://eservice.llr.sc.gov/SSO/Login/RecoverUserId?ReturnUrl=%2Fsso",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ethics.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ethics.sc.gov/statement-economic-interests",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ethics.sc.gov/user-guides-and-videos",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "etl.che.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://etl.che.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://etl.che.sc.gov/sso5/RequestPasswordReset.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "findyourfuture.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://findyourfuture.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://findyourfuture.sc.gov/priority-occupation-dashboard-official",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://findyourfuture.sc.gov/website-feedback-survey",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fire.llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://fire.llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.79",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://fire.llr.sc.gov/portal/ClassRegLand.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://fire.llr.sc.gov/portal/NewLogIn.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.86",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gal.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://gal.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gal.sc.gov/volunteer",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.dhec.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://gis.dhec.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "govcup.dnr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://govcup.dnr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://govcup.dnr.sc.gov/BecomeASponsor/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.73",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://govcup.dnr.sc.gov/Standings/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "governor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://governor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://governor.sc.gov/executive-branch/boards-and-commissions",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://governor.sc.gov/lieutenant-governor",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "greenville.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://greenville.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://greenville.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "guides.statelibrary.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://guides.statelibrary.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://guides.statelibrary.sc.gov/disaster-preparedness",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://guides.statelibrary.sc.gov/library-standards",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hatcheries.dnr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://hatcheries.dnr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://hatcheries.dnr.sc.gov/dennis/index.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "heritagetrust.dnr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://heritagetrust.dnr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://heritagetrust.dnr.sc.gov/heritage-at-risk.html",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hollyhill.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://hollyhill.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://hollyhill.sc.gov/residents/pay-online",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "horry.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://horry.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://horry.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ilab.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ilab.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lacehouse.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://lacehouse.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lacehouse.sc.gov/blog/2021-05/lace-house-arsenal-hills-camellia-and-cedar-rooms-inside-look",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lacehouse.sc.gov/index.php/resources",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lex-co.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://lex-co.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lex-co.sc.gov/media-requestsinquiries",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lex-co.sc.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lexington.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://lexington.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://lexington.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lexingtoncountyusa.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://lexingtoncountyusa.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://lexingtoncountyusa.sc.gov/alltape-adhesive-manufacturing-inc-selects-lexington-county-to-establish-first-south-carolina-operation/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.54",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://lexingtoncountyusa.sc.gov/workforce-and-demographics",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.47",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://llr.sc.gov/apply.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://llr.sc.gov/professions.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lmi.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://lmi.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://lmi.sc.gov/index",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "login.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://login.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "marlborocounty.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://marlborocounty.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://marlborocounty.sc.gov/government_/county_events_in_pictures/index.php",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://marlborocounty.sc.gov/progress/gallery.php",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "merchant.dor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://merchant.dor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mft.dor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://mft.dor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mybenefits.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://mybenefits.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mybenefits.sc.gov/mybenefits/authentication/forgotpassword/prepForCredentials.do?st=UHQK-GRNK-2K1N-POE0-5XW5-JGNF-0TL4-N4K3",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mybenefits.sc.gov/mybenefits/authentication/forgotpassword/prepForCredentials.do?st=UR3Q-L421-52TX-6A36-OD5Y-FWYG-YUSW-V0HS",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydorway.dor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://mydorway.dor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ncsd.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ncsd.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ncsd.sc.gov/what-is-fog/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "newhire.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://newhire.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nextest.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://nextest.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://nextest.sled.sc.gov/nextest/index.cgi",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oconee.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://oconee.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://oconee.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oeo.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://oeo.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://oeo.sc.gov/managedsites/prd/oeo/contact.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://oeo.sc.gov/managedsites/prd/oeo/help.html",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oig.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://oig.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oig.sc.gov/about-office",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oig.sc.gov/file-complaint",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.retirement.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://online.retirement.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://online.retirement.sc.gov/MemberAccess/welcome.action",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.scsafehome.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://online.scsafehome.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://online.scsafehome.sc.gov/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://online.scsafehome.sc.gov/Account/Register",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ors.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ors.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ors.sc.gov/index.php/",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ors.sc.gov/index.php/news",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oses.ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://oses.ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://oses.ed.sc.gov/integrated-monitoring/",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://oses.ed.sc.gov/regulations-policy-guidance/",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osfm.llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://osfm.llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://osfm.llr.sc.gov/searchLicense.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "osha.llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://osha.llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://osha.llr.sc.gov/outreach/factsheets.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://osha.llr.sc.gov/outreach/osha50th.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "peba.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://peba.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://peba.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://peba.sc.gov/maternal-health",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "personalizesc.ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://personalizesc.ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://personalizesc.ed.sc.gov/professional-learning-resource-bank/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://portal.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://portal.dss.sc.gov/ForgotLogin.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.fccms.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://portal.fccms.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ppp.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ppp.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ppp.sc.gov/parole-pardon-release-services",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ppp.sc.gov/supervision-rehabilitation/rehabilitation-programs-and-services",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "procurement.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://procurement.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://procurement.sc.gov/construction",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://procurement.sc.gov/scpro",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "providerportal.dss.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://providerportal.dss.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://psc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://psc.sc.gov/allowable-ex-parte-briefings",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://psc.sc.gov/transportation-applications",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "retailfoodregistration.agriculture.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://retailfoodregistration.agriculture.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://retailfoodregistration.agriculture.sc.gov/Registration",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.42"
+        },
+        {
+          "url": "https://retailfoodregistration.agriculture.sc.gov/Registration/Forms/Dashboard",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.42"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rfa.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://rfa.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://rfa.sc.gov/page/data-research",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ria.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ria.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ria.sc.gov/news/dhec-posts-draft-intended-use-plans-for-fy22/",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ria.sc.gov/utility-viability/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "saltwaterfishing.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://saltwaterfishing.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://saltwaterfishing.sc.gov/galleries.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "saludacounty.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://saludacounty.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://saludacounty.sc.gov/county-council",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://saludacounty.sc.gov/public-information",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "saml2.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://saml2.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sc.gov/residents",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sc.gov/visitors/exploring-our-state",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scbo.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scbo.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scbo.sc.gov/archives",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://scbo.sc.gov/online-edition",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.76",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scbos.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scbos.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://scbos.sc.gov/my-business/out-of-state-business",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://scbos.sc.gov/new-business",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sccid.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sccid.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sccid.sc.gov/about-us/county-public-defenders",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sccid.sc.gov/resources/policies",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sccja.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sccja.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sccja.sc.gov/calea-access-portal/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sccja.sc.gov/training",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scdah.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scdah.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://scdah.sc.gov/news/2024-06/acquisition-governor-benjamin-franklin-perry-papers",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdah.sc.gov/research-and-genealogy",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scdcindustries.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scdcindustries.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdcindustries.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdcindustries.sc.gov/industries-products",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scdgs.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scdgs.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdgs.sc.gov/service-offerings",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scdps.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scdps.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdps.sc.gov/about/contact",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdps.sc.gov/news",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scdva.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scdva.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://scdva.sc.gov/south-carolina-governors-challenge",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scdva.sc.gov/veteran-consumer-resources",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scedp.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scedp.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scedp.sc.gov/services/steps-apply",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sceis.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sceis.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://sceis.sc.gov/page.aspx?id=9",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sceisimage.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sceisimage.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schac.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://schac.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://schac.sc.gov/about-us/brochures-and-posters",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://schac.sc.gov/employment-discrimination",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scheartgallery.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scheartgallery.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scheartgallery.sc.gov/galleries",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schousing.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://schousing.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://schousing.sc.gov/homebuyers/find-lender",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://schousing.sc.gov/homebuyers/programs-homebuyers",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "schpr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://schpr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://schpr.sc.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scmd.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scmd.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scmd.sc.gov/index.php/news/2023-03/678th-air-defense-artillery-brigade-returns",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scmd.sc.gov/pass-through-funding-transparency",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://scor.sc.gov/careers",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://scor.sc.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "score.dnr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://score.dnr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://score.dnr.sc.gov/deepc9f3.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scorf.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scorf.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://scorf.sc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scorf.sc.gov/board-meetings",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scpasswordreset.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scpasswordreset.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scprosecutors.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scprosecutors.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://scprosecutors.sc.gov/training",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scuihub.dew.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scuihub.dew.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "scvrsiis.dph.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://scvrsiis.dph.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sfaa.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sfaa.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://sfaa.sc.gov/authority-meetings",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.72",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sg.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sg.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sg.sc.gov/?wptouch_switch=desktop",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sg.sc.gov/index.php/scsgma/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "simon.dhec.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://simon.dhec.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://simon.dhec.sc.gov/simon/UserRegistration/NewRegistration",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "simonportal.dph.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://simonportal.dph.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://simonportal.dph.sc.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sled.sc.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sled.sc.gov/counterterrorism.html",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "smbcc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://smbcc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://smbcc.sc.gov/contact.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://smbcc.sc.gov/spotlight.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "solar.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://solar.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://solar.sc.gov/choosing-system",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://solar.sc.gov/installing-and-maintaining-system",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "solicitor11.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://solicitor11.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://solicitor11.sc.gov/diversion-programs",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://solicitor11.sc.gov/news",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sos.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sos.sc.gov/business-resouces/beneficial-ownership-corporate-transparency-act",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sos.sc.gov/news/2025-07/secretary-state-mark-hammond-encourages-wise-charitable-giving-following-texas",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ssl.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ssl.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "standards.ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://standards.ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "statefire.llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://statefire.llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://statefire.llr.sc.gov/osfm/crrservices.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://statefire.llr.sc.gov/scfa/index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stmatthews.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://stmatthews.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://stmatthews.sc.gov/service-issues",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sullivansisland.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://sullivansisland.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://sullivansisland.sc.gov/community-connections",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sullivansisland.sc.gov/government/meetings-and-agendas",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofallendale.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townofallendale.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofallendale.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofallendale.sc.gov/public-service-announcements",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofbluffton.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townofbluffton.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.25",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://townofbluffton.sc.gov/217/Trash-Recycling-Services",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofbluffton.sc.gov/civicalerts.aspx",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofbowman.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townofbowman.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofbowman.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofbowman.sc.gov/employment-opportunities-bids",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townoflatta.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townoflatta.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townoflatta.sc.gov/departments",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townoflatta.sc.gov/form/contact",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofninetysix.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townofninetysix.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofninetysix.sc.gov/sc-festival-stars",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofnorth.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townofnorth.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofnorth.sc.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofnorth.sc.gov/support-our-local-businesses",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofsalley.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://townofsalley.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofsalley.sc.gov/meetings-documentation",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://treasurer.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://treasurer.sc.gov/about-us/transparency/computer-conversion-fund/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://treasurer.sc.gov/what-we-do/for-citizens/unclaimed-property-program/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tyler.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://tyler.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ucconline.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://ucconline.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uitax.dew.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://uitax.dew.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://uitax.dew.sc.gov/employers-page.html",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vendorportal.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://vendorportal.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vrems.scvotes.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://vrems.scvotes.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wcc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://wcc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://wcc.sc.gov/insurance-carriers-third-party-administrators",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://wcc.sc.gov/pre-employment-verifications",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wccprogress.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://wccprogress.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://wccprogress.sc.gov/web/Signin.html",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.admin.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.admin.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.admin.sc.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.admin.sc.gov/transparency",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.archivesindex.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.archivesindex.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.63",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.careers.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.careers.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.careers.sc.gov/demand-careers",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.careers.sc.gov/other-state-government-jobs",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.che.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.che.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.che.sc.gov/staff-directory",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.che.sc.gov/students-families-and-military",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.pickens.sc.us",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.co.pickens.sc.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.pickens.sc.us/alert_detail.php",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.pickens.sc.us/i_want_to/services/index.php",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.consumer.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.consumer.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.consumer.sc.gov/business-resourceslaws",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.consumer.sc.gov/ditch-pitch",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.crr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.crr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.crr.sc.gov/exhibits-list",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.crr.sc.gov/exhibits/currentexhibits",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.daodas.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.daodas.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.daodas.sc.gov/about/press-release/national-prevention-week-how-south-carolinians-can-take-action-to-prevent-substance-use/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.daodas.sc.gov/stats-reports/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.delahowe.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.delahowe.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.51",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.delahowe.sc.gov/article/2060200",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.delahowe.sc.gov/page/education-center",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.des.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.des.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.des.sc.gov/community/community-engagement/environmental-public-notices",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.des.sc.gov/programs/bureau-water/aquatic-science/beach-monitoring",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dew.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.dew.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.dew.sc.gov/news/2025-07/joint-media-advisory-richland-county-sheriffs-department-verdict-fraudulent",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dew.sc.gov/workforce-partners",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dnr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.dnr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dnr.sc.gov/purchase.html",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.doc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doc.sc.gov/inmate-search-disclaimer",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doc.sc.gov/medical",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doi.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.doi.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.doi.sc.gov/FormCenter/Online-Contact-Form-3/Online-Contact-Form-38",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ed.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.ed.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.governor.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.governor.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.governor.sc.gov/executive-branch/boards-and-commissions",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.governor.sc.gov/lieutenant-governor",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kershaw.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.kershaw.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kershaw.sc.gov/government/departments-a-g/administration/foia-requests",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.kershaw.sc.gov/government/departments-h-q/parks-recreation",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.54",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lex-co.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.lex-co.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.lex-co.sc.gov/central-stores-auction-items",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.lex-co.sc.gov/public-hearings-portal",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.llr.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.llr.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.llr.sc.gov/apply.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.llr.sc.gov/professions.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nationalregister.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "http://www.nationalregister.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.68",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://www.nationalregister.sc.gov/nationalregisterdelisted.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "http://www.nationalregister.sc.gov/williamsburg/nrwilliamsburg.htm",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.66",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.peba.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.peba.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.peba.sc.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.peba.sc.gov/maternal-health",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.procurement.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.procurement.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.procurement.sc.gov/scpro",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.psc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.psc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.psc.sc.gov/allowable-ex-parte-briefings",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.psc.sc.gov/transportation-applications",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sc.gov/residents",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.sc.gov/visitors/exploring-our-state",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.scbos.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.scbos.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.scbos.sc.gov/about/partners",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.scbos.sc.gov/my-business/out-of-state-business",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sccb.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.sccb.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sccb.sc.gov/locations",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sccb.sc.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sccbank.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.sccbank.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sccbank.sc.gov/land-owners",
+          "is_root_page": false,
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.sccbank.sc.gov/legislature",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.scdps.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.scdps.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.scdps.sc.gov/about/contact",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.scdps.sc.gov/news",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sceis.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.sceis.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.52",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sceis.sc.gov/page.aspx?id=9",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.sled.sc.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.sled.sc.gov/counterterrorism.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.sos.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.sc.gov/news/2025-07/secretary-state-mark-hammond-encourages-wise-charitable-giving-following-texas",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.statelibrary.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.statelibrary.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.statelibrary.sc.gov/news/sc-state-library-historic-camdens-annual-carolina-day",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.statelibrary.sc.gov/state-agencies",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.townofandrews.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.townofandrews.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.townofandrews.sc.gov/o/andrews/page/council-meeting-dates",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.townofbluffton.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.townofbluffton.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.townofbluffton.sc.gov/217/Trash-Recycling-Services",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.townofbluffton.sc.gov/civicalerts.aspx",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.townofestill.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.townofestill.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.56",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.townofestill.sc.gov/page/about.history",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.wcc.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.wcc.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.wcc.sc.gov/insurance-carriers-third-party-administrators",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.wcc.sc.gov/pre-employment-verifications",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.williamsburgcounty.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://www.williamsburgcounty.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.williamsburgcounty.sc.gov/158/Economic-Development",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.williamsburgcounty.sc.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "york.scor.sled.sc.gov",
+      "subnational": "South Carolina",
+      "pages": [
+        {
+          "url": "https://york.scor.sled.sc.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://york.scor.sled.sc.gov/CommunityNotifications.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    }
+  ]
+}

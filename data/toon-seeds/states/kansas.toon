@@ -1,0 +1,2094 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Kansas",
+  "domain_count": 89,
+  "page_count": 194,
+  "domains": [
+    {
+      "canonical_domain": "admin.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://admin.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://admin.ks.gov/offices/personnel-services/jobs",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "applicationportal.doc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://applicationportal.doc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "barber.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://barber.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://barber.ks.gov/elected.html",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.61",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://barber.ks.gov/emergency-management.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.59",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "boha.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://boha.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://boha.ks.gov/egov_boha/PersonSearchResults.aspx?Facility=Y",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "claris.kdhe.state.ks.us",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://claris.kdhe.state.ks.us:8443/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cldpr.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://cldpr.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "content.dcf.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://content.dcf.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://content.dcf.ks.gov/rehab/",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cssapply.dcf.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://cssapply.dcf.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://cssapply.dcf.ks.gov/Account",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cssp.kees.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://cssp.kees.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://cssp.kees.ks.gov/apspssp/ssp.portal/amIEligible/welcome",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://cssp.kees.ks.gov/apspssp/ssp.portal/footer/otherLanguageResources",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "debtpay.kdor.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://debtpay.kdor.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "estar.kcc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://estar.kcc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "firemarshal.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://firemarshal.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://firemarshal.ks.gov/101/Resources",
+          "is_root_page": false,
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://firemarshal.ks.gov/236/Kansas-Fire-Incident-Reporting-System",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "foodsafety.kda.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://foodsafety.kda.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fraudreport.dol.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://fraudreport.dol.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://fraudreport.dol.ks.gov/FraudReportSubmit/CreateOther",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://fraudreport.dol.ks.gov/FraudReportSubmit/CreateSelf",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "getinline.kdor.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://getinline.kdor.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "healthbenefitsprogram.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://healthbenefitsprogram.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://healthbenefitsprogram.ks.gov/sitemap",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "homevisiting.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://homevisiting.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://homevisiting.kdhe.ks.gov/?page_id=31",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://homevisiting.kdhe.ks.gov/?page_id=9202",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ikan.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://ikan.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ikan.ks.gov/auth",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jobs.sok.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://jobs.sok.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://jobs.sok.ks.gov/sokhrprdcg/signon.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kansascash.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://kansascash.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://kansascash.ks.gov/about_us.html",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kansasci.doc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://kansasci.doc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.5",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kanview.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://kanview.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.66"
+        },
+        {
+          "url": "https://kanview.ks.gov/DataDownload.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.66"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kdads-hcbscomplianceportal.kdads.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://kdads-hcbscomplianceportal.kdads.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://kdads-hcbscomplianceportal.kdads.ks.gov/Kmms-verify",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kdocrepository.doc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://kdocrepository.doc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "keap.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://keap.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://keap.kdhe.ks.gov/keap_index.aspx",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://keap.kdhe.ks.gov/keap_users_newaccess.aspx",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "khap.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://khap.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://khap.kdhe.ks.gov/KDHEELIPO/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "klic.dol.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://klic.dol.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://klic.dol.ks.gov/vosnet/GSIPub/documentview.aspx?enc=UbQEi2djXjv4KxAPLIkAnQ==",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://klic.dol.ks.gov/vosnet/gsipub/documentView.aspx?docid=871",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kshealthdata.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://kshealthdata.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kstrain.kdhe.state.ks.us",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "http://kstrain.kdhe.state.ks.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "leaveslip.doc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://leaveslip.doc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "library.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://library.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://library.ks.gov/chat",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://library.ks.gov/talking-books/overview",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licensing.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://licensing.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "logbook.doc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://logbook.doc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://maps.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://maps.kdhe.ks.gov/keif/",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvs.dmv.kdor.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://mvs.dmv.kdor.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mvs2.dmv.kdor.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://mvs2.dmv.kdor.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mykansas.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://mykansas.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://mykansas.ks.gov/ucc/?p=help",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myvaccinerecord.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://myvaccinerecord.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://myvaccinerecord.ks.gov/?area=Access",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oah.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://oah.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://oah.ks.gov/Home/FAQs",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oitsapps.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://oitsapps.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prolicenseverify.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://prolicenseverify.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://prolicenseverify.ks.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sehp.healthbenefitsprogram.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://sehp.healthbenefitsprogram.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sehp.healthbenefitsprogram.ks.gov/state-employee",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "serv.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://serv.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://serv.ks.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://serv.ks.gov/vol_reg_external.php?uid=10",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sharp.sok.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://sharp.sok.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://sharp.sok.ks.gov/sokhrprd/signon.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "smart.sok.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://smart.sok.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://smart.sok.ks.gov/sokfsprd/signon.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "smartweb.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://smartweb.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://smartweb.ks.gov/resources/announcements/requisition-attachments",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://sos.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sos.ks.gov/businesses/businesses.html",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://sos.ks.gov/publications/regulation-modernization-initiative.html",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "supplier.sok.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://supplier.sok.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unclaimedproperty.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://unclaimedproperty.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://unclaimedproperty.ks.gov/app/claim-search",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.kdads.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://webapps.kdads.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://webapps.kdads.ks.gov/prod/f?p=14002:101",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webiz.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://webiz.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://webiz.kdhe.ks.gov/webiznet_ks/UserRegistration/NewRegistration",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ag.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ag.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ag.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.agriculture.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.agriculture.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.agriculture.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.childadvocate.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.childadvocate.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.childadvocate.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.childadvocate.ks.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.elkhart.ks.us",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ci.elkhart.ks.us/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.elkhart.ks.us/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.elkhart.ks.us/9/How-Do-I",
+          "is_root_page": false,
+          "performance_score": "0.2",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.sumner.ks.us",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.co.sumner.ks.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.sumner.ks.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dcf.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.dcf.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dcf.ks.gov/Newsroom/Pages/Kansas-Child-Welfare-System.aspx",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dcf.ks.gov/services/PPS/Pages/Foster-Care-Bill-of-Rights.aspx",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dcfapp.kees.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.dcfapp.kees.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.dcfapp.kees.ks.gov/apspssp/sspNonMed.portal/amIEligible/welcome",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dcfprovider.kees.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.dcfprovider.kees.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.dcfprovider.kees.ks.gov/apspssp/provider.portal/login/providerSignup",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dental.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.dental.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.dental.ks.gov/?splash=https%3a%2f%2fwww.kansas.gov%2fdental-verification%2findex.do&____isexternal=true",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.doc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.doc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doc.ks.gov/author/david.thompson",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.doc.ks.gov/facilities/faq",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dol.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.dol.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.dol.ks.gov/employers/employer-services/shared-work-program",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.dol.ks.gov/unemployment/overview",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ebit.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ebit.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ebit.ks.gov/divisions/information-security-office-kiso/resources/incident-reporting",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ebit.ks.gov/support/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.firemarshal.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.firemarshal.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.firemarshal.ks.gov/101/Resources",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.firemarshal.ks.gov/236/Kansas-Fire-Incident-Reporting-System",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.governor.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.governor.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.governor.ks.gov/newsroom/executive-orders",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.governor.ks.gov/newsroom/kansas-flag-honors",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.grants.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.grants.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.grants.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.grants.ks.gov/initiatives",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kancare.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kancare.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kancare.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kancare.ks.gov/members/help-resources",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kansasstatetreasurer.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kansasstatetreasurer.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.kansasstatetreasurer.ks.gov/about_us.html",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kcc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kcc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.kcc.ks.gov/oil-gas",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.kcc.ks.gov/resource-adequacy-work-study-series",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kcdcinfo.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kcdcinfo.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kcdcinfo.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kdads.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kdads.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kdads.ks.gov/about-us/about-our-commissions",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.kdads.ks.gov/licensing-policy/abuse-neglect-or-exploitation",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kdhe.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kdhe.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.kdhe.ks.gov/101/Programs-Services",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.kdhe.ks.gov/CivicAlerts.aspx?AID=1590",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.keep.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.keep.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.keep.ks.gov/how-it-works.html",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.keep.ks.gov/qesp.html",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kjc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kjc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.kjc.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.kjc.ks.gov/legal-forms/divorce",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.knaa.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.knaa.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.knaa.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.knaa.ks.gov/legislation",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kovs.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kovs.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kovs.ks.gov/about-kovs/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.kovs.ks.gov/veteran-cemeteries",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.krec.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.krec.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.krec.ks.gov/applicants/salesperson-requirements",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.krec.ks.gov/resources/commission-statutes-rules-and-regulations",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.krgc.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.krgc.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.krgc.ks.gov/index.php/krgc-employment",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ksbha.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ksbha.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ksbha.ks.gov/departments/licensing",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ksbha.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ksbma.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ksbma.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ksbsrb.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ksbsrb.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ksbsrb.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ksbtp.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ksbtp.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ksbtp.ks.gov/Home/Components/News/News/28/15",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ksbtp.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ktracs.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ktracs.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ktracs.ks.gov/Home/Components/Calendar/Event/149/77",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://www.ktracs.ks.gov/home-ktracs",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.kwo.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.kwo.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kwo.ks.gov/news-events/kwa-strategic-planning",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.kwo.ks.gov/news-events/newsroom",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ombudsman.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.ombudsman.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.ombudsman.ks.gov/contact-us/contact-our-office",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ombudsman.ks.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oscar.dol.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.oscar.dol.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.oscar.dol.ks.gov/help",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pharmacy.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.pharmacy.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.pharmacy.ks.gov/?splash=https%3a%2f%2fks.accessgov.com%2fkbp-payment-portal%2fForms%2fPage%2fkbp-payment-portal%2fkbp%2f0&____isexternal=true",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sentencing.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.sentencing.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sentencing.ks.gov/resources/desk-reference-manuals",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.sentencing.ks.gov/sb-123-raft-eligibility",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.ks.gov",
+      "subnational": "Kansas",
+      "pages": [
+        {
+          "url": "https://www.sos.ks.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.ks.gov/businesses/businesses.html",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.ks.gov/publications/regulation-modernization-initiative.html",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

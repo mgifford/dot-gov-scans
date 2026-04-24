@@ -13,10 +13,7 @@
     Facebook: "facebook",
     LinkedIn: "linkedin",
   };
-  var COUNTRY_CODE_ALIASES = {
-    Cyprus: "REPUBLIC_OF_CYPRUS",
-    "United Kingdom": "UNITED_KINGDOM_UK",
-  };
+  var COUNTRY_CODE_ALIASES = {};
   var ACCESSIBILITY_LABELS = {
     Scanned: "scanned pages",
     Reachable: "reachable pages",

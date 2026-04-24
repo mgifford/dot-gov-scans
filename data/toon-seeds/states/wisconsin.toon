@@ -1,0 +1,6180 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Wisconsin",
+  "domain_count": 265,
+  "page_count": 573,
+  "domains": [
+    {
+      "canonical_domain": "access.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://access.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://access.wi.gov/s/link-case",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "administrator.co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://administrator.co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://administrator.co.richland.wi.us/employee-resources/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://administrator.co.richland.wi.us/public-works-projects/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "airquality.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://airquality.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://airquality.wi.gov/home/text/538",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.61",
+          "best_practices_score": "1",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appointments.etf.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://appointments.etf.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://appointments.etf.wi.gov/WA/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.dnr.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://apps.dnr.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.psc.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://apps.psc.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://apps.psc.wi.gov/pages/calendar.htm",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "appswlp.dsps.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://appswlp.dsps.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ascent.co.lincoln.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ascent.co.lincoln.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.8"
+        },
+        {
+          "url": "https://ascent.co.lincoln.wi.us/LandRecords/AccessManagement/Account/Login",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "awpkb.dot.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://awpkb.dot.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://awpkb.dot.wi.gov/Content/vrs/VRS.htm",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "badgerlink.dpi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://badgerlink.dpi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://badgerlink.dpi.wi.gov/bulletin/2025/07/checking-access-after-authentication-system-maintenance",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://badgerlink.dpi.wi.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bayfieldcounty.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://bayfieldcounty.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://bayfieldcounty.wi.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://bayfieldcounty.wi.gov/CivicAlerts.aspx?AID=1329",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "birchwoodvillage.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://birchwoodvillage.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://birchwoodvillage.wi.gov/community-fundraiser-birchwood-community-cats-humanity-project/",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://birchwoodvillage.wi.gov/departments/",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "biron.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://biron.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://biron.wi.gov/news-and-notices/garbage-pick-up-schedule-change",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://biron.wi.gov/news-and-notices/north-biron-drive-cth-u-closure-notice-3",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "c3dkb.dot.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://c3dkb.dot.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://c3dkb.dot.wi.gov/Content/c3d/prjct-setup.htm",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdlguide.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://cdlguide.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://cdlguide.wi.gov/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cfis.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://cfis.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cfis.wi.gov/public/Registration.aspx?page=Forgotpassword",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ch.co.trempealeau.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ch.co.trempealeau.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "charitable.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://charitable.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://charitable.wi.gov/account/register",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "children.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://children.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.48",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://children.wi.gov/Pages/ResearchData/FactSheets.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.beaverdam.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.beaverdam.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.beaverdam.wi.gov/129/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.delavan.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.delavan.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://ci.delavan.wi.us/departments/city_treasurer___finance/payments.php",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.delavan.wi.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.hartford.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.hartford.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.23",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.hartford.wi.us/27/Departments",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ci.hartford.wi.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.marshfield.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.marshfield.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.marshfield.wi.us/departments_and_divisions/index.php",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.marshfield.wi.us/news_detail_T58_R695.php",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.merrill.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.merrill.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://ci.merrill.wi.us/meetings",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.stanley.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.stanley.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.stanley.wi.gov/2025/05/09/electronics-appliance-recycling/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.stanley.wi.gov/city-board/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ci.suring.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ci.suring.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://ci.suring.wi.us/calendar?heygov-event=ev_01hghqj7ap1hbj2nq9nh4k8b4t",
+          "is_root_page": false,
+          "performance_score": "0.14",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ci.suring.wi.us/public-works/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cjcc.doj.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://cjcc.doj.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://cjcc.doj.wi.gov/event/cjcc-data-sharingoutcomes-trends-and-indicators-subcommittee-14",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://cjcc.doj.wi.gov/subcommittee/dsoti-0",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.69",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cltsproviderdirectory.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://cltsproviderdirectory.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cltsproviderregistry.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://cltsproviderregistry.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://cltsproviderregistry.wi.gov/s/SelfRegister",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.door.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://co.door.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://co.door.wi.gov/AlertCenter.aspx?AID=Entry-for-Kids-to-WIN-a-Green-Bay-Packer-15",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.price.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://co.price.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.price.wi.us/27/Your-Government",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://co.price.wi.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://co.richland.wi.us/supervisors.shtml",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.taylor.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://co.taylor.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.19",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://co.taylor.wi.us/old-tire-collection/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://co.taylor.wi.us/your-government/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.trempealeau.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://co.trempealeau.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://co.trempealeau.wi.us/departments/service_departments/department_of_land_management/permits___applications.php",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://co.trempealeau.wi.us/news_detail_T36_R1234.php",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "co.washburn.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://co.washburn.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://co.washburn.wi.us/for-immediate-release-from-chairman-tim-kessler-7-15-2025/",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://co.washburn.wi.us/meetings/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "concealedcarry.doj.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://concealedcarry.doj.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://concealedcarry.doj.wi.gov/ccwonline/steps/startDataChange",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://concealedcarry.doj.wi.gov/ccwonline/steps/startRenewApplication",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "crashreports.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://crashreports.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://crashreports.wi.gov/ReissueReports",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dait.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dait.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dait.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "datcp.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://datcp.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://datcp.wi.gov/Pages/About_Us/ATCPBoardMaterials.aspx",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "datcpgis.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://datcpgis.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://datcpgis.wi.gov/maps/?viewer=fpp",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://datcpgis.wi.gov/maps/?viewer=ioh",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dest.da.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dest.da.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dest.da.wi.gov/reset/request",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dfi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dfi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://dfi.wi.gov/Pages/AZContactInformation.aspx",
+          "is_root_page": false,
+          "best_practices_score": "0.71",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "disabledparking.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://disabledparking.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://disabledparking.wi.gov/instructions",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dlguide.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dlguide.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dlguide.wi.gov/Home/Index",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dlguides.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dlguides.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dma.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dma.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dma.wi.gov/about/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dnrmaps.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dnrmaps.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doa.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://doa.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.67",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://doa.wi.gov/Pages/Home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.67",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "doc.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://doc.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doc.wi.gov/Pages/OffenderInformation/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://doc.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "1",
+          "best_practices_score": "0.68",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "docsales.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://docsales.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://docsales.wi.gov/Home.aspx?content=Shipping",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpi.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dpi.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dpi.state.wi.us/families-students",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dpi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dpi.wi.gov/families-students",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dsps.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dsps.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.48",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://dsps.wi.gov/Pages/Home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.48",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dspseap.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dspseap.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.85",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dspseap.wi.gov/resources/exemptschools.asp",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dspseap.wi.gov/resources/faq.asp",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dspslicensemonitoring.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dspslicensemonitoring.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://dspslicensemonitoring.wi.gov/Home/Support",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dva.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dva.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dva.wi.gov/get-started-with-wdva/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dva.wi.gov/support/request-military-records/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dwd.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://dwd.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://dwd.wi.gov/dvr/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "elections.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://elections.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://elections.wi.gov/about-the-wec",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://elections.wi.gov/learning-center-tlc",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "electiontraining.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://electiontraining.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://electiontraining.wi.gov/group/10916",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "emvpartner.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://emvpartner.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energyandhousing.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://energyandhousing.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.67",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://energyandhousing.wi.gov/Pages/CommunityResources.aspx",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.67",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energybenefit.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://energybenefit.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.63",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "epay.doc.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://epay.doc.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ephraim.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ephraim.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ephraim.wi.gov/agendas-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ephraim.wi.gov/short-term-rentals/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esla.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://esla.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://esla.wi.gov/dashboard",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ess.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ess.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esupplier.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://esupplier.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "etf.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://etf.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://etf.wi.gov/news/webinar-kaia-health-pain-management-program",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://etf.wi.gov/wrs-performance",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ethics.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ethics.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.48",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ethics.wi.gov/Pages/AboutUs/CommissionEvents.aspx",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ethics.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.43",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "evers.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://evers.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.48",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://evers.wi.gov/Pages/About/About_Tony.aspx",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.68",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://evers.wi.gov/Pages/Application_Process.aspx",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.7",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "evolveportal.ci.wausau.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://evolveportal.ci.wausau.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fair.co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://fair.co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://fair.co.richland.wi.us/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://fair.co.richland.wi.us/rental-info/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fdlsheriff.fdlco.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://fdlsheriff.fdlco.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://fdlsheriff.fdlco.wi.gov/Home/Detail/196477",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fleetportal.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://fleetportal.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "forestvilletown.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://forestvilletown.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://forestvilletown.wi.gov/solid-waste-information/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "funonforty.co.grant.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://funonforty.co.grant.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://funonforty.co.grant.wi.gov/index.php/general-information/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://funonforty.co.grant.wi.gov/index.php/news-entertainment/",
+          "is_root_page": false,
+          "performance_score": "0.43",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.ci.neenah.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://gis.ci.neenah.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.door.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://gis.co.door.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.oneida.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://gis.co.oneida.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.waushara.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://gis.co.waushara.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gisinfo.co.walworth.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://gisinfo.co.walworth.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gowild.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://gowild.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://gowild.wi.gov/customers/profile/new",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://gowild.wi.gov/wildlife/harvest",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "heab.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://heab.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://heab.state.wi.us/dlab/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.86",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://heab.state.wi.us/programs.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.77",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "heplus.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://heplus.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hrportal.ci.janesville.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://hrportal.ci.janesville.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "idguide.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://idguide.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "inmatelocator.co.walworth.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://inmatelocator.co.walworth.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kickapoovalley.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://kickapoovalley.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://kickapoovalley.wi.gov/Recreation/Camping/CAMPSITE-BOOKING/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kvr.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://kvr.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://kvr.state.wi.us/Education/Summer-Camp/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "kvronline.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://kvronline.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://kvronline.wi.gov/KVRProductCart.aspx?ProductID=302",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "landinfo.fdlco.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://landinfo.fdlco.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "landnav.co.langlade.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://landnav.co.langlade.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://landnav.co.langlade.wi.us/Home",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://landnav.co.langlade.wi.us/Login",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "landrecords.co.grant.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://landrecords.co.grant.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://landrecords.co.grant.wi.gov/GCSWebPortal/Login.aspx?signout=1",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "landshark.co.juneau.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://landshark.co.juneau.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "landshark.co.outagamie.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://landshark.co.outagamie.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://landshark.co.outagamie.wi.us/lns.app/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "landshark.co.taylor.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://landshark.co.taylor.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "legacy.co.rock.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://legacy.co.rock.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://legacy.co.rock.wi.us/Rock/TaxSearch/disclaimer.php",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://legacy.co.rock.wi.us/index.php",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "license.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://license.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://license.wi.gov/s/",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://license.wi.gov/s/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "licenseverification.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://licenseverification.wi.gov/start-over",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "list.co.dodge.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://list.co.dodge.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://list.co.dodge.wi.us/GCSWebPortal/Login.aspx?signout=1",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lists.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://lists.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.36"
+        },
+        {
+          "url": "https://lists.wi.gov/emailpassword.tml",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lobbying.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://lobbying.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lobbying.wi.gov/What/WhatAreTheyLobbyingAbout",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "login.mmis.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://login.mmis.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://login.mmis.wi.gov/help/login",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.bayfieldcounty.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://maps.bayfieldcounty.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.ci.janesville.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://maps.ci.janesville.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.lincoln.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://maps.co.lincoln.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.co.shawano.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://maps.co.shawano.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mds.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://mds.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.81",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mds.wi.gov/View/ContiguityReviews",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mds.wi.gov/View/Petitions",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "media.dpi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://media.dpi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.89",
+          "seo_score": "0.45"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mss.ci.sheboygan.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://mss.ci.sheboygan.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mv1.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://mv1.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myaccount.fdl.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://myaccount.fdl.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://myaccount.fdl.wi.gov/payment/quickpay",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myaccount.vi.slinger.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://myaccount.vi.slinger.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mydatcp.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://mydatcp.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://mydatcp.wi.gov/Account/LogOn",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://mydatcp.wi.gov/SiteMap/BrowseService/SG_dd7fd804-7368-e511-9336-0050568c06ae?Key=Services_Group",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "myvote.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://myvote.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://myvote.wi.gov/en-US/VoteAbsenteeByMail",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "notis.doc.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://notis.doc.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://notis.doc.state.wi.us/notisExt/publicReset",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "novus.bayfieldcounty.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://novus.bayfieldcounty.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://novus.bayfieldcounty.wi.gov/access/master.asp",
+          "is_root_page": false,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oc17maps.co.oconto.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://oc17maps.co.oconto.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.89",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oci.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://oci.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oci.wi.gov/Pages/Consumers/Disasters.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oci.wi.gov/Pages/Consumers/InsuranceResourcesforEveryStageofLife.aspx",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ociaccess.oci.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ociaccess.oci.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.93",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oec.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://oec.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oec.wi.gov/about-us/",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "onestop.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://onestop.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://onestop.wi.gov/Home/NewStart",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "online.drl.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://online.drl.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://online.drl.wi.gov/ApplicationStatus/CredentialApplicationStatus.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.7",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openbook.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://openbook.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.7",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://openbook.wi.gov/CommonQuestions.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "openforbusiness.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://openforbusiness.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://openforbusiness.wi.gov/Home/NewStart",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "outdoorrecreation.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://outdoorrecreation.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://outdoorrecreation.wi.gov/Pages/Tools/WorkforceAttraction.aspx",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://outdoorrecreation.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parks.co.barron.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://parks.co.barron.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.58",
+          "best_practices_score": "0.46",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://parks.co.barron.wi.us/parks/camping/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.52",
+          "best_practices_score": "0.46",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parks.pricecounty.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://parks.pricecounty.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://parks.pricecounty.wi.gov/parks/camping/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parkscommission.co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://parkscommission.co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://parkscommission.co.richland.wi.us/agendas-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pb.opd.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://pb.opd.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pdmp.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://pdmp.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pdmp.wi.gov/ehr-integration-services",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://pdmp.wi.gov/home/forgotpassword",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "permits.dnr.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://permits.dnr.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://permits.dnr.wi.gov/_layouts/15/DNRLogin/DNR16claims.aspx?ReturnUrl=/_layouts/15/Authenticate.aspx?Source=%2F",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pestexam.datcp.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://pestexam.datcp.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://pestexam.datcp.wi.gov/ContactUs.aspx",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.64",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://pestexam.datcp.wi.gov/Locations.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://portal.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://portal.wi.gov/Pages/NewAccount.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ppiloc.co.ozaukee.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://ppiloc.co.ozaukee.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "preventionboard.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://preventionboard.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://preventionboard.wi.gov/Pages/OurWork/April.aspx",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pricecounty.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://pricecounty.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://pricecounty.wi.gov/27/Your-Government",
+          "is_root_page": false,
+          "performance_score": "0.22",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://pricecounty.wi.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propertyinfo.revenue.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://propertyinfo.revenue.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://propertyinfo.revenue.wi.gov/WisconsinProd/forms/htmlframe.aspx?mode=content/retransfer.htm",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psc.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://psc.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://psc.wi.gov/Pages/GrantPrograms.aspx",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://psc.wi.gov/Pages/ServiceType/OfficeEnergyInnovation.aspx",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.68",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "public-portal.co.pierce.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://public-portal.co.pierce.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://public-portal.co.pierce.wi.us/Home",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://public-portal.co.pierce.wi.us/Login",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicmeetings.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://publicmeetings.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://publicmeetings.wi.gov/support",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://publicmeetings.wi.gov/view/75ddc32f-4618-492a-a987-883d3a068402",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "publicrecordsboard.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://publicrecordsboard.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://publicrecordsboard.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rclrs.co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://rclrs.co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://rclrs.co.richland.wi.us/contact/",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://rclrs.co.richland.wi.us/maps/",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "react.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://react.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://react.wi.gov/congratulations-to-our-newest-fire-officer-iv-graduates-at-the-react-center/",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://react.wi.gov/lodging-information/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "readywisconsin.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://readywisconsin.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://readywisconsin.wi.gov/make-a-kit/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://readywisconsin.wi.gov/situation-update/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recordcheck.doj.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://recordcheck.doj.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://recordcheck.doj.wi.gov/Login/RegisterUser",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "records.co.price.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://records.co.price.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reservations.co.portage.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://reservations.co.portage.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.48",
+          "best_practices_score": "0.67",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://reservations.co.portage.wi.us/parks/camping/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.45",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://reservations.co.portage.wi.us/parks/lodges_and_shelters/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.36",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rod.co.manitowoc.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://rod.co.manitowoc.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rodapps.co.walworth.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://rodapps.co.walworth.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sapportal.co.dunn.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://sapportal.co.dunn.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.67",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "selfservice.ci.marshfield.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://selfservice.ci.marshfield.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sellernotify.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://sellernotify.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos-services.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://sos-services.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://sos-services.wi.gov/documents",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sos.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://sos.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.71",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://sos.wi.gov/Pages/Apostilles/howto.aspx",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.54",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sosdocs.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://sosdocs.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.85",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "specialplates.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://specialplates.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://specialplates.wi.gov/?handler=Start",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "stateempdir.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://stateempdir.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.56",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "statetreasurer.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://statetreasurer.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://statetreasurer.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "summerebt.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://summerebt.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tap.revenue.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://tap.revenue.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tax.co.washburn.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://tax.co.washburn.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "taxsearch.co.rock.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://taxsearch.co.rock.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://taxsearch.co.rock.wi.us/notice.php",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tn.bristol.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://tn.bristol.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://tn.bristol.wi.gov/recycling-center/",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tn.bristol.wi.gov/weather-in-your-area/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tn.pleasantsprings.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://tn.pleasantsprings.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://tn.pleasantsprings.wi.gov/yahara-bay-and-river-of-pleasant-springs/default.asp",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.farmington.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://town.farmington.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://town.farmington.wi.us/2018/11/19/wondering-if-your-taxes-have-been-paid/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://town.farmington.wi.us/proposals-bids/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "town.middleton.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://town.middleton.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.middleton.wi.us/elections",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://town.middleton.wi.us/index.asp?SEC=594CBFF3-8A6F-46DF-84D5-F26D795942A3",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.97",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "towngenesee.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://towngenesee.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://towngenesee.wi.gov/1705/custom/74370",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://towngenesee.wi.gov/custom/74371",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townoffulton.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://townoffulton.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.74",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://townoffulton.wi.gov/frequently-asked-questions/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townoffulton.wi.gov/zoning-information/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofgrant-portage.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://townofgrant-portage.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://townofgrant-portage.wi.gov/agendas-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townofgrant-portage.wi.gov/monthly-board-meeting/",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofhighland.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://townofhighland.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://townofhighland.wi.gov/memory-brain-health-screening/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://townofhighland.wi.gov/special-town-board-meeting-3/",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townoflinn.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://townoflinn.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://townoflinn.wi.gov/calendar?heygov-event=",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townoflinn.wi.gov/garbage-recycling/",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townoftrenton.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://townoftrenton.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townoftrenton.wi.gov/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://townoftrenton.wi.gov/events?heygov-event=ev_01jjw5ktjty7bx9gtv5dnxke1h",
+          "is_root_page": false,
+          "performance_score": "0.13",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "townofwashington.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://townofwashington.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://townofwashington.wi.gov/departments/elections/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://townofwashington.wi.gov/government/notices/238/paving-of-balsam-road/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "travelexpense.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://travelexpense.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "treasurer.co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://treasurer.co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://treasurer.co.richland.wi.us/municipal-treasurers-list/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tvrp.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://tvrp.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://tvrp.wi.gov/training",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unified.co.grant.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://unified.co.grant.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://unified.co.grant.wi.gov/index.php/2025/04/11/interested-in-learning-more-about-addiction/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://unified.co.grant.wi.gov/index.php/prevention-and-wellness/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vendornet.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vendornet.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://vendornet.wi.gov/Procurement.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vi.fontana.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vi.fontana.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://vi.fontana.wi.gov/garbage-recycling-update/",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vi.genoacity.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vi.genoacity.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://vi.genoacity.wi.gov/forms-permits",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://vi.genoacity.wi.gov/utility-payments",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vi.hewitt.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vi.hewitt.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vi.hewitt.wi.gov/departments",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vi.hewitt.wi.gov/index.asp?SEC=7B1C26C4-D50A-480E-88A9-EB325A3029DB&DE=F6B0250B-30C9-41A8-AFE0-22F72F13A01E",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vi.johnsoncreek.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vi.johnsoncreek.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://vi.johnsoncreek.wi.gov/community/news/brush-compost-schedule/",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vi.johnsoncreek.wi.gov/services/tourism-promotion/",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "village.newburg.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://village.newburg.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://village.newburg.wi.us/news-and-notices/newburg-village-rummage-sale",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://village.newburg.wi.us/news-and-notices/village-hall-employee-training-days",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "village.thiensville.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://village.thiensville.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.3",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://village.thiensville.wi.us/230/Government",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://village.thiensville.wi.us/259/Village-Code",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "villagelakenebagamon.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://villagelakenebagamon.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://villagelakenebagamon.wi.gov/accessibility/",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://villagelakenebagamon.wi.gov/ravine-park/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "villageofhartland.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://villageofhartland.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vl.redgranite.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vl.redgranite.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vl.redgranite.wi.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://vl.redgranite.wi.gov/officials.php",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vonf.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://vonf.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://vonf.wi.gov/ordinances-resolutions",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://vonf.wi.gov/subscribe",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webapps.dwd.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://webapps.dwd.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.55",
+          "best_practices_score": "0.85",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "webtrac.ci.neenah.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://webtrac.ci.neenah.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.82",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://webtrac.ci.neenah.wi.us/wbwsc/webtrac.wsc/search.html?Action=Start&SubAction=&primarycode=&age=0.25&age=0.5&age=0.75&age=1&age=2&age=3&age=4&age=5&age=6&age=7&age=8&age=9&age=10&age=11&age=12&age=13&age=14&age=15&age=16&age=17&grade=.1&grade=.25&grade=.5&grade=1&grade=2&grade=3&grade=4&grade=5&grade=6&grade=7&grade=8&grade=9&grade=10&grade=11&grade=12&keyword=&location=&timeblock=&search=yes&page=1&module=AR&multiselectlist_value=&_csrf_token=hd6I6X0722172H321M3H345N5N3W6N5B085R4G5T6S015R636F6O0P5H4J5W6G0E004P574B0H5O4P5H4X1K6A5S5D4H075X5Z6L6A6I664I6N526X055457500R03646R",
+          "is_root_page": false,
+          "performance_score": "0.09",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://webtrac.ci.neenah.wi.us/wbwsc/webtrac.wsc/search.html?display=detail&module=AR&_csrf_token=cj5Y1D6N1N1F2E3U2S2I2U5U644A535A1F694M576A1M5M5G4X5J045P6C4T68085P3Y5H69725V61655Y66734Q5Q4L1C044R4G6E1B5N4V5A5X6S4U4O5D5B0Y5M4R6P",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wem.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wem.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wem.wi.gov/about-hazard-mitigation/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://wem.wi.gov/wisconsin-task-force-1-assists-texas/",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "werc.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://werc.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.39",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://werc.wi.gov/election-news/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.39",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wesp-dhh.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wesp-dhh.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://wesp-dhh.wi.gov/outreach/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://wesp-dhh.wi.gov/wsd/",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "widmv-practice-tests.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://widmv-practice-tests.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://widmv-practice-tests.wi.gov/class-d-driver-license",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wims.dfi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wims.dfi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wiscl.wsll.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wiscl.wsll.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.61",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://wiscl.wsll.state.wi.us/patroninfo",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.68",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wisedash.dpi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wisedash.dpi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.19",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://wisedash.dpi.wi.gov/Dashboard/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wj.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wj.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wlresources.dpi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wlresources.dpi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://wlresources.dpi.wi.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wsp.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://wsp.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.41",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.48",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wsp.wi.gov/Pages/CommunityOutreach.aspx",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://wsp.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.43",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bayfieldcounty.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.bayfieldcounty.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.bayfieldcounty.wi.gov/CivicAlerts.aspx?AID=1329",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.altoona.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.altoona.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.89",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ci.altoona.wi.us/departments.phtml",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.beaverdam.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.beaverdam.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.beaverdam.wi.gov/129/Agendas-Minutes",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.bloomer.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.bloomer.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.bloomer.wi.us/minutes-and-agendas",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.brookfield.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.brookfield.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.29",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.brookfield.wi.us/38/Library",
+          "is_root_page": false,
+          "performance_score": "0.15",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.brookfield.wi.us/767/Government",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.greenfield.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.greenfield.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.greenfield.wi.us/31/Community",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.greenfield.wi.us/871/Program-Registration",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.hartford.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.hartford.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.24",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.59",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.hartford.wi.us/27/Departments",
+          "is_root_page": false,
+          "performance_score": "0.21",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.hartford.wi.us/list.aspx",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.marshfield.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.marshfield.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.marshfield.wi.us/departments_and_divisions/index.php",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.ci.marshfield.wi.us/government/member_information.php",
+          "is_root_page": false,
+          "performance_score": "0.36",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ci.neenah.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ci.neenah.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ci.neenah.wi.us/contact-us/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cityofcedarburg.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.cityofcedarburg.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cityofcedarburg.wi.gov/minutes-and-agendas",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.adams.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.adams.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.adams.wi.us/home",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.adams.wi.us/parks",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.calumet.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.calumet.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.calumet.wi.us/238/Popular-Information",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.dodge.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.dodge.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.dodge.wi.gov/departments/departments-e-m/human-resources/job-opportunities",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.dodge.wi.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.door.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.door.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.door.wi.gov/129/Agendas",
+          "is_root_page": false,
+          "performance_score": "0.17",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.door.wi.gov/AlertCenter.aspx?AID=Entry-for-Kids-to-WIN-a-Green-Bay-Packer-15",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.forest.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://www.co.forest.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.64",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.co.forest.wi.gov/meetings_list_detail.asp?schedid=44468&locid=145",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.grant.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://www.co.grant.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.49",
+          "best_practices_score": "0.39",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.co.grant.wi.gov/docs_by_cat_type.asp?doccatid=361&locid=147",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        },
+        {
+          "url": "http://www.co.grant.wi.gov/section.asp?linkid=2550&locid=147",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.iron.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://www.co.iron.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.co.iron.wi.gov/announcements.asp?locid=180",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.64",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.jackson.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.jackson.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.jackson.wi.us/contact",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.jackson.wi.us/index.asp?SEC={F64DBE29-D4EE-4253-B3E2-EB4E5F0BDCD8}&Type=QUICKFORM",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.juneau.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.juneau.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.juneau.wi.gov/departments/county_clerk/elections/election_results.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.langlade.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.langlade.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.langlade.wi.us/departments/information-technology/general/langlade-county-email-migration/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.langlade.wi.us/government/minutes_and_agendas/agendas/?committee=49b306ecb433&i=4e40d73b274f",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.lincoln.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.lincoln.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.lincoln.wi.us/administration/page/click-here-help-us-celebrate-lincoln-countys-150th-anniversary",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.lincoln.wi.us/forestry-land-and-parks/page/recreation",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.marquette.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.marquette.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.marquette.wi.us/home",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.61",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.menominee.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.menominee.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.67",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.menominee.wi.us/ordinances-and-resolutions/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.67",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.monroe.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.monroe.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.monroe.wi.us/Home/Components/News/News/297/15",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.monroe.wi.us/home",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.pepin.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.pepin.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.pepin.wi.us/telephone-directory",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.pierce.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.pierce.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.co.pierce.wi.us/departments/land_management/forms_and_information/tax_and_land_information/index.php",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.pierce.wi.us/employment_opportunities/index.php",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.portage.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.portage.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.portage.wi.gov/295/Parks-Department",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.price.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.price.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.price.wi.us/27/Your-Government",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.price.wi.us/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.81",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.richland.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.richland.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.6",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.richland.wi.us/supervisors.shtml",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.48",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.rock.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.rock.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.rock.wi.us/home",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.shawano.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.shawano.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.co.shawano.wi.us/departments/land-information/general-information/maps-and-land-records/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.co.shawano.wi.us/news_and_announcements/?i=2d22f9c10954",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.walworth.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.co.walworth.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.walworth.wi.us/AlertCenter.aspx?AID=Judicial-CenterSheriffs-Office-Construct-169",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.combinedlocks.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.combinedlocks.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.combinedlocks.wi.gov/clerk-treasurer/water-sewer/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.combinedlocks.wi.gov/garbage-pick-up-schedules/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.edgerton.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.edgerton.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.edgerton.wi.gov/formsandpermits",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fdl.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.fdl.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.82",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.fdl.wi.gov/engineering/weekly-construction-update/",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fdlco.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.fdlco.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/real-estate-and-tax-data-search",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.fdlco.wi.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.forwardhealth.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.forwardhealth.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.forwardhealth.wi.gov/WIPortal/content/provider/medicaid/pharmacy/MTM/MTMHome.htm.spage",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ledgeview.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ledgeview.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ledgeview.wi.gov/permits-applications",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.missingpersons.doj.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.missingpersons.doj.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.missingpersons.doj.wi.gov/events",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ochs.co.ozaukee.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.ochs.co.ozaukee.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ochs.co.ozaukee.wi.us/archives-researche-center",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.revenue.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.revenue.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.revenue.wi.gov/Pages/FAQS/mta-personal.aspx",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.revenue.wi.gov/pages/home.aspx",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.servewisconsin.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.servewisconsin.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.servewisconsin.wi.gov/become-a-member",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.servewisconsin.wi.gov/search",
+          "is_root_page": false,
+          "performance_score": "0.1",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.75",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.swib.state.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.swib.state.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.swib.state.wi.us/businessopportunitiesmainpage",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.swib.state.wi.us/wisconsin-retirement-system-1",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tn.cottagegrove.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.tn.cottagegrove.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.75",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.tn.cottagegrove.wi.gov/election-information",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.tn.cottagegrove.wi.gov/forms-permits",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tn.lacduflambeau.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.tn.lacduflambeau.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.tn.lacduflambeau.wi.gov/index",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tn.lodi.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.tn.lodi.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.tn.lodi.wi.gov/alert_detail.php",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.tn.lodi.wi.gov/government/index.php",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tn.ottawa.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.tn.ottawa.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.59",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.tn.ottawa.wi.gov/custom/110905",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.63",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tn.waterford.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.tn.waterford.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.tn.waterford.wi.gov/community/page/racine-county-cooling-centers-2025",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.springfield.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.town.springfield.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.springfield.wi.us/2025/07/aug-19th-town-board-meeting-has-been-rescheduled-to-7-p-m-wednesday-aug-20th/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.springfield.wi.us/public-notices-agendas/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.town.verona.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.town.verona.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.town.verona.wi.us/public-works/pages/current-construction-projects-0",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.town.verona.wi.us/subscribe",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.townofplover.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.townofplover.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.townofplover.wi.gov/meetings",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.townofplover.wi.gov/subscribe-to-updates",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.belmont.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vi.belmont.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.vi.belmont.wi.gov/village-clerk/page/job-announcement-seeking-part-time-library-director",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.cottagegrove.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vi.cottagegrove.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.vi.cottagegrove.wi.gov/27/Government",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.vi.cottagegrove.wi.gov/agendacenter",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.eagle.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vi.eagle.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.vi.eagle.wi.gov/agendas-minutes/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.vi.eagle.wi.gov/news-notices/",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.genoacity.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vi.genoacity.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.vi.genoacity.wi.gov/forms-permits",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.vi.genoacity.wi.gov/utility-payments",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.mishicot.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vi.mishicot.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.vi.mishicot.wi.gov/minutes-and-agendas",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.portedwards.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://www.vi.portedwards.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.vi.portedwards.wi.gov/meetings_list_detail.asp?schedid=44471&locid=199",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.slinger.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vi.slinger.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.vi.slinger.wi.gov/village-history-comes-life-schleisingerville-slinger-historical-museum",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vi.springgreen.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "http://www.vi.springgreen.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.62",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "http://www.vi.springgreen.wi.gov/meetings_list_detail.asp?schedid=44397&locid=166",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.61",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.village.kewaskum.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.village.kewaskum.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.village.kewaskum.wi.us/pay",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.village.thiensville.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.village.thiensville.wi.us/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.village.thiensville.wi.us/230/Government",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.village.thiensville.wi.us/259/Village-Code",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "1",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.villageofhartland.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.villageofhartland.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.31",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vonf.wi.gov",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www.vonf.wi.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.vonf.wi.gov/ordinances-resolutions",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.vonf.wi.gov/subscribe",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www2.ci.neenah.wi.us",
+      "subnational": "Wisconsin",
+      "pages": [
+        {
+          "url": "https://www2.ci.neenah.wi.us/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2292 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "North Dakota",
+  "domain_count": 94,
+  "page_count": 215,
+  "domains": [
+    {
+      "canonical_domain": "aero.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://aero.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.45",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://aero.nd.gov/licensing/aerial-applicators/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://aero.nd.gov/unmanned-aircraft/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "attorneygeneral.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://attorneygeneral.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://attorneygeneral.nd.gov/a-governors-unambiguous-constitutionally-required-written-statement-of-objections-to-a-vetoed-bill-or-item-delineates-the-language-that-was-vetoed-to-the-extent-there-is-a-discrepancy-betwe/",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://attorneygeneral.nd.gov/truth-in-sentencing/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "blog.statemuseum.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://blog.statemuseum.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.82",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://blog.statemuseum.nd.gov/preserving-today",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bnd.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://bnd.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bnd.nd.gov/education-funding/",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cf.sos.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://cf.sos.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cis.sos.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://cis.sos.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://cis.sos.nd.gov/Home/OnlineInstructions",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.45",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "club.lottery.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://club.lottery.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://club.lottery.nd.gov/lotto/draw",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "connect.bnd.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://connect.bnd.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://connect.bnd.nd.gov/auth/register",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "deq.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://deq.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://deq.nd.gov/eReporting.aspx",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dhsprovider.dhs.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://dhsprovider.dhs.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "firststop.sos.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://firststop.sos.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://firststop.sos.nd.gov/search/business",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "geocortex.gf.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://geocortex.gf.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gf.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://gf.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gf.nd.gov/education/state-fair",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://gf.nd.gov/working-together",
+          "is_root_page": false,
+          "performance_score": "0.12",
+          "accessibility_score": "1",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gfcountytax.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://gfcountytax.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.53",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://gfcountytax.nd.gov/SearchHelp.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.co.ramsey.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://gis.co.ramsey.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.dmr.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://gis.dmr.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.85",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://gis.dmr.nd.gov/dmrpublicportal/apps/webappviewer/index.html?id=a2b071015113437aa8d5a842e32bb49f",
+          "is_root_page": false,
+          "performance_score": "0.14",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.81",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "history.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://history.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://history.nd.gov/educators.html",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "insights.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://insights.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://insights.nd.gov/WhatsNew",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lottery.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://lottery.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://lottery.nd.gov/Public/Winners/Gallery?preview=False",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mapservice.dwr.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://mapservice.dwr.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "missingpersons.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://missingpersons.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://missingpersons.nd.gov/search/all-missing-persons",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mmis.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://mmis.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mmis.nd.gov/portals/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziXX2dw1zcfQwNLAz8LA2MjC0cvYNcDQwCLYz0wwkpiAJKG-AAjgZA_VFgJbhMcDeHKsBjRkFuhEGmo6IiAM320y0!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0VNQ1ZER0wxMDgwTjkwMjM4QUtSRTAwUTgy/",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.85",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://mmis.nd.gov/portals/wps/portal/BrowserRequirements",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.86",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mmregistration.health.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://mmregistration.health.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://mmregistration.health.nd.gov/patients/?action=login",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://mmregistration.health.nd.gov/patients/?action=registration",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nddpi.grants.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://nddpi.grants.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://nddpi.grants.nd.gov/storefrontFOList.do",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ndgateway.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://ndgateway.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://ndgateway.nd.gov/gsp?id=gw_home",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.82",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://ndgateway.nd.gov/gsp?id=sc_cat_item&sys_id=89b555c487a91e10aa96fdd9cebb355c&sysparm_category=null&catalog_id=-1&referrer=popular_items",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ndrinweb3.hplains.state.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://ndrinweb3.hplains.state.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ndsummerebt.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://ndsummerebt.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.33",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ndsummerebt.nd.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ole.ndda.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://ole.ndda.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://ole.ndda.nd.gov/apiary/map",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.96",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://ole.ndda.nd.gov/localfoods/",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portalapps.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://portalapps.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://portalapps.nd.gov/sud-voucher/individual-application/",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portals.co.stutsman.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://portals.co.stutsman.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://portals.co.stutsman.nd.us/index.html",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "post.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://post.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://post.nd.gov/PsychologicalProviders/index.html",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psc.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://psc.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://psc.nd.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "redeem.lottery.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://redeem.lottery.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "results.sos.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://results.sos.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://results.sos.nd.gov/VoterTurnoutDetails.aspx?",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "secure.ruready.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://secure.ruready.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://secure.ruready.nd.gov/Home/_default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sexoffender.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://sexoffender.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://sexoffender.nd.gov/offender",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "statemuseum.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://statemuseum.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://statemuseum.nd.gov/exhibits/adaptation-gallery",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "store.cde.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://store.cde.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://store.cde.nd.gov/~/",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "travel.dot.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://travel.dot.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "unclaimedproperty.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://unclaimedproperty.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://unclaimedproperty.nd.gov/app/claim-search",
+          "is_root_page": false,
+          "performance_score": "0.66",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vip.sos.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://vip.sos.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://vip.sos.nd.gov/WhereToVote.aspx?tab=AddressandVotingTimes",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.33",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "visionzero.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://visionzero.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.5",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://visionzero.nd.gov/strategies/ImpairedDriving/NDSoberRide/",
+          "is_root_page": false,
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://visionzero.nd.gov/strategies/ImpairedDriving/UnderageDrinking/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "vrcerts.hhs.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://vrcerts.hhs.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wbsd7.ps.state.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://wbsd7.ps.state.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://wbsd7.ps.state.nd.us/public/account_recovery_begin.html",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.arts.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.arts.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.arts.nd.gov/featured-artists-capitol",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cde.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.cde.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.cde.nd.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.cde.nd.gov/information",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.mountrail.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.co.mountrail.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.co.mountrail.nd.us/events",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.richland.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.co.richland.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.co.richland.nd.us/?page_id=705",
+          "is_root_page": false,
+          "performance_score": "0.32",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.co.richland.nd.us/mc-events/commission-meeting-department-budget-hearings-to-follow/?mc_id=148",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.traill.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.co.traill.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.traill.nd.us/101/Visitor-Info",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.traill.nd.us/27/Commission",
+          "is_root_page": false,
+          "performance_score": "0.23",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.co.ward.nd.us",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.co.ward.nd.us/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.co.ward.nd.us/395/Ward-County-Inmate-Locator",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.co.ward.nd.us/489/Ward-County-Emergency-Notifications",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.commerce.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.commerce.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.commerce.nd.gov/workforce/global-talent-summit",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cte.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.cte.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.cte.nd.gov/PerkinsStatePlan",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.des.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.des.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.des.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.des.nd.gov/response-section/webeoc",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dmr.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.dmr.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dmr.nd.gov/dmr/ndgs",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dmr.nd.gov/dmr/oilgas",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.docr.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.docr.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.docr.nd.gov/access-courts",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.docr.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dot.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.dot.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.dot.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.dot.nd.gov/motor-vehicle",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dwr.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.dwr.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.dwr.nd.gov/info_edu/water_development_plan/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.dwr.nd.gov/thedwr/meeting_events.html",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.edutech.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.edutech.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.edutech.nd.gov/northdakotacitizensskillsforall",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.edutech.nd.gov/training",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.firemarshal.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.firemarshal.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.firemarshal.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.firemarshal.nd.gov/new-construction",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.forms.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.forms.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.89",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gfcounty.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.gfcounty.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.gfcounty.nd.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.gfcounty.nd.gov/our-county/community-agendas",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "1",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gis.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.gis.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.gis.nd.gov/events/2026-magic-symposium",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.gis.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.governor.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.governor.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.governor.nd.gov/governor-kelly-armstrong",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.helpishere.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.helpishere.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.helpishere.nd.gov/behavioral-health",
+          "is_root_page": false,
+          "performance_score": "0.72",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.helpishere.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.hhs.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.hhs.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.74",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.hhs.nd.gov/applyforhelp/snap",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.hhs.nd.gov/immunizations/measles",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.history.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.history.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.59",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.history.nd.gov/educators.html",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.67",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.indianaffairs.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.indianaffairs.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.indianaffairs.nd.gov/news/north-dakota-indian-affairs-commission-and-north-dakota-historical-society-announce-new-0",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.indianaffairs.nd.gov/tribal-nations",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.indigents.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.indigents.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.indigents.nd.gov/attorney-services",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.indigents.nd.gov/standards-and-policies",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.insurance.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.insurance.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.insurance.nd.gov/consumers/insurance",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.insurance.nd.gov/producers",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.land.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.land.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.land.nd.gov/resources",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.library.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.library.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.library.nd.gov/traininglibraries",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.lottery.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.lottery.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.lottery.nd.gov/pick-click",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.lottery.nd.gov/retailers",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.54",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.nd.gov/news-events",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndda.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndda.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ndda.nd.gov/divisions/pesticide-fertilizer-division/project-safe-send",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndguard.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndguard.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ndguard.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ndguard.nd.gov/ndng-retireesveterans",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndic.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndic.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ndic.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.41",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ndic.nd.gov/research-grant-programs",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndit.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndit.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ndit.nd.gov/news/north-dakota-launches-nd-gateway-laying-foundation-one-stop-portal-state-services",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndpers.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndpers.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.ndpers.nd.gov/retired-members",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ndpers.nd.gov/summary-2025-legislation",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndsba.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndsba.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ndsba.nd.gov/news/ndsba-office-closed-monday",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ndvh.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.ndvh.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.ndvh.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.ndvh.nd.gov/services",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.omb.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.omb.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.omb.nd.gov/news/public-invited-enjoy-beauty-capitol-summer",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.omb.nd.gov/team-nd-careers",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.parkrec.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.parkrec.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.parkrec.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.parkrec.nd.gov/meet",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.post.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.post.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.post.nd.gov/PsychologicalProviders/index.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.prideofdakota.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.prideofdakota.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.prideofdakota.nd.gov/members/",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.psc.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.psc.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.psc.nd.gov/index.php",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.85",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.racingcommission.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.racingcommission.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.racingcommission.nd.gov/horsemen/breeders-fund",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.racingcommission.nd.gov/responsible-gambling",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rio.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.rio.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.rio.nd.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.securities.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.securities.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.securities.nd.gov/form/feedback",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.securities.nd.gov/investors/investor-alerts-and-advisories",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.seed.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.seed.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.seed.nd.gov/events/applications-due-soybeans-requiring-one-inspection",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.seed.nd.gov/field-seed",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sos.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.sos.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.sos.nd.gov/elections",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.swc.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.swc.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.swc.nd.gov/thedwr/meeting_events.html",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.tax.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.tax.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.tax.nd.gov/business/sales-and-use-tax/local-taxes-city-and-county-taxes/city-and-county-local-tax-rate-changes",
+          "is_root_page": false,
+          "performance_score": "0.45",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.tax.nd.gov/news/special-one-time-primary-residence-credit-application-required-mobile-homeowners-beginning",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.treasurer.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.treasurer.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.83",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.treasurer.nd.gov/historical-revenue-distributions",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.veterans.nd.gov",
+      "subnational": "North Dakota",
+      "pages": [
+        {
+          "url": "https://www.veterans.nd.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.veterans.nd.gov/north-dakotas-heroes",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}

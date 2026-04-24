@@ -1,0 +1,5322 @@
+{
+  "version": "0.1-seed",
+  "country": "United States (USA)",
+  "state": "Puerto Rico",
+  "domain_count": 225,
+  "page_count": 496,
+  "domains": [
+    {
+      "canonical_domain": "act.dtop.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://act.dtop.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://act.dtop.pr.gov/designacion-bajo-la-ley-de-transparencia-y-procedimiento-expedito-para-el-acceso-a-la-informacion-publica/",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "acudendigital.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://acudendigital.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://acudendigital.familia.pr.gov/Account/RecoverUser",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adfan.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://adfan.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://adfan.pr.gov/AdministracionesAuxiliares/CuidadoSustitutoAdopcion/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://adfan.pr.gov/AdministracionesAuxiliares/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "adopcion.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://adopcion.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.89",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://adopcion.familia.pr.gov/Security/Orientation?step=1",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "afi.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://afi.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.75",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "app.asume.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://app.asume.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "applicantservices.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://applicantservices.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://applicantservices.pr.gov/TransactionPurchase/?cbid=PR_NFUF_TYPE14_DOH",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps.arv.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://apps.arv.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "apps2.hacienda.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://apps2.hacienda.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "aqs.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://aqs.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://aqs.familia.pr.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://aqs.familia.pr.gov/use-terms",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "arecibo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://arecibo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://arecibo.pr.gov/contactos/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asem-hzn.asem.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://asem-hzn.asem.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://asem-hzn.asem.pr.gov/portal/webclient/index.html",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asg.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://asg.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://asg.pr.gov/contactos",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://asg.pr.gov/indice",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asistencianppr.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://asistencianppr.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asistenciasalud.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://asistenciasalud.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "asume.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://asume.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://asume.pr.gov/LeyesReglamentos/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "authorization.ideal.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://authorization.ideal.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://authorization.ideal.pr.gov/Authorization/Reject?referenceType=Corporate",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "barranquitas.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://barranquitas.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://barranquitas.pr.gov/?page_id=407",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "biblioteca.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://biblioteca.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bioportal.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://bioportal.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://bioportal.salud.pr.gov/authentication/forgot-password",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "bomberos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://bomberos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://bomberos.pr.gov/documentos/leyes",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://bomberos.pr.gov/inicio",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "careers.oversightboard.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://careers.oversightboard.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://careers.oversightboard.pr.gov/jobs/content-creator/",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.81",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://careers.oversightboard.pr.gov/jobs/senior-associate-fiscal-transformation-2/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cdc.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://cdc.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cdc.pr.gov/InstitutoDeEducacion/Pages/Documentales.aspx",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://cdc.pr.gov/InstitutoDeEducacion/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cedd.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://cedd.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.54",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cedd.pr.gov/information-y-recursos",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "childcare.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://childcare.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://childcare.familia.pr.gov/avisos-publicos.html",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://childcare.familia.pr.gov/recursos/boletin-digital.html",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "citas.estado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://citas.estado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.56",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "civilinizacion.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://civilinizacion.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cmsnationalbackgroundcheck.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://cmsnationalbackgroundcheck.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://cmsnationalbackgroundcheck.salud.pr.gov/Auth/ForgotPassword?Length=4",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cofim.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://cofim.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://cofim.pr.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "coleccionesdigitalesagpr.icp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://coleccionesdigitalesagpr.icp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://coleccionesdigitalesagpr.icp.pr.gov/objects/8106?start=0&limit=25&orderBy=recent&orderDirection=desc&locale=es-PR",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "colecturiavirtual.hacienda.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://colecturiavirtual.hacienda.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://colecturiavirtual.hacienda.pr.gov/portal/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "credencializacion.ocs.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://credencializacion.ocs.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.71",
+          "best_practices_score": "1",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://credencializacion.ocs.pr.gov/glossary",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.8",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "cuidadoresinformales.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://cuidadoresinformales.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.06",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://cuidadoresinformales.familia.pr.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "datos.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://datos.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://datos.salud.pr.gov/administrative-order-597",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://datos.salud.pr.gov/health-alerts",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcr-apps.dcr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://dcr-apps.dcr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dcr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://dcr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://dcr.pr.gov/informes-estadisticos-dcr/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.54",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dcr.pr.gov/servicios-profesionales/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "de.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://de.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.36",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://de.pr.gov/academico/secretaria-auxiliar-de-planificacion-y-rendimiento/gobernanza-de-datos/",
+          "is_root_page": false,
+          "performance_score": "0.29",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.61",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://de.pr.gov/oficina-de-transformacion-educativa/",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "desempleo.trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://desempleo.trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "directoriovih.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://directoriovih.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://directoriovih.salud.pr.gov/Home/Detalles/8018461",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.68",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "dpi.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://dpi.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://dpi.pr.gov/Pages/Documentaci%C3%B3n.aspx",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "empleos.asem.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://empleos.asem.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.22",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "energia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://energia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://energia.pr.gov/eventos/",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://energia.pr.gov/proyectos-criticos/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.7",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "esgweb.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://esgweb.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "examen.ocs.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://examen.ocs.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.7",
+          "seo_score": "0.8"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "fastfleet.asg.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://fastfleet.asg.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://fastfleet.asg.pr.gov/anonymous/1/workflow/autorizacion-viaje/new",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "flotadisco.dtop.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://flotadisco.dtop.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://flotadisco.dtop.pr.gov/empresa",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        },
+        {
+          "url": "https://flotadisco.dtop.pr.gov/gobierno",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.jp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://gis.jp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.57",
+          "best_practices_score": "0.89",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://gis.jp.pr.gov/mipr",
+          "is_root_page": false,
+          "performance_score": "0.63",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.78",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gis.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://gis.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gis.pr.gov/descargaGeodatos/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://gis.pr.gov/seccioneducativa/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "gobiernodigital.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://gobiernodigital.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://gobiernodigital.pr.gov/privacy",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hacienda.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://hacienda.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://hacienda.pr.gov/beneficio-por-retencion-de-empleados",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://hacienda.pr.gov/notificacion-la-clase-sobre-reembolso-de-pago-doble-de-prima-del-seguro-compulsorio-periodo-1998-2010",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "hopu.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://hopu.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://hopu.pr.gov/especialidades",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.81",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://hopu.pr.gov/transparencia-de-precios",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "incentives.ddec.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://incentives.ddec.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://incentives.ddec.pr.gov/Security/CreateAccount",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "incentivosolar.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://incentivosolar.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://incentivosolar.pr.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "incidenciacriminal.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://incidenciacriminal.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "individuo.cee.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://individuo.cee.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://individuo.cee.pr.gov/Public/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.75",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ipdderdigital.drd.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://ipdderdigital.drd.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "its.act.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://its.act.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://its.act.pr.gov/es/TrafficCameras.aspx",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.86",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jedi.asg.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://jedi.asg.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.79",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jlbp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://jlbp.pr.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.79",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://jp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.32",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://jp.pr.gov/informe-economico-al-gobernador/",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jp.pr.gov/vistas-publicas-virtuales/",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "jrsp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://jrsp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jrsp.pr.gov/avisos-publicos/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://jrsp.pr.gov/negociado-de-energia-aprueba-unidades-de-generacion-de-respuesta-rapida-para-ser-integrados-en-miniredes/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "juntasupervision.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://juntasupervision.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://juntasupervision.pr.gov/pronostico-para-la-economia-de-puerto-rico-reflexiones-del-primer-simposio-sobre-proyecciones-economicas/",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.61",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://juntasupervision.pr.gov/reuniones-publicas/",
+          "is_root_page": false,
+          "performance_score": "0.68",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.59",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "justicia1.justicia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://justicia1.justicia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "karibe.ridpr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://karibe.ridpr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.54",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lares.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://lares.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://lares.pr.gov/la-rambla/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.71",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://lares.pr.gov/tamarindo/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "lineapas.assmca.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://lineapas.assmca.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://lineapas.assmca.pr.gov/material",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "loteriasdepuertorico.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://loteriasdepuertorico.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://loteriasdepuertorico.pr.gov/loteria-electronica",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "manejodeemergencias.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://manejodeemergencias.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.38",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.93",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://manejodeemergencias.pr.gov/huracanes/",
+          "is_root_page": false,
+          "performance_score": "0.33",
+          "accessibility_score": "0.84",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://manejodeemergencias.pr.gov/terremotos-tsunami/",
+          "is_root_page": false,
+          "performance_score": "0.13",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mapas.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://mapas.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "maps.jp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://maps.jp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://maps.jp.pr.gov/index.php/duenos-y-arrendatarios/",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://maps.jp.pr.gov/index.php/mapas-de-inundacion/",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "medicaid.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://medicaid.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://medicaid.pr.gov/Home/InvitedVendors/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://medicaid.pr.gov/Home/OficinasLocales/",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "miestatushba.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://miestatushba.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "mipagina.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://mipagina.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ntsp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://ntsp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.57",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ntsp.pr.gov/ServiciosProgramas/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://ntsp.pr.gov/ServiciosProgramas/Secretaria/FormulariosSolicitudes/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.71",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ntspdigital.jrsp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://ntspdigital.jrsp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://ntspdigital.jrsp.pr.gov/login",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "nuevaenergia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://nuevaenergia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.52",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://nuevaenergia.pr.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.5",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://nuevaenergia.pr.gov/tu-solicitud.html",
+          "is_root_page": false,
+          "accessibility_score": "0.66",
+          "best_practices_score": "0.74",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oatrh.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://oatrh.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://oatrh.pr.gov/Reglamentos/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.37",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oatrh.pr.gov/ServiciosProgramas/Pages/default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "observatorio.assmca.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://observatorio.assmca.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://observatorio.assmca.pr.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.82",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oce.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://oce.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.72",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oce.pr.gov/download/ley222/",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.69",
+          "best_practices_score": "0.5",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://oce.pr.gov/gastos-de-difusion-publica/",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oeca.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://oeca.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://oeca.salud.pr.gov/es/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oipc.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://oipc.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oipc.pr.gov/energia/",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.79",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "orcps.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://orcps.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.76",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://orcps.salud.pr.gov/contactus.aspx",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.72",
+          "best_practices_score": "0.71",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://orcps.salud.pr.gov/mbps/verificacion",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "oversightboard.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://oversightboard.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://oversightboard.pr.gov/contract-review/",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.61",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://oversightboard.pr.gov/fiscal-plans/",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.59",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "parelaviolencia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://parelaviolencia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://parelaviolencia.pr.gov/colaboracion-municipal",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "patientportal.cardiovascular.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://patientportal.cardiovascular.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.43",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://patientportal.cardiovascular.pr.gov/Phm-PhmHome.HomePage.WR.mthr?hcis=CCPGBL.LIVE&application=phm&language=es-MX",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "patronos.trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://patronos.trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "payrent.avp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://payrent.avp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.86",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "portal.cfse.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://portal.cfse.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.78",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://portal.cfse.pr.gov/account/domestic-policy",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prevencionsuicidio.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://prevencionsuicidio.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://prevencionsuicidio.salud.pr.gov/colaboraciones/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://prevencionsuicidio.salud.pr.gov/educacion/",
+          "is_root_page": false,
+          "performance_score": "0.28",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "pris.ddec.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://pris.ddec.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://pris.ddec.pr.gov/ProviderSelfService/ProviderAccount/Login",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "propsec8.avp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://propsec8.avp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://propsec8.avp.pr.gov/es-pr/landlords/sign-up",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.79",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prpds.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://prpds.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://prpds.policia.pr.gov/SolicitudesAccesos/Validate.aspx",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prphaenlinea.avp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://prphaenlinea.avp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://prphaenlinea.avp.pr.gov/Home/Setup",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "prt.estado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://prt.estado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://prt.estado.pr.gov/en/register",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "psc.prmmis.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://psc.prmmis.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.88",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://psc.prmmis.pr.gov/Demographics",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://psc.prmmis.pr.gov/Home/SetLanguage?culture=es&text=English&returnUrl=%2F",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "puapr.trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://puapr.trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://puapr.trabajo.pr.gov/_/?Language=ENG",
+          "is_root_page": false,
+          "performance_score": "0.44",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.79",
+          "seo_score": "0.5"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "puertorico811.dtop.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://puertorico811.dtop.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://puertorico811.dtop.pr.gov/Damage/Create",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "radicacion.acaa.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://radicacion.acaa.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://radicacion.acaa.pr.gov/Home/About",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.96",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "radicacion.energia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://radicacion.energia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://radicacion.energia.pr.gov/register",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "rcp.estado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://rcp.estado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://rcp.estado.pr.gov/en/help",
+          "is_root_page": false,
+          "performance_score": "0.09",
+          "accessibility_score": "0.98",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://rcp.estado.pr.gov/en/search?m=ar",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "real-ciudadanos.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://real-ciudadanos.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://real-ciudadanos.policia.pr.gov/Ciudadano.aspx?Seccion=ValidarCiudadano",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reclutamientonppr.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://reclutamientonppr.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.27",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://reclutamientonppr.policia.pr.gov/Login/Register",
+          "is_root_page": false,
+          "performance_score": "0.27",
+          "accessibility_score": "0.83",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recovery.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://recovery.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "recuperacion.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://recuperacion.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.56",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://recuperacion.pr.gov/welcome/ayuda-al-ciudadano/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.52",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://recuperacion.pr.gov/welcome/en/index.html",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.54",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "redcap.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://redcap.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://redcap.salud.pr.gov/redcap_v14.2.1/Authentication/password_recovery.php",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.54"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "refuerzoeconomico.ddec.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://refuerzoeconomico.ddec.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://refuerzoeconomico.ddec.pr.gov/ddec",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.65",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "registrodecabilderos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://registrodecabilderos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://registrodecabilderos.pr.gov/Identity/Account/ForgotPassword",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "registros.asg.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://registros.asg.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://registros.asg.pr.gov/Home",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "registros.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://registros.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://registros.salud.pr.gov/Account/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://registros.salud.pr.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.82",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "reif.oeg.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://reif.oeg.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "resurge.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://resurge.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://resurge.pr.gov/index.html",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.89",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "ridpr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://ridpr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.34",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "roomtax.tourism.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://roomtax.tourism.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://roomtax.tourism.pr.gov/ResetPassword.php",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://roomtax.tourism.pr.gov/index.php?lan=en",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "safekits.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://safekits.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://safekits.pr.gov/agencias",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.96",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://safekits.pr.gov/sobrevivientes",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "senado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://senado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.59",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://senado.pr.gov/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "servicios.dsp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://servicios.dsp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "servicios.ocs.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://servicios.ocs.pr.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.33",
+          "best_practices_score": "0.85",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "servicios.trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://servicios.trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "serviciosenlinea.adsef.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://serviciosenlinea.adsef.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://serviciosenlinea.adsef.pr.gov/adsefdigital/Security/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.79",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "serviciosenlinea.daco.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://serviciosenlinea.daco.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.99",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.79",
+          "seo_score": "0.64"
+        },
+        {
+          "url": "https://serviciosenlinea.daco.pr.gov/Login.aspx",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "serviciosenlinea.oce.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://serviciosenlinea.oce.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.78",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://serviciosenlinea.oce.pr.gov/Home/Signup",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "0.65",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "serviciosenlineaavp.avp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://serviciosenlineaavp.avp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.56",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://serviciosenlineaavp.avp.pr.gov/termsandconditions.aspx?pidTNC=566793&_yTrackUser=MzU2MTI5MTM2OCMyMDE2MjczMTc5-64YMczUMomk%253d&_yTrackVisit=NTg3NTA2MzQ2MCMxMTMwOTM4MjM1-u9xjAm6NSLo%253d&_yTrackReqDT=43170520251507",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.56",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://serviciosenlineaavp.avp.pr.gov/termsandconditions.aspx?pidTNC=566793&_yTrackUser=MzU2NDE0MDA4MSMxNzM5Nzc2MzY3-NLSOl2R4uDk%253d&_yTrackVisit=NTg3OTUxMzE2MiMxODg2Njk1Njgw-6L5DFpOvnHE%253d&_yTrackReqDT=15111620251607",
+          "is_root_page": false,
+          "performance_score": "0.48",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.5",
+          "seo_score": "0.58"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sige.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://sige.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sigejp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://sigejp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.98",
+          "accessibility_score": "0.75",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sita.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://sita.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.52",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sor.cjis.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://sor.cjis.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "sor.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://sor.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "subastas.avp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://subastas.avp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://subastas.avp.pr.gov/Home/Clean",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "subastas.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://subastas.pr.gov/Pages/aviso.aspx?itemID=12448",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.52",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://subastas.pr.gov/Pages/aviso.aspx?itemID=12450",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.5",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "suri.hacienda.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://suri.hacienda.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.28",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://suri.hacienda.pr.gov/_/?Language=ENG",
+          "is_root_page": false,
+          "performance_score": "0.34",
+          "accessibility_score": "1",
+          "best_practices_score": "0.82",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tourism.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://tourism.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.69"
+        },
+        {
+          "url": "https://tourism.pr.gov/2025/06/12/puerto-rico-recibe-al-mega-crucero-icon-of-the-seas-de-royal-caribbean-en-su-segunda-visita-al-puerto-de-ponce/",
+          "is_root_page": false,
+          "performance_score": "0.18",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.96",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://tourism.pr.gov/sustainable-tourism/",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.69"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://trabajo.pr.gov/perfil.asp",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "tramites.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://tramites.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.88",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://tramites.salud.pr.gov/suplidor",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "1",
+          "best_practices_score": "0.56",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "transicion2020.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://transicion2020.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://transicion2020.pr.gov/Agencias",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://transicion2020.pr.gov/Noticias/Pages/ComitesTransicionRealizanPrimeraReunion.aspx",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "1",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "transicion2024.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://transicion2024.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.78",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://transicion2024.pr.gov/Agencias",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "uccapp.estado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://uccapp.estado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://uccapp.estado.pr.gov/account/migration",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "validacion.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://validacion.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "wic.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://wic.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.39",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.75",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.aafaf.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.aafaf.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.81",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.aafaf.pr.gov/administrative-document/rfps-rfqs",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.acaa.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.acaa.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.acaa.pr.gov/comunicaciones",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.acaa.pr.gov/nuestra-identidad",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.acuden.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.acuden.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.acuden.pr.gov/documentos",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.acuden.pr.gov/servicios",
+          "is_root_page": false,
+          "performance_score": "0.19",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.acueductos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.acueductos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.75",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.acueductos.pr.gov/comunicaciones/temporada-de-huracanes",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.aep.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.aep.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.aep.pr.gov/propiedades-aep",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.afv.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.afv.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.61",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.afv.pr.gov/?s=",
+          "is_root_page": false,
+          "performance_score": "0.39",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.5"
+        },
+        {
+          "url": "https://www.afv.pr.gov/noticias/",
+          "is_root_page": false,
+          "performance_score": "0.79",
+          "accessibility_score": "1",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.agricultura.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.agricultura.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.agricultura.pr.gov/?8c30a475_page=2",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.agricultura.pr.gov/documents?categoria=Mercado+familiar",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.arv.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.arv.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.46",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.57",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.arv.pr.gov/documentos",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.asem.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.asem.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "1",
+          "best_practices_score": "0.54",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.asem.pr.gov/aviso-publico/solicitud-de-servicios-de-diseno-para-restauracion-y-modernizacion-de-tanque-de-agua-elevado",
+          "is_root_page": false,
+          "performance_score": "0.75",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.asem.pr.gov/pacientes-y-visitantes?categorias=Derechos+y+Responsabilidades",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ases.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ases.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.84",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ases.pr.gov/contratacion-gubernamental?tab=RFP",
+          "is_root_page": false,
+          "performance_score": "0.76",
+          "accessibility_score": "0.85",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.asg.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.asg.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        },
+        {
+          "url": "https://www.asg.pr.gov/contactos",
+          "is_root_page": false,
+          "performance_score": "0.47",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.asg.pr.gov/indice",
+          "is_root_page": false,
+          "performance_score": "0.53",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.73"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.assmca.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.assmca.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.63",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.assmca.pr.gov/sobre-assmca",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ati.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ati.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.75",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.54",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ati.pr.gov/transportacion-urbana",
+          "is_root_page": false,
+          "performance_score": "0.82",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.avp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.avp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.avp.pr.gov/noticias/se-acuerda-alianza-entre-entidad-sin-fines-de-lucro-de-javier-baez-y-la-avp",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.avp.pr.gov/solicitud-de-vivienda-seccion-8",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bde.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.bde.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.66",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.bde.pr.gov/BDEPROnline/HOME",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.bde.pr.gov/BDEPROnline/Propiedades/VentaDePropiedades",
+          "is_root_page": false,
+          "performance_score": "0.77",
+          "accessibility_score": "0.7",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.bomberos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.bomberos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.bomberos.pr.gov/documentos/leyes",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.78",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.bomberos.pr.gov/inicio",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.57",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.camara.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.camara.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.78",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.camara.pr.gov/camara-tv/",
+          "is_root_page": false,
+          "performance_score": "0.25",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.77"
+        },
+        {
+          "url": "https://www.camara.pr.gov/datos-finanzas/",
+          "is_root_page": false,
+          "performance_score": "0.3",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.56",
+          "seo_score": "0.77"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cardiovascular.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cardiovascular.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.85",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cardiovascular.pr.gov/facultad-medica",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cardiovascular.pr.gov/orientacion-facturas-medicas-sorpresa",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.casp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.casp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "1",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        },
+        {
+          "url": "https://www.casp.pr.gov/formularios.html",
+          "is_root_page": false,
+          "performance_score": "0.99",
+          "accessibility_score": "0.67",
+          "best_practices_score": "0.93",
+          "seo_score": "0.9"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cba.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cba.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.62",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.cba.pr.gov/eventos-detalles/tcf-dualidad-y-castigo/",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.64",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.cba.pr.gov/eventos_cba/",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.78",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cempr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cempr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cempr.pr.gov/academia",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cempr.pr.gov/documentos",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.81",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cesco.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cesco.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.6",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cesco.pr.gov/localidades",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cesco.pr.gov/solicitudes-y-formularios",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cfse.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cfse.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.8",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cfse.pr.gov/decarga-la-nueva-aplicacion",
+          "is_root_page": false,
+          "performance_score": "0.5",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cfse.pr.gov/patronos-landing-page",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.86",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cofim.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cofim.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.67"
+        },
+        {
+          "url": "https://www.cofim.pr.gov/Default.aspx",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.7",
+          "seo_score": "0.67"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.coleccionesicp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.coleccionesicp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.4",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.coleccionesicp.pr.gov/colecciones-del-archivo/sala-de-referencia",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.coleccionesicp.pr.gov/proyecto-de-digitalizacion",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.7",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.comjuegos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.comjuegos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.comjuegos.pr.gov/negociados/negociado-de-apuestas-deportivas-y-concurso-de-fantasia",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.comjuegos.pr.gov/sobre-nosotro",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.compratucasa.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.compratucasa.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.87",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.compratucasa.pr.gov/copy-of-home",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.conexionlaboral.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.conexionlaboral.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.9",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cossec.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cossec.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.cossec.pr.gov/ley-de-transparencia",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cossec.pr.gov/sobre-cossec",
+          "is_root_page": false,
+          "performance_score": "0.88",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.csi.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.csi.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.csi.pr.gov/centros",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.cst.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.cst.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cst.pr.gov/propuestas-federales",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.cst.pr.gov/search/",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.daco.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.daco.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.83",
+          "accessibility_score": "0.71",
+          "best_practices_score": "0.75",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.daco.pr.gov/consumidores",
+          "is_root_page": false,
+          "performance_score": "0.38",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.desarrollo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.desarrollo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.47",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.desarrollo.pr.gov/bienes-raices",
+          "is_root_page": false,
+          "performance_score": "0.85",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.desarrollo.pr.gov/incentivo-pymes",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.drd.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.drd.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.68",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.drd.pr.gov/?b6576e2a_page=2",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.drd.pr.gov/contactenos",
+          "is_root_page": false,
+          "performance_score": "0.94",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.7",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.drna.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.drna.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.15",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.drna.pr.gov/noticias/plan-de-trabajo-ceacc-2024/",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.74",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.drna.pr.gov/noticias/propuesta-cafeteria-edificio-de-agencias-ambientales/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dsp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.dsp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.5",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.dsp.pr.gov/lineas-de-emergencia",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.dsp.pr.gov/negociados/negociado-manejo-de-emergencia-y-administracion-de-desastres",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.98",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.dtop.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.dtop.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.58",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.71",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.dtop.pr.gov/comunicaciones",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.dtop.pr.gov/mapa-interactivo",
+          "is_root_page": false,
+          "performance_score": "0.56",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.empleos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.empleos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.65",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.empleos.pr.gov/programa-de-internado",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.estado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.estado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.99",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.estado.pr.gov/contactenos",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.78",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.estado.pr.gov/tramitacion-de-pasaportes",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.82",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.familia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.familia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.67",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.54",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.familia.pr.gov/documentos",
+          "is_root_page": false,
+          "performance_score": "0.42",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.familia.pr.gov/documentos?categoria=Comunicados+de+Prensa",
+          "is_root_page": false,
+          "performance_score": "0.74",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.federalcontracting.ddec.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.federalcontracting.ddec.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.federalcontracting.ddec.pr.gov/about-us",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.federalcontracting.ddec.pr.gov/request-fecc-services",
+          "is_root_page": false,
+          "performance_score": "0.64",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.54",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.fortaleza.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.fortaleza.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "1",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.fortaleza.pr.gov/internado-ejecutivo",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.fortaleza.pr.gov/politica-de-privacidad",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "1",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.gnpr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.gnpr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.77",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.gnpr.pr.gov/fraud-waste-abuse",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.gnpr.pr.gov/servicios-administrativos",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.icf.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.icf.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.54",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.icf.pr.gov/comunicados",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.icf.pr.gov/investigaciones-forenses",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.icp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.icp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://www.icp.pr.gov/impactoeconomico/",
+          "is_root_page": false,
+          "performance_score": "0.31",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.75",
+          "seo_score": "0.61"
+        },
+        {
+          "url": "https://www.icp.pr.gov/musica/",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.61"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.idmovil.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.idmovil.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.idmovil.pr.gov/idinapplewallet",
+          "is_root_page": false,
+          "performance_score": "0.9",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.justicia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.justicia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.42",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.justicia.pr.gov/registros/",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.68",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.justicia.pr.gov/secretarias-y-oficinas/",
+          "is_root_page": false,
+          "performance_score": "0.7",
+          "accessibility_score": "0.77",
+          "best_practices_score": "0.74",
+          "seo_score": "0.85"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.marbetedigital.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.marbetedigital.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.marbetedigital.pr.gov/marbete-digital",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.marbetedigital.pr.gov/peajes-autoexpreso",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.medicaid.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.medicaid.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.64",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.medicaid.pr.gov/Home/InvitedVendors/",
+          "is_root_page": false,
+          "performance_score": "0.46",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.medicaid.pr.gov/Home/OficinasLocales/",
+          "is_root_page": false,
+          "performance_score": "0.71",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.78",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mercadolaboral.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.mercadolaboral.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.48",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.mercadolaboral.pr.gov/Noticias/Noticias_Eventos.aspx",
+          "is_root_page": false,
+          "performance_score": "0.91",
+          "accessibility_score": "0.73",
+          "best_practices_score": "0.89",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.moca.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.moca.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.22",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.79",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.mujer.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.mujer.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.49",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.mujer.pr.gov/definiciones/violencia-domestica",
+          "is_root_page": false,
+          "performance_score": "0.55",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.mujer.pr.gov/educacion-y-prevencion",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.net.jrsp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.net.jrsp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.52",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.net.jrsp.pr.gov/comunicaciones",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ocif.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ocif.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ocif.pr.gov/?88e4d274_page=2",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.ocif.pr.gov/sobre-nosotros",
+          "is_root_page": false,
+          "performance_score": "0.89",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ocs.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ocs.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.78",
+          "accessibility_score": "0.87",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ocs.pr.gov/icc-application",
+          "is_root_page": false,
+          "performance_score": "0.67",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ocs.pr.gov/seguro-obligatorio",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oech.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.oech.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.52",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.oech.pr.gov/conservacion-historica",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.oech.pr.gov/libros-revistas-y-publicaciones",
+          "is_root_page": false,
+          "performance_score": "0.54",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ogp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ogp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.97",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ogp.pr.gov/ogp/normas-accesos",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.ogp.pr.gov/ogp/transparencia",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.52",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oig.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.oig.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.55",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.54",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.oig.pr.gov/informanos-consulta",
+          "is_root_page": false,
+          "performance_score": "0.84",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ombudsman.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ombudsman.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.74",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.57",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ombudsman.pr.gov/documentos",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.opal.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.opal.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.opal.pr.gov/sobre-nosotros",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.94",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.opp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.opp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.86",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.81",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.opp.pr.gov/materiales-educativos",
+          "is_root_page": false,
+          "performance_score": "0.83",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.oppea.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.oppea.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.71",
+          "accessibility_score": "0.89",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.oppea.pr.gov/programas-y-servicios",
+          "is_root_page": false,
+          "performance_score": "0.86",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.opv.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.opv.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.opv.pr.gov/la-casa-del-veterano",
+          "is_root_page": false,
+          "performance_score": "0.59",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.opv.pr.gov/organizaciones-de-servicios-de-veteranos",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.ospr.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.ospr.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.79",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.ospr.pr.gov/programas",
+          "is_root_page": false,
+          "performance_score": "0.78",
+          "accessibility_score": "0.89",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.perfil.trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.perfil.trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.76",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.58"
+        },
+        {
+          "url": "https://www.perfil.trabajo.pr.gov/careerhub/explore/jobs",
+          "is_root_page": false,
+          "performance_score": "0.26",
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.96",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.permisos.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.permisos.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "1",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.permisos.pr.gov/fuentes-de-informacion",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.permisos.pr.gov/profesional-licenciado-gestion",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.policia.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.policia.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.9",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.policia.pr.gov/votaciones-para-la-junta-para-el-retiro-de-la-policia",
+          "is_root_page": false,
+          "performance_score": "0.93",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.75",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.7",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.pr.gov/gobierno-digital",
+          "is_root_page": false,
+          "performance_score": "0.61",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.74",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.preps.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.preps.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.44",
+          "accessibility_score": "0.8",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.preps.pr.gov/refugios",
+          "is_root_page": false,
+          "performance_score": "0.96",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.presupuesto-propuesto-25-26.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.presupuesto-propuesto-25-26.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.prfaa.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.prfaa.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.52",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.prfaa.pr.gov/internship",
+          "is_root_page": false,
+          "performance_score": "0.92",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.prfaa.pr.gov/recent-press-releases/governor-highlights-the-shared-history-of-service-pride-and-sacrifice-between-puerto-rico-and-the-nation",
+          "is_root_page": false,
+          "performance_score": "0.51",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.pridco.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.pridco.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.97",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.pridco.pr.gov/property/t-0150",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.75",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.prits.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.prits.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.53",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.prits.pr.gov/documentos",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.93",
+          "seo_score": "0.92"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.prpa.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.prpa.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.73",
+          "accessibility_score": "0.91",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.prpa.pr.gov/junta-de-directores",
+          "is_root_page": false,
+          "performance_score": "0.62",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.7",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.retiro.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.retiro.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.48",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.retiro.pr.gov/?",
+          "is_root_page": false,
+          "performance_score": "0.49",
+          "accessibility_score": "0.92",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.retiro.pr.gov/?f24f2103_page=2",
+          "is_root_page": false,
+          "performance_score": "0.52",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.75",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rooseveltroads.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.rooseveltroads.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.56",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.rooseveltroads.pr.gov/contact",
+          "is_root_page": false,
+          "performance_score": "0.98",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.rooseveltroads.pr.gov/our-community",
+          "is_root_page": false,
+          "performance_score": "0.73",
+          "accessibility_score": "0.86",
+          "best_practices_score": "0.79",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.rumcapital.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.rumcapital.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.95",
+          "accessibility_score": "0.92",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.rumcapital.pr.gov/home",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.93",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.salud.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.salud.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.37",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.74",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.salud.pr.gov/CMS/95",
+          "is_root_page": false,
+          "performance_score": "0.65",
+          "accessibility_score": "0.84",
+          "best_practices_score": "0.74",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.sbp.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.sbp.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.89",
+          "accessibility_score": "0.85",
+          "best_practices_score": "0.78",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.sbp.pr.gov/Security/CreateAccount",
+          "is_root_page": false,
+          "performance_score": "1",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.senado.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.senado.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.57",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        },
+        {
+          "url": "https://www.senado.pr.gov/index.cfm",
+          "is_root_page": false,
+          "performance_score": "0.58",
+          "accessibility_score": "0.81",
+          "best_practices_score": "0.93",
+          "seo_score": "0.75"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.smartisland.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.smartisland.pr.gov/",
+          "is_root_page": true,
+          "accessibility_score": "0.88",
+          "best_practices_score": "0.56",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.smartisland.pr.gov/projectos-programas/fortalecimiento-y-resiliencia-de-infraestructura-para-proveedores-de-servicios-de-internet",
+          "is_root_page": false,
+          "performance_score": "0.35",
+          "accessibility_score": "0.94",
+          "best_practices_score": "0.71",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.smartisland.pr.gov/sobre-nosotros",
+          "is_root_page": false,
+          "performance_score": "0.4",
+          "accessibility_score": "0.95",
+          "best_practices_score": "0.56",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.smarttransportation.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.smarttransportation.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.96",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.smarttransportation.pr.gov/marbete-digital",
+          "is_root_page": false,
+          "performance_score": "0.81",
+          "accessibility_score": "0.9",
+          "best_practices_score": "0.93",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.smarttransportation.pr.gov/peajes-autoexpreso",
+          "is_root_page": false,
+          "performance_score": "0.6",
+          "accessibility_score": "0.93",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.statedepartment.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.statedepartment.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.87",
+          "accessibility_score": "0.99",
+          "best_practices_score": "0.96",
+          "seo_score": "0.82"
+        },
+        {
+          "url": "https://www.statedepartment.pr.gov/contact-us",
+          "is_root_page": false,
+          "performance_score": "0.97",
+          "accessibility_score": "0.96",
+          "best_practices_score": "0.96",
+          "seo_score": "0.91"
+        },
+        {
+          "url": "https://www.statedepartment.pr.gov/passports",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.91",
+          "best_practices_score": "1",
+          "seo_score": "0.82"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.trabajo.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.trabajo.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.91",
+          "accessibility_score": "0.7",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        },
+        {
+          "url": "https://www.trabajo.pr.gov/perfil.asp",
+          "is_root_page": false,
+          "performance_score": "0.95",
+          "accessibility_score": "0.79",
+          "best_practices_score": "1",
+          "seo_score": "0.83"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vacuid.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.vacuid.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.94",
+          "accessibility_score": "0.98",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.vacuid.pr.gov/global-vacu-id",
+          "is_root_page": false,
+          "performance_score": "0.57",
+          "accessibility_score": "1",
+          "best_practices_score": "0.93",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.vacuid.pr.gov/sin-licencia",
+          "is_root_page": false,
+          "performance_score": "0.87",
+          "accessibility_score": "1",
+          "best_practices_score": "0.96",
+          "seo_score": "1"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vegaalta.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.vegaalta.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.7",
+          "accessibility_score": "0.96",
+          "best_practices_score": "1",
+          "seo_score": "1"
+        },
+        {
+          "url": "https://www.vegaalta.pr.gov/dependencias-municipales/oficina-de-desarrollo-social-y-participacion-ciudadana",
+          "is_root_page": false,
+          "performance_score": "0.8",
+          "accessibility_score": "0.95",
+          "best_practices_score": "1",
+          "seo_score": "0.91"
+        }
+      ]
+    },
+    {
+      "canonical_domain": "www.vivienda.pr.gov",
+      "subnational": "Puerto Rico",
+      "pages": [
+        {
+          "url": "https://www.vivienda.pr.gov/",
+          "is_root_page": true,
+          "performance_score": "0.72",
+          "accessibility_score": "0.59",
+          "best_practices_score": "1",
+          "seo_score": "0.85"
+        },
+        {
+          "url": "https://www.vivienda.pr.gov/directorio-de-las-oficinas-regionales/",
+          "is_root_page": false,
+          "performance_score": "0.24",
+          "accessibility_score": "0.82",
+          "best_practices_score": "0.89",
+          "seo_score": "0.92"
+        },
+        {
+          "url": "https://www.vivienda.pr.gov/solicitudes/",
+          "is_root_page": false,
+          "performance_score": "0.69",
+          "accessibility_score": "0.78",
+          "best_practices_score": "0.74",
+          "seo_score": "0.92"
+        }
+      ]
+    }
+  ]
+}
