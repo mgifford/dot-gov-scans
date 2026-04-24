@@ -72,7 +72,7 @@ jobs:
             --output docs/scan-progress.md \
             --data docs/scan-progress-data.json \
             --update-index docs/index.md \
-            --seeds-dir data/toon-seeds/countries \
+            --seeds-dir data/toon-seeds/states \
             2>&1 | tee scan-progress-output.txt
 
       - name: Generate social media stats page
@@ -80,7 +80,7 @@ jobs:
           python3 -m src.cli.generate_social_media_report \
             --page docs/social-media.md \
             --data docs/social-media-data.json \
-            --seeds-dir data/toon-seeds/countries \
+            --seeds-dir data/toon-seeds/states \
             2>&1 | tee social-media-report-output.txt
 
       - name: Generate domains report
@@ -94,7 +94,7 @@ jobs:
           python3 -m src.cli.generate_technology_report \
             --page docs/technology-scanning.md \
             --data docs/technology-data.json \
-            --seeds-dir data/toon-seeds/countries \
+            --seeds-dir data/toon-seeds/states \
             2>&1 | tee technology-report-output.txt
 
       - name: Generate third-party JavaScript stats page
@@ -102,7 +102,7 @@ jobs:
           python3 -m src.cli.generate_third_party_js_report \
             --page docs/third-party-tools.md \
             --data docs/third-party-tools-data.json \
-            --seeds-dir data/toon-seeds/countries \
+            --seeds-dir data/toon-seeds/states \
             2>&1 | tee third-party-js-report-output.txt
 
       - name: Generate accessibility statement stats page
@@ -110,16 +110,16 @@ jobs:
           python3 -m src.cli.generate_accessibility_report \
             --page docs/accessibility-statements.md \
             --data docs/accessibility-data.json \
-            --seeds-dir data/toon-seeds/countries \
+            --seeds-dir data/toon-seeds/states \
             2>&1 | tee accessibility-report-output.txt
 
       - name: Generate Lighthouse results page
         run: |
           python3 -m src.cli.generate_lighthouse_report \
-            --page docs/lighthouse-results.md \
+            --page docs/lighthouse-scanning.md \
             --data docs/lighthouse-data.json \
             --csv docs/lighthouse-data.csv \
-            --seeds-dir data/toon-seeds/countries \
+            --seeds-dir data/toon-seeds/states \
             2>&1 | tee lighthouse-report-output.txt
 
       - name: Commit progress report to repository
@@ -133,7 +133,7 @@ jobs:
                   docs/technology-scanning.md \
                   docs/third-party-tools.md docs/third-party-tools-data.json \
                   docs/accessibility-statements.md \
-                  docs/lighthouse-results.md
+                  docs/lighthouse-scanning.md
           if git diff --staged --quiet; then
             echo "No changes to commit — reports are up to date."
           else
@@ -160,7 +160,7 @@ jobs:
             docs/third-party-tools-data.json
             docs/accessibility-statements.md
             docs/accessibility-data.json
-            docs/lighthouse-results.md
+            docs/lighthouse-scanning.md
             docs/lighthouse-data.json
             docs/lighthouse-data.csv
             scan-progress-output.txt

@@ -110,7 +110,7 @@ jobs:
           path: |
             data/metadata.db
             social-scan-output.txt
-            data/toon-seeds/countries/**_social.toon
+            data/toon-seeds/states/**_social.toon
           retention-days: 90
           if-no-files-found: warn
 

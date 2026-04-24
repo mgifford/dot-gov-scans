@@ -232,7 +232,7 @@ For 60 countries with batch size 5:
 
 ### Countries skipped
 
-- Check TOON files exist in `data/toon-seeds/countries/`
+- Check TOON files exist in `data/toon-seeds/states/`
 - Verify country code matches filename
 - Check error messages in batch state table
 
