@@ -1,4 +1,19 @@
 {
-  "status": "pending-us-regeneration",
-  "message": "This dataset is being regenerated for US state and federal scope."
+  "generated_at": "2026-04-24 18:43 UTC",
+  "summary": {
+    "total_batches": 0,
+    "total_scanned": 0,
+    "total_reachable": 0,
+    "urls_with_scripts": 0,
+    "total_available": 65681,
+    "identified_service_loads": 0,
+    "unique_services": 0,
+    "unique_categories": 0,
+    "first_scan": null,
+    "last_scan": null
+  },
+  "top_services": [],
+  "top_categories": [],
+  "by_country": [],
+  "country_drilldowns": {}
 }
