@@ -15,7 +15,7 @@ from src.lib.settings import load_settings
 def main():
     """Main CLI entry point."""
     parser = argparse.ArgumentParser(
-        description="Validate URLs in government TOON files"
+        description="Validate URLs in USA government TOON files"
     )
     parser.add_argument(
         "--country",

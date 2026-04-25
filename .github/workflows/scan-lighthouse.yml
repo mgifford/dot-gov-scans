@@ -94,7 +94,7 @@ jobs:
           run-id: ${{ steps.find-metadata.outputs.run_id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Run Lighthouse scan (specific country)
+      - name: Run Lighthouse scan (specific seed)
         if: ${{ github.event.inputs.country != '' }}
         run: |
           python3 -m src.cli.scan_lighthouse \

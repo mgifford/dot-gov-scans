@@ -16,7 +16,7 @@ def main():
     """Main CLI entry point for Lighthouse scanning."""
     parser = argparse.ArgumentParser(
         description=(
-            "Run Google Lighthouse audits on government websites via TOON files. "
+            "Run Google Lighthouse audits on USA government websites via TOON files. "
             "Requires 'lighthouse' CLI (npm install -g lighthouse) and Chrome/Chromium."
         )
     )

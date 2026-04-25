@@ -70,7 +70,7 @@ jobs:
           run-id: ${{ steps.find-metadata.outputs.run_id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Run overlay scan (specific country)
+      - name: Run overlay scan (specific seed)
         if: ${{ github.event.inputs.country != '' }}
         run: |
           python3 -m src.cli.scan_overlays \

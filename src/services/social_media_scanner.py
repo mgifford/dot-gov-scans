@@ -229,7 +229,7 @@ class SocialMediaScanner:
         self,
         timeout_seconds: int = 20,
         max_redirects: int = 10,
-        user_agent: str = "EU-Government-Accessibility-Scanner/1.0",
+        user_agent: str = "USA-Government-Accessibility-Scanner/1.0",
     ):
         self.timeout_seconds = timeout_seconds
         self.max_redirects = max_redirects

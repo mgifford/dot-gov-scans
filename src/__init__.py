@@ -1,1 +1,1 @@
-"""EU+ government scan service source package."""
+"""USA government accessibility scan service source package."""

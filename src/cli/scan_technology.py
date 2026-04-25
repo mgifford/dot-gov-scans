@@ -15,7 +15,7 @@ from src.lib.settings import load_settings
 def main():
     """Main CLI entry point for technology scanning."""
     parser = argparse.ArgumentParser(
-        description="Detect technologies used by government websites via TOON files"
+        description="Detect technologies used by USA government websites via TOON files"
     )
     parser.add_argument(
         "--country",

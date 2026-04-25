@@ -18,7 +18,7 @@ from src.storage.schema import initialize_schema
 def main():
     """Main CLI entry point for batched validation."""
     parser = argparse.ArgumentParser(
-        description="Validate URLs in government TOON files with batch processing"
+        description="Validate URLs in USA government TOON files with batch processing"
     )
 
     # Batch mode arguments

@@ -81,7 +81,7 @@ jobs:
           run-id: ${{ steps.find-metadata.outputs.run_id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Run technology scan (specific country)
+      - name: Run technology scan (specific seed)
         if: ${{ github.event.inputs.country != '' }}
         run: |
           set -o pipefail

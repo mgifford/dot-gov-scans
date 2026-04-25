@@ -17,9 +17,9 @@ def main():
     parser = argparse.ArgumentParser(
         description=(
             "Scan government website pages for accessibility statement links as "
-            "required by the EU Web Accessibility Directive (Directive 2016/2102). "
-            "Checks the page footer first, then the full page, using multilingual "
-            "term matching across all 24 EU languages plus Norwegian and Icelandic."
+            "required by the ADA Title II compliance rule. Checks the page footer "
+            "first, then the full page, using multilingual term matching across "
+            "common accessibility statement naming patterns."
         )
     )
     parser.add_argument(

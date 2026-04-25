@@ -16,9 +16,7 @@ def main():
     """Main CLI entry point for social media scanning."""
     parser = argparse.ArgumentParser(
         description=(
-            "Scan government website pages for links to Twitter/X, Bluesky "
-            "and Mastodon.  Produces an annotated TOON file and persists "
-            "results to the metadata database."
+            "Scan government website pages for links to social media platforms."
         )
     )
     parser.add_argument(
