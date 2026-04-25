@@ -21,7 +21,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
 
-## Social Media Scan by Country
+## Social Media Scan by State
 
 | Country | Scanned | Available | Reachable | Twitter-only | Modern | Mixed | No Social | Twitter | X | Bluesky | Mastodon | Scan Period |
 |---------|---------|-----------|-----------|-------------|--------|-------|-----------|---------|---|---------|----------|-------------|
@@ -41,7 +41,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 > Hover or focus any non-zero platform count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and platform from [social-media-data.json](social-media-data.json).
 
-## Technology Scan by Country
+## Technology Scan by State
 
 | Country | URLs Scanned | Last Scan |
 |---------|-------------|----------|

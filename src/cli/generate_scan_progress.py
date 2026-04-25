@@ -632,7 +632,7 @@ def _write_url_validation_table(
     """Write the per-country URL validation table."""
     if not url_val:
         return
-    f.write("## URL Validation by Country\n\n")
+    f.write("## URL Validation by State\n\n")
     f.write("| Country | Total | Valid | Invalid | Scan Period | Coverage |\n")
     f.write("|---------|-------|-------|---------|-------------|----------|\n")
     for cc in all_countries:
@@ -672,7 +672,7 @@ def _write_social_media_table(
     """
     if not social:
         return
-    f.write("## Social Media Scan by Country\n\n")
+    f.write("## Social Media Scan by State\n\n")
     f.write(
         "| Country | Scanned | Available | Reachable | Twitter-only | Modern | "
         "Mixed | No Social | Twitter | X | Bluesky | Mastodon | Scan Period |\n"
@@ -721,7 +721,7 @@ def _write_technology_table(
             "Trigger the **Scan Technology Stack** workflow manually._\n\n"
         )
         return
-    f.write("## Technology Scan by Country\n\n")
+    f.write("## Technology Scan by State\n\n")
     f.write("| Country | URLs Scanned | Last Scan |\n")
     f.write("|---------|-------------|----------|\n")
     for cc in all_countries:
@@ -752,7 +752,7 @@ def _write_lighthouse_table(
     def _pct(val: float | None) -> str:
         return f"{val * 100:.0f}" if val is not None else "—"
 
-    f.write("## Lighthouse Scan by Country\n\n")
+    f.write("## Lighthouse Scan by State\n\n")
     f.write(
         "| Country | URLs | Perf | A11y | Best Practices | SEO | Last Scan |\n"
     )
@@ -800,7 +800,7 @@ def _write_accessibility_table(
     def _pct(num: int, denom: int) -> str:
         return f"{num / denom * 100:.0f}%" if denom else "—"
 
-    f.write("## Accessibility Statement Scan by Country\n\n")
+    f.write("## Accessibility Statement Scan by State\n\n")
     f.write(
         "Checks whether each government page links to an accessibility statement "
         "as required by the EU Web Accessibility Directive (Directive 2016/2102).\n\n"
