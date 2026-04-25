@@ -803,7 +803,8 @@ def _write_accessibility_table(
     f.write("## Accessibility Statement Scan by State\n\n")
     f.write(
         "Checks whether each government page links to an accessibility statement "
-        "as required by the EU Web Accessibility Directive (Directive 2016/2102).\n\n"
+        "as required by ADA Title II compliance for state, local, and federal "
+        "government websites.\n\n"
     )
     f.write(
         "| Country | Scanned | Reachable | Has Statement | In Footer | Statement % | Scan Period |\n"
@@ -870,7 +871,7 @@ def _write_priority_guide(f) -> None:
     f.write(
         "2. **Accessibility Statement Scan** — runs every 4 hours; checks "
         "whether each page links to an accessibility statement as required "
-        "by the EU Web Accessibility Directive (Directive 2016/2102).\n"
+        "by ADA Title II compliance for USA government websites.\n"
     )
     f.write(
         "3. **Technology Scan** — run on demand; detects CMS, framework, "

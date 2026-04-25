@@ -1,9 +1,9 @@
-"""Multilingual terms for 'accessibility statement' across EU languages.
+"""Multilingual terms for 'accessibility statement' across languages.
 
-Covers all 24 official EU languages plus Norwegian and Icelandic (EEA members).
+Covers English plus a broad set of additional languages for completeness.
 Terms are used by the accessibility scanner to detect footer links pointing to
-an accessibility statement as required by the EU Web Accessibility Directive
-(Directive 2016/2102) — see https://web-directive.eu/#toc20
+an accessibility statement. In the USA government context, this supports
+ADA Title II compliance scanning of state, local, and federal websites.
 """
 
 from __future__ import annotations
@@ -159,7 +159,7 @@ ALL_TERMS: frozenset[str] = frozenset(
 )
 
 # Common URL path fragments that appear in accessibility statement URLs across
-# EU government websites, regardless of the page language.
+# government websites, regardless of the page language.
 ACCESSIBILITY_URL_PATTERNS: tuple[str, ...] = (
     "accessibility",
     "accessibility-statement",
