@@ -3,7 +3,11 @@ title: Technology Scanning
 layout: page
 ---
 
-This report is being rebuilt for the United States dataset.
+Google technology scans detect the CMS, framework, and analytics platforms
+used by US state and federal government websites.
 
-The previous country-based report has been retired. New state and federal
-technology coverage tables will be published after the next scan cycle.
+<!-- TECH_STATS_START -->
+
+_No scan data yet — stats update automatically after every scan run._
+
+<!-- TECH_STATS_END -->

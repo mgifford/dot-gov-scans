@@ -3,7 +3,8 @@ title: Social Media Scan Results
 layout: page
 ---
 
-This report is being rebuilt for the United States dataset.
+<!-- SOCIAL_MEDIA_STATS_START -->
 
-The previous country-based report has been retired. New state and federal
-coverage tables will be published after the next social media scan cycle.
+_No scan data yet — stats update automatically after every scan run._
+
+<!-- SOCIAL_MEDIA_STATS_END -->
