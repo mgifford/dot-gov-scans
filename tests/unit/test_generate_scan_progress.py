@@ -167,8 +167,8 @@ def test_generate_progress_report_with_data(populated_db: Path, tmp_path: Path):
     assert "title: Scan Progress Report" in content
     assert "layout: page" in content
     assert "## Overall Coverage" in content
-    assert "## URL Validation by Country" in content
-    assert "## Social Media Scan by Country" in content
+    assert "## URL Validation by State" in content
+    assert "## Social Media Scan by State" in content
     assert "## Scan Priority Guide" in content
 
     # Check country rows appear
@@ -225,7 +225,7 @@ def test_generate_progress_report_social_tiers(populated_db: Path, tmp_path: Pat
     generate_progress_report(populated_db, output_path)
     content = output_path.read_text()
 
-    assert "Social Media Scan by Country" in content
+    assert "Social Media Scan by State" in content
     assert "Germany" in content
 
 def test_generate_progress_report_technology_section(
@@ -275,8 +275,8 @@ def test_generate_progress_report_social_media_platform_breakdown(
     generate_progress_report(populated_db, output_path)
     content = output_path.read_text()
 
-    # Platform columns merged into a single "Social Media Scan by Country" table
-    assert "## Social Media Scan by Country" in content
+    # Platform columns merged into a single "Social Media Scan by State" table
+    assert "## Social Media Scan by State" in content
     # Separate breakdown table should no longer exist
     assert "## Social Media Platform Breakdown" not in content
     # Table should include the platform columns
@@ -460,7 +460,7 @@ def test_generate_progress_report_lighthouse_section(
     generate_progress_report(populated_db, output_path)
     content = output_path.read_text()
 
-    assert "## Lighthouse Scan by Country" in content
+    assert "## Lighthouse Scan by State" in content
     assert "Iceland" in content
     # Score columns should be present
     assert "A11y" in content
@@ -680,6 +680,6 @@ def test_generate_progress_report_platform_breakdown_has_reachable_column(
     generate_progress_report(populated_db, output_path)
     content = output_path.read_text()
 
-    # Platform data is now part of the single "Social Media Scan by Country" table
-    assert "## Social Media Scan by Country" in content
+    # Platform data is now part of the single "Social Media Scan by State" table
+    assert "## Social Media Scan by State" in content
     assert "Reachable" in content
