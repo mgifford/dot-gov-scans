@@ -3,7 +3,12 @@ title: Accessibility Statements
 layout: page
 ---
 
-This report is being rebuilt for the United States dataset.
+Accessibility statement scans check whether each US state and federal
+government website links to an accessibility statement, as required by
+ADA Title II.
 
-The previous country-based report has been retired. New state and federal
-accessibility statement evidence tables will be published after the next scan cycle.
+<!-- ACCESSIBILITY_STATS_START -->
+
+_No scan data yet — stats update automatically after every scan run._
+
+<!-- ACCESSIBILITY_STATS_END -->

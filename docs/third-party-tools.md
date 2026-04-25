@@ -3,7 +3,11 @@ title: Third-Party JavaScript
 layout: page
 ---
 
-This report is being rebuilt for the United States dataset.
+Third-party JavaScript scans detect external scripts, analytics services,
+and other hosted resources loaded by US state and federal government websites.
 
-The previous country-based report has been retired. New state and federal
-third-party script and service tables will be published after the next scan cycle.
+<!-- THIRD_PARTY_JS_STATS_START -->
+
+_No scan data yet — stats update automatically after every scan run._
+
+<!-- THIRD_PARTY_JS_STATS_END -->
