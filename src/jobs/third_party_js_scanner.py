@@ -13,6 +13,7 @@ from uuid import uuid4
 
 from src.lib.jurisdiction_utils import jurisdiction_filename_to_code
 from src.lib.settings import Settings
+from src.lib.toon_utils import extract_urls_from_toon
 from src.services.third_party_js_scanner import ThirdPartyJsScanResult, ThirdPartyJsScanner
 from src.storage.schema import initialize_schema
 
@@ -33,14 +34,11 @@ class ThirdPartyJsScannerJob:
             return json.load(f)
 
     def _extract_urls_from_toon(self, toon_data: dict) -> List[str]:
-        """Extract all page URLs from TOON data structure."""
-        urls = []
-        for domain_entry in toon_data.get("domains", []):
-            for page in domain_entry.get("pages", []):
-                url = page.get("url")
-                if url:
-                    urls.append(url)
-        return urls
+        """Extract all page URLs from TOON data structure.
+
+        Includes URLs derived from ``candidate_paths`` entries on each domain.
+        """
+        return extract_urls_from_toon(toon_data)
 
     def _save_results(
         self,
