@@ -95,7 +95,7 @@ class BatchCoordinator:
         """Get list of jurisdictions from TOON files."""
         from src.lib.jurisdiction_utils import jurisdiction_filename_to_code
 
-        toon_dir = Path("data/toon-seeds/states")
+        toon_dir = Path("data/toon-seeds")
         jurisdictions = []
         countries = []
 

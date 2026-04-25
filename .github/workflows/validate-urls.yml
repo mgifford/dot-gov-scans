@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       country:
-        description: 'Specific country code to validate (e.g., TEXAS, CALIFORNIA) or leave empty for all'
+        description: 'Seed code to validate (jurisdiction, e.g., TEXAS, CALIFORNIA) — leave empty for all seeds'
         required: false
         type: string
       rate_limit:
@@ -62,7 +62,7 @@ jobs:
             --skip-recently-validated-days "${{ github.event.inputs.skip_recently_validated_days || '30' }}" \
             2>&1 | tee validation-output.txt
       
-      - name: Run URL validation (all countries)
+      - name: Run URL validation (all seeds)
         if: ${{ github.event.inputs.country == '' }}
         run: |
           # --max-runtime 110 leaves a 10-minute safety buffer before the

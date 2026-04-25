@@ -97,12 +97,25 @@ jobs:
           missing=0
           for file in $REQUIRED_DRILLDOWN_JSON_FILES; do
             if [ ! -f "docs/$file" ]; then
-              echo "Missing required data file: docs/$file"
+              echo "::error file=docs/$file::Missing required data file: docs/$file"
               missing=1
             fi
           done
           if [ "$missing" -ne 0 ]; then
-            echo "GitHub Pages build stopped because one or more drilldown JSON files are missing."
+            echo ""
+            echo "One or more drilldown JSON files are missing. To generate them, run the"
+            echo "workflows in this order:"
+            echo "  1. 'Validate Government URLs'       (produces validation-metadata artifact)"
+            echo "  2. 'Scan Social Media Links'        (produces social-media-data.json)"
+            echo "  3. 'Scan Technology Stack'          (produces technology-data.json)"
+            echo "  4. 'Scan Accessibility Statements'  (produces accessibility-data.json)"
+            echo "  5. 'Scan Third-Party JavaScript'    (produces third-party-tools-data.json)"
+            echo "  6. 'Scan Lighthouse'                (produces lighthouse-data.json)"
+            echo "  7. 'Generate Scan Progress Report'  (produces scan-progress-data.json and uploads artifacts)"
+            echo ""
+            echo "If this is a first deploy and no scan data exists yet, you can create"
+            echo "placeholder JSON stubs in docs/ with an empty array '[]' to unblock the"
+            echo "Pages build until real scan data is available."
             exit 1
           fi
 

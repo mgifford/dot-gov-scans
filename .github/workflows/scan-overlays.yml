@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       country:
-        description: 'Country code to scan (e.g., TEXAS, CALIFORNIA) — leave empty for all'
+        description: 'Seed code to scan (jurisdiction, e.g., TEXAS, CALIFORNIA) — leave empty for all seeds'
         required: false
         type: string
       rate_limit:
@@ -78,7 +78,7 @@ jobs:
             --rate-limit "${{ github.event.inputs.rate_limit }}" \
             2>&1 | tee overlay-scan-output.txt
 
-      - name: Run overlay scan (all countries)
+      - name: Run overlay scan (all seeds)
         if: ${{ github.event.inputs.country == '' }}
         run: |
           python3 -m src.cli.scan_overlays \
@@ -95,7 +95,7 @@ jobs:
           path: |
             data/metadata.db
             overlay-scan-output.txt
-            data/toon-seeds/states/**_overlays.toon
+            data/toon-seeds/**_overlays.toon
           retention-days: 90
           if-no-files-found: warn
 
