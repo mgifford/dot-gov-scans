@@ -2,8 +2,10 @@
 
 from __future__ import annotations
 
+import asyncio
 import json
 import subprocess
+import time as time_mod
 from unittest.mock import MagicMock, patch
 
 import pytest
@@ -209,13 +211,12 @@ async def test_scan_urls_batch_on_result_callback():
 @pytest.mark.asyncio
 async def test_scan_urls_batch_stops_early_when_budget_exhausted():
     """Scanning should stop when the time budget is nearly used up."""
-    import time as time_mod
-
     scanner = LighthouseScanner()
     urls = ["https://gov1.example/", "https://gov2.example/", "https://gov3.example/"]
     raw = _make_lighthouse_json()
 
-    # Simulate budget almost exhausted (30 s left of 10000 s, safety buffer = 60 s)
+    # Simulate budget almost exhausted: 9970 s elapsed of 10000 s budget.
+    # safety_buffer=60 s → threshold=9940 s, already exceeded → no tasks run.
     elapsed_start = time_mod.monotonic() - 9970
 
     with patch.object(scanner, "_run_lighthouse", return_value=raw):
@@ -238,22 +239,19 @@ async def test_scan_urls_batch_queued_tasks_bail_when_budget_expires():
     a pre-semaphore budget check so those tasks drain immediately instead of
     waiting for a semaphore slot and then running Lighthouse.
     """
-    import asyncio as asyncio_mod
-    import time as time_mod
-
     scanner = LighthouseScanner()
     # Use concurrency=1 so URLs 2-5 queue while URL 1 holds the semaphore.
     urls = [f"https://gov{i}.example/" for i in range(5)]
 
     scanned_urls: list[str] = []
+    # 9970 s already elapsed of a 10000 s budget; safety_buffer=60 s means the
+    # threshold (9940 s) is already exceeded — all tasks should bail out.
     budget_seconds = 10_000.0
-    # start_time such that budget expires after the first scan starts (9970 s
-    # already elapsed; safety_buffer=60 s → threshold=9940 s already exceeded).
-    elapsed_start = time_mod.monotonic() - 9970
+    elapsed_start = time_mod.monotonic() - (budget_seconds - 30)
 
     async def _mock_scan_url(url: str) -> LighthouseScanResult:
         scanned_urls.append(url)
-        await asyncio_mod.sleep(0)  # yield so queued tasks can check budget
+        await asyncio.sleep(0)  # yield so queued tasks can check budget
         return LighthouseScanResult(url=url, scanned_at="2026-01-01T00:00:00+00:00")
 
     with patch.object(scanner, "scan_url", side_effect=_mock_scan_url):
@@ -265,7 +263,7 @@ async def test_scan_urls_batch_queued_tasks_bail_when_budget_expires():
             concurrency=1,
         )
 
-    # Budget is exhausted before any URL is submitted; nothing should run.
+    # Budget is exhausted before tasks can acquire the semaphore; nothing runs.
     assert len(results) == 0
     assert scanned_urls == []
 
