@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-04-25 01:53 UTC_
+_Generated: 2026-04-25 02:42 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -16,19 +16,10 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | **Combined Reachability** | **3,892 confirmed reachable** | 65,681 | **<span role="img" aria-label="5.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:7px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">5.9%</span></span>** |
 | Social Media | 4,092 scanned (3,892 reachable) | 65,681 | <span role="img" aria-label="6.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:7px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">6.2%</span></span> |
 | Technology | 5,425 scanned | 65,681 | <span role="img" aria-label="8.3% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:10px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">8.3%</span></span> |
-| Lighthouse | 0 scanned | 65,681 | (manual scan) |
+| Lighthouse | 796 scanned | 65,681 | <span role="img" aria-label="1.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:1px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">1.2%</span></span> |
 | Accessibility Statements | 0 scanned | 65,681 | <span role="img" aria-label="0.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:0px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">0.0%</span></span> |
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
-
-## URL Validation by State
-
-| Country | Total | Valid | Invalid | Scan Period | Coverage |
-|---------|-------|-------|---------|-------------|----------|
-| Alabama | 4 | 0 | 4 | Apr 2026 | <span role="img" aria-label="8.3% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:90px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:8px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">8.3%</span></span> |
-| Arizona | 3 | 0 | 3 | Apr 2026 | <span role="img" aria-label="0.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:90px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:1px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">0.9%</span></span> |
-
-> Hover or focus any non-zero **Total**, **Valid**, or **Invalid** count to preview matching URLs. **Valid** and **Invalid** can overlap because a URL may have passed in one validation run and failed in another during the same scan period; download the CSV for the underlying evidence from [scan-progress-data.json](scan-progress-data.json).
 
 ## Social Media Scan by State
 
@@ -66,9 +57,18 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | Delaware | 17 | 2026-04-24 |
 | Federal | 1,671 | 2026-04-24 |
 
-## Lighthouse Scan
+## Lighthouse Scan by State
 
-_No Lighthouse scans have been run yet. Trigger the **Scan Lighthouse** workflow manually._
+| Country | URLs | Perf | A11y | Best Practices | SEO | Last Scan |
+|---------|------|------|------|----------------|-----|----------|
+| Alabama | 46 | 94 | 85 | 85 | 82 | 2026-04-25 |
+| Alaska | 32 | 94 | 88 | 84 | 88 | 2026-04-25 |
+| American Samoa | 7 | 99 | 96 | 100 | 91 | 2026-04-25 |
+| Arizona | 314 | 95 | 91 | 90 | 83 | 2026-04-25 |
+| Arkansas | 24 | 96 | 93 | 94 | 90 | 2026-04-25 |
+| California | 373 | 92 | 91 | 85 | 90 | 2026-04-25 |
+
+> Scores are averages across all successfully audited URLs, displayed as 0–100 (multiply source values × 100).
 
 ## Accessibility Statement Scan
 
@@ -78,7 +78,7 @@ _No accessibility statement scans have been run yet. Trigger the **Scan Accessib
 
 These countries have social media scan data but no URL validation data (URL validation may have been skipped because the social scan already confirmed reachability):
 
-`ALASKA`, `AMERICAN_SAMOA`, `ARKANSAS`, `CALIFORNIA`, `COLORADO`, `CONNECTICUT`, `DC`, `DELAWARE`, `FEDERAL`
+`ALABAMA`, `ALASKA`, `AMERICAN_SAMOA`, `ARIZONA`, `ARKANSAS`, `CALIFORNIA`, `COLORADO`, `CONNECTICUT`, `DC`, `DELAWARE`, `FEDERAL`
 
 ## Scan Priority Guide
 
