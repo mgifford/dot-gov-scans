@@ -8,13 +8,13 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-04-25 02:43 UTC — last scan: 2026-04-24_
+_Stats as of 2026-04-25 05:52 UTC — last scan: 2026-04-25_
 
-**11** scan batches run
+**28** scan batches run
 
-**5,425** of **65,681** available pages scanned (**8.3%** coverage)
-**5,147** pages with technology detections (**94.9%** of scanned)
-**222** unique technologies identified
+**9,773** of **65,681** available pages scanned (**14.9%** coverage)
+**9,198** pages with technology detections (**94.1%** of scanned)
+**262** unique technologies identified
 
 ---
 
@@ -33,6 +33,23 @@ _Stats as of 2026-04-25 02:43 UTC — last scan: 2026-04-24_
 | DC | 486 | 484 | 486 | 2026-04-24 |
 | Delaware | 17 | 17 | 17 | 2026-04-24 |
 | Federal | 1,671 | 1,582 | 50,035 | 2026-04-24 |
+| Florida | 140 | 129 | 140 | 2026-04-25 |
+| Georgia | 217 | 207 | 217 | 2026-04-25 |
+| Hawaii | 8 | 8 | 8 | 2026-04-25 |
+| Idaho | 103 | 103 | 103 | 2026-04-25 |
+| Illinois | 91 | 84 | 91 | 2026-04-25 |
+| Indiana | 598 | 582 | 598 | 2026-04-25 |
+| Iowa | 21 | 20 | 21 | 2026-04-25 |
+| Kansas | 194 | 186 | 194 | 2026-04-25 |
+| Kentucky | 738 | 727 | 738 | 2026-04-25 |
+| Louisiana | 266 | 258 | 266 | 2026-04-25 |
+| Maine | 1 | 1 | 1 | 2026-04-25 |
+| Maryland | 89 | 83 | 89 | 2026-04-25 |
+| Massachusetts | 153 | 137 | 153 | 2026-04-25 |
+| Michigan | 122 | 111 | 122 | 2026-04-25 |
+| Minnesota | 785 | 753 | 785 | 2026-04-25 |
+| Mississippi | 486 | 335 | 486 | 2026-04-25 |
+| Missouri | 336 | 327 | 336 | 2026-04-25 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 
@@ -42,46 +59,46 @@ _Stats as of 2026-04-25 02:43 UTC — last scan: 2026-04-24_
 
 | # | Technology | Pages | Categories |
 |--:|-----------|------:|-----------|
-| 1 | jQuery | **2,741** | JavaScript libraries |
-| 2 | Font Awesome | **1,382** | Font scripts |
-| 3 | PHP | **1,378** | Programming languages |
-| 4 | Cloudflare | **1,328** | CDN |
-| 5 | Bootstrap | **1,322** | UI frameworks |
-| 6 | Google Font API | **1,253** | Font scripts |
-| 7 | IIS | **1,068** | Web servers |
-| 8 | Windows Server | **1,068** | Operating systems |
-| 9 | jQuery Migrate | **896** | JavaScript libraries |
-| 10 | Microsoft ASP.NET | **892** | Web frameworks |
-| 11 | Apache | **863** | Web servers |
-| 12 | Drupal | **821** | CMS |
-| 13 | Google Tag Manager | **810** | Tag managers |
-| 14 | Varnish | **671** | Caching |
-| 15 | jQuery UI | **653** | JavaScript libraries |
-| 16 | Nginx | **615** | Reverse proxies, Web servers |
-| 17 | Amazon Web Services | **553** | PaaS |
-| 18 | Modernizr | **439** | JavaScript libraries |
-| 19 | MySQL | **414** | Databases |
-| 20 | WordPress | **414** | Blogs, CMS |
+| 1 | jQuery | **5,394** | JavaScript libraries |
+| 2 | Font Awesome | **3,303** | Font scripts |
+| 3 | Bootstrap | **2,820** | UI frameworks |
+| 4 | Windows Server | **2,414** | Operating systems |
+| 5 | IIS | **2,410** | Web servers |
+| 6 | Google Font API | **2,339** | Font scripts |
+| 7 | PHP | **2,258** | Programming languages |
+| 8 | Microsoft ASP.NET | **2,108** | Web frameworks |
+| 9 | Cloudflare | **2,050** | CDN |
+| 10 | jQuery Migrate | **1,740** | JavaScript libraries |
+| 11 | Apache | **1,378** | Web servers |
+| 12 | jQuery UI | **1,324** | JavaScript libraries |
+| 13 | Drupal | **1,155** | CMS |
+| 14 | Google Tag Manager | **1,095** | Tag managers |
+| 15 | Nginx | **997** | Reverse proxies, Web servers |
+| 16 | Varnish | **933** | Caching |
+| 17 | MySQL | **885** | Databases |
+| 18 | WordPress | **876** | Blogs, CMS |
+| 19 | Moment.js | **867** | JavaScript libraries |
+| 20 | jsDelivr | **810** | CDN |
 
 ### Top Technology Categories
 
 | # | Category | Pages |
 |--:|---------|------:|
-| 1 | JavaScript libraries | **5,696** |
-| 2 | Web servers | **3,008** |
-| 3 | Font scripts | **2,648** |
-| 4 | CDN | **2,032** |
-| 5 | UI frameworks | **1,577** |
-| 6 | Programming languages | **1,553** |
-| 7 | CMS | **1,383** |
-| 8 | PaaS | **1,185** |
-| 9 | Operating systems | **1,135** |
-| 10 | Web frameworks | **1,037** |
-| 11 | Databases | **1,012** |
-| 12 | Tag managers | **810** |
-| 13 | Caching | **764** |
-| 14 | Reverse proxies | **691** |
-| 15 | Widgets | **522** |
+| 1 | JavaScript libraries | **11,410** |
+| 2 | Font scripts | **5,662** |
+| 3 | Web servers | **5,471** |
+| 4 | CDN | **3,437** |
+| 5 | UI frameworks | **3,404** |
+| 6 | CMS | **2,689** |
+| 7 | Operating systems | **2,578** |
+| 8 | Programming languages | **2,538** |
+| 9 | Web frameworks | **2,320** |
+| 10 | Databases | **1,636** |
+| 11 | PaaS | **1,581** |
+| 12 | Reverse proxies | **1,122** |
+| 13 | Tag managers | **1,100** |
+| 14 | Caching | **1,073** |
+| 15 | JavaScript frameworks | **1,053** |
 
 📥 Machine-readable results: [Download machine-readable technology data (JSON)](technology-data.json)
 

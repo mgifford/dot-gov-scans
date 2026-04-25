@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-04-25 02:42 UTC_
+_Generated: 2026-04-25 05:52 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -15,9 +15,9 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 |-----------|--------------|-----------|----------|
 | **Combined Reachability** | **3,892 confirmed reachable** | 65,681 | **<span role="img" aria-label="5.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:7px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">5.9%</span></span>** |
 | Social Media | 4,092 scanned (3,892 reachable) | 65,681 | <span role="img" aria-label="6.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:7px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">6.2%</span></span> |
-| Technology | 5,425 scanned | 65,681 | <span role="img" aria-label="8.3% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:10px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">8.3%</span></span> |
-| Lighthouse | 796 scanned | 65,681 | <span role="img" aria-label="1.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:1px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">1.2%</span></span> |
-| Accessibility Statements | 0 scanned | 65,681 | <span role="img" aria-label="0.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:0px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">0.0%</span></span> |
+| Technology | 9,773 scanned | 65,681 | <span role="img" aria-label="14.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:18px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">14.9%</span></span> |
+| Lighthouse | 0 scanned | 65,681 | (manual scan) |
+| Accessibility Statements | 4,086 scanned | 65,681 | <span role="img" aria-label="6.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:7px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">6.2%</span></span> |
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
 
@@ -56,23 +56,47 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | DC | 486 | 2026-04-24 |
 | Delaware | 17 | 2026-04-24 |
 | Federal | 1,671 | 2026-04-24 |
+| Florida | 140 | 2026-04-25 |
+| Georgia | 217 | 2026-04-25 |
+| Hawaii | 8 | 2026-04-25 |
+| Idaho | 103 | 2026-04-25 |
+| Illinois | 91 | 2026-04-25 |
+| Indiana | 598 | 2026-04-25 |
+| Iowa | 21 | 2026-04-25 |
+| Kansas | 194 | 2026-04-25 |
+| Kentucky | 738 | 2026-04-25 |
+| Louisiana | 266 | 2026-04-25 |
+| Maine | 1 | 2026-04-25 |
+| Maryland | 89 | 2026-04-25 |
+| Massachusetts | 153 | 2026-04-25 |
+| Michigan | 122 | 2026-04-25 |
+| Minnesota | 785 | 2026-04-25 |
+| Mississippi | 486 | 2026-04-25 |
+| Missouri | 336 | 2026-04-25 |
 
-## Lighthouse Scan by State
+## Lighthouse Scan
 
-| Country | URLs | Perf | A11y | Best Practices | SEO | Last Scan |
-|---------|------|------|------|----------------|-----|----------|
-| Alabama | 46 | 94 | 85 | 85 | 82 | 2026-04-25 |
-| Alaska | 32 | 94 | 88 | 84 | 88 | 2026-04-25 |
-| American Samoa | 7 | 99 | 96 | 100 | 91 | 2026-04-25 |
-| Arizona | 314 | 95 | 91 | 90 | 83 | 2026-04-25 |
-| Arkansas | 24 | 96 | 93 | 94 | 90 | 2026-04-25 |
-| California | 373 | 92 | 91 | 85 | 90 | 2026-04-25 |
+_No Lighthouse scans have been run yet. Trigger the **Scan Lighthouse** workflow manually._
 
-> Scores are averages across all successfully audited URLs, displayed as 0–100 (multiply source values × 100).
+## Accessibility Statement Scan by State
 
-## Accessibility Statement Scan
+Checks whether each government page links to an accessibility statement as required by ADA Title II compliance for state, local, and federal government websites.
 
-_No accessibility statement scans have been run yet. Trigger the **Scan Accessibility Statements** workflow manually or wait for the next scheduled run._
+| Country | Scanned | Reachable | Has Statement | In Footer | Statement % | Scan Period |
+|---------|---------|-----------|--------------|-----------|------------|-------------|
+| Alabama | 48 | 44 | 0 | 0 | 0% | Apr 2026 |
+| Alaska | 34 | 34 | 11 | 10 | 32% | Apr 2026 |
+| American Samoa | 7 | 7 | 2 | 0 | 29% | Apr 2026 |
+| Arizona | 337 | 334 | 40 | 26 | 12% | Apr 2026 |
+| Arkansas | 29 | 26 | 3 | 3 | 12% | Apr 2026 |
+| California | 2,495 | 2,353 | 1,195 | 1,133 | 51% | Apr 2026 |
+| Colorado | 134 | 129 | 68 | 59 | 53% | Apr 2026 |
+| Connecticut | 167 | 143 | 35 | 34 | 24% | Apr 2026 |
+| DC | 486 | 484 | 309 | 303 | 64% | Apr 2026 |
+| Delaware | 17 | 17 | 8 | 8 | 47% | Apr 2026 |
+| Federal | 332 | 322 | 43 | 37 | 13% | Apr 2026 |
+
+> **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
 ## Countries With Social Scan But No URL Validation
 
