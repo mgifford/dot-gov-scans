@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-04-25 01:14 UTC_
+_Generated: 2026-04-25 01:53 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -20,6 +20,15 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | Accessibility Statements | 0 scanned | 65,681 | <span role="img" aria-label="0.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:0px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">0.0%</span></span> |
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
+
+## URL Validation by State
+
+| Country | Total | Valid | Invalid | Scan Period | Coverage |
+|---------|-------|-------|---------|-------------|----------|
+| Alabama | 4 | 0 | 4 | Apr 2026 | <span role="img" aria-label="8.3% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:90px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:8px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">8.3%</span></span> |
+| Arizona | 3 | 0 | 3 | Apr 2026 | <span role="img" aria-label="0.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:90px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:1px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">0.9%</span></span> |
+
+> Hover or focus any non-zero **Total**, **Valid**, or **Invalid** count to preview matching URLs. **Valid** and **Invalid** can overlap because a URL may have passed in one validation run and failed in another during the same scan period; download the CSV for the underlying evidence from [scan-progress-data.json](scan-progress-data.json).
 
 ## Social Media Scan by State
 
@@ -69,14 +78,14 @@ _No accessibility statement scans have been run yet. Trigger the **Scan Accessib
 
 These countries have social media scan data but no URL validation data (URL validation may have been skipped because the social scan already confirmed reachability):
 
-`ALABAMA`, `ALASKA`, `AMERICAN_SAMOA`, `ARIZONA`, `ARKANSAS`, `CALIFORNIA`, `COLORADO`, `CONNECTICUT`, `DC`, `DELAWARE`, `FEDERAL`
+`ALASKA`, `AMERICAN_SAMOA`, `ARKANSAS`, `CALIFORNIA`, `COLORADO`, `CONNECTICUT`, `DC`, `DELAWARE`, `FEDERAL`
 
 ## Scan Priority Guide
 
 Scans are ordered from **highest** to **lowest** priority:
 
 1. **Social Media Scan** — runs every 3 hours; downloads and parses full pages, confirming reachability *and* detecting social links in one pass.
-2. **Accessibility Statement Scan** — runs every 4 hours; checks whether each page links to an accessibility statement as required by the EU Web Accessibility Directive (Directive 2016/2102).
+2. **Accessibility Statement Scan** — runs every 4 hours; checks whether each page links to an accessibility statement as required by ADA Title II compliance for USA government websites.
 3. **Technology Scan** — run on demand; detects CMS, framework, and analytics platforms.
 4. **Lighthouse Scan** — run on demand; measures performance, accessibility (WCAG), best practices, and SEO for each URL.
 5. **URL Validation** — runs every 6 hours in the background; a lightweight redirect/404 check that is **automatically skipped** for URLs already confirmed reachable by a higher-priority scan within the last 30 days.
