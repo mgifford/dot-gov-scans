@@ -28,6 +28,11 @@ Each `.toon` file is a JSON object with the following schema:
           "best_practices_score": "1",
           "seo_score": "0.92"
         }
+      ],
+      "candidate_paths": [
+        "/accessibility",
+        "/ada-notice",
+        "/accessibility-statement"
       ]
     }
   ]
@@ -46,12 +51,46 @@ Each `.toon` file is a JSON object with the following schema:
 | `domains[].pages[].url` | Full page URL |
 | `domains[].pages[].is_root_page` | `true` if this is the root/home page of the domain |
 | `domains[].pages[].*_score` | Seeded Lighthouse scores from the Web Almanac 2025 crawl (absent if not yet collected) |
+| `domains[].candidate_paths` | _(optional)_ List of additional URL paths to probe on this domain for deeper coverage (e.g. `["/accessibility", "/ada-notice"]`). Scanners expand these into full URLs using `https://{canonical_domain}{path}`. Paths that duplicate an existing `pages` entry are skipped automatically. |
 
 ## Index
 
 `index.json` lists every seed file with its current `domain_count` and
 `page_count`.  It is regenerated automatically when you run
 `scripts/split_usa_csv_to_toons.py`.
+
+## Candidate paths
+
+The optional `candidate_paths` field on each domain entry tells scanners to
+probe extra URL paths beyond those already listed in `pages`.  This is useful
+for discovering accessibility statements and related resources that live at
+predictable paths but were not captured during the original crawl.
+
+**How it works:**  For each path in `candidate_paths`, the scanner constructs
+`https://{canonical_domain}{path}` and adds it to the URL list for that scan
+run.  Paths that duplicate an existing `pages` entry are skipped automatically
+so no URL is scanned twice.
+
+**Common patterns:**
+
+```json
+"candidate_paths": [
+  "/accessibility",
+  "/accessibility-statement",
+  "/ada-notice",
+  "/web-accessibility"
+]
+```
+
+**When to add them:**
+- For domains where accessibility statements are known to exist at non-root paths
+- When you want broader coverage beyond what the Web Almanac crawl captured
+- For high-priority domains where deeper investigation is warranted
+
+**Adding candidate paths manually:**  Edit the `.toon` file directly (or the
+source CSV for changes that should survive future regeneration) and add a
+`candidate_paths` array to the relevant domain entry.  The field is optional —
+omitting it has no effect on existing behaviour.
 
 ## Coverage
 

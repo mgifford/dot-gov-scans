@@ -33,6 +33,12 @@
           "best_practices_score": "0.96",
           "seo_score": "0.5"
         }
+      ],
+      "candidate_paths": [
+        "/accessibility",
+        "/accessibility-statement",
+        "/ada-notice",
+        "/web-accessibility"
       ]
     },
     {
@@ -63,6 +69,12 @@
           "best_practices_score": "0.79",
           "seo_score": "0.83"
         }
+      ],
+      "candidate_paths": [
+        "/accessibility",
+        "/accessibility-statement",
+        "/ada-notice",
+        "/web-accessibility"
       ]
     },
     {
@@ -93,6 +105,12 @@
           "best_practices_score": "0.56",
           "seo_score": "0.69"
         }
+      ],
+      "candidate_paths": [
+        "/accessibility",
+        "/accessibility-statement",
+        "/ada-notice",
+        "/web-accessibility"
       ]
     }
   ]
