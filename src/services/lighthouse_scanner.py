@@ -298,7 +298,21 @@ class LighthouseScanner:
 
         async def _scan_one_url(idx: int, url: str) -> None:
             """Scan a single URL, respecting the concurrency semaphore."""
+            # Fast bail-out if the budget is already exhausted before we even
+            # reach the semaphore.  This drains the task queue quickly when
+            # tasks are submitted faster than they can be consumed (common when
+            # rate_limit >> concurrency / avg_task_duration).
+            if max_runtime_seconds is not None:
+                if time.monotonic() - _start >= max_runtime_seconds - _safety_buffer:
+                    return
+
             async with semaphore:
+                # Re-check after acquiring the semaphore; we may have waited
+                # long enough for the budget to expire.
+                if max_runtime_seconds is not None:
+                    if time.monotonic() - _start >= max_runtime_seconds - _safety_buffer:
+                        return
+
                 print(f"  [{idx}/{total}] Scanning: {url}")
                 result = await self.scan_url(url)
                 results[url] = result

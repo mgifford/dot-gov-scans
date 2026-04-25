@@ -230,6 +230,47 @@ async def test_scan_urls_batch_stops_early_when_budget_exhausted():
 
 
 @pytest.mark.asyncio
+async def test_scan_urls_batch_queued_tasks_bail_when_budget_expires():
+    """Tasks queued behind the semaphore should not scan after budget expires.
+
+    With high submission rates and low concurrency, many tasks can be queued
+    waiting for the semaphore long after the budget has expired.  The fix adds
+    a pre-semaphore budget check so those tasks drain immediately instead of
+    waiting for a semaphore slot and then running Lighthouse.
+    """
+    import asyncio as asyncio_mod
+    import time as time_mod
+
+    scanner = LighthouseScanner()
+    # Use concurrency=1 so URLs 2-5 queue while URL 1 holds the semaphore.
+    urls = [f"https://gov{i}.example/" for i in range(5)]
+
+    scanned_urls: list[str] = []
+    budget_seconds = 10_000.0
+    # start_time such that budget expires after the first scan starts (9970 s
+    # already elapsed; safety_buffer=60 s → threshold=9940 s already exceeded).
+    elapsed_start = time_mod.monotonic() - 9970
+
+    async def _mock_scan_url(url: str) -> LighthouseScanResult:
+        scanned_urls.append(url)
+        await asyncio_mod.sleep(0)  # yield so queued tasks can check budget
+        return LighthouseScanResult(url=url, scanned_at="2026-01-01T00:00:00+00:00")
+
+    with patch.object(scanner, "scan_url", side_effect=_mock_scan_url):
+        results = await scanner.scan_urls_batch(
+            urls,
+            rate_limit_per_second=0,
+            max_runtime_seconds=budget_seconds,
+            start_time=elapsed_start,
+            concurrency=1,
+        )
+
+    # Budget is exhausted before any URL is submitted; nothing should run.
+    assert len(results) == 0
+    assert scanned_urls == []
+
+
+@pytest.mark.asyncio
 async def test_scan_urls_batch_no_max_runtime_scans_all():
     """All URLs should be scanned when max_runtime_seconds is None."""
     scanner = LighthouseScanner()
