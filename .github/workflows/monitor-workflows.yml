@@ -1,0 +1,121 @@
+name: Monitor Workflow Health
+
+on:
+  # Trigger whenever a key scan or deployment workflow completes.
+  workflow_run:
+    workflows:
+      - "Scan Social Media Links"
+      - "Scan Accessibility Statements"
+      - "Scan Technology Stack"
+      - "Scan Lighthouse"
+      - "Generate Scan Progress Report"
+      - "Deploy GitHub Pages"
+    types: [completed]
+
+  # Allow manual trigger to test the alerting path.
+  workflow_dispatch:
+    inputs:
+      workflow_name:
+        description: 'Workflow name to simulate (for testing the alert path)'
+        required: false
+        default: 'Test Workflow'
+        type: string
+
+permissions:
+  issues: write
+  actions: read
+
+jobs:
+  notify-on-failure:
+    # Run only when a real workflow_run event signals failure, or on manual dispatch.
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Create or update failure alert issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WORKFLOW_NAME: ${{ github.event.workflow_run.name || github.event.inputs.workflow_name }}
+          RUN_URL: ${{ github.event.workflow_run.html_url || github.server_url }}
+          RUN_NUMBER: ${{ github.event.workflow_run.run_number || '0' }}
+          BRANCH: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -eo pipefail
+
+          TITLE="🚨 Workflow failure: ${WORKFLOW_NAME}"
+          BODY="## Workflow Failure Alert
+
+          The **${WORKFLOW_NAME}** workflow failed and requires attention.
+
+          ### Details
+
+          - **Workflow:** ${WORKFLOW_NAME}
+          - **Run:** [#${RUN_NUMBER}](${RUN_URL})
+          - **Branch:** ${BRANCH}
+          - **Repository:** ${REPO}
+          - **Time:** $(date -u '+%Y-%m-%d %H:%M UTC')
+
+          ### Next Steps
+
+          1. Review the [failed run](${RUN_URL}) for error details.
+          2. Check scan logs and artifacts for root-cause information.
+          3. Re-run the workflow once the underlying issue is resolved.
+          4. Close this issue when the workflow is running successfully again.
+
+          ### Workflow Order (if data files are missing)
+
+          If GitHub Pages fails to deploy because data files are missing, run
+          the following workflows in this order:
+
+          1. **Scan Social Media Links**           → produces \`social-media-data.json\`
+          2. **Scan Technology Stack**             → produces \`technology-data.json\`
+          3. **Scan Accessibility Statements**     → produces \`accessibility-data.json\`
+          4. **Scan Lighthouse**                   → produces \`lighthouse-data.json\`
+          5. **Generate Scan Progress Report**     → produces \`scan-progress-data.json\`
+             _(this also triggers Deploy GitHub Pages automatically)_
+
+          ---
+          _This issue was automatically created by the Monitor Workflow Health workflow._"
+
+          # Check for an existing open alert issue for this workflow to avoid duplicates.
+          EXISTING=$(gh issue list \
+            --repo "$REPO" \
+            --label "workflow-failure" \
+            --state open \
+            --search "\"${WORKFLOW_NAME}\"" \
+            --json number \
+            --jq '.[0].number' 2>/dev/null || echo "")
+
+          if [ -n "$EXISTING" ]; then
+            echo "Updating existing alert issue #${EXISTING} for '${WORKFLOW_NAME}'."
+            gh issue comment "$EXISTING" \
+              --repo "$REPO" \
+              --body "⚠️ **Another failure detected** for **${WORKFLOW_NAME}** — [run #${RUN_NUMBER}](${RUN_URL}) at $(date -u '+%Y-%m-%d %H:%M UTC')."
+          else
+            echo "Creating new alert issue for '${WORKFLOW_NAME}'."
+            gh issue create \
+              --repo "$REPO" \
+              --title "$TITLE" \
+              --body "$BODY" \
+              --label "workflow-failure" \
+              --label "automated" || true
+          fi
+
+      - name: Post failure summary
+        if: always()
+        env:
+          WORKFLOW_NAME: ${{ github.event.workflow_run.name || github.event.inputs.workflow_name }}
+          RUN_URL: ${{ github.event.workflow_run.html_url || github.server_url }}
+          RUN_NUMBER: ${{ github.event.workflow_run.run_number || '0' }}
+        run: |
+          echo "## 🚨 Workflow Failure Detected" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Workflow:** ${WORKFLOW_NAME}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Run:** [#${RUN_NUMBER}](${RUN_URL})" >> $GITHUB_STEP_SUMMARY
+          echo "- **Alerted at:** $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "A GitHub Issue has been created or updated with details." >> $GITHUB_STEP_SUMMARY
