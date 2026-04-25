@@ -1,10 +1,10 @@
-"""Accessibility statement scanner for government websites.
+"""Accessibility statement scanner for USA government websites.
 
 Fetches a page, inspects the footer for links whose text or href matches
-multilingual accessibility-statement terms as required by the EU Web
-Accessibility Directive (Directive 2016/2102).
+multilingual accessibility-statement terms as required by ADA Title II
+compliance for state, local, and federal government websites.
 
-See: https://web-directive.eu/#toc20
+See: https://www.ada.gov/resources/2024-03-08-web-rule/
 """
 
 from __future__ import annotations
@@ -145,11 +145,11 @@ def _extract_accessibility_links(
 
 class AccessibilityScanner:
     """
-    Service for scanning government website pages for accessibility statement links.
+    Service for scanning USA government website pages for accessibility statement links.
 
     Fetches each URL with httpx, parses the HTML with BeautifulSoup, and
     identifies links to accessibility statements using multilingual term
-    matching against the EU Web Accessibility Directive glossary.  The footer
+    matching against the accessibility terms glossary.  The footer
     is checked first; the full page is used as a fallback.
     """
 
