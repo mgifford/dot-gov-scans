@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-04-25 18:11 UTC_
+_Generated: 2026-04-26 00:29 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -13,11 +13,11 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Scan Type | Pages Scanned | Available | Coverage |
 |-----------|--------------|-----------|----------|
-| **Combined Reachability** | **14,331 confirmed reachable** | 65,681 | **<span role="img" aria-label="21.8% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:26px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">21.8%</span></span>** |
-| Social Media | 15,162 scanned (14,331 reachable) | 65,681 | <span role="img" aria-label="23.1% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:28px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">23.1%</span></span> |
-| Technology | 9,773 scanned | 65,681 | <span role="img" aria-label="14.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:18px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">14.9%</span></span> |
-| Lighthouse | 0 scanned | 65,681 | (manual scan) |
-| Accessibility Statements | 14,574 scanned | 65,681 | <span role="img" aria-label="22.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:27px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">22.2%</span></span> |
+| **Combined Reachability** | **18,124 confirmed reachable** | 65,681 | **<span role="img" aria-label="27.6% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:33px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">27.6%</span></span>** |
+| Social Media | 19,136 scanned (18,124 reachable) | 65,681 | <span role="img" aria-label="29.1% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:35px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">29.1%</span></span> |
+| Technology | 14,598 scanned | 65,681 | <span role="img" aria-label="22.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:27px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">22.2%</span></span> |
+| Lighthouse | 621 scanned | 65,681 | <span role="img" aria-label="0.9% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:1px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">0.9%</span></span> |
+| Accessibility Statements | 18,206 scanned | 65,681 | <span role="img" aria-label="27.7% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:33px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">27.7%</span></span> |
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
 
@@ -35,7 +35,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | Connecticut | 167 | 167 | 143 | 11 | 0 | 0 | 132 | 11 | 0 | 0 | 0 | Apr 2026 |
 | DC | 486 | 486 | 484 | 208 | 0 | 32 | 244 | 225 | 17 | 24 | 9 | Apr 2026 |
 | Delaware | 17 | 17 | 17 | 16 | 0 | 1 | 0 | 11 | 1 | 0 | 1 | Apr 2026 |
-| Federal | 338 | 50,035 | 321 | 47 | 2 | 7 | 265 | 39 | 10 | 0 | 9 | Apr 2026 |
+| Federal | 3,492 | 50,035 | 3,323 | 913 | 20 | 181 | 2,209 | 646 | 177 | 49 | 172 | Apr 2026 |
 | Florida | 140 | 140 | 131 | 26 | 0 | 14 | 91 | 15 | 9 | 0 | 14 | Apr 2026 |
 | Georgia | 217 | 217 | 207 | 46 | 0 | 3 | 158 | 41 | 4 | 0 | 3 | Apr 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 0 | 0 | 5 | 3 | 0 | 0 | 0 | Apr 2026 |
@@ -77,6 +77,9 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | Vermont | 15 | 15 | 15 | 1 | 0 | 0 | 14 | 1 | 0 | 0 | 0 | Apr 2026 |
 | Virginia | 79 | 79 | 73 | 22 | 0 | 3 | 48 | 9 | 3 | 0 | 3 | Apr 2026 |
 | Washington | 699 | 713 | 680 | 123 | 3 | 31 | 523 | 80 | 23 | 15 | 25 | Apr 2026 |
+| West Virginia | 217 | 217 | 215 | 76 | 0 | 0 | 139 | 38 | 17 | 0 | 0 | Apr 2026 |
+| Wisconsin | 573 | 573 | 554 | 145 | 12 | 17 | 380 | 80 | 7 | 3 | 29 | Apr 2026 |
+| Wyoming | 30 | 30 | 22 | 16 | 0 | 0 | 6 | 8 | 0 | 0 | 0 | Apr 2026 |
 
 > **Tier columns** (Twitter-only / Modern / Mixed / No Social) classify each page by its overall social media presence. **Platform columns** (Twitter / X / Bluesky / Mastodon) count pages with at least one link to that platform — a page may appear in more than one platform column.
 
@@ -114,10 +117,35 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | Minnesota | 785 | 2026-04-25 |
 | Mississippi | 486 | 2026-04-25 |
 | Missouri | 336 | 2026-04-25 |
+| Montana | 264 | 2026-04-25 |
+| Nebraska | 205 | 2026-04-25 |
+| Nevada | 358 | 2026-04-25 |
+| New Hampshire | 249 | 2026-04-25 |
+| New Jersey | 203 | 2026-04-25 |
+| New Mexico | 288 | 2026-04-25 |
+| New York | 732 | 2026-04-25 |
+| North Carolina | 292 | 2026-04-25 |
+| North Dakota | 215 | 2026-04-25 |
+| Ohio | 388 | 2026-04-25 |
+| Oklahoma | 160 | 2026-04-25 |
+| Oregon | 163 | 2026-04-25 |
+| Pennsylvania | 354 | 2026-04-25 |
+| Puerto Rico | 496 | 2026-04-25 |
+| Rhode Island | 108 | 2026-04-25 |
+| South Carolina | 350 | 2026-04-25 |
 
-## Lighthouse Scan
+## Lighthouse Scan by State
 
-_No Lighthouse scans have been run yet. Trigger the **Scan Lighthouse** workflow manually._
+| Country | URLs | Perf | A11y | Best Practices | SEO | Last Scan |
+|---------|------|------|------|----------------|-----|----------|
+| Alabama | 46 | 92 | 85 | 85 | 82 | 2026-04-25 |
+| Alaska | 14 | 94 | 89 | 83 | 87 | 2026-04-25 |
+| American Samoa | 7 | 100 | 96 | 100 | 91 | 2026-04-25 |
+| Arizona | 310 | 95 | 91 | 90 | 83 | 2026-04-25 |
+| Arkansas | 23 | 95 | 93 | 93 | 90 | 2026-04-25 |
+| California | 221 | 94 | 91 | 86 | 89 | 2026-04-26 |
+
+> Scores are averages across all successfully audited URLs, displayed as 0–100 (multiply source values × 100).
 
 ## Accessibility Statement Scan by State
 
@@ -135,7 +163,7 @@ Checks whether each government page links to an accessibility statement as requi
 | Connecticut | 167 | 143 | 35 | 34 | 24% | Apr 2026 |
 | DC | 486 | 484 | 309 | 303 | 64% | Apr 2026 |
 | Delaware | 17 | 17 | 8 | 8 | 47% | Apr 2026 |
-| Federal | 332 | 322 | 43 | 37 | 13% | Apr 2026 |
+| Federal | 3,144 | 2,982 | 931 | 834 | 31% | Apr 2026 |
 | Florida | 140 | 129 | 35 | 29 | 27% | Apr 2026 |
 | Georgia | 217 | 207 | 28 | 24 | 14% | Apr 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | Apr 2026 |
@@ -177,6 +205,9 @@ Checks whether each government page links to an accessibility statement as requi
 | Vermont | 15 | 13 | 4 | 4 | 31% | Apr 2026 |
 | Virginia | 79 | 73 | 28 | 20 | 38% | Apr 2026 |
 | Washington | 615 | 600 | 111 | 95 | 18% | Apr 2026 |
+| West Virginia | 217 | 215 | 73 | 70 | 34% | Apr 2026 |
+| Wisconsin | 573 | 554 | 166 | 151 | 30% | Apr 2026 |
+| Wyoming | 30 | 22 | 0 | 0 | 0% | Apr 2026 |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
@@ -184,7 +215,7 @@ Checks whether each government page links to an accessibility statement as requi
 
 These countries have social media scan data but no URL validation data (URL validation may have been skipped because the social scan already confirmed reachability):
 
-`ALABAMA`, `ALASKA`, `AMERICAN_SAMOA`, `ARIZONA`, `ARKANSAS`, `CALIFORNIA`, `COLORADO`, `CONNECTICUT`, `DC`, `DELAWARE`, `FEDERAL`, `FLORIDA`, `GEORGIA`, `HAWAII`, `IDAHO`, `ILLINOIS`, `INDIANA`, `IOWA`, `KANSAS`, `KENTUCKY`, `LOUISIANA`, `MAINE`, `MARYLAND`, `MASSACHUSETTS`, `MICHIGAN`, `MINNESOTA`, `MISSISSIPPI`, `MISSOURI`, `MONTANA`, `NEBRASKA`, `NEVADA`, `NEW_HAMPSHIRE`, `NEW_JERSEY`, `NEW_MEXICO`, `NEW_YORK`, `NORTH_CAROLINA`, `NORTH_DAKOTA`, `OHIO`, `OKLAHOMA`, `OREGON`, `PENNSYLVANIA`, `PUERTO_RICO`, `RHODE_ISLAND`, `SOUTH_CAROLINA`, `SOUTH_DAKOTA`, `TENNESSEE`, `TEXAS`, `US_VIRGIN_ISLANDS`, `UTAH`, `VERMONT`, `VIRGINIA`, `WASHINGTON`
+`ALABAMA`, `ALASKA`, `AMERICAN_SAMOA`, `ARIZONA`, `ARKANSAS`, `CALIFORNIA`, `COLORADO`, `CONNECTICUT`, `DC`, `DELAWARE`, `FEDERAL`, `FLORIDA`, `GEORGIA`, `HAWAII`, `IDAHO`, `ILLINOIS`, `INDIANA`, `IOWA`, `KANSAS`, `KENTUCKY`, `LOUISIANA`, `MAINE`, `MARYLAND`, `MASSACHUSETTS`, `MICHIGAN`, `MINNESOTA`, `MISSISSIPPI`, `MISSOURI`, `MONTANA`, `NEBRASKA`, `NEVADA`, `NEW_HAMPSHIRE`, `NEW_JERSEY`, `NEW_MEXICO`, `NEW_YORK`, `NORTH_CAROLINA`, `NORTH_DAKOTA`, `OHIO`, `OKLAHOMA`, `OREGON`, `PENNSYLVANIA`, `PUERTO_RICO`, `RHODE_ISLAND`, `SOUTH_CAROLINA`, `SOUTH_DAKOTA`, `TENNESSEE`, `TEXAS`, `US_VIRGIN_ISLANDS`, `UTAH`, `VERMONT`, `VIRGINIA`, `WASHINGTON`, `WEST_VIRGINIA`, `WISCONSIN`, `WYOMING`
 
 ## Scan Priority Guide
 

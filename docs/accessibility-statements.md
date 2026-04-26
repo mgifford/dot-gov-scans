@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-04-25 18:11 UTC — last scan: 2026-04-25_
+_Stats as of 2026-04-26 00:30 UTC — last scan: 2026-04-25_
 
-**52** scan batches run
+**56** scan batches run
 
-**14,574** of **65,681** available pages scanned (**22.2%** coverage)
-**13,679** of **14,574** scanned pages were reachable (**93.9%**)
-**5,284** of **13,679** reachable pages have an accessibility statement (**38.6%**)
-**4,693** pages have the statement link in the footer (**88.8%** of pages with a statement)
+**18,206** of **65,681** available pages scanned (**27.7%** coverage)
+**17,130** of **18,206** scanned pages were reachable (**94.1%**)
+**6,411** of **17,130** reachable pages have an accessibility statement (**37.4%**)
+**5,711** pages have the statement link in the footer (**89.1%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -40,7 +40,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Connecticut | 167 | 167 | 143 | 35 | 34 | 24.5% | Apr 2026 |
 | DC | 486 | 486 | 484 | 309 | 303 | 63.8% | Apr 2026 |
 | Delaware | 17 | 17 | 17 | 8 | 8 | 47.1% | Apr 2026 |
-| Federal | 332 | 50,035 | 322 | 43 | 37 | 13.4% | Apr 2026 |
+| Federal | 3,144 | 50,035 | 2,982 | 931 | 834 | 31.2% | Apr 2026 |
 | Florida | 140 | 140 | 129 | 35 | 29 | 27.1% | Apr 2026 |
 | Georgia | 217 | 217 | 207 | 28 | 24 | 13.5% | Apr 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | Apr 2026 |
@@ -82,7 +82,10 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Vermont | 15 | 15 | 13 | 4 | 4 | 30.8% | Apr 2026 |
 | Virginia | 79 | 79 | 73 | 28 | 20 | 38.4% | Apr 2026 |
 | Washington | 615 | 713 | 600 | 111 | 95 | 18.5% | Apr 2026 |
-| **Total** | **14,574** | **65,681** | **13,679** | **5,284** | **4,693** | **38.6%** | — |
+| West Virginia | 217 | 217 | 215 | 73 | 70 | 34.0% | Apr 2026 |
+| Wisconsin | 573 | 573 | 554 | 166 | 151 | 30.0% | Apr 2026 |
+| Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Apr 2026 |
+| **Total** | **18,206** | **65,681** | **17,130** | **6,411** | **5,711** | **37.4%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
