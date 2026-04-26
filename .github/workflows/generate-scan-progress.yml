@@ -73,6 +73,7 @@ jobs:
             --data docs/scan-progress-data.json \
             --update-index docs/index.md \
             --seeds-dir data/toon-seeds \
+            --history docs/scan-coverage-history.json \
             2>&1 | tee scan-progress-output.txt
 
       - name: Generate social media stats page
@@ -133,7 +134,8 @@ jobs:
                   docs/technology-scanning.md \
                   docs/third-party-tools.md docs/third-party-tools-data.json \
                   docs/accessibility-statements.md \
-                  docs/lighthouse-scanning.md
+                  docs/lighthouse-scanning.md \
+                  docs/scan-coverage-history.json
           if git diff --staged --quiet; then
             echo "No changes to commit — reports are up to date."
           else

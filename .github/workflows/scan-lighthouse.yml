@@ -1,13 +1,14 @@
 name: Scan Lighthouse
 
 on:
-  # Run once a day at 03:00 UTC to build up progressive coverage.
-  # With --concurrency 3 and --only-categories=performance,accessibility,
-  # best-practices,seo each URL takes ~20-30 s, giving ~750-1,000 URLs per
-  # 110-minute run.  With --skip-recently-scanned-days 30 each URL is
-  # refreshed at most once per month, so the focus stays on uncovered URLs.
+  # Run 3× per day at 03:00, 11:00, and 19:00 UTC to build up progressive
+  # coverage faster.  With --concurrency 3 and --only-categories=performance,
+  # accessibility,best-practices,seo each URL takes ~20-30 s, giving
+  # ~750-1,000 URLs per 110-minute run → ~2,625 URLs/day.  With
+  # --skip-recently-scanned-days 30 each URL is refreshed at most once per
+  # month, so the focus stays on uncovered URLs.
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3,11,19 * * *'
 
   # Allow manual trigger for a single seed (jurisdiction) or all seeds
   workflow_dispatch:
