@@ -136,6 +136,54 @@ def _parse_technologies(raw_value: str | None) -> list[dict[str, object]]:
     return technologies
 
 
+def _build_top_drilldowns_from_country(
+    country_drilldowns: dict[str, dict[str, list[dict[str, object]]]],
+) -> tuple[dict[str, list[dict[str, object]]], dict[str, list[dict[str, object]]]]:
+    """Derive per-technology and per-category drilldowns from country drilldowns.
+
+    Iterates over all ``detected`` records in *country_drilldowns* and groups
+    them by technology name and by category name.  Each page URL is added to a
+    technology or category bucket at most once regardless of how many countries
+    or scan batches it appears in.
+
+    Args:
+        country_drilldowns: Mapping produced by :func:`_query_country_drilldowns`.
+
+    Returns:
+        A two-tuple of:
+
+        * *top_tech_drilldowns* — dict mapping technology name → list of page
+          records ``{page_url, technology_names, last_scanned}``.
+        * *top_cat_drilldowns* — dict mapping category name → list of page
+          records ``{page_url, technology_names, last_scanned}``.
+    """
+    top_tech: dict[str, list[dict[str, object]]] = {}
+    top_cat: dict[str, list[dict[str, object]]] = {}
+    seen_tech: set[tuple[str, str]] = set()
+    seen_cat: set[tuple[str, str]] = set()
+
+    for buckets in country_drilldowns.values():
+        for record in buckets.get("detected", []):
+            url = record["page_url"]
+            drilldown_record: dict[str, object] = {
+                "page_url": url,
+                "technology_names": record["technology_names"],
+                "last_scanned": record["last_scanned"],
+            }
+            for tech in record.get("technologies", []):
+                tech_name = str(tech["name"])
+                if (tech_name, url) not in seen_tech:
+                    top_tech.setdefault(tech_name, []).append(drilldown_record)
+                    seen_tech.add((tech_name, url))
+                for cat in tech.get("categories", []):
+                    cat_name = str(cat)
+                    if (cat_name, url) not in seen_cat:
+                        top_cat.setdefault(cat_name, []).append(drilldown_record)
+                        seen_cat.add((cat_name, url))
+
+    return top_tech, top_cat
+
+
 def _query_country_drilldowns(
     conn: sqlite3.Connection,
 ) -> dict[str, dict[str, list[dict[str, object]]]]:
@@ -372,7 +420,12 @@ def _build_stats_block(
         for rank, (tech, count) in enumerate(tech_counts.most_common(top_n_techs), start=1):
             cats = ", ".join(tech_categories.get(tech, []))
             lines.append(f"| {rank} | {tech} | **{count:,}** | {cats} |")
-        lines.append("")
+        lines += [
+            "",
+            "> Hover or focus any non-zero page count to preview matching pages. "
+            "Activate the number to keep the preview open and download a CSV.",
+            "",
+        ]
 
     # Top categories table
     if cat_counts:
@@ -384,7 +437,12 @@ def _build_stats_block(
         ]
         for rank, (cat, count) in enumerate(cat_counts.most_common(top_n_cats), start=1):
             lines.append(f"| {rank} | {cat} | **{count:,}** |")
-        lines.append("")
+        lines += [
+            "",
+            "> Hover or focus any non-zero page count to preview matching pages. "
+            "Activate the number to keep the preview open and download a CSV.",
+            "",
+        ]
 
     lines += [
         "📥 Machine-readable results: "
@@ -438,6 +496,7 @@ def generate_technology_report(
             conn.close()
 
     tech_counts, cat_counts, tech_categories = _aggregate_tech_counts(tech_rows)
+    top_tech_drilldowns, top_cat_drilldowns = _build_top_drilldowns_from_country(country_drilldowns)
 
     seed_counts = _count_toon_seed_urls(toon_seeds_dir) if toon_seeds_dir else {}
     total_available = sum(seed_counts.values())
@@ -476,6 +535,8 @@ def generate_technology_report(
         "top_categories": top_categories,
         "by_country": by_country,
         "country_drilldowns": country_drilldowns,
+        "top_tech_drilldowns": top_tech_drilldowns,
+        "top_cat_drilldowns": top_cat_drilldowns,
     }
     data_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Data file written: {data_path}")

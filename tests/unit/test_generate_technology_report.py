@@ -11,6 +11,7 @@ import pytest
 from src.cli.generate_technology_report import (
     _aggregate_tech_counts,
     _build_stats_block,
+    _build_top_drilldowns_from_country,
     _query_by_country,
     _query_country_drilldowns,
     _query_summary,
@@ -653,3 +654,147 @@ def test_count_toon_seed_urls_reads_page_count(tmp_path: Path):
         (seeds_dir / f"{name}.toon").write_text(json.dumps(data), encoding="utf-8")
     result = _count_toon_seed_urls(seeds_dir)
     assert result == {"ICELAND": 139, "NORWAY": 239}
+
+
+# ---------------------------------------------------------------------------
+# Tests for _build_top_drilldowns_from_country
+# ---------------------------------------------------------------------------
+
+def _make_country_drilldowns():
+    """Return a minimal country_drilldowns fixture for drilldown tests."""
+    return {
+        "ICELAND": {
+            "scanned": [],
+            "detected": [
+                {
+                    "page_url": "https://example.is/page1",
+                    "technologies": [
+                        {"name": "Nginx", "categories": ["Web servers"], "versions": ["1.24"]},
+                        {"name": "WordPress", "categories": ["CMS", "Blogs"], "versions": ["6.2"]},
+                    ],
+                    "technology_names": ["Nginx", "WordPress"],
+                    "error_message": "",
+                    "last_scanned": "2024-06-01T10:00:00+00:00",
+                },
+                {
+                    "page_url": "https://example.is/page2",
+                    "technologies": [
+                        {"name": "Nginx", "categories": ["Web servers"], "versions": []},
+                    ],
+                    "technology_names": ["Nginx"],
+                    "error_message": "",
+                    "last_scanned": "2024-06-01T10:01:00+00:00",
+                },
+            ],
+        },
+        "FRANCE": {
+            "scanned": [],
+            "detected": [
+                {
+                    "page_url": "https://example.fr/page1",
+                    "technologies": [
+                        {"name": "Apache", "categories": ["Web servers"], "versions": ["2.4"]},
+                        {"name": "PHP", "categories": ["Programming languages"], "versions": ["8.1"]},
+                    ],
+                    "technology_names": ["Apache", "PHP"],
+                    "error_message": "",
+                    "last_scanned": "2024-06-02T08:00:00+00:00",
+                },
+            ],
+        },
+    }
+
+
+def test_build_top_drilldowns_tech_grouping():
+    """Should group pages by technology name."""
+    drilldowns = _make_country_drilldowns()
+    top_tech, _ = _build_top_drilldowns_from_country(drilldowns)
+
+    assert "Nginx" in top_tech
+    assert "WordPress" in top_tech
+    assert "Apache" in top_tech
+    assert "PHP" in top_tech
+
+    nginx_urls = [r["page_url"] for r in top_tech["Nginx"]]
+    assert "https://example.is/page1" in nginx_urls
+    assert "https://example.is/page2" in nginx_urls
+    assert len(top_tech["WordPress"]) == 1
+    assert top_tech["WordPress"][0]["page_url"] == "https://example.is/page1"
+
+
+def test_build_top_drilldowns_cat_grouping():
+    """Should group pages by category name."""
+    drilldowns = _make_country_drilldowns()
+    _, top_cat = _build_top_drilldowns_from_country(drilldowns)
+
+    assert "Web servers" in top_cat
+    assert "CMS" in top_cat
+    assert "Blogs" in top_cat
+    assert "Programming languages" in top_cat
+
+    web_server_urls = {r["page_url"] for r in top_cat["Web servers"]}
+    assert "https://example.is/page1" in web_server_urls
+    assert "https://example.is/page2" in web_server_urls
+    assert "https://example.fr/page1" in web_server_urls
+
+
+def test_build_top_drilldowns_no_duplicate_url_per_tech():
+    """Same page URL should not appear more than once in a tech bucket."""
+    drilldowns = {
+        "ICELAND": {
+            "detected": [
+                {
+                    "page_url": "https://example.is/page1",
+                    "technologies": [
+                        {"name": "Nginx", "categories": ["Web servers"], "versions": []},
+                    ],
+                    "technology_names": ["Nginx"],
+                    "error_message": "",
+                    "last_scanned": "2024-06-01",
+                },
+            ],
+        },
+        "FRANCE": {
+            "detected": [
+                {
+                    "page_url": "https://example.is/page1",  # same URL, different country bucket
+                    "technologies": [
+                        {"name": "Nginx", "categories": ["Web servers"], "versions": []},
+                    ],
+                    "technology_names": ["Nginx"],
+                    "error_message": "",
+                    "last_scanned": "2024-06-02",
+                },
+            ],
+        },
+    }
+    top_tech, _ = _build_top_drilldowns_from_country(drilldowns)
+    nginx_urls = [r["page_url"] for r in top_tech["Nginx"]]
+    assert nginx_urls.count("https://example.is/page1") == 1
+
+
+def test_build_top_drilldowns_empty_country_drilldowns():
+    """Should return empty dicts for empty input."""
+    top_tech, top_cat = _build_top_drilldowns_from_country({})
+    assert top_tech == {}
+    assert top_cat == {}
+
+
+def test_generate_technology_report_json_includes_top_drilldowns(
+    populated_db: Path, tmp_path: Path
+):
+    """JSON data file should include top_tech_drilldowns and top_cat_drilldowns."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+
+    generate_technology_report(populated_db, page_path, data_path)
+
+    data = json.loads(data_path.read_text())
+    assert "top_tech_drilldowns" in data
+    assert "top_cat_drilldowns" in data
+
+    # Technologies from the populated_db fixture should appear
+    assert "Nginx" in data["top_tech_drilldowns"]
+    assert "WordPress" in data["top_tech_drilldowns"]
+    assert "Web servers" in data["top_cat_drilldowns"]
