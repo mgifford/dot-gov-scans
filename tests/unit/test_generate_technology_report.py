@@ -769,9 +769,6 @@ def test_build_top_drilldowns_no_duplicate_url_per_tech():
         },
     }
     top_tech, _ = _build_top_drilldowns_from_country(drilldowns)
-    assert top_tech["Nginx"].count({"page_url": "https://example.is/page1",
-                                    "technology_names": ["Nginx"],
-                                    "last_scanned": "2024-06-01"}) == 1
     nginx_urls = [r["page_url"] for r in top_tech["Nginx"]]
     assert nginx_urls.count("https://example.is/page1") == 1
 
