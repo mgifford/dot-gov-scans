@@ -10,6 +10,7 @@ from pathlib import Path
 import pytest
 
 from src.cli.generate_lighthouse_report import (
+    _build_country_drilldowns,
     _build_stats_block,
     _query_by_country,
     _query_by_url,
@@ -566,3 +567,119 @@ def test_build_stats_block_references_csv() -> None:
     }
     block = _build_stats_block(summary, [], "2026-01-01 00:00 UTC")
     assert "lighthouse-data.csv" in block
+
+
+# ---------------------------------------------------------------------------
+# _build_country_drilldowns tests
+# ---------------------------------------------------------------------------
+
+def test_build_country_drilldowns_empty_input() -> None:
+    """Should return an empty dict for an empty input list."""
+    result = _build_country_drilldowns([])
+    assert result == {}
+
+
+def test_build_country_drilldowns_groups_by_country() -> None:
+    """Should group pages under the correct country bucket."""
+    rows = [
+        {
+            "country_code": "ICELAND",
+            "url": "https://example.is/page1",
+            "performance_score": 0.9,
+            "accessibility_score": 0.8,
+            "best_practices_score": 1.0,
+            "seo_score": 0.95,
+            "error_message": None,
+            "scanned_at": "2026-03-01T10:00:00+00:00",
+        },
+        {
+            "country_code": "FRANCE",
+            "url": "https://gov.example.fr/home",
+            "performance_score": 0.5,
+            "accessibility_score": 0.75,
+            "best_practices_score": 0.9,
+            "seo_score": 0.6,
+            "error_message": None,
+            "scanned_at": "2026-03-02T09:00:00+00:00",
+        },
+    ]
+    result = _build_country_drilldowns(rows)
+
+    assert "ICELAND" in result
+    assert "FRANCE" in result
+    assert len(result["ICELAND"]["audited"]) == 1
+    assert result["ICELAND"]["audited"][0]["page_url"] == "https://example.is/page1"
+
+
+def test_build_country_drilldowns_rounds_scores() -> None:
+    """Scores should be expressed as rounded integers (0–100)."""
+    rows = [
+        {
+            "country_code": "ICELAND",
+            "url": "https://example.is/page1",
+            "performance_score": 0.92,
+            "accessibility_score": 0.856,
+            "best_practices_score": 1.0,
+            "seo_score": 0.834,
+            "error_message": None,
+            "scanned_at": "2026-03-01",
+        },
+    ]
+    result = _build_country_drilldowns(rows)
+    record = result["ICELAND"]["audited"][0]
+
+    assert record["performance"] == 92
+    assert record["accessibility"] == 86
+    assert record["best_practices"] == 100
+    assert record["seo"] == 83
+
+
+def test_build_country_drilldowns_handles_none_scores() -> None:
+    """Records with None scores (error rows) should have None score fields."""
+    rows = [
+        {
+            "country_code": "ICELAND",
+            "url": "https://example.is/page3",
+            "performance_score": None,
+            "accessibility_score": None,
+            "best_practices_score": None,
+            "seo_score": None,
+            "error_message": "Lighthouse timed out after 120s",
+            "scanned_at": "2026-03-01",
+        },
+    ]
+    result = _build_country_drilldowns(rows)
+    record = result["ICELAND"]["audited"][0]
+
+    assert record["performance"] is None
+    assert record["accessibility"] is None
+    assert record["error_message"] == "Lighthouse timed out after 120s"
+
+
+def test_generate_lighthouse_report_json_includes_country_drilldowns(
+    tmp_path: Path, populated_db: Path
+) -> None:
+    """JSON output should include a 'country_drilldowns' key with per-country audited lists."""
+    page_path = tmp_path / "lighthouse-results.md"
+    page_path.write_text(_LIGHTHOUSE_PAGE_TEMPLATE, encoding="utf-8")
+    data_path = tmp_path / "lighthouse-data.json"
+
+    ok = generate_lighthouse_report(populated_db, page_path, data_path)
+
+    assert ok
+    data = json.loads(data_path.read_text())
+    assert "country_drilldowns" in data
+
+    drilldowns = data["country_drilldowns"]
+    assert "ICELAND" in drilldowns
+    assert "FRANCE" in drilldowns
+
+    iceland_audited = drilldowns["ICELAND"]["audited"]
+    assert len(iceland_audited) == 3  # 3 ICELAND URLs in populated_db
+    urls = {r["page_url"] for r in iceland_audited}
+    assert "https://example.is/page1" in urls
+
+    # page1 should have rounded integer scores
+    page1 = next(r for r in iceland_audited if r["page_url"] == "https://example.is/page1")
+    assert page1["performance"] == 90
+    assert page1["accessibility"] == 80

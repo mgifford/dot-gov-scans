@@ -221,6 +221,173 @@
       },
     },
     {
+      id: "top-technologies",
+      dataFile: "technology-data.json",
+      keyColumn: "Technology",
+      matchesTable: function (headers) {
+        return (
+          headers.indexOf("Technology") !== -1 &&
+          headers.indexOf("Pages") !== -1 &&
+          headers.indexOf("Categories") !== -1 &&
+          headers.indexOf("Country") === -1
+        );
+      },
+      getDataset: function (data) {
+        return data && data.top_tech_drilldowns;
+      },
+      getColumns: function (headers) {
+        var idx = headers.indexOf("Pages");
+        return idx === -1 ? [] : [{ index: idx, label: "Pages", key: "pages" }];
+      },
+      getRecords: function (dataset, techName, column) {
+        return dataset[techName] || [];
+      },
+      buildContext: function (techName, column, count, records) {
+        return {
+          availableCount: records.length,
+          label: column.label,
+          panelLabel: "Pages using " + techName,
+          title: techName + ": " + count.toLocaleString() + " pages",
+          description: buildTopTechDescription(techName, records.length),
+          items: records.map(function (record) {
+            return {
+              href: record.page_url,
+              label: record.page_url,
+              meta: buildTopTechMeta(record),
+            };
+          }),
+          csvHeaders: ["technology", "page_url", "technology_names", "last_scanned"],
+          csvRows: records.map(function (record) {
+            return [
+              techName,
+              record.page_url,
+              (record.technology_names || []).join(" | "),
+              record.last_scanned || "",
+            ];
+          }),
+          slug: techName + "-pages",
+          titleAttribute: "Preview pages using " + techName,
+        };
+      },
+    },
+    {
+      id: "top-categories",
+      dataFile: "technology-data.json",
+      keyColumn: "Category",
+      matchesTable: function (headers) {
+        return (
+          headers.indexOf("Category") !== -1 &&
+          headers.indexOf("Pages") !== -1 &&
+          headers.indexOf("Technology") === -1 &&
+          headers.indexOf("Country") === -1
+        );
+      },
+      getDataset: function (data) {
+        return data && data.top_cat_drilldowns;
+      },
+      getColumns: function (headers) {
+        var idx = headers.indexOf("Pages");
+        return idx === -1 ? [] : [{ index: idx, label: "Pages", key: "pages" }];
+      },
+      getRecords: function (dataset, catName, column) {
+        return dataset[catName] || [];
+      },
+      buildContext: function (catName, column, count, records) {
+        return {
+          availableCount: records.length,
+          label: column.label,
+          panelLabel: "Pages in category: " + catName,
+          title: catName + ": " + count.toLocaleString() + " pages",
+          description: buildTopCatDescription(catName, records.length),
+          items: records.map(function (record) {
+            return {
+              href: record.page_url,
+              label: record.page_url,
+              meta: buildTopTechMeta(record),
+            };
+          }),
+          csvHeaders: ["category", "page_url", "technology_names", "last_scanned"],
+          csvRows: records.map(function (record) {
+            return [
+              catName,
+              record.page_url,
+              (record.technology_names || []).join(" | "),
+              record.last_scanned || "",
+            ];
+          }),
+          slug: catName + "-category-pages",
+          titleAttribute: "Preview pages in category: " + catName,
+        };
+      },
+    },
+    {
+      id: "lighthouse-country",
+      dataFile: "lighthouse-data.json",
+      matchesTable: function (headers) {
+        return (
+          headers.indexOf("Country") !== -1 &&
+          headers.indexOf("Audited") !== -1 &&
+          headers.indexOf("Perf") !== -1 &&
+          headers.indexOf("A11y") !== -1
+        );
+      },
+      getDataset: function (data) {
+        return data && data.country_drilldowns;
+      },
+      getColumns: function (headers) {
+        return [{ label: "Audited", key: "audited" }]
+          .map(function (column) {
+            var index = headers.indexOf(column.label);
+            return index === -1 ? null : { index: index, label: column.label, key: column.key };
+          })
+          .filter(Boolean);
+      },
+      getRecords: function (dataset, country, column) {
+        country = resolveCountryCode(country, dataset);
+        return (dataset[country] && dataset[country][column.key]) || [];
+      },
+      buildContext: function (country, column, count, records) {
+        return {
+          availableCount: records.length,
+          label: column.label,
+          panelLabel: "Audited pages for " + country,
+          title: "Audited: " + count.toLocaleString() + " pages in " + country,
+          description: buildLighthouseDescription(country, records.length),
+          items: records.map(function (record) {
+            return {
+              href: record.page_url,
+              label: record.page_url,
+              meta: buildLighthouseMeta(record),
+            };
+          }),
+          csvHeaders: [
+            "country",
+            "page_url",
+            "performance",
+            "accessibility",
+            "best_practices",
+            "seo",
+            "error_message",
+            "last_scanned",
+          ],
+          csvRows: records.map(function (record) {
+            return [
+              country,
+              record.page_url,
+              record.performance == null ? "" : String(record.performance),
+              record.accessibility == null ? "" : String(record.accessibility),
+              record.best_practices == null ? "" : String(record.best_practices),
+              record.seo == null ? "" : String(record.seo),
+              record.error_message || "",
+              record.last_scanned || "",
+            ];
+          }),
+          slug: country + "-audited-lighthouse",
+          titleAttribute: "Preview audited pages for " + country,
+        };
+      },
+    },
+    {
       id: "third-party-js",
       dataFile: "third-party-tools-data.json",
       matchesTable: function (headers) {
@@ -696,17 +863,18 @@
     table.dataset.drilldownReadyConfig = config.id;
 
     var headers = getHeaderLabels(table);
-    var countryColumn = headers.indexOf("Country");
+    var keyColumnName = config.keyColumn || "Country";
+    var keyColIdx = headers.indexOf(keyColumnName);
     var columns = config.getColumns(headers);
 
     table.querySelectorAll("tbody tr").forEach(function (row) {
       var cells = row.querySelectorAll("td");
-      if (!cells.length || !cells[countryColumn]) {
+      if (!cells.length || keyColIdx === -1 || !cells[keyColIdx]) {
         return;
       }
 
-      var country = cells[countryColumn].textContent.trim();
-      if (country.indexOf("Total") !== -1) {
+      var keyValue = cells[keyColIdx].textContent.trim();
+      if (keyValue.indexOf("Total") !== -1) {
         return;
       }
 
@@ -722,12 +890,12 @@
           return;
         }
 
-        var records = config.getRecords(dataset, country, column);
+        var records = config.getRecords(dataset, keyValue, column);
         if (!records.length) {
           return;
         }
 
-        var context = config.buildContext(country, column, count, records);
+        var context = config.buildContext(keyValue, column, count, records);
         cell.dataset.sortVal = String(count);
         cell.textContent = "";
         cell.appendChild(buildDrilldownControl(context, count));
@@ -952,6 +1120,42 @@
       parts.push("Latest scan: " + record.last_scanned);
     }
     return parts.join(" | ");
+  }
+
+  function buildTopTechDescription(techName, availableCount) {
+    return availableCount.toLocaleString() + " pages using " + techName + " are listed here.";
+  }
+
+  function buildTopTechMeta(record) {
+    var parts = [];
+    if (record.technology_names && record.technology_names.length) {
+      parts.push("Also uses: " + record.technology_names.slice(0, 3).join(", "));
+    }
+    if (record.last_scanned) {
+      parts.push("Latest scan: " + record.last_scanned);
+    }
+    return parts.join(" | ");
+  }
+
+  function buildTopCatDescription(catName, availableCount) {
+    return availableCount.toLocaleString() + " pages with a technology in the \u201c" + catName + "\u201d category are listed here.";
+  }
+
+  function buildLighthouseDescription(country, availableCount) {
+    return availableCount.toLocaleString() + " audited pages in " + country + " are listed here.";
+  }
+
+  function buildLighthouseMeta(record) {
+    var parts = [];
+    var scores = [];
+    if (record.performance != null) { scores.push("Perf: " + record.performance); }
+    if (record.accessibility != null) { scores.push("A11y: " + record.accessibility); }
+    if (record.best_practices != null) { scores.push("BP: " + record.best_practices); }
+    if (record.seo != null) { scores.push("SEO: " + record.seo); }
+    if (scores.length) { parts.push(scores.join(" | ")); }
+    if (record.error_message) { parts.push("Error: " + record.error_message); }
+    if (record.last_scanned) { parts.push("Scanned: " + record.last_scanned); }
+    return parts.join(" · ");
   }
 
   function buildThirdPartyDescription(country, label, availableCount) {

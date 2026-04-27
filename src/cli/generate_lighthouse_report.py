@@ -178,6 +178,44 @@ def _score_pct(val: float | None) -> str:
     return f"{val * 100:.1f}" if val is not None else ""
 
 
+def _score_int(val: float | None) -> int | None:
+    """Convert a 0.0–1.0 score to a rounded integer (0–100), or None when absent."""
+    return round(val * 100) if val is not None else None
+
+
+def _build_country_drilldowns(
+    by_url: list[dict],
+) -> dict[str, dict[str, list[dict[str, object]]]]:
+    """Build per-country drilldown records from per-URL Lighthouse results.
+
+    Groups each URL into its country bucket so the frontend can show a
+    clickable list of all audited pages for a given country.  Each record
+    exposes rounded 0–100 Lighthouse scores alongside the URL and scan date.
+
+    Args:
+        by_url: Rows returned by :func:`_query_by_url`.
+
+    Returns:
+        A dict mapping country code → ``{"audited": [records]}``.
+    """
+    drilldowns: dict[str, dict[str, list[dict[str, object]]]] = {}
+    for row in by_url:
+        country_code = row["country_code"]
+        bucket = drilldowns.setdefault(country_code, {"audited": []})
+        bucket["audited"].append(
+            {
+                "page_url": row["url"],
+                "performance": _score_int(row.get("performance_score")),
+                "accessibility": _score_int(row.get("accessibility_score")),
+                "best_practices": _score_int(row.get("best_practices_score")),
+                "seo": _score_int(row.get("seo_score")),
+                "error_message": row.get("error_message") or "",
+                "last_scanned": row.get("scanned_at") or "",
+            }
+        )
+    return drilldowns
+
+
 def _write_csv(rows_by_url: list[dict], csv_path: Path) -> None:
     """Write per-URL Lighthouse scan results to a CSV file.
 
@@ -317,7 +355,9 @@ def _build_stats_block(
             )
         lines += [
             "",
-            "> Scores are averages across all successfully audited URLs, displayed "
+            "> Hover or focus any non-zero Audited count to preview matching pages. "
+            "Activate the number to keep the preview open and download a CSV for that country. "
+            "Scores are averages across all successfully audited URLs, displayed "
             "as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).",
             "",
             "---",
@@ -381,6 +421,8 @@ def generate_lighthouse_report(
     seed_counts = _count_toon_seed_urls(toon_seeds_dir) if toon_seeds_dir else {}
     total_available = sum(seed_counts.values())
 
+    country_drilldowns = _build_country_drilldowns(by_url)
+
     # --- write the JSON data file -----------------------------------------
     data_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -400,6 +442,7 @@ def generate_lighthouse_report(
         },
         "by_country": by_country,
         "by_url": by_url,
+        "country_drilldowns": country_drilldowns,
     }
     data_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Data file written: {data_path}")
