@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "date": "2026-04-27",
+    "total_available": 65681,
+    "social_media": {
+      "scanned": 40721,
+      "pct": 62.0
+    },
+    "technology": {
+      "scanned": 14598,
+      "pct": 22.23
+    },
+    "lighthouse": {
+      "scanned": 1286,
+      "pct": 1.96
+    },
+    "accessibility": {
+      "scanned": 40278,
+      "pct": 61.32
+    },
+    "third_party_js": {
+      "scanned": 4265,
+      "pct": 6.49
+    },
+    "combined_reachability": {
+      "scanned": 38646,
+      "pct": 58.84
+    }
+  }
+]
