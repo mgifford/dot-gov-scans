@@ -190,8 +190,8 @@ class ThirdPartyJsScannerJob:
                 )
 
         urls = [u for u in all_urls if u not in recently_scanned]
-        print(f"Found {len(all_urls)} URLs to scan"
-              + (f" ({len(recently_scanned)} skipped)" if recently_scanned else ""))
+        skip_note = f" ({len(recently_scanned)} skipped)" if recently_scanned else ""
+        print(f"Found {len(all_urls)} URLs to scan{skip_note}")
 
         _start = start_time if start_time is not None else time.monotonic()
 
