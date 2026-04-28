@@ -8,13 +8,13 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-04-28 06:15 UTC — last scan: 2026-04-25_
+_Stats as of 2026-04-28 18:33 UTC — last scan: 2026-04-28_
 
-**44** scan batches run
+**58** scan batches run
 
-**14,598** of **65,681** available pages scanned (**22.2%** coverage)
-**13,757** pages with technology detections (**94.2%** of scanned)
-**287** unique technologies identified
+**24,810** of **65,681** available pages scanned (**37.8%** coverage)
+**23,596** pages with technology detections (**95.1%** of scanned)
+**313** unique technologies identified
 
 ---
 
@@ -32,7 +32,7 @@ _Stats as of 2026-04-28 06:15 UTC — last scan: 2026-04-25_
 | Connecticut | 167 | 137 | 167 | 2026-04-24 |
 | DC | 486 | 484 | 486 | 2026-04-24 |
 | Delaware | 17 | 17 | 17 | 2026-04-24 |
-| Federal | 1,671 | 1,582 | 50,035 | 2026-04-24 |
+| Federal | 9,152 | 8,794 | 50,035 | 2026-04-28 |
 | Florida | 140 | 129 | 140 | 2026-04-25 |
 | Georgia | 217 | 207 | 217 | 2026-04-25 |
 | Hawaii | 8 | 8 | 8 | 2026-04-25 |
@@ -65,7 +65,18 @@ _Stats as of 2026-04-28 06:15 UTC — last scan: 2026-04-25_
 | Pennsylvania | 354 | 332 | 354 | 2026-04-25 |
 | Puerto Rico | 496 | 469 | 496 | 2026-04-25 |
 | Rhode Island | 108 | 107 | 108 | 2026-04-25 |
-| South Carolina | 350 | 343 | 481 | 2026-04-25 |
+| South Carolina | 481 | 472 | 481 | 2026-04-28 |
+| South Dakota | 164 | 164 | 164 | 2026-04-28 |
+| Tennessee | 162 | 156 | 162 | 2026-04-28 |
+| Texas | 562 | 530 | 562 | 2026-04-28 |
+| US Virgin Islands | 64 | 61 | 64 | 2026-04-28 |
+| Utah | 21 | 21 | 9 | 2026-04-28 |
+| Vermont | 15 | 15 | 15 | 2026-04-28 |
+| Virginia | 79 | 73 | 79 | 2026-04-28 |
+| Washington | 713 | 688 | 713 | 2026-04-28 |
+| West Virginia | 217 | 215 | 217 | 2026-04-28 |
+| Wisconsin | 573 | 553 | 573 | 2026-04-28 |
+| Wyoming | 30 | 22 | 30 | 2026-04-28 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 
@@ -75,26 +86,26 @@ _Stats as of 2026-04-28 06:15 UTC — last scan: 2026-04-25_
 
 | # | Technology | Pages | Categories |
 |--:|-----------|------:|-----------|
-| 1 | jQuery | **8,484** | JavaScript libraries |
-| 2 | Font Awesome | **5,154** | Font scripts |
-| 3 | Bootstrap | **4,470** | UI frameworks |
-| 4 | PHP | **3,686** | Programming languages |
-| 5 | Windows Server | **3,684** | Operating systems |
-| 6 | IIS | **3,663** | Web servers |
-| 7 | Google Font API | **3,582** | Font scripts |
-| 8 | Microsoft ASP.NET | **3,148** | Web frameworks |
-| 9 | Cloudflare | **2,854** | CDN |
-| 10 | Apache | **2,492** | Web servers |
-| 11 | jQuery Migrate | **2,398** | JavaScript libraries |
-| 12 | jQuery UI | **2,195** | JavaScript libraries |
-| 13 | Drupal | **1,965** | CMS |
-| 14 | Amazon Web Services | **1,608** | PaaS |
-| 15 | Google Tag Manager | **1,563** | Tag managers |
-| 16 | jsDelivr | **1,553** | CDN |
-| 17 | Varnish | **1,383** | Caching |
-| 18 | MySQL | **1,365** | Databases |
-| 19 | WordPress | **1,343** | Blogs, CMS |
-| 20 | Nginx | **1,337** | Reverse proxies, Web servers |
+| 1 | jQuery | **14,385** | JavaScript libraries |
+| 2 | Font Awesome | **8,893** | Font scripts |
+| 3 | Bootstrap | **7,401** | UI frameworks |
+| 4 | PHP | **6,312** | Programming languages |
+| 5 | Google Font API | **6,279** | Font scripts |
+| 6 | Windows Server | **6,065** | Operating systems |
+| 7 | IIS | **6,040** | Web servers |
+| 8 | Microsoft ASP.NET | **5,154** | Web frameworks |
+| 9 | jQuery Migrate | **4,517** | JavaScript libraries |
+| 10 | Cloudflare | **4,448** | CDN |
+| 11 | Apache | **3,926** | Web servers |
+| 12 | jQuery UI | **3,739** | JavaScript libraries |
+| 13 | Drupal | **2,951** | CMS |
+| 14 | Google Tag Manager | **2,938** | Tag managers |
+| 15 | Nginx | **2,842** | Reverse proxies, Web servers |
+| 16 | Amazon Web Services | **2,640** | PaaS |
+| 17 | MySQL | **2,577** | Databases |
+| 18 | WordPress | **2,541** | Blogs, CMS |
+| 19 | jsDelivr | **2,530** | CDN |
+| 20 | Varnish | **2,241** | Caching |
 
 > Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
 
@@ -102,21 +113,21 @@ _Stats as of 2026-04-28 06:15 UTC — last scan: 2026-04-25_
 
 | # | Category | Pages |
 |--:|---------|------:|
-| 1 | JavaScript libraries | **17,991** |
-| 2 | Web servers | **8,858** |
-| 3 | Font scripts | **8,771** |
-| 4 | CDN | **5,499** |
-| 5 | UI frameworks | **5,309** |
-| 6 | Programming languages | **4,118** |
-| 7 | CMS | **4,108** |
-| 8 | Operating systems | **3,943** |
-| 9 | Web frameworks | **3,467** |
-| 10 | PaaS | **3,057** |
-| 11 | Databases | **2,703** |
-| 12 | Caching | **1,670** |
-| 13 | Tag managers | **1,568** |
-| 14 | JavaScript frameworks | **1,539** |
-| 15 | Widgets | **1,519** |
+| 1 | JavaScript libraries | **30,930** |
+| 2 | Font scripts | **15,480** |
+| 3 | Web servers | **14,667** |
+| 4 | CDN | **9,187** |
+| 5 | UI frameworks | **8,753** |
+| 6 | Programming languages | **7,164** |
+| 7 | CMS | **6,995** |
+| 8 | Operating systems | **6,483** |
+| 9 | Web frameworks | **5,779** |
+| 10 | PaaS | **5,030** |
+| 11 | Databases | **4,748** |
+| 12 | Reverse proxies | **3,104** |
+| 13 | Tag managers | **2,949** |
+| 14 | JavaScript frameworks | **2,916** |
+| 15 | Caching | **2,779** |
 
 > Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
 

@@ -31,12 +31,12 @@
     "date": "2026-04-28",
     "total_available": 65681,
     "social_media": {
-      "scanned": 60056,
-      "pct": 91.44
+      "scanned": 65693,
+      "pct": 100.02
     },
     "technology": {
-      "scanned": 14598,
-      "pct": 22.23
+      "scanned": 24810,
+      "pct": 37.77
     },
     "lighthouse": {
       "scanned": 1320,
@@ -51,8 +51,8 @@
       "pct": 6.49
     },
     "combined_reachability": {
-      "scanned": 57206,
-      "pct": 87.1
+      "scanned": 62692,
+      "pct": 95.45
     }
   }
 ]
