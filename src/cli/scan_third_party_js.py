@@ -58,6 +58,18 @@ def main():
         dest="max_runtime",
     )
 
+    parser.add_argument(
+        "--skip-recently-scanned-days",
+        help=(
+            "Skip URLs that were successfully scanned within the last N days "
+            "(default: 0 = always re-scan).  Set to 7 for a weekly refresh "
+            "cycle so successive runs make forward progress."
+        ),
+        type=int,
+        default=0,
+        dest="skip_recently_scanned_days",
+    )
+
     args = parser.parse_args()
 
     if not args.all and not args.country:
@@ -88,6 +100,7 @@ def main():
                     args.toon_dir,
                     rate_limit_per_second=args.rate_limit,
                     max_runtime_seconds=max_runtime_seconds,
+                    skip_recently_scanned_days=args.skip_recently_scanned_days,
                 )
             )
 
@@ -126,6 +139,7 @@ def main():
                     toon_file,
                     rate_limit_per_second=args.rate_limit,
                     max_runtime_seconds=max_runtime_seconds,
+                    skip_recently_scanned_days=args.skip_recently_scanned_days,
                 )
             )
 
@@ -134,6 +148,9 @@ def main():
             print("=" * 80)
             print(f"Scan ID:               {stats['scan_id']}")
             print(f"Total URLs:            {stats['total_urls']}")
+            skipped = stats.get('urls_skipped_recently_scanned', 0)
+            if skipped:
+                print(f"Skipped (recent):      {skipped}")
             print(f"Scanned:               {stats['urls_scanned']}")
             print(f"Complete:              {'Yes' if stats.get('is_complete', True) else 'No (stopped early)'}")
             print(f"Reachable:             {stats['reachable_count']}")

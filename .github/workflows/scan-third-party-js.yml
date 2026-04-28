@@ -18,12 +18,18 @@ on:
         required: false
         default: '1.0'
         type: string
+      skip_recently_scanned_days:
+        description: 'Skip URLs scanned within this many days (0 = re-scan all, 7 = weekly refresh)'
+        required: false
+        default: '7'
+        type: string
 
-# Share concurrency group with the other metadata-producing scan workflows so
-# only one of them runs at a time, protecting the shared validation-metadata
-# artifact without letting low-priority URL validation block richer scans.
+# Use a dedicated concurrency group so tech-stack scans (which run every 4 h
+# and occupy the metadata-scans group for ~120 min each) cannot queue-cancel
+# third-party JS runs.  The shared validation-metadata artifact is still safe
+# because each scan downloads the latest artifact at the start of each run.
 concurrency:
-  group: metadata-scans
+  group: third-party-js-scan
   cancel-in-progress: false
 
 jobs:
@@ -79,6 +85,7 @@ jobs:
           python3 -m src.cli.scan_third_party_js \
             --country "${{ github.event.inputs.country }}" \
             --rate-limit "${{ github.event.inputs.rate_limit }}" \
+            --skip-recently-scanned-days "${{ github.event.inputs.skip_recently_scanned_days || '7' }}" \
             2>&1 | tee 3pjs-scan-output.txt
 
       - name: Run third-party JS scan (all seeds)
@@ -88,6 +95,7 @@ jobs:
             --all \
             --max-runtime 110 \
             --rate-limit "${{ github.event.inputs.rate_limit || '1.0' }}" \
+            --skip-recently-scanned-days "${{ github.event.inputs.skip_recently_scanned_days || '7' }}" \
             2>&1 | tee 3pjs-scan-output.txt
 
       - name: Upload scan results
@@ -125,4 +133,5 @@ jobs:
           fi
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- Rate Limit: ${{ github.event.inputs.rate_limit || '1.0' }} req/sec" >> $GITHUB_STEP_SUMMARY
+          echo "- Skip recently scanned: ${{ github.event.inputs.skip_recently_scanned_days || '7' }} days" >> $GITHUB_STEP_SUMMARY
           echo "- Workflow Run: [\#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
