@@ -8,7 +8,7 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-04-27 06:12 UTC — last scan: 2026-04-25_
+_Stats as of 2026-04-28 06:15 UTC — last scan: 2026-04-25_
 
 **44** scan batches run
 
@@ -96,6 +96,8 @@ _Stats as of 2026-04-27 06:12 UTC — last scan: 2026-04-25_
 | 19 | WordPress | **1,343** | Blogs, CMS |
 | 20 | Nginx | **1,337** | Reverse proxies, Web servers |
 
+> Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
+
 ### Top Technology Categories
 
 | # | Category | Pages |
@@ -115,6 +117,8 @@ _Stats as of 2026-04-27 06:12 UTC — last scan: 2026-04-25_
 | 13 | Tag managers | **1,568** |
 | 14 | JavaScript frameworks | **1,539** |
 | 15 | Widgets | **1,519** |
+
+> Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
 
 📥 Machine-readable results: [Download machine-readable technology data (JSON)](technology-data.json)
 
