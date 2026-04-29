@@ -9,18 +9,18 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-04-28 18:34 UTC — last scan: 2026-04-28_
+_Stats as of 2026-04-29 06:11 UTC — last scan: 2026-04-29_
 
-**9** scan batches run
+**11** scan batches run
 
-**1,408** of **65,681** available pages audited (**2.1%** coverage)
-**1,320** successful audits (**93.8%** of audited)
+**2,122** of **65,681** available pages audited (**3.2%** coverage)
+**1,996** successful audits (**94.1%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
 | Performance | Accessibility | Best Practices | SEO |
 |:-----------:|:-------------:|:--------------:|:---:|
-| 93 | 90 | 83 | 85 |
+| 93 | 89 | 84 | 85 |
 
 ---
 
@@ -37,6 +37,8 @@ _Stats as of 2026-04-28 18:34 UTC — last scan: 2026-04-28_
 | Colorado | 134 | 134 | 93 | 90 | 82 | 87 | 2026-04-28 |
 | Connecticut | 167 | 167 | 94 | 86 | 83 | 81 | 2026-04-28 |
 | DC | 423 | 486 | 90 | 90 | 73 | 84 | 2026-04-28 |
+| Delaware | 17 | 17 | 87 | 89 | 84 | 90 | 2026-04-29 |
+| Federal | 697 | 50,035 | 93 | 88 | 86 | 85 | 2026-04-29 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
