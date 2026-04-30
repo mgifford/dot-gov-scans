@@ -698,7 +698,7 @@ class ThirdPartyJsScanner:
             if on_result is not None:
                 try:
                     on_result(result)
-                except Exception as cb_exc:  # noqa: BLE001
+                except Exception as cb_exc:  # noqa: BLE001 — isolate all callback errors to prevent scan abort
                     print(f"      ⚠  on_result callback failed (result still recorded): {cb_exc}")
 
             if result.error_message:

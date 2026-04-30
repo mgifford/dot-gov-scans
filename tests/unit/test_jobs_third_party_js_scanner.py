@@ -432,10 +432,7 @@ async def test_scan_all_countries_writes_step_summary(temp_settings, toon_seeds_
             "is_complete": True,
         }
 
-    env_patch = {"GITHUB_STEP_SUMMARY": str(summary_file)}
-    with patch.dict(os.environ, env_patch):
-        with patch.object(temp_settings.__class__, "__init__", return_value=None):
-            pass
+    with patch.dict(os.environ, {"GITHUB_STEP_SUMMARY": str(summary_file)}):
         job = _make_job(temp_settings)
         with patch.object(job, "scan_country", side_effect=_mock_scan):
             await job.scan_all_countries(toon_seeds_dir)

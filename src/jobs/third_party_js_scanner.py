@@ -228,11 +228,11 @@ class ThirdPartyJsScannerJob:
 
         _start = start_time if start_time is not None else time.monotonic()
 
-        _db_conn = sqlite3.connect(self.db_path)
+        db_conn = sqlite3.connect(self.db_path)
         try:
             def _save_result(result: ThirdPartyJsScanResult) -> None:
                 """Persist a single scan result immediately after it is computed."""
-                self._save_results([result], country_code, scan_id, conn=_db_conn)
+                self._save_results([result], country_code, scan_id, conn=db_conn)
 
             scan_results = await self.scanner.scan_urls_batch(
                 urls,
@@ -242,7 +242,7 @@ class ThirdPartyJsScannerJob:
                 on_result=_save_result,
             )
         finally:
-            _db_conn.close()
+            db_conn.close()
 
         updated_toon = self._update_toon_with_third_party_js(toon_data, scan_results)
 
