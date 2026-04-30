@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sqlite3
 import time
 from dataclasses import asdict
@@ -16,6 +17,23 @@ from src.lib.settings import Settings
 from src.lib.toon_utils import extract_urls_from_toon
 from src.services.third_party_js_scanner import ThirdPartyJsScanResult, ThirdPartyJsScanner
 from src.storage.schema import initialize_schema
+
+
+def _write_step_summary(text: str) -> None:
+    """Append *text* to the GitHub Actions step summary file if available.
+
+    This is a no-op outside GitHub Actions so it is safe to call everywhere.
+    Writing progress here means partial results are visible in the workflow UI
+    even if the runner is OOM-killed before the "Display scan summary" step runs.
+    """
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return
+    try:
+        with open(summary_path, "a", encoding="utf-8") as f:
+            f.write(text + "\n")
+    except OSError:
+        pass
 
 
 class ThirdPartyJsScannerJob:
@@ -45,9 +63,23 @@ class ThirdPartyJsScannerJob:
         results: List[ThirdPartyJsScanResult],
         country_code: str,
         scan_id: str,
+        conn: Optional[sqlite3.Connection] = None,
     ) -> None:
-        """Persist third-party JS scan results to the database."""
-        conn = sqlite3.connect(self.db_path)
+        """Persist third-party JS scan results to the database.
+
+        Args:
+            results: Scan results to persist.
+            country_code: Country code for these results.
+            scan_id: Scan run identifier.
+            conn: Optional open SQLite connection.  When provided the caller is
+                responsible for closing it; this avoids the per-URL open/close
+                overhead when saving results incrementally inside a country scan.
+                When *None* (the default) a connection is opened and closed
+                internally.
+        """
+        _managed = conn is None
+        if _managed:
+            conn = sqlite3.connect(self.db_path)
         try:
             for result in results:
                 scripts_json = json.dumps(
@@ -72,7 +104,8 @@ class ThirdPartyJsScannerJob:
                 )
             conn.commit()
         finally:
-            conn.close()
+            if _managed:
+                conn.close()
 
     def _update_toon_with_third_party_js(
         self,
@@ -195,17 +228,21 @@ class ThirdPartyJsScannerJob:
 
         _start = start_time if start_time is not None else time.monotonic()
 
-        def _save_result(result: ThirdPartyJsScanResult) -> None:
-            """Persist a single scan result immediately after it is computed."""
-            self._save_results([result], country_code, scan_id)
+        _db_conn = sqlite3.connect(self.db_path)
+        try:
+            def _save_result(result: ThirdPartyJsScanResult) -> None:
+                """Persist a single scan result immediately after it is computed."""
+                self._save_results([result], country_code, scan_id, conn=_db_conn)
 
-        scan_results = await self.scanner.scan_urls_batch(
-            urls,
-            rate_limit_per_second=rate_limit_per_second,
-            max_runtime_seconds=max_runtime_seconds,
-            start_time=_start,
-            on_result=_save_result,
-        )
+            scan_results = await self.scanner.scan_urls_batch(
+                urls,
+                rate_limit_per_second=rate_limit_per_second,
+                max_runtime_seconds=max_runtime_seconds,
+                start_time=_start,
+                on_result=_save_result,
+            )
+        finally:
+            _db_conn.close()
 
         updated_toon = self._update_toon_with_third_party_js(toon_data, scan_results)
 
@@ -307,6 +344,13 @@ class ThirdPartyJsScannerJob:
         start_time = time.monotonic()
         _country_start_buffer = 5 * 60  # 5 minutes
 
+        _write_step_summary(
+            f"## Third-Party JS Scan — {len(toon_files)} seeds\n"
+            f"Started: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}\n"
+            f"\n| Seed | Scanned | w/ 3rd-party JS | Identified services |"
+            f"\n|------|---------|-----------------|---------------------|"
+        )
+
         for toon_path in toon_files:
             country_code = jurisdiction_filename_to_code(toon_path.stem)
 
@@ -332,8 +376,22 @@ class ThirdPartyJsScannerJob:
                     skip_recently_scanned_days=skip_recently_scanned_days,
                 )
                 all_stats.append(stats)
+                partial_flag = "" if stats.get("is_complete", True) else " *(partial)*"
+                _write_step_summary(
+                    f"| {country_code}{partial_flag} "
+                    f"| {stats.get('urls_scanned', '?')} "
+                    f"| {stats.get('urls_with_scripts', '?')} "
+                    f"| {stats.get('identified_services', '?')} |"
+                )
             except Exception as exc:
                 print(f"Error scanning {toon_path}: {exc}")
                 all_stats.append({"country_code": country_code, "error": str(exc)})
+                _write_step_summary(f"| {country_code} | ❌ ERROR | — | {exc} |")
+
+        elapsed_total = time.monotonic() - start_time
+        _write_step_summary(
+            f"\n**Completed {len(all_stats)} of {len(toon_files)} seeds "
+            f"in {elapsed_total / 60:.1f} minutes.**"
+        )
 
         return all_stats

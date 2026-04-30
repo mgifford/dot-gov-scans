@@ -515,10 +515,15 @@ class ThirdPartyJsScanner:
         timeout_seconds: int = 20,
         max_redirects: int = 10,
         user_agent: str = "USA-Government-Accessibility-Scanner/1.0",
+        max_response_bytes: int = 5 * 1024 * 1024,
     ):
         self.timeout_seconds = timeout_seconds
         self.max_redirects = max_redirects
         self.user_agent = user_agent
+        # Maximum characters of HTML text to parse per page.  Truncating before
+        # BeautifulSoup is the primary guard against OOM on pathologically large
+        # government portal pages.  5 MB covers every real page in practice.
+        self.max_response_bytes = max_response_bytes
 
     def scan_html(
         self,
@@ -545,6 +550,14 @@ class ThirdPartyJsScanner:
         """
         if scanned_at is None:
             scanned_at = datetime.now(timezone.utc).isoformat()
+
+        # Guard against pathologically large HTML (e.g. pages with embedded
+        # inline data) consuming hundreds of MB during BeautifulSoup tree
+        # construction.  Truncating to max_response_bytes characters is safe
+        # because all third-party <script src> tags appear in the first
+        # portion of any real web page.
+        if len(html) > self.max_response_bytes:
+            html = html[: self.max_response_bytes]
 
         try:
             scripts = _extract_third_party_scripts(html, final_url or url)
@@ -583,6 +596,12 @@ class ThirdPartyJsScanner:
                     headers={"User-Agent": self.user_agent},
                 )
                 html = response.text
+                # Truncate at the network level too: if the server sent a huge
+                # body, cap what we store before calling scan_html so that
+                # both the string allocation and the BeautifulSoup parse stay
+                # within bounds.
+                if len(html) > self.max_response_bytes:
+                    html = html[: self.max_response_bytes]
                 final_url = str(response.url)
 
         except httpx.TooManyRedirects as exc:
@@ -677,7 +696,10 @@ class ThirdPartyJsScanner:
             results[url] = result
 
             if on_result is not None:
-                on_result(result)
+                try:
+                    on_result(result)
+                except Exception as cb_exc:  # noqa: BLE001
+                    print(f"      ⚠  on_result callback failed (result still recorded): {cb_exc}")
 
             if result.error_message:
                 print(f"      ✗ {result.error_message}")
