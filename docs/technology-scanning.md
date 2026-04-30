@@ -8,13 +8,13 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-04-29 06:10 UTC — last scan: 2026-04-29_
+_Stats as of 2026-04-30 06:14 UTC — last scan: 2026-04-29_
 
-**59** scan batches run
+**64** scan batches run
 
-**29,333** of **65,681** available pages scanned (**44.7%** coverage)
-**27,897** pages with technology detections (**95.1%** of scanned)
-**330** unique technologies identified
+**52,178** of **65,681** available pages scanned (**79.4%** coverage)
+**49,663** pages with technology detections (**95.2%** of scanned)
+**366** unique technologies identified
 
 ---
 
@@ -32,7 +32,7 @@ _Stats as of 2026-04-29 06:10 UTC — last scan: 2026-04-29_
 | Connecticut | 167 | 137 | 167 | 2026-04-24 |
 | DC | 486 | 484 | 486 | 2026-04-24 |
 | Delaware | 17 | 17 | 17 | 2026-04-24 |
-| Federal | 13,675 | 13,095 | 50,035 | 2026-04-29 |
+| Federal | 36,520 | 34,861 | 50,035 | 2026-04-29 |
 | Florida | 140 | 129 | 140 | 2026-04-25 |
 | Georgia | 217 | 207 | 217 | 2026-04-25 |
 | Hawaii | 8 | 8 | 8 | 2026-04-25 |
@@ -86,26 +86,26 @@ _Stats as of 2026-04-29 06:10 UTC — last scan: 2026-04-29_
 
 | # | Technology | Pages | Categories |
 |--:|-----------|------:|-----------|
-| 1 | jQuery | **16,569** | JavaScript libraries |
-| 2 | Font Awesome | **10,205** | Font scripts |
-| 3 | Bootstrap | **8,567** | UI frameworks |
-| 4 | Google Font API | **7,446** | Font scripts |
-| 5 | PHP | **7,367** | Programming languages |
-| 6 | Windows Server | **6,967** | Operating systems |
-| 7 | IIS | **6,933** | Web servers |
-| 8 | Microsoft ASP.NET | **5,886** | Web frameworks |
-| 9 | jQuery Migrate | **5,346** | JavaScript libraries |
-| 10 | Cloudflare | **5,221** | CDN |
-| 11 | Apache | **4,571** | Web servers |
-| 12 | jQuery UI | **4,378** | JavaScript libraries |
-| 13 | Google Tag Manager | **3,517** | Tag managers |
-| 14 | Drupal | **3,353** | CMS |
-| 15 | Nginx | **3,305** | Reverse proxies, Web servers |
-| 16 | MySQL | **3,131** | Databases |
-| 17 | WordPress | **3,095** | Blogs, CMS |
-| 18 | Amazon Web Services | **3,095** | PaaS |
-| 19 | jsDelivr | **2,935** | CDN |
-| 20 | Varnish | **2,468** | Caching |
+| 1 | jQuery | **30,517** | JavaScript libraries |
+| 2 | Font Awesome | **19,691** | Font scripts |
+| 3 | Bootstrap | **15,119** | UI frameworks |
+| 4 | Google Font API | **13,781** | Font scripts |
+| 5 | PHP | **13,402** | Programming languages |
+| 6 | Windows Server | **11,758** | Operating systems |
+| 7 | jQuery Migrate | **11,742** | JavaScript libraries |
+| 8 | IIS | **11,714** | Web servers |
+| 9 | Microsoft ASP.NET | **9,762** | Web frameworks |
+| 10 | jQuery UI | **9,208** | JavaScript libraries |
+| 11 | Cloudflare | **9,158** | CDN |
+| 12 | Apache | **7,950** | Web servers |
+| 13 | Google Tag Manager | **6,709** | Tag managers |
+| 14 | MySQL | **6,424** | Databases |
+| 15 | WordPress | **6,366** | Blogs, CMS |
+| 16 | Nginx | **5,740** | Reverse proxies, Web servers |
+| 17 | Drupal | **5,585** | CMS |
+| 18 | Moment.js | **5,543** | JavaScript libraries |
+| 19 | Amazon Web Services | **5,334** | PaaS |
+| 20 | jsDelivr | **5,156** | CDN |
 
 > Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
 
@@ -113,21 +113,21 @@ _Stats as of 2026-04-29 06:10 UTC — last scan: 2026-04-29_
 
 | # | Category | Pages |
 |--:|---------|------:|
-| 1 | JavaScript libraries | **35,750** |
-| 2 | Font scripts | **17,971** |
-| 3 | Web servers | **16,910** |
-| 4 | CDN | **10,873** |
-| 5 | UI frameworks | **10,143** |
-| 6 | Programming languages | **8,404** |
-| 7 | CMS | **8,138** |
-| 8 | Operating systems | **7,460** |
-| 9 | Web frameworks | **6,629** |
-| 10 | PaaS | **5,772** |
-| 11 | Databases | **5,522** |
-| 12 | Reverse proxies | **3,631** |
-| 13 | Tag managers | **3,528** |
-| 14 | JavaScript frameworks | **3,451** |
-| 15 | Blogs | **3,156** |
+| 1 | JavaScript libraries | **69,139** |
+| 2 | Font scripts | **33,899** |
+| 3 | Web servers | **28,463** |
+| 4 | CDN | **19,770** |
+| 5 | UI frameworks | **18,113** |
+| 6 | CMS | **15,479** |
+| 7 | Programming languages | **15,209** |
+| 8 | Operating systems | **12,688** |
+| 9 | Web frameworks | **11,039** |
+| 10 | Databases | **9,730** |
+| 11 | PaaS | **9,675** |
+| 12 | JavaScript frameworks | **7,349** |
+| 13 | Tag managers | **6,720** |
+| 14 | Blogs | **6,514** |
+| 15 | Reverse proxies | **6,324** |
 
 > Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
 
