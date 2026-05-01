@@ -1,26 +1,23 @@
-name: Scan Lighthouse
+name: Scan Lighthouse (Federal)
 
 on:
-  # Run 6× per day (every 4 hours) to build up progressive coverage faster.
-  # With --concurrency 5 and --only-categories=performance,accessibility,
-  # best-practices,seo each URL takes ~20-30 s, giving ~1,100-1,400 URLs per
-  # 110-minute run → ~8,000 URLs/day across this workflow + the dedicated
-  # federal workflow (scan-lighthouse-federal.yml).  With
-  # --skip-recently-scanned-days 30 each URL is refreshed at most once per
-  # month, so the focus stays on uncovered URLs.
-  # Runs at 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC (even hours).
-  # The dedicated federal workflow (scan-lighthouse-federal.yml) runs at a
-  # 1-hour offset (01:00, 05:00, …) to avoid simultaneous artifact writes.
+  # Run 6× per day at a 1-hour offset from the general Lighthouse workflow
+  # (01:00, 05:00, 09:00, 13:00, 17:00, 21:00 UTC) to prevent simultaneous
+  # validation-metadata artifact writes.  The general workflow runs at
+  # 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC.
+  #
+  # The federal seed has ~50,035 URLs (76 % of all URLs).  Dedicating a
+  # separate workflow to it — running in parallel with the general workflow
+  # via a different concurrency group — effectively doubles overall Lighthouse
+  # throughput and cuts the time to complete a first full pass from ~31 days
+  # to ~5 days when combined with the increased frequency and concurrency in
+  # scan-lighthouse.yml.
   schedule:
-    - cron: '0 0,4,8,12,16,20 * * *'
+    - cron: '0 1,5,9,13,17,21 * * *'
 
-  # Allow manual trigger for a single seed (jurisdiction) or all seeds
+  # Allow manual trigger
   workflow_dispatch:
     inputs:
-      country:
-        description: 'Seed code to scan (jurisdiction, e.g., TEXAS, CALIFORNIA) — leave empty for all seeds'
-        required: false
-        type: string
       rate_limit:
         description: 'Maximum Lighthouse runs per second (default: 0.5)'
         required: false
@@ -37,14 +34,15 @@ on:
         default: '30'
         type: string
 
-# Lighthouse has its own concurrency group so frequent metadata-scan workflows
-# (social media every 2 h, tech every 4 h) can never cancel a Lighthouse run.
+# Separate concurrency group from the general Lighthouse workflow so both can
+# run simultaneously.  cancel-in-progress: false ensures a long federal scan
+# is never cancelled by a newer scheduled trigger.
 concurrency:
-  group: lighthouse-scan
+  group: lighthouse-scan-federal
   cancel-in-progress: false
 
 jobs:
-  scan-lighthouse:
+  scan-lighthouse-federal:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     permissions:
@@ -99,40 +97,27 @@ jobs:
           run-id: ${{ steps.find-metadata.outputs.run_id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Run Lighthouse scan (specific seed)
-        if: ${{ github.event.inputs.country != '' }}
+      - name: Run Lighthouse scan (Federal seed)
         run: |
           python3 -m src.cli.scan_lighthouse \
-            --country "${{ github.event.inputs.country }}" \
-            --rate-limit "${{ github.event.inputs.rate_limit || '0.5' }}" \
-            --concurrency "${{ github.event.inputs.concurrency || '5' }}" \
-            --skip-recently-scanned-days "${{ github.event.inputs.skip_recently_scanned_days || '30' }}" \
-            --only-categories "performance,accessibility,best-practices,seo" \
-            --throttling-method "provided" \
-            2>&1 | tee lighthouse-scan-output.txt
-
-      - name: Run Lighthouse scan (all seeds)
-        if: ${{ github.event.inputs.country == '' || github.event_name == 'schedule' }}
-        run: |
-          python3 -m src.cli.scan_lighthouse \
-            --all \
+            --country FEDERAL \
             --max-runtime 110 \
             --rate-limit "${{ github.event.inputs.rate_limit || '0.5' }}" \
             --concurrency "${{ github.event.inputs.concurrency || '5' }}" \
             --skip-recently-scanned-days "${{ github.event.inputs.skip_recently_scanned_days || '30' }}" \
             --only-categories "performance,accessibility,best-practices,seo" \
             --throttling-method "provided" \
-            2>&1 | tee lighthouse-scan-output.txt
+            2>&1 | tee lighthouse-federal-scan-output.txt
 
       - name: Upload scan results
         if: always()
         uses: actions/upload-artifact@v7
         with:
-          name: lighthouse-scan-${{ github.run_number }}
+          name: lighthouse-federal-scan-${{ github.run_number }}
           path: |
             data/metadata.db
-            lighthouse-scan-output.txt
-            data/toon-seeds/**_lighthouse.toon
+            lighthouse-federal-scan-output.txt
+            data/toon-seeds/federal_lighthouse.toon
           retention-days: 90
           if-no-files-found: warn
 
@@ -150,14 +135,15 @@ jobs:
       - name: Display scan summary
         if: always()
         run: |
-          echo "## Lighthouse Scan Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## Lighthouse Scan Summary (Federal)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          if [ -f lighthouse-scan-output.txt ]; then
+          if [ -f lighthouse-federal-scan-output.txt ]; then
             echo '```' >> $GITHUB_STEP_SUMMARY
-            tail -50 lighthouse-scan-output.txt >> $GITHUB_STEP_SUMMARY
+            tail -50 lighthouse-federal-scan-output.txt >> $GITHUB_STEP_SUMMARY
             echo '```' >> $GITHUB_STEP_SUMMARY
           fi
           echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- Seed: FEDERAL (~50,035 URLs)" >> $GITHUB_STEP_SUMMARY
           echo "- Rate Limit: ${{ github.event.inputs.rate_limit || '0.5' }} runs/sec" >> $GITHUB_STEP_SUMMARY
           echo "- Concurrency: ${{ github.event.inputs.concurrency || '5' }} parallel processes" >> $GITHUB_STEP_SUMMARY
           echo "- Skip recently scanned: ${{ github.event.inputs.skip_recently_scanned_days || '30' }} days" >> $GITHUB_STEP_SUMMARY
