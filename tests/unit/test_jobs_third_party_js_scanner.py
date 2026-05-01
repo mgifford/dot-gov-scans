@@ -213,6 +213,25 @@ def test_save_results_error_entry(temp_settings):
     assert row[1] == "Connection failed"
 
 
+def test_save_results_with_explicit_conn(temp_settings):
+    """When an explicit connection is passed _save_results must not close it."""
+    job = _make_job(temp_settings)
+    result = _make_result("https://gov.example/", scripts=[_gtm_script()])
+
+    explicit_conn = sqlite3.connect(job.db_path)
+    try:
+        job._save_results([result], "TESTLAND", "scan-explicit", conn=explicit_conn)
+        # Connection must still be usable after the call
+        rows = explicit_conn.execute(
+            "SELECT url FROM url_third_party_js_results WHERE scan_id = ?",
+            ("scan-explicit",),
+        ).fetchall()
+        assert len(rows) == 1
+        assert rows[0][0] == "https://gov.example/"
+    finally:
+        explicit_conn.close()
+
+
 # ---------------------------------------------------------------------------
 # scan_country
 # ---------------------------------------------------------------------------
@@ -395,3 +414,29 @@ async def test_scan_all_countries_empty_dir(temp_settings, tmp_path):
     job = _make_job(temp_settings)
     all_stats = await job.scan_all_countries(tmp_path)
     assert all_stats == []
+
+
+@pytest.mark.asyncio
+async def test_scan_all_countries_writes_step_summary(temp_settings, toon_seeds_dir, tmp_path):
+    """scan_all_countries writes per-country progress to GITHUB_STEP_SUMMARY."""
+    import os
+
+    summary_file = tmp_path / "step_summary.md"
+
+    async def _mock_scan(country_code, toon_path, *args, **kwargs):
+        return {
+            "country_code": country_code,
+            "urls_scanned": 10,
+            "urls_with_scripts": 3,
+            "identified_services": 5,
+            "is_complete": True,
+        }
+
+    with patch.dict(os.environ, {"GITHUB_STEP_SUMMARY": str(summary_file)}):
+        job = _make_job(temp_settings)
+        with patch.object(job, "scan_country", side_effect=_mock_scan):
+            await job.scan_all_countries(toon_seeds_dir)
+
+    content = summary_file.read_text(encoding="utf-8")
+    assert "ALPHA" in content or "BETA" in content
+    assert "Third-Party JS Scan" in content

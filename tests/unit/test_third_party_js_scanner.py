@@ -601,3 +601,102 @@ def test_result_known_service_count():
     ]
     result = ThirdPartyJsScanResult(url="https://x.gov/", is_reachable=True, scripts=scripts)
     assert result.known_service_count == 1
+
+
+# ---------------------------------------------------------------------------
+# max_response_bytes truncation
+# ---------------------------------------------------------------------------
+
+
+def test_scan_html_truncates_oversized_html():
+    """scan_html truncates HTML that exceeds max_response_bytes before parsing."""
+    # Build HTML that has a GTM script tag right at the start, followed by
+    # a very long filler section.  With a small limit the script IS captured
+    # (it's in the first bytes).  The point is that BeautifulSoup never sees
+    # the full blob.
+    script_tag = '<script src="https://www.googletagmanager.com/gtm.js?id=GTM-XXXX"></script>'
+    filler = "<!-- " + ("x" * 200) + " -->"
+    html = f"<html><head>{script_tag}{filler}</head></html>"
+
+    limit = 150  # bytes/chars — small enough to cut off the filler
+    scanner = ThirdPartyJsScanner(max_response_bytes=limit)
+    result = scanner.scan_html("https://example.gov/", html)
+
+    # The result must be reachable and error-free regardless of truncation
+    assert result.is_reachable is True
+    assert result.error_message is None
+
+
+def test_scan_html_does_not_truncate_small_html():
+    """scan_html does not alter HTML that is within the size limit."""
+    html = (
+        "<html><head>"
+        '<script src="https://www.googletagmanager.com/gtm.js?id=GTM-XXXX"></script>'
+        "</head></html>"
+    )
+    scanner = ThirdPartyJsScanner(max_response_bytes=5 * 1024 * 1024)
+    result = scanner.scan_html("https://example.gov/", html)
+
+    assert result.is_reachable is True
+    assert result.third_party_count == 1
+    assert result.scripts[0].service_name == "Google Tag Manager"
+
+
+@pytest.mark.asyncio
+async def test_scan_url_truncates_oversized_response():
+    """scan_url truncates response.text when it exceeds max_response_bytes."""
+    scanner = ThirdPartyJsScanner(timeout_seconds=10, max_response_bytes=50)
+
+    # A response whose text is much larger than the limit
+    mock_response = Mock()
+    mock_response.status_code = 200
+    mock_response.url = "https://example.gov/"
+    mock_response.text = "<html>" + ("a" * 10_000) + "</html>"
+
+    with patch("httpx.AsyncClient") as mock_client:
+        mock_client.return_value.__aenter__.return_value.get = AsyncMock(
+            return_value=mock_response
+        )
+        result = await scanner.scan_url("https://example.gov/")
+
+    # Should succeed (not raise) despite huge response
+    assert result.is_reachable is True
+    assert result.error_message is None
+
+
+# ---------------------------------------------------------------------------
+# on_result callback error isolation
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.asyncio
+async def test_scan_urls_batch_on_result_error_is_isolated():
+    """A failing on_result callback must not abort the scan loop."""
+    scanner = ThirdPartyJsScanner(timeout_seconds=10)
+    urls = ["https://gov1.example/", "https://gov2.example/", "https://gov3.example/"]
+    call_count = 0
+
+    def _bad_callback(result: ThirdPartyJsScanResult) -> None:
+        nonlocal call_count
+        call_count += 1
+        raise RuntimeError("DB exploded")
+
+    async def mock_get(url, **kwargs):
+        r = Mock()
+        r.status_code = 200
+        r.url = url
+        r.text = "<html><body></body></html>"
+        return r
+
+    with patch("httpx.AsyncClient") as mock_client:
+        mock_client.return_value.__aenter__.return_value.get = AsyncMock(
+            side_effect=mock_get
+        )
+        results = await scanner.scan_urls_batch(
+            urls, rate_limit_per_second=0, on_result=_bad_callback
+        )
+
+    # All URLs must be scanned even though the callback raised each time
+    assert len(results) == len(urls)
+    # Callback must have been called for every URL
+    assert call_count == len(urls)
