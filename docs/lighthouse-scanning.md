@@ -9,18 +9,18 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-05-01 06:21 UTC — last scan: 2026-05-01_
+_Stats as of 2026-05-02 05:58 UTC — last scan: 2026-05-01_
 
-**18** scan batches run
+**31** scan batches run
 
-**3,865** of **65,681** available pages audited (**5.9%** coverage)
-**3,615** successful audits (**93.5%** of audited)
+**8,984** of **65,681** available pages audited (**13.7%** coverage)
+**8,489** successful audits (**94.5%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
 | Performance | Accessibility | Best Practices | SEO |
 |:-----------:|:-------------:|:--------------:|:---:|
-| 92 | 88 | 84 | 86 |
+| 91 | 89 | 85 | 86 |
 
 ---
 
@@ -38,13 +38,23 @@ _Stats as of 2026-05-01 06:21 UTC — last scan: 2026-05-01_
 | Connecticut | 167 | 167 | 94 | 86 | 83 | 81 | 2026-04-28 |
 | DC | 423 | 486 | 90 | 90 | 73 | 84 | 2026-04-28 |
 | Delaware | 17 | 17 | 88 | 88 | 84 | 90 | 2026-04-30 |
-| Federal | 1,739 | 50,035 | 91 | 88 | 86 | 86 | 2026-05-01 |
+| Federal | 4,554 | 50,035 | 91 | 89 | 85 | 87 | 2026-05-01 |
 | Florida | 140 | 140 | 91 | 87 | 82 | 82 | 2026-04-30 |
 | Georgia | 217 | 217 | 92 | 85 | 86 | 83 | 2026-04-30 |
 | Hawaii | 8 | 8 | 89 | 88 | 51 | 92 | 2026-04-30 |
 | Idaho | 103 | 103 | 92 | 86 | 85 | 88 | 2026-04-30 |
 | Illinois | 91 | 91 | 92 | 86 | 81 | 89 | 2026-04-30 |
 | Indiana | 142 | 598 | 92 | 85 | 87 | 86 | 2026-04-30 |
+| Iowa | 21 | 21 | 85 | 74 | 88 | 85 | 2026-05-01 |
+| Kansas | 194 | 194 | 93 | 91 | 82 | 85 | 2026-05-01 |
+| Kentucky | 738 | 738 | 88 | 89 | 81 | 88 | 2026-05-01 |
+| Louisiana | 153 | 266 | 93 | 89 | 85 | 85 | 2026-05-01 |
+| Maine | 1 | 1 | 100 | 88 | 92 | 83 | 2026-05-01 |
+| Maryland | 89 | 89 | 95 | 86 | 87 | 85 | 2026-05-01 |
+| Massachusetts | 153 | 153 | 87 | 88 | 84 | 85 | 2026-05-01 |
+| Michigan | 122 | 122 | 94 | 90 | 87 | 86 | 2026-05-01 |
+| Minnesota | 785 | 785 | 94 | 88 | 87 | 87 | 2026-05-01 |
+| Mississippi | 48 | 486 | 86 | 88 | 89 | 88 | 2026-05-01 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 

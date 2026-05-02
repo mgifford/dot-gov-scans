@@ -138,5 +138,33 @@
       "scanned": 62692,
       "pct": 95.45
     }
+  },
+  {
+    "date": "2026-05-02",
+    "total_available": 65681,
+    "social_media": {
+      "scanned": 65693,
+      "pct": 100.02
+    },
+    "technology": {
+      "scanned": 65693,
+      "pct": 100.02
+    },
+    "lighthouse": {
+      "scanned": 8489,
+      "pct": 12.92
+    },
+    "accessibility": {
+      "scanned": 65693,
+      "pct": 100.02
+    },
+    "third_party_js": {
+      "scanned": 13587,
+      "pct": 20.69
+    },
+    "combined_reachability": {
+      "scanned": 62709,
+      "pct": 95.48
+    }
   }
 ]
