@@ -180,8 +180,8 @@ class LighthouseScanner:
         """
         with tempfile.NamedTemporaryFile(
             suffix=".json", delete=False
-        ) as tmp:
-            tmp_path = tmp.name
+        ) as tmp_file:
+            tmp_path = tmp_file.name
 
         try:
             cmd = self._build_command(url, tmp_path)
@@ -192,12 +192,19 @@ class LighthouseScanner:
                 timeout=self.timeout_seconds,
                 check=False,
             )
-            tmp = Path(tmp_path)
-            if not tmp.exists() or tmp.stat().st_size == 0:
+            output_file = Path(tmp_path)
+            if result.returncode != 0 and (
+                not output_file.exists() or output_file.stat().st_size == 0
+            ):
                 raise subprocess.CalledProcessError(
                     result.returncode, cmd, result.stdout, result.stderr
                 )
-            return tmp.read_text(encoding="utf-8")
+            if not output_file.exists() or output_file.stat().st_size == 0:
+                raise subprocess.CalledProcessError(
+                    result.returncode, cmd, result.stdout,
+                    "Lighthouse exited successfully but produced no output file",
+                )
+            return output_file.read_text(encoding="utf-8")
         finally:
             try:
                 Path(tmp_path).unlink(missing_ok=True)
