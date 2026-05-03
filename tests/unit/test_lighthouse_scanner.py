@@ -292,27 +292,30 @@ async def test_scan_urls_batch_no_max_runtime_scans_all():
 def test_build_command_includes_url():
     """The built command must include the target URL."""
     scanner = LighthouseScanner()
-    cmd = scanner._build_command("https://example.gov/")
+    cmd = scanner._build_command("https://example.gov/", "/tmp/out.json")
     assert any(arg == "https://example.gov/" for arg in cmd)
 
 
 def test_build_command_json_output():
-    """The built command must request JSON output to stdout."""
+    """The built command must request JSON output to a file path."""
     scanner = LighthouseScanner()
-    cmd = scanner._build_command("https://example.gov/")
+    cmd = scanner._build_command("https://example.gov/", "/tmp/out.json")
     assert "--output=json" in cmd
-    assert "--output-path=stdout" in cmd
+    assert "--output-path=/tmp/out.json" in cmd
+    # stdout is no longer used — output goes to a temp file to avoid the
+    # 64 KB Linux pipe-buffer limit that caused JSON truncation errors.
+    assert "--output-path=stdout" not in cmd
 
 
 def test_build_command_extra_args():
     """Extra args passed to the constructor should appear in the command."""
     scanner = LighthouseScanner(extra_args=["--only-categories=accessibility"])
-    cmd = scanner._build_command("https://example.gov/")
+    cmd = scanner._build_command("https://example.gov/", "/tmp/out.json")
     assert "--only-categories=accessibility" in cmd
 
 
 def test_build_command_custom_chrome_flags():
     """Custom chrome-flags should be forwarded to the command."""
     scanner = LighthouseScanner(chrome_flags="--headless --disable-gpu")
-    cmd = scanner._build_command("https://example.gov/")
+    cmd = scanner._build_command("https://example.gov/", "/tmp/out.json")
     assert any("--headless --disable-gpu" in arg for arg in cmd)
