@@ -15,10 +15,12 @@ from __future__ import annotations
 import asyncio
 import json
 import subprocess
+import tempfile
 import time
 from collections.abc import Callable
 from dataclasses import dataclass
 from datetime import datetime, timezone
+from pathlib import Path
 from typing import Dict, List, Optional, Sequence
 
 
@@ -143,13 +145,21 @@ class LighthouseScanner:
     # Internal helpers
     # ------------------------------------------------------------------
 
-    def _build_command(self, url: str) -> List[str]:
-        """Return the subprocess command list for scanning *url*."""
+    def _build_command(self, url: str, output_path: str) -> List[str]:
+        """Return the subprocess command list for scanning *url*.
+
+        Args:
+            url: The URL to audit.
+            output_path: Filesystem path where Lighthouse should write its
+                JSON report.  Using a file rather than ``stdout`` avoids
+                Linux pipe-buffer overflow (64 KB) that truncates large
+                Lighthouse reports and causes spurious JSON-parse errors.
+        """
         cmd = [
             self.lighthouse_path,
             url,
             "--output=json",
-            "--output-path=stdout",
+            f"--output-path={output_path}",
             "--quiet",
             f"--chrome-flags={self.chrome_flags}",
         ]
@@ -157,26 +167,42 @@ class LighthouseScanner:
         return cmd
 
     def _run_lighthouse(self, url: str) -> str:
-        """Run Lighthouse synchronously and return stdout.
+        """Run Lighthouse synchronously and return the JSON report as a string.
+
+        Lighthouse output is written to a temporary file to avoid the 64 KB
+        Linux pipe-buffer limit that truncates large JSON reports when
+        ``--output-path=stdout`` is used.
 
         Raises:
             subprocess.TimeoutExpired: When the process exceeds *timeout_seconds*.
             subprocess.CalledProcessError: When Lighthouse exits non-zero.
             FileNotFoundError: When the ``lighthouse`` binary is not found.
         """
-        cmd = self._build_command(url)
-        result = subprocess.run(
-            cmd,
-            capture_output=True,
-            text=True,
-            timeout=self.timeout_seconds,
-            check=False,
-        )
-        if result.returncode != 0 and not result.stdout.strip():
-            raise subprocess.CalledProcessError(
-                result.returncode, cmd, result.stdout, result.stderr
+        with tempfile.NamedTemporaryFile(
+            suffix=".json", delete=False
+        ) as tmp:
+            tmp_path = tmp.name
+
+        try:
+            cmd = self._build_command(url, tmp_path)
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                timeout=self.timeout_seconds,
+                check=False,
             )
-        return result.stdout
+            tmp = Path(tmp_path)
+            if not tmp.exists() or tmp.stat().st_size == 0:
+                raise subprocess.CalledProcessError(
+                    result.returncode, cmd, result.stdout, result.stderr
+                )
+            return tmp.read_text(encoding="utf-8")
+        finally:
+            try:
+                Path(tmp_path).unlink(missing_ok=True)
+            except OSError:
+                pass
 
     # ------------------------------------------------------------------
     # Public API
