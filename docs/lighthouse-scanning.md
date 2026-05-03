@@ -9,18 +9,18 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-05-02 05:58 UTC — last scan: 2026-05-01_
+_Stats as of 2026-05-03 06:14 UTC — last scan: 2026-05-02_
 
-**31** scan batches run
+**32** scan batches run
 
-**8,984** of **65,681** available pages audited (**13.7%** coverage)
-**8,489** successful audits (**94.5%** of audited)
+**9,818** of **65,681** available pages audited (**14.9%** coverage)
+**9,282** successful audits (**94.5%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
 | Performance | Accessibility | Best Practices | SEO |
 |:-----------:|:-------------:|:--------------:|:---:|
-| 91 | 89 | 85 | 86 |
+| 91 | 89 | 85 | 87 |
 
 ---
 
@@ -38,7 +38,7 @@ _Stats as of 2026-05-02 05:58 UTC — last scan: 2026-05-01_
 | Connecticut | 167 | 167 | 94 | 86 | 83 | 81 | 2026-04-28 |
 | DC | 423 | 486 | 90 | 90 | 73 | 84 | 2026-04-28 |
 | Delaware | 17 | 17 | 88 | 88 | 84 | 90 | 2026-04-30 |
-| Federal | 4,554 | 50,035 | 91 | 89 | 85 | 87 | 2026-05-01 |
+| Federal | 5,388 | 50,035 | 91 | 89 | 85 | 87 | 2026-05-02 |
 | Florida | 140 | 140 | 91 | 87 | 82 | 82 | 2026-04-30 |
 | Georgia | 217 | 217 | 92 | 85 | 86 | 83 | 2026-04-30 |
 | Hawaii | 8 | 8 | 89 | 88 | 51 | 92 | 2026-04-30 |
