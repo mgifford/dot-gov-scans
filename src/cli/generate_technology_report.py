@@ -162,11 +162,12 @@ def _build_top_drilldowns_from_country(
     seen_tech: set[tuple[str, str]] = set()
     seen_cat: set[tuple[str, str]] = set()
 
-    for buckets in country_drilldowns.values():
+    for country_code, buckets in country_drilldowns.items():
         for record in buckets.get("detected", []):
             url = record["page_url"]
             drilldown_record: dict[str, object] = {
                 "page_url": url,
+                "country_code": country_code,
                 "technology_names": record["technology_names"],
                 "last_scanned": record["last_scanned"],
             }
