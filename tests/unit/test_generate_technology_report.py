@@ -720,6 +720,11 @@ def test_build_top_drilldowns_tech_grouping():
     assert "https://example.is/page2" in nginx_urls
     assert len(top_tech["WordPress"]) == 1
     assert top_tech["WordPress"][0]["page_url"] == "https://example.is/page1"
+    # country_code should be present for every record
+    assert all("country_code" in r for r in top_tech["Nginx"])
+    assert top_tech["WordPress"][0]["country_code"] == "ICELAND"
+    apache_record = top_tech["Apache"][0]
+    assert apache_record["country_code"] == "FRANCE"
 
 
 def test_build_top_drilldowns_cat_grouping():

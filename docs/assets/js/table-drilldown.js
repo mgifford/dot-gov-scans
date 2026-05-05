@@ -256,10 +256,11 @@
               meta: buildTopTechMeta(record),
             };
           }),
-          csvHeaders: ["technology", "page_url", "technology_names", "last_scanned"],
+          csvHeaders: ["technology", "country_code", "page_url", "technology_names", "last_scanned"],
           csvRows: records.map(function (record) {
             return [
               techName,
+              record.country_code || "",
               record.page_url,
               (record.technology_names || []).join(" | "),
               record.last_scanned || "",
@@ -306,10 +307,11 @@
               meta: buildTopTechMeta(record),
             };
           }),
-          csvHeaders: ["category", "page_url", "technology_names", "last_scanned"],
+          csvHeaders: ["category", "country_code", "page_url", "technology_names", "last_scanned"],
           csvRows: records.map(function (record) {
             return [
               catName,
+              record.country_code || "",
               record.page_url,
               (record.technology_names || []).join(" | "),
               record.last_scanned || "",
@@ -1128,6 +1130,9 @@
 
   function buildTopTechMeta(record) {
     var parts = [];
+    if (record.country_code) {
+      parts.push("Jurisdiction: " + record.country_code);
+    }
     if (record.technology_names && record.technology_names.length) {
       parts.push("Also uses: " + record.technology_names.slice(0, 3).join(", "));
     }
