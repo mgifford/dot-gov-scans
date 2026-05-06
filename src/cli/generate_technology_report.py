@@ -29,6 +29,12 @@ from src.lib.settings import load_settings
 _STATS_MARKER_START = "<!-- TECH_STATS_START -->"
 _STATS_MARKER_END = "<!-- TECH_STATS_END -->"
 
+# Number of top technologies / categories to show in the stats table and to
+# include drilldown data for in the JSON output.  These must stay in sync with
+# the top_n_techs / top_n_cats defaults used in _build_stats_block().
+_TOP_N_TECHS = 20
+_TOP_N_CATS = 15
+
 
 # ---------------------------------------------------------------------------
 # Toon seed helpers
@@ -542,12 +548,10 @@ def generate_technology_report(
         }
 
     # Limit top_tech_drilldowns to only the technologies shown in the table
-    # (top-N by page count, matching the _build_stats_block default of 20).
+    # (top-N by page count, matching the _build_stats_block default).
     # This avoids storing drilldown data for hundreds of technologies that are
     # not visible on the page, which would substantially inflate the file size.
-    _top_n_techs = 20
-    _top_n_cats = 15
-    top_n_tech_names = {name for name, _ in tech_counts.most_common(_top_n_techs)}
+    top_n_tech_names = {name for name, _ in tech_counts.most_common(_TOP_N_TECHS)}
     slim_top_tech_drilldowns: dict = {}
     for tech_name in top_n_tech_names:
         records = top_tech_drilldowns.get(tech_name, [])
@@ -556,8 +560,8 @@ def generate_technology_report(
         slim_top_tech_drilldowns[tech_name] = records
 
     # Limit top_cat_drilldowns to only the categories shown in the table
-    # (top-N by page count, matching the _build_stats_block default of 15).
-    top_n_cat_names = {name for name, _ in cat_counts.most_common(_top_n_cats)}
+    # (top-N by page count, matching the _build_stats_block default).
+    top_n_cat_names = {name for name, _ in cat_counts.most_common(_TOP_N_CATS)}
     slim_top_cat_drilldowns: dict = {}
     for cat_name in top_n_cat_names:
         records = top_cat_drilldowns.get(cat_name, [])
@@ -685,8 +689,8 @@ def main() -> None:
         help=(
             "Maximum number of page records to include per technology or "
             "category key in the JSON drilldown data.  Lower values keep the "
-            "data file smaller and more reliable to serve; 0 means no limit "
-            "(default: 2500)."
+            "data file smaller and more reliable to serve.  Pass 0 to remove "
+            "the cap entirely (default: 2500)."
         ),
         type=int,
         default=2500,
