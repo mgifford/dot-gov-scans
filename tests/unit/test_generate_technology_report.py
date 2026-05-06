@@ -803,3 +803,115 @@ def test_generate_technology_report_json_includes_top_drilldowns(
     assert "Nginx" in data["top_tech_drilldowns"]
     assert "WordPress" in data["top_tech_drilldowns"]
     assert "Web servers" in data["top_cat_drilldowns"]
+
+
+# ---------------------------------------------------------------------------
+# Tests for JSON data slimming
+# ---------------------------------------------------------------------------
+
+def test_country_drilldowns_technologies_field_stripped(
+    populated_db: Path, tmp_path: Path
+):
+    """country_drilldowns records in JSON must not contain the 'technologies' field.
+
+    The full nested technology objects are large and not consumed by the
+    browser JS (which only uses 'technology_names'), so they are stripped
+    from the JSON output to keep the file size manageable.
+    """
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+
+    generate_technology_report(populated_db, page_path, data_path)
+
+    data = json.loads(data_path.read_text())
+    for cc, buckets in data["country_drilldowns"].items():
+        for bucket_key, records in buckets.items():
+            for record in records:
+                assert "technologies" not in record, (
+                    f"'technologies' field found in country_drilldowns[{cc!r}]"
+                    f"[{bucket_key!r}] record — should have been stripped"
+                )
+                # technology_names must still be present so the JS can render it
+                assert "technology_names" in record
+
+
+def test_country_drilldowns_records_include_required_fields(
+    populated_db: Path, tmp_path: Path
+):
+    """Slim country_drilldowns records must keep the fields the JS needs."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+
+    generate_technology_report(populated_db, page_path, data_path)
+
+    data = json.loads(data_path.read_text())
+    required = {"page_url", "technology_names", "error_message", "last_scanned"}
+    for cc, buckets in data["country_drilldowns"].items():
+        for records in buckets.values():
+            for record in records:
+                for field in required:
+                    assert field in record, (
+                        f"Required field {field!r} missing from "
+                        f"country_drilldowns[{cc!r}] record"
+                    )
+
+
+def test_top_tech_drilldowns_limited_to_top_n(
+    populated_db: Path, tmp_path: Path
+):
+    """top_tech_drilldowns should only contain keys for top-20 technologies."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+
+    generate_technology_report(populated_db, page_path, data_path)
+
+    data = json.loads(data_path.read_text())
+    tech_counts = {t["name"]: t["pages"] for t in data["top_technologies"]}
+    top_20_names = {name for name, _ in sorted(tech_counts.items(), key=lambda x: -x[1])[:20]}
+
+    # Every key in top_tech_drilldowns must be one of the top-20 technologies
+    for key in data["top_tech_drilldowns"]:
+        assert key in top_20_names, (
+            f"top_tech_drilldowns contains {key!r} which is not in the top 20 technologies"
+        )
+
+
+def test_max_drilldown_records_caps_per_key(
+    populated_db: Path, tmp_path: Path
+):
+    """Setting max_drilldown_records should cap the number of records per key."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+
+    generate_technology_report(populated_db, page_path, data_path, max_drilldown_records=1)
+
+    data = json.loads(data_path.read_text())
+    assert data.get("drilldown_limit") == 1
+
+    for key, records in data["top_tech_drilldowns"].items():
+        assert len(records) <= 1, (
+            f"top_tech_drilldowns[{key!r}] has {len(records)} records, expected ≤ 1"
+        )
+    for key, records in data["top_cat_drilldowns"].items():
+        assert len(records) <= 1, (
+            f"top_cat_drilldowns[{key!r}] has {len(records)} records, expected ≤ 1"
+        )
+
+
+def test_no_drilldown_limit_field_when_none(
+    populated_db: Path, tmp_path: Path
+):
+    """When max_drilldown_records is None, the JSON must not include drilldown_limit."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+
+    generate_technology_report(populated_db, page_path, data_path, max_drilldown_records=None)
+
+    data = json.loads(data_path.read_text())
+    assert "drilldown_limit" not in data
+
