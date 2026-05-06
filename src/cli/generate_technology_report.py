@@ -29,6 +29,12 @@ from src.lib.settings import load_settings
 _STATS_MARKER_START = "<!-- TECH_STATS_START -->"
 _STATS_MARKER_END = "<!-- TECH_STATS_END -->"
 
+# Number of top technologies / categories to show in the stats table and to
+# include drilldown data for in the JSON output.  These must stay in sync with
+# the top_n_techs / top_n_cats defaults used in _build_stats_block().
+_TOP_N_TECHS = 20
+_TOP_N_CATS = 15
+
 
 # ---------------------------------------------------------------------------
 # Toon seed helpers
@@ -463,6 +469,7 @@ def generate_technology_report(
     page_path: Path,
     data_path: Path,
     toon_seeds_dir: Path | None = None,
+    max_drilldown_records: int | None = None,
 ) -> bool:
     """Update *page_path* stats block and write *data_path* JSON.
 
@@ -474,6 +481,11 @@ def generate_technology_report(
             provided the stats block will include a "X of Y available pages
             scanned" coverage line and ``total_available`` is written to the
             JSON file.
+        max_drilldown_records: Maximum number of page records to include per
+            technology or category key in the JSON drilldown data.  ``None``
+            means no limit.  Setting a limit keeps the data file small enough
+            to be reliably served by GitHub Pages even for technologies with
+            tens of thousands of matching pages.
 
     Returns ``True`` on success, ``False`` when the markers are missing from
     *page_path* (the page is left unchanged in that case).
@@ -520,6 +532,43 @@ def generate_technology_report(
         for cat, count in cat_counts.most_common()
     ]
 
+    # --- slim down drilldown data to keep the JSON file a manageable size ---
+
+    # Strip the full 'technologies' list from country_drilldowns records.
+    # The JS only uses 'technology_names' for display and CSV export, so the
+    # nested per-technology detail objects are not needed in the output file.
+    slim_country_drilldowns: dict = {}
+    for cc, buckets in country_drilldowns.items():
+        slim_country_drilldowns[cc] = {
+            bucket_key: [
+                {k: v for k, v in record.items() if k != "technologies"}
+                for record in bucket_records
+            ]
+            for bucket_key, bucket_records in buckets.items()
+        }
+
+    # Limit top_tech_drilldowns to only the technologies shown in the table
+    # (top-N by page count, matching the _build_stats_block default).
+    # This avoids storing drilldown data for hundreds of technologies that are
+    # not visible on the page, which would substantially inflate the file size.
+    top_n_tech_names = {name for name, _ in tech_counts.most_common(_TOP_N_TECHS)}
+    slim_top_tech_drilldowns: dict = {}
+    for tech_name in top_n_tech_names:
+        records = top_tech_drilldowns.get(tech_name, [])
+        if max_drilldown_records is not None:
+            records = records[:max_drilldown_records]
+        slim_top_tech_drilldowns[tech_name] = records
+
+    # Limit top_cat_drilldowns to only the categories shown in the table
+    # (top-N by page count, matching the _build_stats_block default).
+    top_n_cat_names = {name for name, _ in cat_counts.most_common(_TOP_N_CATS)}
+    slim_top_cat_drilldowns: dict = {}
+    for cat_name in top_n_cat_names:
+        records = top_cat_drilldowns.get(cat_name, [])
+        if max_drilldown_records is not None:
+            records = records[:max_drilldown_records]
+        slim_top_cat_drilldowns[cat_name] = records
+
     data: dict = {
         "generated_at": generated_at,
         "summary": {
@@ -535,10 +584,12 @@ def generate_technology_report(
         "top_technologies": top_technologies,
         "top_categories": top_categories,
         "by_country": by_country,
-        "country_drilldowns": country_drilldowns,
-        "top_tech_drilldowns": top_tech_drilldowns,
-        "top_cat_drilldowns": top_cat_drilldowns,
+        "country_drilldowns": slim_country_drilldowns,
+        "top_tech_drilldowns": slim_top_tech_drilldowns,
+        "top_cat_drilldowns": slim_top_cat_drilldowns,
     }
+    if max_drilldown_records is not None:
+        data["drilldown_limit"] = max_drilldown_records
     data_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Data file written: {data_path}")
 
@@ -633,6 +684,18 @@ def main() -> None:
         type=Path,
         default=Path("data/toon-seeds"),
     )
+    parser.add_argument(
+        "--max-drilldown-records",
+        help=(
+            "Maximum number of page records to include per technology or "
+            "category key in the JSON drilldown data.  Lower values keep the "
+            "data file smaller and more reliable to serve.  Pass 0 to remove "
+            "the cap entirely (default: 2500)."
+        ),
+        type=int,
+        default=2500,
+        dest="max_drilldown_records",
+    )
 
     args = parser.parse_args()
 
@@ -642,8 +705,13 @@ def main() -> None:
         settings = load_settings()
         db_path = Path(settings.metadata_db_url.replace("sqlite:///", ""))
 
+    max_records: int | None = args.max_drilldown_records if args.max_drilldown_records > 0 else None
+
     try:
-        ok = generate_technology_report(db_path, args.page, args.data, args.seeds_dir)
+        ok = generate_technology_report(
+            db_path, args.page, args.data, args.seeds_dir,
+            max_drilldown_records=max_records,
+        )
         if not ok:
             sys.exit(1)
     except Exception as exc:
