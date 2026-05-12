@@ -9,18 +9,18 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-05-11 06:27 UTC — last scan: 2026-05-10_
+_Stats as of 2026-05-12 06:20 UTC — last scan: 2026-05-11_
 
-**58** scan batches run
+**63** scan batches run
 
-**27,196** of **65,681** available pages audited (**41.4%** coverage)
-**26,894** successful audits (**98.9%** of audited)
+**28,367** of **65,681** available pages audited (**43.2%** coverage)
+**28,057** successful audits (**98.9%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
 | Performance | Accessibility | Best Practices | SEO |
 |:-----------:|:-------------:|:--------------:|:---:|
-| 89 | 89 | 85 | 87 |
+| 90 | 89 | 85 | 87 |
 
 ---
 
@@ -63,6 +63,11 @@ _Stats as of 2026-05-11 06:27 UTC — last scan: 2026-05-10_
 | New Jersey | 203 | 203 | 88 | 82 | 81 | 86 | 2026-05-09 |
 | New Mexico | 288 | 288 | 86 | 86 | 87 | 84 | 2026-05-09 |
 | New York | 369 | 732 | 91 | 90 | 87 | 90 | 2026-05-09 |
+| North Carolina | 292 | 292 | 93 | 90 | 88 | 88 | 2026-05-11 |
+| North Dakota | 215 | 215 | 93 | 94 | 86 | 88 | 2026-05-11 |
+| Ohio | 388 | 388 | 92 | 90 | 89 | 86 | 2026-05-11 |
+| Oklahoma | 160 | 160 | 94 | 88 | 83 | 82 | 2026-05-11 |
+| Oregon | 116 | 163 | 92 | 85 | 85 | 82 | 2026-05-11 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
