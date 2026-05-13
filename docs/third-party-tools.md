@@ -8,7 +8,7 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-05-12 06:20 UTC — last scan: 2026-05-10_
+_Stats as of 2026-05-13 06:25 UTC — last scan: 2026-05-10_
 
 **234** scan batches run
 
