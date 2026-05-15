@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-05-14 06:24 UTC — last scan: 2026-05-14_
+_Stats as of 2026-05-15 06:26 UTC — last scan: 2026-05-14_
 
-**68** scan batches run
+**74** scan batches run
 
-**32,206** of **65,681** available pages audited (**49.0%** coverage)
-**31,869** successful audits (**99.0%** of audited)
+**34,622** of **65,681** available pages audited (**52.7%** coverage)
+**34,262** successful audits (**99.0%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -38,7 +38,7 @@ _Stats as of 2026-05-14 06:24 UTC — last scan: 2026-05-14_
 | Connecticut | 167 | 167 | 94 | 86 | 83 | 81 | 2026-04-28 |
 | DC | 423 | 486 | 90 | 90 | 73 | 84 | 2026-04-28 |
 | Delaware | 17 | 17 | 88 | 88 | 84 | 90 | 2026-04-30 |
-| Federal | 24,370 | 50,035 | 89 | 89 | 85 | 87 | 2026-05-14 |
+| Federal | 25,727 | 50,035 | 88 | 89 | 85 | 87 | 2026-05-14 |
 | Florida | 140 | 140 | 91 | 87 | 82 | 82 | 2026-04-30 |
 | Georgia | 217 | 217 | 92 | 85 | 86 | 83 | 2026-04-30 |
 | Hawaii | 8 | 8 | 89 | 88 | 51 | 92 | 2026-04-30 |
@@ -68,6 +68,10 @@ _Stats as of 2026-05-14 06:24 UTC — last scan: 2026-05-14_
 | Ohio | 388 | 388 | 92 | 90 | 89 | 86 | 2026-05-11 |
 | Oklahoma | 160 | 160 | 94 | 88 | 83 | 82 | 2026-05-11 |
 | Oregon | 116 | 163 | 92 | 85 | 85 | 82 | 2026-05-11 |
+| Pennsylvania | 354 | 354 | 91 | 84 | 85 | 82 | 2026-05-14 |
+| Puerto Rico | 496 | 496 | 90 | 87 | 84 | 88 | 2026-05-14 |
+| Rhode Island | 108 | 108 | 94 | 84 | 87 | 84 | 2026-05-14 |
+| South Carolina | 101 | 481 | 91 | 92 | 93 | 89 | 2026-05-14 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
