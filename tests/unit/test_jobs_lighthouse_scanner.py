@@ -2,10 +2,8 @@
 
 from __future__ import annotations
 
-import asyncio
 import json
 import sqlite3
-import tempfile
 from pathlib import Path
 from unittest.mock import AsyncMock, MagicMock, patch
 
@@ -14,9 +12,6 @@ import pytest
 from src.jobs.lighthouse_scanner import LighthouseScannerJob
 from src.lib.settings import Settings
 from src.services.lighthouse_scanner import LighthouseScanResult
-from src.storage.schema import initialize_schema
-
-
 # ---------------------------------------------------------------------------
 # Fixtures
 # ---------------------------------------------------------------------------
@@ -388,7 +383,6 @@ async def test_scan_all_countries_processes_all(temp_settings, toon_seeds_dir):
 @pytest.mark.asyncio
 async def test_scan_all_countries_stops_when_budget_exhausted(temp_settings, toon_seeds_dir):
     """With an already-exhausted time budget no countries are started."""
-    import time
     job = _make_job(temp_settings)
 
     call_count = 0
