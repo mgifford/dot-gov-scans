@@ -126,23 +126,23 @@ jobs:
             echo "Using manual federal URL batch index: $URL_BATCH_INDEX"
           else
             URL_BATCH_INDEX="$(python3 - "$FEDERAL_URL_BATCH_COUNT" <<'PY'
-from datetime import datetime, timezone
-import sys
+          from datetime import datetime, timezone
+          import sys
 
-batch_count = int(sys.argv[1])
-now = datetime.now(timezone.utc)
-# Scheduled federal runs execute in 6 UTC slots/day: 01,05,09,13,17,21
-# (matching this workflow's cron schedule).
-# Map each slot to a deterministic per-day increment [0..5].
-# Manual runs may not match a scheduled slot; those default to slot 0.
-slots = {1: 0, 5: 1, 9: 2, 13: 3, 17: 4, 21: 5}
-slot_index = slots.get(now.hour, 0)
-# Monotonic cycle counter: increments once per schedule slot (6/day), then
-# rotates through all URL batches via modulo.
-cycle_number = (now.toordinal() * 6) + slot_index
-print(cycle_number % batch_count)
-PY
-)"
+          batch_count = int(sys.argv[1])
+          now = datetime.now(timezone.utc)
+          # Scheduled federal runs execute in 6 UTC slots/day: 01,05,09,13,17,21
+          # (matching this workflow's cron schedule).
+          # Map each slot to a deterministic per-day increment [0..5].
+          # Manual runs may not match a scheduled slot; those default to slot 0.
+          slots = {1: 0, 5: 1, 9: 2, 13: 3, 17: 4, 21: 5}
+          slot_index = slots.get(now.hour, 0)
+          # Monotonic cycle counter: increments once per schedule slot (6/day), then
+          # rotates through all URL batches via modulo.
+          cycle_number = (now.toordinal() * 6) + slot_index
+          print(cycle_number % batch_count)
+          PY
+          )"
             echo "Auto-selected federal URL batch index: $URL_BATCH_INDEX"
           fi
 
