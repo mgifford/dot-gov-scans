@@ -33,6 +33,16 @@ on:
         required: false
         default: '30'
         type: string
+      federal_url_batch_count:
+        description: 'Number of deterministic federal URL batches (default: 144)'
+        required: false
+        default: '144'
+        type: string
+      federal_url_batch_index:
+        description: 'Zero-based federal URL batch index override (empty = auto-rotate)'
+        required: false
+        default: ''
+        type: string
 
 # Separate concurrency group from the general Lighthouse workflow so both can
 # run simultaneously.  cancel-in-progress: false ensures a long federal scan
@@ -98,13 +108,55 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Lighthouse scan (Federal seed)
+        env:
+          FEDERAL_URL_BATCH_COUNT: ${{ github.event.inputs.federal_url_batch_count || '144' }}
+          FEDERAL_URL_BATCH_INDEX: ${{ github.event.inputs.federal_url_batch_index || '' }}
         run: |
+          if ! [[ "$FEDERAL_URL_BATCH_COUNT" =~ ^[0-9]+$ ]] || [ "$FEDERAL_URL_BATCH_COUNT" -lt 1 ]; then
+            echo "federal_url_batch_count must be a positive integer" >&2
+            exit 1
+          fi
+
+          if [ -n "$FEDERAL_URL_BATCH_INDEX" ]; then
+            if ! [[ "$FEDERAL_URL_BATCH_INDEX" =~ ^[0-9]+$ ]] || [ "$FEDERAL_URL_BATCH_INDEX" -ge "$FEDERAL_URL_BATCH_COUNT" ]; then
+              echo "federal_url_batch_index must be an integer in [0, $((FEDERAL_URL_BATCH_COUNT - 1))]" >&2
+              exit 1
+            fi
+            URL_BATCH_INDEX="$FEDERAL_URL_BATCH_INDEX"
+            echo "Using manual federal URL batch index: $URL_BATCH_INDEX"
+          else
+            URL_BATCH_INDEX="$(python3 - "$FEDERAL_URL_BATCH_COUNT" <<'PY'
+from datetime import datetime, timezone
+import sys
+
+batch_count = int(sys.argv[1])
+now = datetime.now(timezone.utc)
+# Scheduled federal runs execute in 6 UTC slots/day: 01,05,09,13,17,21
+# (matching this workflow's cron schedule).
+# Map each slot to a deterministic per-day increment [0..5].
+# Manual runs may not match a scheduled slot; those default to slot 0.
+slots = {1: 0, 5: 1, 9: 2, 13: 3, 17: 4, 21: 5}
+slot_index = slots.get(now.hour, 0)
+# Monotonic cycle counter: increments once per schedule slot (6/day), then
+# rotates through all URL batches via modulo.
+cycle_number = (now.toordinal() * 6) + slot_index
+print(cycle_number % batch_count)
+PY
+)"
+            echo "Auto-selected federal URL batch index: $URL_BATCH_INDEX"
+          fi
+
+          echo "FEDERAL_URL_BATCH_COUNT=$FEDERAL_URL_BATCH_COUNT" >> "$GITHUB_ENV"
+          echo "FEDERAL_URL_BATCH_INDEX=$URL_BATCH_INDEX" >> "$GITHUB_ENV"
+
           python3 -m src.cli.scan_lighthouse \
             --country FEDERAL \
             --max-runtime 110 \
             --rate-limit "${{ github.event.inputs.rate_limit || '0.5' }}" \
             --concurrency "${{ github.event.inputs.concurrency || '5' }}" \
             --skip-recently-scanned-days "${{ github.event.inputs.skip_recently_scanned_days || '30' }}" \
+            --url-batch-count "$FEDERAL_URL_BATCH_COUNT" \
+            --url-batch-index "$URL_BATCH_INDEX" \
             --only-categories "performance,accessibility,best-practices,seo" \
             --throttling-method "provided" \
             2>&1 | tee lighthouse-federal-scan-output.txt
@@ -135,6 +187,14 @@ jobs:
       - name: Display scan summary
         if: always()
         run: |
+          SUMMARY_BATCH_COUNT="${FEDERAL_URL_BATCH_COUNT:-1}"
+          SUMMARY_BATCH_INDEX="${FEDERAL_URL_BATCH_INDEX:-0}"
+          if ! [[ "$SUMMARY_BATCH_COUNT" =~ ^[0-9]+$ ]] || [ "$SUMMARY_BATCH_COUNT" -lt 1 ]; then
+            SUMMARY_BATCH_COUNT=1
+          fi
+          if ! [[ "$SUMMARY_BATCH_INDEX" =~ ^[0-9]+$ ]]; then
+            SUMMARY_BATCH_INDEX=0
+          fi
           echo "## Lighthouse Scan Summary (Federal)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           if [ -f lighthouse-federal-scan-output.txt ]; then
@@ -147,4 +207,5 @@ jobs:
           echo "- Rate Limit: ${{ github.event.inputs.rate_limit || '0.5' }} runs/sec" >> $GITHUB_STEP_SUMMARY
           echo "- Concurrency: ${{ github.event.inputs.concurrency || '5' }} parallel processes" >> $GITHUB_STEP_SUMMARY
           echo "- Skip recently scanned: ${{ github.event.inputs.skip_recently_scanned_days || '30' }} days" >> $GITHUB_STEP_SUMMARY
+          echo "- Federal URL batch: $((SUMMARY_BATCH_INDEX + 1))/$SUMMARY_BATCH_COUNT (0-based index: $SUMMARY_BATCH_INDEX)" >> $GITHUB_STEP_SUMMARY
           echo "- Workflow Run: [\#${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY

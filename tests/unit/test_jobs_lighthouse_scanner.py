@@ -2,10 +2,8 @@
 
 from __future__ import annotations
 
-import asyncio
 import json
 import sqlite3
-import tempfile
 from pathlib import Path
 from unittest.mock import AsyncMock, MagicMock, patch
 
@@ -14,9 +12,6 @@ import pytest
 from src.jobs.lighthouse_scanner import LighthouseScannerJob
 from src.lib.settings import Settings
 from src.services.lighthouse_scanner import LighthouseScanResult
-from src.storage.schema import initialize_schema
-
-
 # ---------------------------------------------------------------------------
 # Fixtures
 # ---------------------------------------------------------------------------
@@ -87,7 +82,7 @@ def _make_result(url: str, error: str | None = None) -> LighthouseScanResult:
 
 
 # ---------------------------------------------------------------------------
-# _load_toon_file / _extract_urls_from_toon
+# _load_toon_file / _extract_urls_from_toon / _select_urls_for_batch
 # ---------------------------------------------------------------------------
 
 
@@ -108,6 +103,47 @@ def test_extract_urls_empty_toon(temp_settings, empty_toon):
     job = _make_job(temp_settings)
     data = job._load_toon_file(empty_toon)
     assert job._extract_urls_from_toon(data) == []
+
+
+def test_select_urls_for_batch_partitions_and_covers_all_urls(temp_settings):
+    job = _make_job(temp_settings)
+    urls = [
+        "https://gov.example/",
+        "https://gov.example/about",
+        "https://alpha.gov/",
+        "https://beta.gov/",
+    ]
+
+    batch_0 = job._select_urls_for_batch(urls, batch_count=2, batch_index=0)
+    batch_1 = job._select_urls_for_batch(urls, batch_count=2, batch_index=1)
+
+    assert set(batch_0).isdisjoint(set(batch_1))
+    assert set(batch_0 + batch_1) == set(urls)
+
+
+def test_select_urls_for_batch_is_deterministic(temp_settings):
+    job = _make_job(temp_settings)
+    urls = [
+        "https://gov.example/",
+        "https://gov.example/about",
+        "https://alpha.gov/",
+        "https://beta.gov/",
+    ]
+    first = job._select_urls_for_batch(urls, batch_count=3, batch_index=1)
+    second = job._select_urls_for_batch(urls, batch_count=3, batch_index=1)
+    assert first == second
+
+
+def test_select_urls_for_batch_rejects_invalid_count(temp_settings):
+    job = _make_job(temp_settings)
+    with pytest.raises(ValueError, match="url_batch_count must be >= 1"):
+        job._select_urls_for_batch(["https://gov.example/"], batch_count=0, batch_index=0)
+
+
+def test_select_urls_for_batch_rejects_out_of_range_index(temp_settings):
+    job = _make_job(temp_settings)
+    with pytest.raises(ValueError, match=r"url_batch_index must be in range \[0, 1\]"):
+        job._select_urls_for_batch(["https://gov.example/"], batch_count=2, batch_index=2)
 
 
 # ---------------------------------------------------------------------------
@@ -307,6 +343,33 @@ async def test_scan_country_passes_max_runtime(temp_settings, sample_toon):
     assert kwargs["start_time"] == t0
 
 
+@pytest.mark.asyncio
+async def test_scan_country_passes_url_batch_args_and_stats(temp_settings, sample_toon):
+    """URL batching args are forwarded and reflected in returned stats."""
+    job = _make_job(temp_settings)
+
+    async def _mock_scan(urls, *args, **kwargs):
+        return {url: _make_result(url) for url in urls}
+
+    job.scanner.scan_urls_batch = AsyncMock(side_effect=_mock_scan)
+
+    stats = await job.scan_country(
+        "TESTLAND",
+        sample_toon,
+        url_batch_count=2,
+        url_batch_index=0,
+    )
+
+    _, kwargs = job.scanner.scan_urls_batch.call_args
+    selected_urls = kwargs["urls"] if "urls" in kwargs else job.scanner.scan_urls_batch.call_args.args[0]
+    assert 0 <= len(selected_urls) <= 2
+    assert stats["total_urls"] == 2
+    assert stats["target_urls"] == len(selected_urls)
+    assert stats["batch_urls_total"] == len(selected_urls)
+    assert stats["url_batch_count"] == 2
+    assert stats["url_batch_index"] == 0
+
+
 # ---------------------------------------------------------------------------
 # scan_all_countries
 # ---------------------------------------------------------------------------
@@ -345,7 +408,6 @@ async def test_scan_all_countries_processes_all(temp_settings, toon_seeds_dir):
 @pytest.mark.asyncio
 async def test_scan_all_countries_stops_when_budget_exhausted(temp_settings, toon_seeds_dir):
     """With an already-exhausted time budget no countries are started."""
-    import time
     job = _make_job(temp_settings)
 
     call_count = 0

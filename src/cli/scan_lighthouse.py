@@ -108,6 +108,26 @@ def main():
         default=None,
         dest="throttling_method",
     )
+    parser.add_argument(
+        "--url-batch-count",
+        help=(
+            "Split the selected seed URLs into this many deterministic batches "
+            "(default: 1 = no URL sharding)."
+        ),
+        type=int,
+        default=1,
+        dest="url_batch_count",
+    )
+    parser.add_argument(
+        "--url-batch-index",
+        help=(
+            "Zero-based URL batch index to scan when --url-batch-count > 1 "
+            "(default: 0)."
+        ),
+        type=int,
+        default=0,
+        dest="url_batch_index",
+    )
 
     args = parser.parse_args()
 
@@ -195,6 +215,8 @@ def main():
                     max_runtime_seconds=max_runtime_seconds,
                     skip_recently_scanned_days=args.skip_recently_scanned_days,
                     concurrency=args.concurrency,
+                    url_batch_count=args.url_batch_count,
+                    url_batch_index=args.url_batch_index,
                 )
             )
 
