@@ -100,6 +100,13 @@ python3 scripts/split_usa_csv_to_toons.py
 - `src/storage/` metadata schema and DB helpers
 - `docs/` public reports and methodology pages
 
+## Behavior Specifications (BDD)
+
+- Behavior index: [`FEATURES.md`](FEATURES.md)
+- Gherkin specs by pillar: [`features/`](features/)
+- Existing fast implementation coverage remains in `pytest`; site behavior uses Playwright-based checks.
+
+
 ## Notes
 
 - `data/metadata.db` is local runtime state and should not be committed.
