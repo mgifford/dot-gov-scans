@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import sqlite3
 import time
 from datetime import datetime, timedelta, timezone
@@ -47,6 +48,29 @@ class LighthouseScannerJob:
         Includes URLs derived from ``candidate_paths`` entries on each domain.
         """
         return extract_urls_from_toon(toon_data)
+
+    def _select_urls_for_batch(
+        self,
+        urls: List[str],
+        batch_count: int,
+        batch_index: int,
+    ) -> List[str]:
+        """Select a deterministic URL shard for batched scanning."""
+        if batch_count < 1:
+            raise ValueError("url_batch_count must be >= 1")
+        if batch_index < 0 or batch_index >= batch_count:
+            raise ValueError(
+                f"url_batch_index must be in range [0, {batch_count - 1}]"
+            )
+        if batch_count == 1:
+            return urls
+
+        return [
+            url
+            for url in urls
+            if int(hashlib.md5(url.encode("utf-8")).hexdigest(), 16) % batch_count
+            == batch_index
+        ]
 
     def _get_last_scan_time_per_country(self) -> Dict[str, str]:
         """Return the latest ``scanned_at`` timestamp per country code.
@@ -118,6 +142,10 @@ class LighthouseScannerJob:
         urls_skipped: int,
         output_path: Path,
         scan_results: Dict[str, LighthouseScanResult] | None = None,
+        target_urls: int | None = None,
+        batch_urls_total: int | None = None,
+        url_batch_count: int | None = None,
+        url_batch_index: int | None = None,
     ) -> Dict[str, Any]:
         """Build the scan statistics dictionary returned by :meth:`scan_country`.
 
@@ -125,11 +153,14 @@ class LighthouseScannerJob:
         When *scan_results* is ``None`` (all URLs were recently-scanned and
         skipped) the counts and averages default to zero / ``None``.
         """
+        expected_scans = target_urls if target_urls is not None else (total_urls - urls_skipped)
+
         if scan_results is None:
-            return {
+            stats = {
                 "scan_id": scan_id,
                 "country_code": country_code,
                 "total_urls": total_urls,
+                "target_urls": expected_scans,
                 "urls_scanned": 0,
                 "urls_skipped_recently_scanned": urls_skipped,
                 "is_complete": True,
@@ -141,9 +172,16 @@ class LighthouseScannerJob:
                 "avg_seo": None,
                 "output_path": str(output_path),
             }
+            if batch_urls_total is not None:
+                stats["batch_urls_total"] = batch_urls_total
+            if url_batch_count is not None:
+                stats["url_batch_count"] = url_batch_count
+            if url_batch_index is not None:
+                stats["url_batch_index"] = url_batch_index
+            return stats
 
         scanned_count = len(scan_results)
-        is_complete = scanned_count == (total_urls - urls_skipped)
+        is_complete = scanned_count == expected_scans
         success_count = sum(1 for r in scan_results.values() if not r.error_message)
 
         def _avg(attr: str) -> float | None:
@@ -154,10 +192,11 @@ class LighthouseScannerJob:
             ]
             return round(sum(vals) / len(vals), 3) if vals else None
 
-        return {
+        stats = {
             "scan_id": scan_id,
             "country_code": country_code,
             "total_urls": total_urls,
+            "target_urls": expected_scans,
             "urls_scanned": scanned_count,
             "urls_skipped_recently_scanned": urls_skipped,
             "is_complete": is_complete,
@@ -169,6 +208,13 @@ class LighthouseScannerJob:
             "avg_seo": _avg("seo_score"),
             "output_path": str(output_path),
         }
+        if batch_urls_total is not None:
+            stats["batch_urls_total"] = batch_urls_total
+        if url_batch_count is not None:
+            stats["url_batch_count"] = url_batch_count
+        if url_batch_index is not None:
+            stats["url_batch_index"] = url_batch_index
+        return stats
 
     def _save_lighthouse_results(
         self,
@@ -247,6 +293,8 @@ class LighthouseScannerJob:
         start_time: Optional[float] = None,
         skip_recently_scanned_days: int = 0,
         concurrency: int = 1,
+        url_batch_count: int = 1,
+        url_batch_index: int = 0,
     ) -> Dict[str, Any]:
         """
         Run Lighthouse audits for all URLs in a country's TOON file.
@@ -269,6 +317,10 @@ class LighthouseScannerJob:
                 re-scan all URLs.
             concurrency: Maximum number of parallel Lighthouse processes.
                 Defaults to 1 (sequential).
+            url_batch_count: Number of deterministic URL shards to split the
+                seed into.  1 scans all URLs.
+            url_batch_index: Zero-based shard index to scan when
+                ``url_batch_count`` > 1.
 
         Returns:
             Scan statistics dictionary.
@@ -284,8 +336,20 @@ class LighthouseScannerJob:
 
         toon_data = self._load_toon_file(toon_path)
         all_urls = self._extract_urls_from_toon(toon_data)
+        selected_urls = self._select_urls_for_batch(
+            all_urls,
+            batch_count=url_batch_count,
+            batch_index=url_batch_index,
+        )
 
-        print(f"Found {len(all_urls)} URLs to scan")
+        print(f"Found {len(all_urls)} URLs in seed")
+        if url_batch_count > 1:
+            print(
+                f"Selected URL batch {url_batch_index + 1}/{url_batch_count} "
+                f"with {len(selected_urls)} URLs"
+            )
+        else:
+            print(f"Selected {len(selected_urls)} URLs to scan")
 
         recently_scanned: Set[str] = set()
         if skip_recently_scanned_days > 0:
@@ -298,14 +362,23 @@ class LighthouseScannerJob:
                     f"within the last {skip_recently_scanned_days} day(s)"
                 )
 
-        urls = [u for u in all_urls if u not in recently_scanned]
+        recently_scanned_selected = {u for u in selected_urls if u in recently_scanned}
+        urls = [u for u in selected_urls if u not in recently_scanned]
         if not urls:
-            print(f"All {len(all_urls)} URLs were recently scanned — nothing to do")
+            print(f"All {len(selected_urls)} selected URLs were recently scanned — nothing to do")
             output_path = (
                 toon_path.parent / f"{toon_path.stem}_lighthouse{toon_path.suffix}"
             )
             return self._build_scan_stats(
-                scan_id, country_code, len(all_urls), len(recently_scanned), output_path
+                scan_id,
+                country_code,
+                len(all_urls),
+                len(recently_scanned_selected),
+                output_path,
+                target_urls=len(urls),
+                batch_urls_total=len(selected_urls),
+                url_batch_count=url_batch_count,
+                url_batch_index=url_batch_index,
             )
 
         _start = start_time if start_time is not None else time.monotonic()
@@ -342,14 +415,22 @@ class LighthouseScannerJob:
             )
 
         stats = self._build_scan_stats(
-            scan_id, country_code, len(all_urls), len(recently_scanned),
-            output_path, scan_results
+            scan_id,
+            country_code,
+            len(all_urls),
+            len(recently_scanned_selected),
+            output_path,
+            scan_results,
+            target_urls=len(urls),
+            batch_urls_total=len(selected_urls),
+            url_batch_count=url_batch_count,
+            url_batch_index=url_batch_index,
         )
 
         print(f"\nLighthouse scan {'complete' if is_complete else 'partial'}:")
-        print(f"  Scanned:          {scanned_count}/{len(urls)}")
-        if recently_scanned:
-            print(f"  Skipped (recently scanned): {len(recently_scanned)}")
+        print(f"  Scanned:          {scanned_count}/{len(urls)} selected URLs")
+        if recently_scanned_selected:
+            print(f"  Skipped (recently scanned): {len(recently_scanned_selected)}")
         print(f"  Success:          {stats['success_count']}")
         print(f"  Errors:           {stats['error_count']}")
         if stats["avg_accessibility"] is not None:
