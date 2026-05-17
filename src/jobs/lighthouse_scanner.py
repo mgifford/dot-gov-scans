@@ -65,12 +65,16 @@ class LighthouseScannerJob:
         if batch_count == 1:
             return urls
 
-        return [
-            url
-            for url in urls
-            if int(hashlib.md5(url.encode("utf-8")).hexdigest(), 16) % batch_count
-            == batch_index
-        ]
+        selected_urls: List[str] = []
+        for url in urls:
+            # SHA-256 is used for stable, deterministic partitioning (not security).
+            # First 16 hex chars are enough entropy for even sharding and
+            # avoid converting the full 256-bit digest to int.
+            url_hash_prefix = hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
+            url_partition = int(url_hash_prefix, 16) % batch_count
+            if url_partition == batch_index:
+                selected_urls.append(url)
+        return selected_urls
 
     def _get_last_scan_time_per_country(self) -> Dict[str, str]:
         """Return the latest ``scanned_at`` timestamp per country code.

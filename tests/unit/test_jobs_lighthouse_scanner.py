@@ -121,6 +121,31 @@ def test_select_urls_for_batch_partitions_and_covers_all_urls(temp_settings):
     assert set(batch_0 + batch_1) == set(urls)
 
 
+def test_select_urls_for_batch_is_deterministic(temp_settings):
+    job = _make_job(temp_settings)
+    urls = [
+        "https://gov.example/",
+        "https://gov.example/about",
+        "https://alpha.gov/",
+        "https://beta.gov/",
+    ]
+    first = job._select_urls_for_batch(urls, batch_count=3, batch_index=1)
+    second = job._select_urls_for_batch(urls, batch_count=3, batch_index=1)
+    assert first == second
+
+
+def test_select_urls_for_batch_rejects_invalid_count(temp_settings):
+    job = _make_job(temp_settings)
+    with pytest.raises(ValueError, match="url_batch_count must be >= 1"):
+        job._select_urls_for_batch(["https://gov.example/"], batch_count=0, batch_index=0)
+
+
+def test_select_urls_for_batch_rejects_out_of_range_index(temp_settings):
+    job = _make_job(temp_settings)
+    with pytest.raises(ValueError, match=r"url_batch_index must be in range \[0, 1\]"):
+        job._select_urls_for_batch(["https://gov.example/"], batch_count=2, batch_index=2)
+
+
 # ---------------------------------------------------------------------------
 # _update_toon_with_lighthouse
 # ---------------------------------------------------------------------------
