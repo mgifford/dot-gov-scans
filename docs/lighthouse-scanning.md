@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-05-20 06:35 UTC — last scan: 2026-05-16_
+_Stats as of 2026-05-21 06:36 UTC — last scan: 2026-05-20_
 
-**76** scan batches run
+**92** scan batches run
 
-**35,670** of **65,681** available pages audited (**54.3%** coverage)
-**35,200** successful audits (**98.7%** of audited)
+**37,919** of **65,681** available pages audited (**57.7%** coverage)
+**37,496** successful audits (**98.9%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -28,12 +28,12 @@ _Stats as of 2026-05-20 06:35 UTC — last scan: 2026-05-16_
 
 | Country | Audited | Available | Perf | A11y | Best Practices | SEO | Last Scan |
 |---------|--------:|----------:|:----:|:----:|:--------------:|:---:|-----------|
-| Alabama | 48 | 48 | 92 | 85 | 85 | 82 | 2026-04-25 |
-| Alaska | 34 | 34 | 94 | 89 | 83 | 87 | 2026-04-25 |
+| Alabama | 48 | 48 | 92 | 85 | 85 | 82 | 2026-05-20 |
+| Alaska | 34 | 34 | 95 | 88 | 84 | 88 | 2026-05-20 |
 | American Samoa | 7 | 7 | 100 | 96 | 100 | 91 | 2026-04-25 |
-| Arizona | 337 | 337 | 95 | 91 | 90 | 83 | 2026-04-25 |
-| Arkansas | 29 | 29 | 95 | 93 | 93 | 90 | 2026-04-25 |
-| California | 229 | 2,495 | 94 | 91 | 86 | 89 | 2026-04-26 |
+| Arizona | 337 | 337 | 95 | 92 | 90 | 84 | 2026-05-20 |
+| Arkansas | 29 | 29 | 95 | 93 | 94 | 90 | 2026-05-20 |
+| California | 518 | 2,495 | 91 | 91 | 86 | 89 | 2026-05-20 |
 | Colorado | 134 | 134 | 93 | 90 | 82 | 87 | 2026-04-28 |
 | Connecticut | 167 | 167 | 94 | 86 | 83 | 81 | 2026-04-28 |
 | DC | 423 | 486 | 90 | 90 | 73 | 84 | 2026-04-28 |
@@ -72,6 +72,17 @@ _Stats as of 2026-05-20 06:35 UTC — last scan: 2026-05-16_
 | Puerto Rico | 496 | 496 | 90 | 87 | 84 | 88 | 2026-05-14 |
 | Rhode Island | 108 | 108 | 94 | 84 | 87 | 84 | 2026-05-14 |
 | South Carolina | 101 | 481 | 91 | 92 | 93 | 89 | 2026-05-14 |
+| South Dakota | 164 | 164 | 90 | 86 | 79 | 87 | 2026-05-20 |
+| Tennessee | 162 | 162 | 91 | 90 | 79 | 85 | 2026-05-20 |
+| Texas | 562 | 562 | 92 | 89 | 76 | 86 | 2026-05-20 |
+| US Virgin Islands | 64 | 64 | 93 | 87 | 87 | 86 | 2026-05-20 |
+| Utah | 21 | 9 | 96 | 80 | 68 | 74 | 2026-05-20 |
+| Vermont | 15 | 15 | 98 | 78 | 88 | 80 | 2026-05-20 |
+| Virginia | 79 | 79 | 93 | 86 | 82 | 87 | 2026-05-20 |
+| Washington | 73 | 713 | 94 | 87 | 85 | 85 | 2026-05-20 |
+| West Virginia | 217 | 217 | 89 | 90 | 76 | 92 | 2026-05-20 |
+| Wisconsin | 573 | 573 | 91 | 90 | 85 | 88 | 2026-05-20 |
+| Wyoming | 30 | 30 | 93 | 86 | 82 | 86 | 2026-05-20 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
