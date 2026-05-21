@@ -11,6 +11,7 @@ import pytest
 from src.cli.generate_technology_report import (
     _aggregate_tech_counts,
     _build_stats_block,
+    _build_technology_index,
     _build_top_drilldowns_from_country,
     _query_by_country,
     _query_country_drilldowns,
@@ -625,6 +626,63 @@ def test_query_tech_rows_no_double_counting(duplicate_scan_db: Path):
 
 
 # ---------------------------------------------------------------------------
+# Tests for _build_technology_index
+# ---------------------------------------------------------------------------
+
+def test_build_technology_index_empty_db(empty_db: Path):
+    """Should return empty index mappings for an empty database."""
+    conn = sqlite3.connect(empty_db)
+    conn.row_factory = sqlite3.Row
+    try:
+        result = _build_technology_index(conn, "2024-06-01 12:00 UTC")
+    finally:
+        conn.close()
+
+    assert result["by_technology"] == {}
+    assert result["by_category"] == {}
+    assert "generated_at" in result
+    assert "base_url" in result
+    assert "note" in result
+
+
+def test_build_technology_index_populated_db(populated_db: Path):
+    """Should aggregate technology counts and by_country totals correctly."""
+    conn = sqlite3.connect(populated_db)
+    conn.row_factory = sqlite3.Row
+    try:
+        result = _build_technology_index(conn, "2024-06-01 12:00 UTC")
+    finally:
+        conn.close()
+
+    by_tech = result["by_technology"]
+    assert by_tech["Nginx"]["pages"] == 2
+    assert by_tech["Nginx"]["categories"] == ["Web servers"]
+    assert by_tech["Nginx"]["by_country"]["ICELAND"] == 2
+    assert by_tech["Apache"]["by_country"]["FRANCE"] == 2
+
+    by_cat = result["by_category"]
+    assert "Web servers" in by_cat
+    assert by_cat["Web servers"]["pages"] == 4
+    assert "Nginx" in by_cat["Web servers"]["technologies"]
+    assert "Apache" in by_cat["Web servers"]["technologies"]
+
+
+def test_build_technology_index_no_double_counting(duplicate_scan_db: Path):
+    """Each latest successful (country, url) record should be counted once."""
+    conn = sqlite3.connect(duplicate_scan_db)
+    conn.row_factory = sqlite3.Row
+    try:
+        result = _build_technology_index(conn, "2024-06-01 12:00 UTC")
+    finally:
+        conn.close()
+
+    by_tech = result["by_technology"]
+    assert by_tech["Nginx"]["pages"] == 1
+    assert by_tech["WordPress"]["pages"] == 1
+    assert by_tech["Nginx"]["by_country"]["ICELAND"] == 1
+
+
+# ---------------------------------------------------------------------------
 # Tests for _count_toon_seed_urls
 # ---------------------------------------------------------------------------
 
@@ -915,3 +973,37 @@ def test_no_drilldown_limit_field_when_none(
     data = json.loads(data_path.read_text())
     assert "drilldown_limit" not in data
 
+
+def test_generate_technology_report_writes_index(populated_db: Path, tmp_path: Path):
+    """Should write technology-index.json when index_path is supplied."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+    index_path = tmp_path / "technology-index.json"
+
+    result = generate_technology_report(
+        populated_db,
+        page_path,
+        data_path,
+        index_path=index_path,
+    )
+
+    assert result is True
+    assert index_path.exists()
+    index = json.loads(index_path.read_text())
+    assert "generated_at" in index
+    assert "by_technology" in index
+    assert "by_category" in index
+    assert "Nginx" in index["by_technology"]
+
+
+def test_generate_technology_report_no_index_by_default(populated_db: Path, tmp_path: Path):
+    """Should not write technology-index.json when index_path is omitted."""
+    page_path = tmp_path / "technology-scanning.md"
+    page_path.write_text(_TECH_PAGE_TEMPLATE)
+    data_path = tmp_path / "technology-data.json"
+    index_path = tmp_path / "technology-index.json"
+
+    generate_technology_report(populated_db, page_path, data_path)
+
+    assert not index_path.exists()

@@ -131,6 +131,6 @@ _Stats as of 2026-05-21 06:36 UTC — last scan: 2026-05-20_
 
 > Hover or focus any non-zero page count to preview matching pages. Activate the number to keep the preview open and download a CSV.
 
-📥 Machine-readable results: [Download machine-readable technology data (JSON)](technology-data.json)
+📥 Machine-readable results: [Download machine-readable technology data (JSON)](technology-data.json) · [Download technology index (JSON)](technology-index.json)
 
 <!-- TECH_STATS_END -->

@@ -95,6 +95,7 @@ jobs:
           python3 -m src.cli.generate_technology_report \
             --page docs/technology-scanning.md \
             --data docs/technology-data.json \
+            --index docs/technology-index.json \
             --seeds-dir data/toon-seeds \
             2>&1 | tee technology-report-output.txt
 
@@ -131,7 +132,7 @@ jobs:
           # All four files are still uploaded as workflow artifacts above.
           git add docs/scan-progress.md docs/domains.md docs/index.md \
                   docs/social-media.md \
-                  docs/technology-scanning.md \
+                  docs/technology-scanning.md docs/technology-index.json \
                   docs/third-party-tools.md docs/third-party-tools-data.json \
                   docs/accessibility-statements.md \
                   docs/lighthouse-scanning.md \
@@ -158,6 +159,7 @@ jobs:
             docs/social-media-data.json
             docs/technology-scanning.md
             docs/technology-data.json
+            docs/technology-index.json
             docs/third-party-tools.md
             docs/third-party-tools-data.json
             docs/accessibility-statements.md
