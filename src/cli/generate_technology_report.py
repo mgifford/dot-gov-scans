@@ -3,9 +3,12 @@
 Queries the metadata database for aggregate technology scan statistics
 and updates ``docs/technology-scanning.md`` with a live stats block between
 ``<!-- TECH_STATS_START -->`` and ``<!-- TECH_STATS_END -->``
-markers.  A summary JSON data file (``docs/technology-data.json``) is also
-written so that external tools and the page itself can link directly to the
-machine-readable results.
+markers. Two JSON outputs can be written:
+
+* ``docs/technology-data.json`` — full data including per-country page-level
+  drilldowns.
+* ``docs/technology-index.json`` — compact cross-reference data keyed by
+  technology and category for API use.
 """
 
 from __future__ import annotations
@@ -310,6 +313,98 @@ def _aggregate_tech_counts(
     return tech_counts, cat_counts, sorted_tech_categories
 
 
+def _build_technology_index(
+    conn: sqlite3.Connection,
+    generated_at: str,
+    base_url: str = "https://mgifford.github.io/dot-gov-scans/",
+) -> dict:
+    """Build compact technology/category indexes for API consumers."""
+    rows = conn.execute(
+        """
+        SELECT country_code, url, technologies
+        FROM url_tech_results AS t
+        WHERE error_message IS NULL
+          AND technologies != '{}'
+          AND scanned_at = (
+              SELECT MAX(scanned_at)
+              FROM url_tech_results AS t2
+              WHERE t2.url = t.url
+                AND t2.country_code = t.country_code
+                AND t2.error_message IS NULL
+          )
+        ORDER BY country_code, url
+        """
+    ).fetchall()
+
+    tech_pages: Counter = Counter()
+    tech_countries: dict[str, Counter] = {}
+    tech_categories: dict[str, set[str]] = {}
+    seen: set[tuple[str, str, str]] = set()
+
+    for row in rows:
+        country_code = row["country_code"]
+        url = row["url"]
+        raw_tech = row["technologies"]
+        seen_key = (country_code, url, raw_tech or "")
+        if seen_key in seen:
+            continue
+        seen.add(seen_key)
+
+        try:
+            techs: dict = json.loads(raw_tech or "{}")
+        except (json.JSONDecodeError, TypeError):
+            continue
+
+        for tech_name, tech_info in techs.items():
+            tech_pages[tech_name] += 1
+            tech_counters = tech_countries.setdefault(tech_name, Counter())
+            tech_counters[country_code] += 1
+
+            if not isinstance(tech_info, dict):
+                continue
+            cats = tech_info.get("categories", [])
+            if tech_name not in tech_categories:
+                tech_categories[tech_name] = set()
+            for cat in cats:
+                if isinstance(cat, str):
+                    tech_categories[tech_name].add(cat)
+
+    cat_pages: Counter = Counter()
+    cat_techs: dict[str, set[str]] = {}
+    for tech_name, cats in tech_categories.items():
+        for cat in cats:
+            cat_pages[cat] += tech_pages[tech_name]
+            cat_techs.setdefault(cat, set()).add(tech_name)
+
+    by_technology = {
+        tech_name: {
+            "pages": tech_pages[tech_name],
+            "categories": sorted(tech_categories.get(tech_name, set())),
+            "by_country": dict(sorted(tech_countries.get(tech_name, Counter()).items())),
+        }
+        for tech_name in sorted(tech_pages.keys(), key=lambda x: (-tech_pages[x], x))
+    }
+
+    by_category = {
+        cat_name: {
+            "pages": cat_pages[cat_name],
+            "technologies": sorted(cat_techs.get(cat_name, set())),
+        }
+        for cat_name in sorted(cat_pages.keys(), key=lambda x: (-cat_pages[x], x))
+    }
+
+    return {
+        "generated_at": generated_at,
+        "base_url": base_url,
+        "note": (
+            "Compact cross-reference index mapping technology names and categories "
+            "to page counts and per-jurisdiction totals."
+        ),
+        "by_technology": by_technology,
+        "by_category": by_category,
+    }
+
+
 # ---------------------------------------------------------------------------
 # Stats block builder
 # ---------------------------------------------------------------------------
@@ -470,6 +565,7 @@ def generate_technology_report(
     data_path: Path,
     toon_seeds_dir: Path | None = None,
     max_drilldown_records: int | None = None,
+    index_path: Path | None = None,
 ) -> bool:
     """Update *page_path* stats block and write *data_path* JSON.
 
@@ -486,6 +582,7 @@ def generate_technology_report(
             means no limit.  Setting a limit keeps the data file small enough
             to be reliably served by GitHub Pages even for technologies with
             tens of thousands of matching pages.
+        index_path: Optional output path for compact API index JSON.
 
     Returns ``True`` on success, ``False`` when the markers are missing from
     *page_path* (the page is left unchanged in that case).
@@ -593,6 +690,32 @@ def generate_technology_report(
     data_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Data file written: {data_path}")
 
+    if index_path is not None:
+        index_path.parent.mkdir(parents=True, exist_ok=True)
+        if db_path.exists():
+            conn = sqlite3.connect(db_path)
+            conn.row_factory = sqlite3.Row
+            try:
+                index_data = _build_technology_index(conn, generated_at)
+            finally:
+                conn.close()
+        else:
+            index_data = {
+                "generated_at": generated_at,
+                "base_url": "https://mgifford.github.io/dot-gov-scans/",
+                "note": (
+                    "Compact cross-reference index mapping technology names and categories "
+                    "to page counts and per-jurisdiction totals."
+                ),
+                "by_technology": {},
+                "by_category": {},
+            }
+        index_path.write_text(
+            json.dumps(index_data, indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        print(f"Technology index written: {index_path}")
+
     # --- update the Markdown page -----------------------------------------
     if not page_path.exists():
         print(f"Technology page not found: {page_path}", file=sys.stderr)
@@ -671,6 +794,15 @@ def main() -> None:
         default=Path("docs/technology-data.json"),
     )
     parser.add_argument(
+        "--index",
+        help=(
+            "Output path for compact technology index JSON "
+            "(default: docs/technology-index.json)"
+        ),
+        type=Path,
+        default=Path("docs/technology-index.json"),
+    )
+    parser.add_argument(
         "--db",
         help="Database file path (overrides settings)",
         type=Path,
@@ -711,6 +843,7 @@ def main() -> None:
         ok = generate_technology_report(
             db_path, args.page, args.data, args.seeds_dir,
             max_drilldown_records=max_records,
+            index_path=args.index,
         )
         if not ok:
             sys.exit(1)

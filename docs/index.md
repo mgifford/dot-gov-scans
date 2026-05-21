@@ -32,3 +32,4 @@ Use these pages as scan pipelines are refreshed:
 - `third-party-tools.md`
 - `lighthouse-scanning.md`
 - `domains.md`
+- `api.md`
