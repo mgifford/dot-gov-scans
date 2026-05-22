@@ -3,8 +3,8 @@ name: Scan Lighthouse
 on:
   # Run 6× per day (every 4 hours) to build up progressive coverage faster.
   # With --concurrency 5 and --only-categories=performance,accessibility,
-  # best-practices,seo each URL takes ~20-30 s, giving ~1,100-1,400 URLs per
-  # 110-minute run → ~8,000 URLs/day across this workflow + the dedicated
+  # best-practices,seo each URL takes ~20-30 s, giving ~850-1,100 URLs per
+  # 85-minute run → ~6,000 URLs/day across this workflow + the dedicated
   # federal workflow (scan-lighthouse-federal.yml).  With
   # --skip-recently-scanned-days 30 each URL is refreshed at most once per
   # month, so the focus stays on uncovered URLs.
@@ -116,7 +116,7 @@ jobs:
         run: |
           python3 -m src.cli.scan_lighthouse \
             --all \
-            --max-runtime 110 \
+            --max-runtime 85 \
             --rate-limit "${{ github.event.inputs.rate_limit || '0.5' }}" \
             --concurrency "${{ github.event.inputs.concurrency || '5' }}" \
             --skip-recently-scanned-days "${{ github.event.inputs.skip_recently_scanned_days || '30' }}" \
