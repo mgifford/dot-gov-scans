@@ -12,7 +12,7 @@ Start with AGENTS.md at the repository root before making changes.
 ## Quick Start
 
 ```bash
-pip install -r requirements.txt
+uv sync --dev
 python3 -m pytest tests/ -v
 python3 -m src.cli.validate_urls --country TEXAS --rate-limit 2
 python3 -m src.cli.validate_urls_batch --batch-mode --batch-size 2

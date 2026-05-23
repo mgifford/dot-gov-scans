@@ -30,12 +30,26 @@ snapshots per jurisdiction — so progress toward ADA compliance can be tracked 
 ## Development Setup
 
 ```bash
-pip install -r requirements.txt
+uv sync --dev
 python3 -m pytest tests/ -v
 python3 -m src.cli.validate_urls --country TEXAS --rate-limit 2
 python3 -m src.cli.validate_urls_batch --batch-mode --batch-size 2
 python3 -m src.cli.generate_validation_report --output validation-report.md
 ```
+
+If `uv` is not installed yet, install it first:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+## Dependency and Supply-Chain Security
+
+- Use `uv` as the default tool for Python dependency installation and environment sync
+- Keep dependency versions pinned in `requirements.txt` and review changes in pull requests
+- Run dependency vulnerability checks (GitHub Dependabot/CodeQL) for every update
+- Do not commit secrets, API keys, or local database artifacts
+- Maintain `SBOM.md` with current software versions and license tracking details
 
 ## Conventions and Constraints
 
