@@ -67,8 +67,8 @@ Current TOON records include:
 ## Quick Start
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+# Install Python dependencies
+uv sync --dev
 
 # Run all tests
 python3 -m pytest tests/ -v
@@ -81,6 +81,12 @@ python3 -m src.cli.validate_urls_batch --batch-mode --batch-size 2
 
 # Generate a validation report
 python3 -m src.cli.generate_validation_report --output validation-report.md
+```
+
+If `uv` is not installed, install it first:
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 ## Regenerate State TOON Seeds
