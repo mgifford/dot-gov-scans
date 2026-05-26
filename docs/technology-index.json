@@ -1,7 +1,5447 @@
 {
-  "generated_at": "2026-05-25 06:46 UTC",
+  "generated_at": "2026-05-26 06:33 UTC",
   "base_url": "https://mgifford.github.io/dot-gov-scans/",
   "note": "Compact cross-reference index mapping technology names and categories to page counts and per-jurisdiction totals.",
-  "by_technology": {},
-  "by_category": {}
+  "by_technology": {
+    "jQuery": {
+      "pages": 7837,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 21,
+        "ALASKA": 8,
+        "AMERICAN_SAMOA": 3,
+        "ARIZONA": 70,
+        "ARKANSAS": 10,
+        "CALIFORNIA": 1278,
+        "COLORADO": 60,
+        "CONNECTICUT": 80,
+        "DC": 396,
+        "DELAWARE": 17,
+        "FEDERAL": 455,
+        "FLORIDA": 80,
+        "GEORGIA": 63,
+        "HAWAII": 3,
+        "IDAHO": 74,
+        "ILLINOIS": 63,
+        "INDIANA": 379,
+        "IOWA": 11,
+        "KANSAS": 143,
+        "KENTUCKY": 609,
+        "LOUISIANA": 136,
+        "MAINE": 1,
+        "MARYLAND": 42,
+        "MASSACHUSETTS": 85,
+        "MICHIGAN": 54,
+        "MINNESOTA": 458,
+        "MISSISSIPPI": 267,
+        "MISSOURI": 139,
+        "MONTANA": 225,
+        "NEBRASKA": 131,
+        "NEVADA": 214,
+        "NEW_HAMPSHIRE": 187,
+        "NEW_JERSEY": 60,
+        "NEW_MEXICO": 208,
+        "NEW_YORK": 458,
+        "NORTH_CAROLINA": 220,
+        "NORTH_DAKOTA": 170,
+        "OHIO": 229,
+        "OKLAHOMA": 75,
+        "OREGON": 66,
+        "PENNSYLVANIA": 172,
+        "PUERTO_RICO": 363,
+        "RHODE_ISLAND": 54
+      }
+    },
+    "Font Awesome": {
+      "pages": 4790,
+      "categories": [
+        "Font scripts"
+      ],
+      "by_country": {
+        "ALABAMA": 7,
+        "ALASKA": 8,
+        "AMERICAN_SAMOA": 3,
+        "ARIZONA": 50,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 671,
+        "COLORADO": 44,
+        "CONNECTICUT": 30,
+        "DC": 91,
+        "DELAWARE": 15,
+        "FEDERAL": 271,
+        "FLORIDA": 43,
+        "GEORGIA": 34,
+        "HAWAII": 3,
+        "IDAHO": 49,
+        "ILLINOIS": 38,
+        "INDIANA": 314,
+        "IOWA": 3,
+        "KANSAS": 43,
+        "KENTUCKY": 484,
+        "LOUISIANA": 90,
+        "MARYLAND": 23,
+        "MASSACHUSETTS": 68,
+        "MICHIGAN": 39,
+        "MINNESOTA": 338,
+        "MISSISSIPPI": 199,
+        "MISSOURI": 114,
+        "MONTANA": 177,
+        "NEBRASKA": 45,
+        "NEVADA": 141,
+        "NEW_HAMPSHIRE": 173,
+        "NEW_JERSEY": 28,
+        "NEW_MEXICO": 74,
+        "NEW_YORK": 311,
+        "NORTH_CAROLINA": 75,
+        "NORTH_DAKOTA": 129,
+        "OHIO": 175,
+        "OKLAHOMA": 40,
+        "OREGON": 28,
+        "PENNSYLVANIA": 99,
+        "PUERTO_RICO": 194,
+        "RHODE_ISLAND": 26
+      }
+    },
+    "Bootstrap": {
+      "pages": 4070,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "ALABAMA": 17,
+        "ALASKA": 2,
+        "ARIZONA": 32,
+        "ARKANSAS": 6,
+        "CALIFORNIA": 632,
+        "COLORADO": 24,
+        "CONNECTICUT": 62,
+        "DC": 105,
+        "DELAWARE": 11,
+        "FEDERAL": 263,
+        "FLORIDA": 45,
+        "GEORGIA": 38,
+        "HAWAII": 3,
+        "IDAHO": 23,
+        "ILLINOIS": 15,
+        "INDIANA": 172,
+        "IOWA": 3,
+        "KANSAS": 97,
+        "KENTUCKY": 456,
+        "LOUISIANA": 72,
+        "MARYLAND": 25,
+        "MASSACHUSETTS": 25,
+        "MICHIGAN": 25,
+        "MINNESOTA": 206,
+        "MISSISSIPPI": 177,
+        "MISSOURI": 86,
+        "MONTANA": 191,
+        "NEBRASKA": 65,
+        "NEVADA": 162,
+        "NEW_HAMPSHIRE": 153,
+        "NEW_JERSEY": 47,
+        "NEW_MEXICO": 49,
+        "NEW_YORK": 150,
+        "NORTH_CAROLINA": 173,
+        "NORTH_DAKOTA": 42,
+        "OHIO": 90,
+        "OKLAHOMA": 27,
+        "OREGON": 43,
+        "PENNSYLVANIA": 98,
+        "PUERTO_RICO": 133,
+        "RHODE_ISLAND": 25
+      }
+    },
+    "PHP": {
+      "pages": 3387,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "ARIZONA": 21,
+        "ARKANSAS": 4,
+        "CALIFORNIA": 698,
+        "COLORADO": 11,
+        "CONNECTICUT": 11,
+        "DC": 301,
+        "FEDERAL": 234,
+        "FLORIDA": 8,
+        "GEORGIA": 33,
+        "HAWAII": 3,
+        "IDAHO": 25,
+        "ILLINOIS": 10,
+        "INDIANA": 140,
+        "IOWA": 2,
+        "KANSAS": 8,
+        "KENTUCKY": 122,
+        "LOUISIANA": 33,
+        "MARYLAND": 9,
+        "MASSACHUSETTS": 19,
+        "MICHIGAN": 9,
+        "MINNESOTA": 102,
+        "MISSISSIPPI": 226,
+        "MISSOURI": 126,
+        "MONTANA": 4,
+        "NEBRASKA": 67,
+        "NEVADA": 38,
+        "NEW_HAMPSHIRE": 156,
+        "NEW_JERSEY": 1,
+        "NEW_MEXICO": 129,
+        "NEW_YORK": 311,
+        "NORTH_CAROLINA": 131,
+        "NORTH_DAKOTA": 116,
+        "OHIO": 128,
+        "OKLAHOMA": 22,
+        "OREGON": 23,
+        "PENNSYLVANIA": 27,
+        "PUERTO_RICO": 63,
+        "RHODE_ISLAND": 13
+      }
+    },
+    "Windows Server": {
+      "pages": 3363,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "ALABAMA": 22,
+        "ALASKA": 4,
+        "ARIZONA": 26,
+        "ARKANSAS": 4,
+        "CALIFORNIA": 502,
+        "COLORADO": 42,
+        "CONNECTICUT": 37,
+        "DC": 35,
+        "DELAWARE": 8,
+        "FEDERAL": 191,
+        "FLORIDA": 51,
+        "GEORGIA": 56,
+        "HAWAII": 1,
+        "IDAHO": 36,
+        "ILLINOIS": 26,
+        "INDIANA": 116,
+        "IOWA": 6,
+        "KANSAS": 35,
+        "KENTUCKY": 524,
+        "LOUISIANA": 97,
+        "MARYLAND": 36,
+        "MASSACHUSETTS": 41,
+        "MICHIGAN": 36,
+        "MINNESOTA": 158,
+        "MISSISSIPPI": 63,
+        "MISSOURI": 34,
+        "MONTANA": 27,
+        "NEBRASKA": 50,
+        "NEVADA": 193,
+        "NEW_HAMPSHIRE": 29,
+        "NEW_JERSEY": 50,
+        "NEW_MEXICO": 40,
+        "NEW_YORK": 91,
+        "NORTH_CAROLINA": 75,
+        "NORTH_DAKOTA": 28,
+        "OHIO": 87,
+        "OKLAHOMA": 55,
+        "OREGON": 67,
+        "PENNSYLVANIA": 182,
+        "PUERTO_RICO": 159,
+        "RHODE_ISLAND": 43
+      }
+    },
+    "IIS": {
+      "pages": 3348,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "ALABAMA": 22,
+        "ALASKA": 4,
+        "ARIZONA": 26,
+        "ARKANSAS": 4,
+        "CALIFORNIA": 502,
+        "COLORADO": 42,
+        "CONNECTICUT": 37,
+        "DC": 35,
+        "DELAWARE": 8,
+        "FEDERAL": 191,
+        "FLORIDA": 51,
+        "GEORGIA": 56,
+        "HAWAII": 1,
+        "IDAHO": 33,
+        "ILLINOIS": 26,
+        "INDIANA": 116,
+        "IOWA": 6,
+        "KANSAS": 35,
+        "KENTUCKY": 524,
+        "LOUISIANA": 97,
+        "MARYLAND": 36,
+        "MASSACHUSETTS": 41,
+        "MICHIGAN": 36,
+        "MINNESOTA": 158,
+        "MISSISSIPPI": 63,
+        "MISSOURI": 34,
+        "MONTANA": 25,
+        "NEBRASKA": 49,
+        "NEVADA": 193,
+        "NEW_HAMPSHIRE": 29,
+        "NEW_JERSEY": 50,
+        "NEW_MEXICO": 37,
+        "NEW_YORK": 91,
+        "NORTH_CAROLINA": 75,
+        "NORTH_DAKOTA": 28,
+        "OHIO": 87,
+        "OKLAHOMA": 55,
+        "OREGON": 65,
+        "PENNSYLVANIA": 179,
+        "PUERTO_RICO": 159,
+        "RHODE_ISLAND": 42
+      }
+    },
+    "Google Font API": {
+      "pages": 3241,
+      "categories": [
+        "Font scripts"
+      ],
+      "by_country": {
+        "ALABAMA": 14,
+        "ALASKA": 2,
+        "AMERICAN_SAMOA": 3,
+        "ARIZONA": 27,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 645,
+        "COLORADO": 26,
+        "CONNECTICUT": 18,
+        "DC": 71,
+        "DELAWARE": 9,
+        "FEDERAL": 297,
+        "FLORIDA": 27,
+        "GEORGIA": 30,
+        "HAWAII": 5,
+        "IDAHO": 27,
+        "ILLINOIS": 19,
+        "INDIANA": 187,
+        "IOWA": 2,
+        "KANSAS": 21,
+        "KENTUCKY": 233,
+        "LOUISIANA": 71,
+        "MARYLAND": 10,
+        "MASSACHUSETTS": 24,
+        "MICHIGAN": 8,
+        "MINNESOTA": 183,
+        "MISSISSIPPI": 159,
+        "MISSOURI": 68,
+        "MONTANA": 154,
+        "NEBRASKA": 65,
+        "NEVADA": 38,
+        "NEW_HAMPSHIRE": 36,
+        "NEW_JERSEY": 21,
+        "NEW_MEXICO": 48,
+        "NEW_YORK": 70,
+        "NORTH_CAROLINA": 35,
+        "NORTH_DAKOTA": 24,
+        "OHIO": 126,
+        "OKLAHOMA": 24,
+        "OREGON": 23,
+        "PENNSYLVANIA": 88,
+        "PUERTO_RICO": 280,
+        "RHODE_ISLAND": 20
+      }
+    },
+    "Microsoft ASP.NET": {
+      "pages": 2898,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "ALABAMA": 17,
+        "ALASKA": 2,
+        "ARIZONA": 22,
+        "ARKANSAS": 4,
+        "CALIFORNIA": 422,
+        "COLORADO": 28,
+        "CONNECTICUT": 34,
+        "DC": 34,
+        "DELAWARE": 4,
+        "FEDERAL": 178,
+        "FLORIDA": 43,
+        "GEORGIA": 47,
+        "HAWAII": 1,
+        "IDAHO": 26,
+        "ILLINOIS": 26,
+        "INDIANA": 103,
+        "IOWA": 4,
+        "KANSAS": 32,
+        "KENTUCKY": 508,
+        "LOUISIANA": 97,
+        "MARYLAND": 34,
+        "MASSACHUSETTS": 35,
+        "MICHIGAN": 28,
+        "MINNESOTA": 120,
+        "MISSISSIPPI": 56,
+        "MISSOURI": 32,
+        "MONTANA": 18,
+        "NEBRASKA": 41,
+        "NEVADA": 171,
+        "NEW_HAMPSHIRE": 24,
+        "NEW_JERSEY": 39,
+        "NEW_MEXICO": 29,
+        "NEW_YORK": 71,
+        "NORTH_CAROLINA": 68,
+        "NORTH_DAKOTA": 22,
+        "OHIO": 55,
+        "OKLAHOMA": 53,
+        "OREGON": 58,
+        "PENNSYLVANIA": 157,
+        "PUERTO_RICO": 117,
+        "RHODE_ISLAND": 38
+      }
+    },
+    "Cloudflare": {
+      "pages": 2795,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "ALASKA": 3,
+        "ARIZONA": 277,
+        "ARKANSAS": 6,
+        "CALIFORNIA": 379,
+        "COLORADO": 19,
+        "CONNECTICUT": 2,
+        "DC": 405,
+        "FEDERAL": 184,
+        "FLORIDA": 9,
+        "GEORGIA": 32,
+        "IDAHO": 24,
+        "ILLINOIS": 17,
+        "INDIANA": 280,
+        "IOWA": 2,
+        "KANSAS": 21,
+        "KENTUCKY": 21,
+        "LOUISIANA": 102,
+        "MARYLAND": 29,
+        "MASSACHUSETTS": 38,
+        "MICHIGAN": 65,
+        "MINNESOTA": 56,
+        "MISSISSIPPI": 12,
+        "MISSOURI": 3,
+        "MONTANA": 4,
+        "NEBRASKA": 23,
+        "NEVADA": 90,
+        "NEW_HAMPSHIRE": 14,
+        "NEW_JERSEY": 9,
+        "NEW_MEXICO": 12,
+        "NEW_YORK": 302,
+        "NORTH_CAROLINA": 39,
+        "NORTH_DAKOTA": 9,
+        "OHIO": 38,
+        "OKLAHOMA": 19,
+        "OREGON": 26,
+        "PENNSYLVANIA": 7,
+        "PUERTO_RICO": 182,
+        "RHODE_ISLAND": 35
+      }
+    },
+    "Apache": {
+      "pages": 2294,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "ALABAMA": 6,
+        "AMERICAN_SAMOA": 3,
+        "ARIZONA": 14,
+        "CALIFORNIA": 337,
+        "COLORADO": 11,
+        "CONNECTICUT": 10,
+        "DC": 280,
+        "FEDERAL": 162,
+        "GEORGIA": 24,
+        "HAWAII": 7,
+        "IDAHO": 12,
+        "ILLINOIS": 7,
+        "INDIANA": 45,
+        "IOWA": 8,
+        "KANSAS": 6,
+        "KENTUCKY": 117,
+        "LOUISIANA": 7,
+        "MARYLAND": 5,
+        "MASSACHUSETTS": 11,
+        "MICHIGAN": 8,
+        "MINNESOTA": 165,
+        "MISSISSIPPI": 46,
+        "MISSOURI": 78,
+        "MONTANA": 5,
+        "NEBRASKA": 46,
+        "NEVADA": 6,
+        "NEW_HAMPSHIRE": 146,
+        "NEW_JERSEY": 4,
+        "NEW_MEXICO": 114,
+        "NEW_YORK": 328,
+        "NORTH_CAROLINA": 131,
+        "NORTH_DAKOTA": 5,
+        "OHIO": 42,
+        "OKLAHOMA": 7,
+        "OREGON": 23,
+        "PENNSYLVANIA": 26,
+        "PUERTO_RICO": 22,
+        "RHODE_ISLAND": 20
+      }
+    },
+    "jQuery Migrate": {
+      "pages": 2255,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "ALASKA": 4,
+        "ARIZONA": 27,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 528,
+        "COLORADO": 27,
+        "CONNECTICUT": 10,
+        "DC": 9,
+        "DELAWARE": 11,
+        "FEDERAL": 162,
+        "FLORIDA": 19,
+        "GEORGIA": 6,
+        "IDAHO": 45,
+        "ILLINOIS": 21,
+        "INDIANA": 198,
+        "IOWA": 2,
+        "KANSAS": 18,
+        "KENTUCKY": 124,
+        "LOUISIANA": 27,
+        "MARYLAND": 14,
+        "MASSACHUSETTS": 51,
+        "MICHIGAN": 15,
+        "MINNESOTA": 173,
+        "MISSISSIPPI": 68,
+        "MISSOURI": 56,
+        "MONTANA": 27,
+        "NEBRASKA": 56,
+        "NEVADA": 13,
+        "NEW_HAMPSHIRE": 29,
+        "NEW_JERSEY": 9,
+        "NEW_MEXICO": 148,
+        "NEW_YORK": 29,
+        "NORTH_CAROLINA": 40,
+        "NORTH_DAKOTA": 12,
+        "OHIO": 130,
+        "OKLAHOMA": 24,
+        "OREGON": 25,
+        "PENNSYLVANIA": 29,
+        "PUERTO_RICO": 52,
+        "RHODE_ISLAND": 11
+      }
+    },
+    "jQuery UI": {
+      "pages": 2067,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "ALASKA": 4,
+        "ARIZONA": 33,
+        "ARKANSAS": 1,
+        "CALIFORNIA": 338,
+        "COLORADO": 28,
+        "CONNECTICUT": 18,
+        "DC": 24,
+        "DELAWARE": 10,
+        "FEDERAL": 108,
+        "FLORIDA": 31,
+        "GEORGIA": 13,
+        "IDAHO": 29,
+        "ILLINOIS": 22,
+        "INDIANA": 117,
+        "IOWA": 6,
+        "KANSAS": 24,
+        "KENTUCKY": 31,
+        "LOUISIANA": 36,
+        "MARYLAND": 20,
+        "MASSACHUSETTS": 52,
+        "MICHIGAN": 16,
+        "MINNESOTA": 199,
+        "MISSISSIPPI": 48,
+        "MISSOURI": 22,
+        "MONTANA": 44,
+        "NEBRASKA": 14,
+        "NEVADA": 144,
+        "NEW_HAMPSHIRE": 165,
+        "NEW_JERSEY": 12,
+        "NEW_MEXICO": 48,
+        "NEW_YORK": 55,
+        "NORTH_CAROLINA": 149,
+        "NORTH_DAKOTA": 28,
+        "OHIO": 55,
+        "OKLAHOMA": 19,
+        "OREGON": 22,
+        "PENNSYLVANIA": 38,
+        "PUERTO_RICO": 25,
+        "RHODE_ISLAND": 17
+      }
+    },
+    "Drupal": {
+      "pages": 1775,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "ARIZONA": 8,
+        "CALIFORNIA": 386,
+        "COLORADO": 7,
+        "CONNECTICUT": 4,
+        "DC": 294,
+        "FEDERAL": 91,
+        "GEORGIA": 12,
+        "IDAHO": 2,
+        "ILLINOIS": 2,
+        "INDIANA": 11,
+        "MARYLAND": 2,
+        "MASSACHUSETTS": 3,
+        "MINNESOTA": 50,
+        "MISSISSIPPI": 176,
+        "MISSOURI": 74,
+        "NEBRASKA": 7,
+        "NEW_HAMPSHIRE": 141,
+        "NEW_YORK": 240,
+        "NORTH_CAROLINA": 120,
+        "NORTH_DAKOTA": 108,
+        "OHIO": 7,
+        "OREGON": 6,
+        "PENNSYLVANIA": 5,
+        "PUERTO_RICO": 3,
+        "RHODE_ISLAND": 13
+      }
+    },
+    "Google Tag Manager": {
+      "pages": 1467,
+      "categories": [
+        "Tag managers"
+      ],
+      "by_country": {
+        "ALABAMA": 7,
+        "ARIZONA": 5,
+        "CALIFORNIA": 560,
+        "COLORADO": 7,
+        "CONNECTICUT": 25,
+        "DC": 3,
+        "DELAWARE": 10,
+        "FEDERAL": 136,
+        "FLORIDA": 17,
+        "GEORGIA": 11,
+        "IDAHO": 6,
+        "ILLINOIS": 6,
+        "INDIANA": 69,
+        "KANSAS": 14,
+        "KENTUCKY": 29,
+        "LOUISIANA": 24,
+        "MARYLAND": 7,
+        "MASSACHUSETTS": 7,
+        "MICHIGAN": 6,
+        "MINNESOTA": 39,
+        "MISSISSIPPI": 16,
+        "MISSOURI": 22,
+        "MONTANA": 58,
+        "NEBRASKA": 9,
+        "NEVADA": 28,
+        "NEW_HAMPSHIRE": 10,
+        "NEW_JERSEY": 28,
+        "NEW_MEXICO": 24,
+        "NEW_YORK": 132,
+        "NORTH_DAKOTA": 21,
+        "OHIO": 33,
+        "OKLAHOMA": 11,
+        "OREGON": 6,
+        "PENNSYLVANIA": 27,
+        "PUERTO_RICO": 36,
+        "RHODE_ISLAND": 18
+      }
+    },
+    "jsDelivr": {
+      "pages": 1428,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "ARIZONA": 12,
+        "CALIFORNIA": 182,
+        "COLORADO": 8,
+        "CONNECTICUT": 17,
+        "DC": 16,
+        "FEDERAL": 82,
+        "FLORIDA": 25,
+        "GEORGIA": 8,
+        "HAWAII": 3,
+        "IDAHO": 9,
+        "ILLINOIS": 10,
+        "INDIANA": 58,
+        "IOWA": 2,
+        "KANSAS": 8,
+        "KENTUCKY": 171,
+        "LOUISIANA": 25,
+        "MARYLAND": 5,
+        "MASSACHUSETTS": 9,
+        "MICHIGAN": 4,
+        "MINNESOTA": 66,
+        "MISSISSIPPI": 46,
+        "MISSOURI": 13,
+        "MONTANA": 160,
+        "NEBRASKA": 9,
+        "NEVADA": 7,
+        "NEW_HAMPSHIRE": 3,
+        "NEW_JERSEY": 5,
+        "NEW_MEXICO": 32,
+        "NEW_YORK": 42,
+        "NORTH_CAROLINA": 131,
+        "NORTH_DAKOTA": 62,
+        "OHIO": 27,
+        "OKLAHOMA": 13,
+        "OREGON": 9,
+        "PENNSYLVANIA": 27,
+        "PUERTO_RICO": 115,
+        "RHODE_ISLAND": 4
+      }
+    },
+    "Amazon Web Services": {
+      "pages": 1367,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 78,
+        "COLORADO": 5,
+        "DC": 280,
+        "FEDERAL": 122,
+        "GEORGIA": 12,
+        "IDAHO": 4,
+        "INDIANA": 16,
+        "KANSAS": 8,
+        "KENTUCKY": 9,
+        "LOUISIANA": 3,
+        "MASSACHUSETTS": 7,
+        "MINNESOTA": 61,
+        "MISSOURI": 67,
+        "MONTANA": 2,
+        "NEBRASKA": 2,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 105,
+        "NEW_YORK": 265,
+        "NORTH_CAROLINA": 122,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 6,
+        "OKLAHOMA": 8,
+        "OREGON": 6,
+        "PENNSYLVANIA": 10,
+        "PUERTO_RICO": 4,
+        "RHODE_ISLAND": 20
+      }
+    },
+    "MySQL": {
+      "pages": 1292,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "ARIZONA": 8,
+        "ARKANSAS": 4,
+        "CALIFORNIA": 218,
+        "COLORADO": 4,
+        "CONNECTICUT": 7,
+        "DC": 4,
+        "FEDERAL": 116,
+        "FLORIDA": 5,
+        "GEORGIA": 13,
+        "HAWAII": 3,
+        "IDAHO": 23,
+        "ILLINOIS": 3,
+        "INDIANA": 110,
+        "IOWA": 2,
+        "KANSAS": 6,
+        "KENTUCKY": 122,
+        "LOUISIANA": 30,
+        "MARYLAND": 4,
+        "MASSACHUSETTS": 16,
+        "MINNESOTA": 36,
+        "MISSISSIPPI": 43,
+        "MISSOURI": 52,
+        "MONTANA": 2,
+        "NEBRASKA": 58,
+        "NEVADA": 14,
+        "NEW_HAMPSHIRE": 9,
+        "NEW_JERSEY": 1,
+        "NEW_MEXICO": 127,
+        "NEW_YORK": 28,
+        "NORTH_CAROLINA": 11,
+        "NORTH_DAKOTA": 8,
+        "OHIO": 103,
+        "OKLAHOMA": 22,
+        "OREGON": 12,
+        "PENNSYLVANIA": 13,
+        "PUERTO_RICO": 55
+      }
+    },
+    "WordPress": {
+      "pages": 1273,
+      "categories": [
+        "Blogs",
+        "CMS"
+      ],
+      "by_country": {
+        "ARIZONA": 8,
+        "ARKANSAS": 4,
+        "CALIFORNIA": 218,
+        "COLORADO": 4,
+        "CONNECTICUT": 7,
+        "DC": 4,
+        "FEDERAL": 116,
+        "FLORIDA": 5,
+        "GEORGIA": 13,
+        "HAWAII": 3,
+        "IDAHO": 23,
+        "ILLINOIS": 3,
+        "INDIANA": 107,
+        "IOWA": 2,
+        "KANSAS": 3,
+        "KENTUCKY": 122,
+        "LOUISIANA": 30,
+        "MARYLAND": 4,
+        "MASSACHUSETTS": 16,
+        "MINNESOTA": 33,
+        "MISSISSIPPI": 43,
+        "MISSOURI": 52,
+        "MONTANA": 2,
+        "NEBRASKA": 53,
+        "NEVADA": 14,
+        "NEW_HAMPSHIRE": 9,
+        "NEW_JERSEY": 1,
+        "NEW_MEXICO": 125,
+        "NEW_YORK": 25,
+        "NORTH_CAROLINA": 11,
+        "NORTH_DAKOTA": 8,
+        "OHIO": 103,
+        "OKLAHOMA": 22,
+        "OREGON": 12,
+        "PENNSYLVANIA": 13,
+        "PUERTO_RICO": 55
+      }
+    },
+    "Varnish": {
+      "pages": 1191,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "ARIZONA": 5,
+        "CALIFORNIA": 291,
+        "COLORADO": 2,
+        "DC": 281,
+        "FEDERAL": 69,
+        "FLORIDA": 9,
+        "GEORGIA": 9,
+        "IDAHO": 6,
+        "INDIANA": 8,
+        "KENTUCKY": 106,
+        "LOUISIANA": 2,
+        "MINNESOTA": 42,
+        "MISSOURI": 74,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_YORK": 252,
+        "NORTH_CAROLINA": 1,
+        "OHIO": 5,
+        "OREGON": 11,
+        "PENNSYLVANIA": 3,
+        "RHODE_ISLAND": 13
+      }
+    },
+    "Nginx": {
+      "pages": 1106,
+      "categories": [
+        "Reverse proxies",
+        "Web servers"
+      ],
+      "by_country": {
+        "ALABAMA": 8,
+        "ALASKA": 3,
+        "ARIZONA": 9,
+        "ARKANSAS": 5,
+        "CALIFORNIA": 419,
+        "COLORADO": 10,
+        "CONNECTICUT": 7,
+        "DC": 5,
+        "FEDERAL": 108,
+        "FLORIDA": 6,
+        "GEORGIA": 23,
+        "IDAHO": 11,
+        "ILLINOIS": 8,
+        "INDIANA": 65,
+        "IOWA": 2,
+        "KANSAS": 9,
+        "KENTUCKY": 19,
+        "LOUISIANA": 30,
+        "MARYLAND": 1,
+        "MASSACHUSETTS": 7,
+        "MINNESOTA": 60,
+        "MISSISSIPPI": 32,
+        "MISSOURI": 81,
+        "NEBRASKA": 31,
+        "NEVADA": 15,
+        "NEW_HAMPSHIRE": 10,
+        "NEW_JERSEY": 2,
+        "NEW_MEXICO": 8,
+        "NEW_YORK": 32,
+        "NORTH_CAROLINA": 3,
+        "NORTH_DAKOTA": 1,
+        "OHIO": 27,
+        "OKLAHOMA": 10,
+        "OREGON": 10,
+        "PENNSYLVANIA": 11,
+        "PUERTO_RICO": 15,
+        "RHODE_ISLAND": 3
+      }
+    },
+    "Moment.js": {
+      "pages": 1080,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "ALASKA": 6,
+        "ARIZONA": 26,
+        "CALIFORNIA": 188,
+        "COLORADO": 28,
+        "CONNECTICUT": 1,
+        "DC": 1,
+        "DELAWARE": 11,
+        "FEDERAL": 55,
+        "FLORIDA": 17,
+        "GEORGIA": 4,
+        "IDAHO": 26,
+        "ILLINOIS": 24,
+        "INDIANA": 115,
+        "IOWA": 2,
+        "KANSAS": 16,
+        "KENTUCKY": 24,
+        "LOUISIANA": 13,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 42,
+        "MICHIGAN": 17,
+        "MINNESOTA": 131,
+        "MISSISSIPPI": 30,
+        "MISSOURI": 6,
+        "MONTANA": 19,
+        "NEBRASKA": 8,
+        "NEVADA": 2,
+        "NEW_HAMPSHIRE": 46,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 43,
+        "NEW_YORK": 29,
+        "NORTH_CAROLINA": 30,
+        "NORTH_DAKOTA": 8,
+        "OHIO": 54,
+        "OKLAHOMA": 6,
+        "OREGON": 6,
+        "PENNSYLVANIA": 15,
+        "PUERTO_RICO": 11,
+        "RHODE_ISLAND": 8
+      }
+    },
+    "Modernizr": {
+      "pages": 1048,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "ARIZONA": 10,
+        "CALIFORNIA": 286,
+        "COLORADO": 11,
+        "CONNECTICUT": 6,
+        "DC": 11,
+        "DELAWARE": 2,
+        "FEDERAL": 54,
+        "FLORIDA": 4,
+        "GEORGIA": 2,
+        "IDAHO": 6,
+        "ILLINOIS": 11,
+        "INDIANA": 45,
+        "IOWA": 2,
+        "KANSAS": 2,
+        "KENTUCKY": 16,
+        "LOUISIANA": 19,
+        "MARYLAND": 13,
+        "MASSACHUSETTS": 13,
+        "MICHIGAN": 7,
+        "MINNESOTA": 54,
+        "MISSISSIPPI": 108,
+        "MISSOURI": 33,
+        "MONTANA": 6,
+        "NEBRASKA": 13,
+        "NEVADA": 22,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_JERSEY": 5,
+        "NEW_MEXICO": 8,
+        "NEW_YORK": 26,
+        "NORTH_CAROLINA": 22,
+        "NORTH_DAKOTA": 1,
+        "OHIO": 28,
+        "OKLAHOMA": 6,
+        "OREGON": 9,
+        "PENNSYLVANIA": 24,
+        "PUERTO_RICO": 18,
+        "RHODE_ISLAND": 6
+      }
+    },
+    "Amazon EC2": {
+      "pages": 836,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 11,
+        "COLORADO": 2,
+        "DC": 278,
+        "FEDERAL": 36,
+        "GEORGIA": 6,
+        "IDAHO": 2,
+        "INDIANA": 3,
+        "MINNESOTA": 39,
+        "MISSOURI": 65,
+        "NEBRASKA": 2,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_YORK": 235,
+        "OHIO": 2,
+        "OREGON": 6,
+        "RHODE_ISLAND": 13
+      }
+    },
+    "Cloud Platform": {
+      "pages": 834,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 11,
+        "COLORADO": 2,
+        "DC": 278,
+        "FEDERAL": 36,
+        "GEORGIA": 6,
+        "IDAHO": 2,
+        "INDIANA": 3,
+        "MINNESOTA": 39,
+        "MISSOURI": 65,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_YORK": 235,
+        "OHIO": 2,
+        "OREGON": 6,
+        "RHODE_ISLAND": 13
+      }
+    },
+    "Percona": {
+      "pages": 834,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "CALIFORNIA": 11,
+        "COLORADO": 2,
+        "DC": 278,
+        "FEDERAL": 36,
+        "GEORGIA": 6,
+        "IDAHO": 2,
+        "INDIANA": 3,
+        "MINNESOTA": 39,
+        "MISSOURI": 65,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_YORK": 235,
+        "OHIO": 2,
+        "OREGON": 6,
+        "RHODE_ISLAND": 13
+      }
+    },
+    "Alpine.js": {
+      "pages": 769,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "ALASKA": 4,
+        "ARIZONA": 18,
+        "CALIFORNIA": 118,
+        "COLORADO": 21,
+        "DC": 3,
+        "DELAWARE": 6,
+        "FEDERAL": 24,
+        "FLORIDA": 14,
+        "IDAHO": 20,
+        "ILLINOIS": 15,
+        "INDIANA": 85,
+        "KANSAS": 12,
+        "KENTUCKY": 4,
+        "LOUISIANA": 5,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 37,
+        "MICHIGAN": 13,
+        "MINNESOTA": 105,
+        "MISSISSIPPI": 19,
+        "MISSOURI": 3,
+        "MONTANA": 17,
+        "NEBRASKA": 3,
+        "NEVADA": 77,
+        "NEW_HAMPSHIRE": 9,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 27,
+        "NEW_YORK": 8,
+        "NORTH_CAROLINA": 22,
+        "NORTH_DAKOTA": 6,
+        "OHIO": 34,
+        "OKLAHOMA": 6,
+        "OREGON": 2,
+        "PENNSYLVANIA": 12,
+        "PUERTO_RICO": 2,
+        "RHODE_ISLAND": 8
+      }
+    },
+    "DataTables": {
+      "pages": 711,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "ALASKA": 2,
+        "CALIFORNIA": 71,
+        "COLORADO": 1,
+        "DC": 8,
+        "FEDERAL": 24,
+        "FLORIDA": 6,
+        "GEORGIA": 2,
+        "IDAHO": 4,
+        "INDIANA": 7,
+        "KENTUCKY": 7,
+        "LOUISIANA": 12,
+        "MARYLAND": 2,
+        "MASSACHUSETTS": 2,
+        "MICHIGAN": 4,
+        "MINNESOTA": 11,
+        "MISSISSIPPI": 2,
+        "MISSOURI": 4,
+        "MONTANA": 91,
+        "NEBRASKA": 5,
+        "NEVADA": 4,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_JERSEY": 3,
+        "NEW_MEXICO": 11,
+        "NEW_YORK": 205,
+        "NORTH_CAROLINA": 121,
+        "NORTH_DAKOTA": 5,
+        "OHIO": 58,
+        "OREGON": 3,
+        "PENNSYLVANIA": 13,
+        "PUERTO_RICO": 10,
+        "RHODE_ISLAND": 8
+      }
+    },
+    "Froala Editor": {
+      "pages": 681,
+      "categories": [
+        "Rich text editors"
+      ],
+      "by_country": {
+        "ALASKA": 4,
+        "ARIZONA": 18,
+        "CALIFORNIA": 119,
+        "COLORADO": 21,
+        "DELAWARE": 6,
+        "FEDERAL": 22,
+        "FLORIDA": 14,
+        "IDAHO": 20,
+        "ILLINOIS": 15,
+        "INDIANA": 85,
+        "KANSAS": 12,
+        "KENTUCKY": 4,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 37,
+        "MICHIGAN": 13,
+        "MINNESOTA": 106,
+        "MISSISSIPPI": 19,
+        "MISSOURI": 3,
+        "MONTANA": 17,
+        "NEBRASKA": 3,
+        "NEW_HAMPSHIRE": 9,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 27,
+        "NEW_YORK": 8,
+        "NORTH_CAROLINA": 22,
+        "NORTH_DAKOTA": 6,
+        "OHIO": 33,
+        "OKLAHOMA": 6,
+        "OREGON": 2,
+        "PENNSYLVANIA": 12,
+        "RHODE_ISLAND": 8
+      }
+    },
+    "reCAPTCHA": {
+      "pages": 583,
+      "categories": [
+        "Security"
+      ],
+      "by_country": {
+        "ARIZONA": 12,
+        "CALIFORNIA": 155,
+        "COLORADO": 12,
+        "CONNECTICUT": 10,
+        "DC": 10,
+        "DELAWARE": 6,
+        "FEDERAL": 46,
+        "FLORIDA": 2,
+        "GEORGIA": 1,
+        "IDAHO": 6,
+        "ILLINOIS": 2,
+        "INDIANA": 34,
+        "KANSAS": 13,
+        "KENTUCKY": 49,
+        "LOUISIANA": 11,
+        "MARYLAND": 4,
+        "MASSACHUSETTS": 7,
+        "MINNESOTA": 29,
+        "MISSISSIPPI": 13,
+        "MISSOURI": 3,
+        "MONTANA": 1,
+        "NEBRASKA": 8,
+        "NEVADA": 11,
+        "NEW_JERSEY": 16,
+        "NEW_MEXICO": 13,
+        "NEW_YORK": 16,
+        "NORTH_CAROLINA": 4,
+        "NORTH_DAKOTA": 10,
+        "OHIO": 18,
+        "OKLAHOMA": 6,
+        "OREGON": 7,
+        "PENNSYLVANIA": 16,
+        "PUERTO_RICO": 24,
+        "RHODE_ISLAND": 8
+      }
+    },
+    "animate.css": {
+      "pages": 563,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "ARIZONA": 6,
+        "CALIFORNIA": 90,
+        "COLORADO": 3,
+        "CONNECTICUT": 2,
+        "DC": 4,
+        "DELAWARE": 9,
+        "FEDERAL": 34,
+        "GEORGIA": 4,
+        "IDAHO": 3,
+        "ILLINOIS": 9,
+        "INDIANA": 16,
+        "KENTUCKY": 126,
+        "LOUISIANA": 15,
+        "MASSACHUSETTS": 3,
+        "MICHIGAN": 3,
+        "MINNESOTA": 63,
+        "MISSISSIPPI": 14,
+        "MISSOURI": 9,
+        "MONTANA": 9,
+        "NEBRASKA": 4,
+        "NEVADA": 3,
+        "NEW_HAMPSHIRE": 6,
+        "NEW_MEXICO": 26,
+        "NEW_YORK": 13,
+        "NORTH_CAROLINA": 7,
+        "NORTH_DAKOTA": 5,
+        "OHIO": 30,
+        "OKLAHOMA": 9,
+        "PENNSYLVANIA": 5,
+        "PUERTO_RICO": 31
+      }
+    },
+    "Yoast SEO": {
+      "pages": 559,
+      "categories": [
+        "SEO"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 86,
+        "COLORADO": 2,
+        "DC": 2,
+        "FEDERAL": 33,
+        "FLORIDA": 3,
+        "GEORGIA": 3,
+        "IDAHO": 3,
+        "INDIANA": 27,
+        "KANSAS": 3,
+        "KENTUCKY": 111,
+        "LOUISIANA": 5,
+        "MASSACHUSETTS": 3,
+        "MINNESOTA": 10,
+        "MISSISSIPPI": 7,
+        "MISSOURI": 6,
+        "MONTANA": 2,
+        "NEBRASKA": 9,
+        "NEVADA": 9,
+        "NEW_HAMPSHIRE": 3,
+        "NEW_MEXICO": 93,
+        "NEW_YORK": 11,
+        "NORTH_CAROLINA": 9,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 63,
+        "OKLAHOMA": 6,
+        "OREGON": 9,
+        "PENNSYLVANIA": 13,
+        "PUERTO_RICO": 20
+      }
+    },
+    "Amazon Cloudfront": {
+      "pages": 530,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "CALIFORNIA": 69,
+        "COLORADO": 3,
+        "DC": 2,
+        "FEDERAL": 85,
+        "GEORGIA": 6,
+        "IDAHO": 2,
+        "INDIANA": 13,
+        "KANSAS": 8,
+        "KENTUCKY": 9,
+        "LOUISIANA": 3,
+        "MASSACHUSETTS": 7,
+        "MINNESOTA": 20,
+        "MISSOURI": 2,
+        "MONTANA": 2,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 105,
+        "NEW_YORK": 30,
+        "NORTH_CAROLINA": 122,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 4,
+        "OKLAHOMA": 8,
+        "PENNSYLVANIA": 10,
+        "PUERTO_RICO": 4,
+        "RHODE_ISLAND": 7
+      }
+    },
+    "Slick": {
+      "pages": 490,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARKANSAS": 1,
+        "CALIFORNIA": 40,
+        "COLORADO": 1,
+        "DC": 4,
+        "FEDERAL": 15,
+        "FLORIDA": 1,
+        "GEORGIA": 5,
+        "INDIANA": 8,
+        "KANSAS": 39,
+        "KENTUCKY": 108,
+        "LOUISIANA": 17,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 4,
+        "MICHIGAN": 3,
+        "MINNESOTA": 4,
+        "MISSISSIPPI": 9,
+        "MISSOURI": 7,
+        "NEBRASKA": 6,
+        "NEVADA": 3,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_JERSEY": 6,
+        "NEW_YORK": 3,
+        "NORTH_CAROLINA": 1,
+        "NORTH_DAKOTA": 9,
+        "OHIO": 15,
+        "OKLAHOMA": 4,
+        "PENNSYLVANIA": 10,
+        "PUERTO_RICO": 28
+      }
+    },
+    "Imperva": {
+      "pages": 478,
+      "categories": [
+        "Security"
+      ],
+      "by_country": {
+        "CALIFORNIA": 99,
+        "FEDERAL": 21,
+        "GEORGIA": 5,
+        "KANSAS": 3,
+        "LOUISIANA": 1,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 7,
+        "MISSOURI": 184,
+        "NEVADA": 4,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_JERSEY": 120,
+        "NEW_MEXICO": 3,
+        "NORTH_DAKOTA": 2,
+        "OREGON": 2,
+        "PENNSYLVANIA": 11,
+        "PUERTO_RICO": 11
+      }
+    },
+    "OWL Carousel": {
+      "pages": 466,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "ARIZONA": 6,
+        "CALIFORNIA": 35,
+        "COLORADO": 1,
+        "DC": 49,
+        "FEDERAL": 9,
+        "GEORGIA": 3,
+        "IDAHO": 6,
+        "ILLINOIS": 5,
+        "INDIANA": 18,
+        "MARYLAND": 1,
+        "MICHIGAN": 5,
+        "MINNESOTA": 72,
+        "MISSISSIPPI": 3,
+        "MISSOURI": 3,
+        "MONTANA": 4,
+        "NEVADA": 3,
+        "NEW_HAMPSHIRE": 137,
+        "NEW_MEXICO": 21,
+        "NEW_YORK": 9,
+        "NORTH_CAROLINA": 10,
+        "OHIO": 19,
+        "OKLAHOMA": 6,
+        "OREGON": 3,
+        "PENNSYLVANIA": 20,
+        "PUERTO_RICO": 12,
+        "RHODE_ISLAND": 6
+      }
+    },
+    "Microsoft SharePoint": {
+      "pages": 431,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 9,
+        "DC": 3,
+        "FEDERAL": 2,
+        "GEORGIA": 6,
+        "KANSAS": 3,
+        "KENTUCKY": 361,
+        "LOUISIANA": 2,
+        "MINNESOTA": 3,
+        "NEBRASKA": 3,
+        "NEW_YORK": 1,
+        "OREGON": 6,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 28,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "Facebook": {
+      "pages": 354,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "CALIFORNIA": 15,
+        "CONNECTICUT": 3,
+        "DC": 1,
+        "FEDERAL": 12,
+        "FLORIDA": 3,
+        "GEORGIA": 2,
+        "INDIANA": 7,
+        "KANSAS": 2,
+        "KENTUCKY": 7,
+        "LOUISIANA": 3,
+        "MARYLAND": 2,
+        "MASSACHUSETTS": 6,
+        "MINNESOTA": 9,
+        "MISSISSIPPI": 45,
+        "MONTANA": 8,
+        "NEBRASKA": 8,
+        "NEVADA": 2,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_MEXICO": 10,
+        "NEW_YORK": 6,
+        "NORTH_CAROLINA": 3,
+        "OHIO": 1,
+        "OKLAHOMA": 6,
+        "OREGON": 1,
+        "PENNSYLVANIA": 3,
+        "PUERTO_RICO": 53
+      }
+    },
+    "YouTube": {
+      "pages": 337,
+      "categories": [
+        "Video players"
+      ],
+      "by_country": {
+        "ARIZONA": 1,
+        "ARKANSAS": 1,
+        "CALIFORNIA": 127,
+        "COLORADO": 2,
+        "CONNECTICUT": 2,
+        "DC": 24,
+        "DELAWARE": 1,
+        "FEDERAL": 11,
+        "GEORGIA": 4,
+        "IDAHO": 1,
+        "ILLINOIS": 2,
+        "INDIANA": 13,
+        "KANSAS": 3,
+        "KENTUCKY": 17,
+        "LOUISIANA": 7,
+        "MARYLAND": 1,
+        "MASSACHUSETTS": 3,
+        "MICHIGAN": 2,
+        "MINNESOTA": 8,
+        "MISSISSIPPI": 9,
+        "MISSOURI": 13,
+        "MONTANA": 7,
+        "NEBRASKA": 4,
+        "NEVADA": 5,
+        "NEW_HAMPSHIRE": 1,
+        "NEW_JERSEY": 1,
+        "NEW_MEXICO": 11,
+        "NEW_YORK": 15,
+        "NORTH_CAROLINA": 8,
+        "NORTH_DAKOTA": 1,
+        "OHIO": 5,
+        "OKLAHOMA": 1,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 22,
+        "RHODE_ISLAND": 3
+      }
+    },
+    "Google Maps": {
+      "pages": 279,
+      "categories": [
+        "Maps"
+      ],
+      "by_country": {
+        "ARIZONA": 6,
+        "ARKANSAS": 1,
+        "CALIFORNIA": 20,
+        "COLORADO": 1,
+        "CONNECTICUT": 2,
+        "DC": 4,
+        "FEDERAL": 22,
+        "FLORIDA": 1,
+        "GEORGIA": 4,
+        "ILLINOIS": 1,
+        "INDIANA": 19,
+        "KANSAS": 2,
+        "KENTUCKY": 101,
+        "LOUISIANA": 2,
+        "MARYLAND": 5,
+        "MASSACHUSETTS": 3,
+        "MINNESOTA": 24,
+        "MISSISSIPPI": 2,
+        "MISSOURI": 1,
+        "NEVADA": 5,
+        "NEW_HAMPSHIRE": 8,
+        "NEW_JERSEY": 1,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 11,
+        "NORTH_CAROLINA": 1,
+        "NORTH_DAKOTA": 1,
+        "OHIO": 15,
+        "OKLAHOMA": 2,
+        "OREGON": 4,
+        "PUERTO_RICO": 8
+      }
+    },
+    "MariaDB": {
+      "pages": 254,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "ARIZONA": 5,
+        "CALIFORNIA": 189,
+        "DC": 3,
+        "FEDERAL": 20,
+        "FLORIDA": 3,
+        "GEORGIA": 3,
+        "LOUISIANA": 2,
+        "MINNESOTA": 1,
+        "MISSOURI": 9,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_YORK": 17
+      }
+    },
+    "Pantheon": {
+      "pages": 254,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "ARIZONA": 5,
+        "CALIFORNIA": 189,
+        "DC": 3,
+        "FEDERAL": 20,
+        "FLORIDA": 3,
+        "GEORGIA": 3,
+        "LOUISIANA": 2,
+        "MINNESOTA": 1,
+        "MISSOURI": 9,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_YORK": 17
+      }
+    },
+    "Twitter": {
+      "pages": 216,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "CALIFORNIA": 18,
+        "COLORADO": 1,
+        "DC": 141,
+        "GEORGIA": 1,
+        "KENTUCKY": 2,
+        "MASSACHUSETTS": 2,
+        "MINNESOTA": 3,
+        "MISSISSIPPI": 1,
+        "MISSOURI": 1,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 4,
+        "NEW_YORK": 2,
+        "OKLAHOMA": 7,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 26
+      }
+    },
+    "AddToAny": {
+      "pages": 209,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "CALIFORNIA": 13,
+        "COLORADO": 2,
+        "FEDERAL": 14,
+        "IDAHO": 2,
+        "INDIANA": 2,
+        "LOUISIANA": 2,
+        "MINNESOTA": 16,
+        "NEBRASKA": 7,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 12,
+        "NORTH_CAROLINA": 120,
+        "OHIO": 7,
+        "OREGON": 6,
+        "PENNSYLVANIA": 3
+      }
+    },
+    "Akamai": {
+      "pages": 199,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "CALIFORNIA": 41,
+        "FEDERAL": 38,
+        "FLORIDA": 1,
+        "ILLINOIS": 2,
+        "INDIANA": 5,
+        "IOWA": 8,
+        "KANSAS": 62,
+        "KENTUCKY": 1,
+        "MINNESOTA": 5,
+        "MISSISSIPPI": 11,
+        "NEBRASKA": 3,
+        "NEVADA": 4,
+        "NEW_YORK": 4,
+        "NORTH_DAKOTA": 3,
+        "OHIO": 2,
+        "OKLAHOMA": 6
+      }
+    },
+    "Underscore.js": {
+      "pages": 199,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 9,
+        "ARKANSAS": 1,
+        "CALIFORNIA": 30,
+        "COLORADO": 3,
+        "CONNECTICUT": 4,
+        "DC": 4,
+        "FEDERAL": 14,
+        "INDIANA": 17,
+        "KANSAS": 1,
+        "KENTUCKY": 3,
+        "LOUISIANA": 2,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 3,
+        "MINNESOTA": 10,
+        "MISSISSIPPI": 12,
+        "MISSOURI": 7,
+        "MONTANA": 1,
+        "NEBRASKA": 20,
+        "NEVADA": 1,
+        "NEW_HAMPSHIRE": 1,
+        "NEW_MEXICO": 12,
+        "NEW_YORK": 6,
+        "NORTH_CAROLINA": 2,
+        "NORTH_DAKOTA": 8,
+        "OHIO": 7,
+        "OKLAHOMA": 1,
+        "OREGON": 1,
+        "PENNSYLVANIA": 4,
+        "PUERTO_RICO": 12
+      }
+    },
+    "Swiper Slider": {
+      "pages": 196,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "ARKANSAS": 1,
+        "CALIFORNIA": 14,
+        "FEDERAL": 12,
+        "GEORGIA": 1,
+        "IDAHO": 3,
+        "ILLINOIS": 1,
+        "INDIANA": 39,
+        "KANSAS": 1,
+        "KENTUCKY": 1,
+        "LOUISIANA": 9,
+        "MASSACHUSETTS": 5,
+        "MINNESOTA": 2,
+        "MISSISSIPPI": 11,
+        "MISSOURI": 38,
+        "NEBRASKA": 19,
+        "NEVADA": 3,
+        "NEW_MEXICO": 17,
+        "NORTH_DAKOTA": 1,
+        "OHIO": 8,
+        "OREGON": 2,
+        "PUERTO_RICO": 5
+      }
+    },
+    "Webflow": {
+      "pages": 194,
+      "categories": [
+        "Page builders"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 3,
+        "IDAHO": 3,
+        "INDIANA": 4,
+        "KANSAS": 10,
+        "PUERTO_RICO": 172
+      }
+    },
+    "Lightbox": {
+      "pages": 192,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "ARKANSAS": 1,
+        "CALIFORNIA": 38,
+        "DC": 3,
+        "FEDERAL": 16,
+        "IDAHO": 3,
+        "INDIANA": 19,
+        "KENTUCKY": 3,
+        "LOUISIANA": 8,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 8,
+        "MICHIGAN": 1,
+        "MINNESOTA": 9,
+        "MISSISSIPPI": 5,
+        "MISSOURI": 2,
+        "MONTANA": 40,
+        "NEBRASKA": 2,
+        "NORTH_CAROLINA": 3,
+        "OREGON": 5,
+        "PENNSYLVANIA": 7,
+        "PUERTO_RICO": 13
+      }
+    },
+    "DreamWeaver": {
+      "pages": 191,
+      "categories": [
+        "Editors"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "CALIFORNIA": 113,
+        "FEDERAL": 7,
+        "FLORIDA": 2,
+        "GEORGIA": 1,
+        "ILLINOIS": 2,
+        "INDIANA": 2,
+        "LOUISIANA": 1,
+        "MINNESOTA": 4,
+        "MISSISSIPPI": 2,
+        "MISSOURI": 1,
+        "NEBRASKA": 1,
+        "NEVADA": 3,
+        "NEW_MEXICO": 1,
+        "NEW_YORK": 9,
+        "NORTH_CAROLINA": 4,
+        "NORTH_DAKOTA": 6,
+        "OHIO": 18,
+        "OKLAHOMA": 6,
+        "OREGON": 3,
+        "PUERTO_RICO": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "FancyBox": {
+      "pages": 186,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 7,
+        "FEDERAL": 17,
+        "INDIANA": 3,
+        "KENTUCKY": 4,
+        "MICHIGAN": 1,
+        "NEW_HAMPSHIRE": 136,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 2,
+        "NORTH_CAROLINA": 6,
+        "PENNSYLVANIA": 3,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Google Analytics": {
+      "pages": 178,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "DC": 143,
+        "FEDERAL": 8,
+        "MISSOURI": 10,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 2,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 3,
+        "PUERTO_RICO": 2,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "AddThis": {
+      "pages": 167,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "DC": 151,
+        "FEDERAL": 3,
+        "LOUISIANA": 3,
+        "MICHIGAN": 1,
+        "MINNESOTA": 1,
+        "MISSOURI": 1,
+        "NEBRASKA": 1,
+        "NORTH_DAKOTA": 2
+      }
+    },
+    "AngularJS": {
+      "pages": 162,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "CALIFORNIA": 32,
+        "COLORADO": 2,
+        "CONNECTICUT": 3,
+        "DC": 1,
+        "FEDERAL": 24,
+        "FLORIDA": 3,
+        "INDIANA": 10,
+        "LOUISIANA": 3,
+        "MASSACHUSETTS": 4,
+        "MINNESOTA": 1,
+        "MISSISSIPPI": 2,
+        "MISSOURI": 5,
+        "NEBRASKA": 2,
+        "NEVADA": 2,
+        "NEW_HAMPSHIRE": 3,
+        "NEW_JERSEY": 2,
+        "NEW_MEXICO": 1,
+        "NEW_YORK": 1,
+        "NORTH_CAROLINA": 7,
+        "NORTH_DAKOTA": 3,
+        "OREGON": 5,
+        "PENNSYLVANIA": 14,
+        "PUERTO_RICO": 30
+      }
+    },
+    "Elementor": {
+      "pages": 162,
+      "categories": [
+        "Page builders"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 11,
+        "FEDERAL": 22,
+        "FLORIDA": 2,
+        "GEORGIA": 3,
+        "IDAHO": 3,
+        "ILLINOIS": 3,
+        "INDIANA": 21,
+        "KANSAS": 3,
+        "LOUISIANA": 10,
+        "MARYLAND": 1,
+        "MASSACHUSETTS": 2,
+        "MISSISSIPPI": 6,
+        "MISSOURI": 2,
+        "NEBRASKA": 3,
+        "NEVADA": 7,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 5,
+        "NORTH_CAROLINA": 9,
+        "NORTH_DAKOTA": 3,
+        "OHIO": 14,
+        "OKLAHOMA": 9,
+        "OREGON": 3,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 14
+      }
+    },
+    "ZURB Foundation": {
+      "pages": 142,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "ALABAMA": 1,
+        "CALIFORNIA": 10,
+        "COLORADO": 1,
+        "CONNECTICUT": 8,
+        "DC": 2,
+        "FEDERAL": 7,
+        "FLORIDA": 2,
+        "GEORGIA": 3,
+        "ILLINOIS": 1,
+        "INDIANA": 8,
+        "KENTUCKY": 2,
+        "LOUISIANA": 6,
+        "MISSISSIPPI": 6,
+        "NEVADA": 16,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 19,
+        "NORTH_DAKOTA": 2,
+        "OKLAHOMA": 5,
+        "PENNSYLVANIA": 22,
+        "PUERTO_RICO": 1,
+        "RHODE_ISLAND": 17
+      }
+    },
+    "Google Cloud": {
+      "pages": 139,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "AMERICAN_SAMOA": 2,
+        "CALIFORNIA": 24,
+        "CONNECTICUT": 2,
+        "DC": 3,
+        "FEDERAL": 6,
+        "GEORGIA": 2,
+        "INDIANA": 12,
+        "LOUISIANA": 6,
+        "MASSACHUSETTS": 2,
+        "MICHIGAN": 6,
+        "MINNESOTA": 41,
+        "MISSOURI": 2,
+        "NEW_MEXICO": 9,
+        "NEW_YORK": 13,
+        "OHIO": 5,
+        "OREGON": 4
+      }
+    },
+    "React": {
+      "pages": 136,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "AMERICAN_SAMOA": 4,
+        "ARIZONA": 1,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 15,
+        "CONNECTICUT": 3,
+        "DC": 3,
+        "FEDERAL": 32,
+        "FLORIDA": 5,
+        "GEORGIA": 5,
+        "ILLINOIS": 3,
+        "INDIANA": 10,
+        "KENTUCKY": 2,
+        "LOUISIANA": 9,
+        "MARYLAND": 2,
+        "MASSACHUSETTS": 2,
+        "MICHIGAN": 6,
+        "MINNESOTA": 2,
+        "NEBRASKA": 1,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 5,
+        "OHIO": 5,
+        "OKLAHOMA": 3,
+        "OREGON": 1,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 3,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Envoy": {
+      "pages": 134,
+      "categories": [
+        "Reverse proxies"
+      ],
+      "by_country": {
+        "CALIFORNIA": 39,
+        "FEDERAL": 18,
+        "INDIANA": 19,
+        "KANSAS": 2,
+        "MICHIGAN": 3,
+        "MINNESOTA": 19,
+        "NEW_MEXICO": 16,
+        "NEW_YORK": 1,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 3,
+        "OREGON": 5,
+        "PENNSYLVANIA": 5,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "Ruby": {
+      "pages": 130,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 36,
+        "COLORADO": 3,
+        "CONNECTICUT": 5,
+        "FEDERAL": 27,
+        "GEORGIA": 1,
+        "INDIANA": 11,
+        "LOUISIANA": 3,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 2,
+        "MINNESOTA": 7,
+        "MISSISSIPPI": 1,
+        "NEBRASKA": 1,
+        "NEW_JERSEY": 2,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 7,
+        "NORTH_CAROLINA": 1,
+        "OKLAHOMA": 4,
+        "OREGON": 1,
+        "PENNSYLVANIA": 6,
+        "RHODE_ISLAND": 5
+      }
+    },
+    "Ruby on Rails": {
+      "pages": 130,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 36,
+        "COLORADO": 3,
+        "CONNECTICUT": 5,
+        "FEDERAL": 27,
+        "GEORGIA": 1,
+        "INDIANA": 11,
+        "LOUISIANA": 3,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 2,
+        "MINNESOTA": 7,
+        "MISSISSIPPI": 1,
+        "NEBRASKA": 1,
+        "NEW_JERSEY": 2,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 7,
+        "NORTH_CAROLINA": 1,
+        "OKLAHOMA": 4,
+        "OREGON": 1,
+        "PENNSYLVANIA": 6,
+        "RHODE_ISLAND": 5
+      }
+    },
+    "Moment Timezone": {
+      "pages": 126,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 4,
+        "CALIFORNIA": 24,
+        "COLORADO": 3,
+        "FEDERAL": 6,
+        "IDAHO": 6,
+        "ILLINOIS": 7,
+        "INDIANA": 14,
+        "IOWA": 2,
+        "KANSAS": 2,
+        "MICHIGAN": 4,
+        "MINNESOTA": 14,
+        "NEW_MEXICO": 9,
+        "NEW_YORK": 11,
+        "NORTH_CAROLINA": 4,
+        "OHIO": 16
+      }
+    },
+    "UserWay": {
+      "pages": 116,
+      "categories": [
+        "Accessibility"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 14,
+        "COLORADO": 4,
+        "FEDERAL": 11,
+        "ILLINOIS": 7,
+        "INDIANA": 2,
+        "LOUISIANA": 4,
+        "MINNESOTA": 12,
+        "MISSISSIPPI": 10,
+        "NEVADA": 2,
+        "NEW_MEXICO": 2,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 6,
+        "PENNSYLVANIA": 22,
+        "PUERTO_RICO": 16
+      }
+    },
+    "Node.js": {
+      "pages": 113,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 11,
+        "CONNECTICUT": 3,
+        "FEDERAL": 23,
+        "FLORIDA": 2,
+        "GEORGIA": 3,
+        "ILLINOIS": 3,
+        "INDIANA": 1,
+        "KENTUCKY": 2,
+        "LOUISIANA": 14,
+        "MASSACHUSETTS": 2,
+        "MISSOURI": 2,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 10,
+        "NEW_YORK": 10,
+        "OHIO": 2,
+        "OKLAHOMA": 3,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 11,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Ubuntu": {
+      "pages": 111,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "CALIFORNIA": 15,
+        "COLORADO": 3,
+        "CONNECTICUT": 2,
+        "FEDERAL": 12,
+        "GEORGIA": 4,
+        "IDAHO": 3,
+        "INDIANA": 18,
+        "IOWA": 6,
+        "KENTUCKY": 3,
+        "LOUISIANA": 5,
+        "MASSACHUSETTS": 2,
+        "MINNESOTA": 1,
+        "MISSISSIPPI": 5,
+        "NEVADA": 2,
+        "NEW_MEXICO": 5,
+        "OHIO": 7,
+        "OKLAHOMA": 2,
+        "OREGON": 4,
+        "PENNSYLVANIA": 3,
+        "PUERTO_RICO": 7
+      }
+    },
+    "Amazon S3": {
+      "pages": 110,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 21,
+        "COLORADO": 3,
+        "DC": 2,
+        "FEDERAL": 37,
+        "GEORGIA": 3,
+        "INDIANA": 7,
+        "KANSAS": 2,
+        "KENTUCKY": 2,
+        "LOUISIANA": 3,
+        "MASSACHUSETTS": 3,
+        "MINNESOTA": 8,
+        "MISSOURI": 1,
+        "NEW_JERSEY": 3,
+        "NEW_MEXICO": 5,
+        "NEW_YORK": 2,
+        "NORTH_DAKOTA": 2,
+        "OKLAHOMA": 2,
+        "PUERTO_RICO": 2,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "Select2": {
+      "pages": 110,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 26,
+        "CONNECTICUT": 2,
+        "FEDERAL": 11,
+        "INDIANA": 8,
+        "KENTUCKY": 2,
+        "MARYLAND": 2,
+        "MICHIGAN": 3,
+        "MINNESOTA": 4,
+        "MISSOURI": 6,
+        "MONTANA": 3,
+        "NEW_YORK": 18,
+        "NORTH_CAROLINA": 3,
+        "NORTH_DAKOTA": 2,
+        "OKLAHOMA": 1,
+        "OREGON": 3,
+        "PENNSYLVANIA": 8,
+        "PUERTO_RICO": 6
+      }
+    },
+    "SweetAlert2": {
+      "pages": 108,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 2,
+        "KENTUCKY": 100,
+        "NORTH_DAKOTA": 1,
+        "PUERTO_RICO": 3
+      }
+    },
+    "OpenSSL": {
+      "pages": 106,
+      "categories": [
+        "Web server extensions"
+      ],
+      "by_country": {
+        "ALABAMA": 3,
+        "CALIFORNIA": 9,
+        "COLORADO": 2,
+        "CONNECTICUT": 2,
+        "FEDERAL": 16,
+        "GEORGIA": 10,
+        "IDAHO": 3,
+        "INDIANA": 2,
+        "MARYLAND": 3,
+        "MINNESOTA": 16,
+        "MISSISSIPPI": 9,
+        "MONTANA": 2,
+        "NEBRASKA": 3,
+        "NEW_MEXICO": 4,
+        "NEW_YORK": 8,
+        "NORTH_CAROLINA": 1,
+        "OHIO": 9,
+        "OREGON": 2,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "hCaptcha": {
+      "pages": 100,
+      "categories": [
+        "Security"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 54,
+        "COLORADO": 3,
+        "MINNESOTA": 39,
+        "OREGON": 2
+      }
+    },
+    "Cart Functionality": {
+      "pages": 96,
+      "categories": [
+        "Ecommerce"
+      ],
+      "by_country": {
+        "ARIZONA": 6,
+        "CALIFORNIA": 14,
+        "DC": 1,
+        "FEDERAL": 3,
+        "GEORGIA": 3,
+        "INDIANA": 4,
+        "KENTUCKY": 5,
+        "LOUISIANA": 2,
+        "MASSACHUSETTS": 1,
+        "MINNESOTA": 2,
+        "MISSISSIPPI": 3,
+        "MONTANA": 4,
+        "NEW_HAMPSHIRE": 3,
+        "NEW_YORK": 4,
+        "NORTH_DAKOTA": 3,
+        "OREGON": 3,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 32,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Java": {
+      "pages": 94,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "ALABAMA": 1,
+        "CALIFORNIA": 12,
+        "DC": 1,
+        "FEDERAL": 12,
+        "FLORIDA": 3,
+        "GEORGIA": 3,
+        "ILLINOIS": 1,
+        "INDIANA": 1,
+        "KANSAS": 2,
+        "MINNESOTA": 1,
+        "NEBRASKA": 3,
+        "NEVADA": 3,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 5,
+        "NEW_YORK": 14,
+        "NORTH_CAROLINA": 4,
+        "NORTH_DAKOTA": 5,
+        "OHIO": 2,
+        "OKLAHOMA": 6,
+        "PENNSYLVANIA": 11,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "Lodash": {
+      "pages": 89,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "AMERICAN_SAMOA": 4,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 9,
+        "CONNECTICUT": 3,
+        "DC": 5,
+        "GEORGIA": 5,
+        "INDIANA": 10,
+        "IOWA": 6,
+        "KENTUCKY": 4,
+        "LOUISIANA": 5,
+        "MARYLAND": 2,
+        "MASSACHUSETTS": 5,
+        "MICHIGAN": 6,
+        "MINNESOTA": 2,
+        "MONTANA": 2,
+        "NEBRASKA": 1,
+        "NEVADA": 1,
+        "OHIO": 5,
+        "OREGON": 4,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 3
+      }
+    },
+    "W3 Total Cache": {
+      "pages": 82,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "CALIFORNIA": 19,
+        "FEDERAL": 9,
+        "HAWAII": 3,
+        "IDAHO": 3,
+        "INDIANA": 5,
+        "MARYLAND": 1,
+        "MINNESOTA": 2,
+        "MISSISSIPPI": 14,
+        "NEW_MEXICO": 7,
+        "NEW_YORK": 2,
+        "OHIO": 2,
+        "OKLAHOMA": 5,
+        "PENNSYLVANIA": 8,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Red Hat": {
+      "pages": 81,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "CALIFORNIA": 9,
+        "COLORADO": 3,
+        "FEDERAL": 14,
+        "GEORGIA": 5,
+        "MARYLAND": 3,
+        "MINNESOTA": 16,
+        "MISSISSIPPI": 6,
+        "NEW_MEXICO": 1,
+        "NEW_YORK": 19,
+        "OHIO": 3,
+        "OREGON": 2
+      }
+    },
+    "Oracle Dynamic Monitoring Service": {
+      "pages": 77,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 9,
+        "CONNECTICUT": 7,
+        "DC": 2,
+        "FEDERAL": 8,
+        "FLORIDA": 2,
+        "INDIANA": 3,
+        "KANSAS": 14,
+        "MINNESOTA": 12,
+        "NEW_MEXICO": 4,
+        "NEW_YORK": 12,
+        "OKLAHOMA": 4
+      }
+    },
+    "WordPress Super Cache": {
+      "pages": 74,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "CONNECTICUT": 4,
+        "FEDERAL": 3,
+        "GEORGIA": 3,
+        "NEVADA": 3,
+        "NEW_HAMPSHIRE": 3,
+        "OHIO": 54,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Leaflet": {
+      "pages": 73,
+      "categories": [
+        "Maps"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "CALIFORNIA": 39,
+        "FEDERAL": 8,
+        "INDIANA": 4,
+        "KENTUCKY": 2,
+        "MINNESOTA": 1,
+        "MISSISSIPPI": 3,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 1,
+        "NORTH_CAROLINA": 3,
+        "NORTH_DAKOTA": 1,
+        "OHIO": 1,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 3,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "scrollreveal": {
+      "pages": 72,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 1,
+        "CALIFORNIA": 11,
+        "FEDERAL": 2,
+        "ILLINOIS": 1,
+        "INDIANA": 4,
+        "KANSAS": 39,
+        "KENTUCKY": 1,
+        "MINNESOTA": 4,
+        "NORTH_DAKOTA": 2,
+        "OKLAHOMA": 4,
+        "PENNSYLVANIA": 3
+      }
+    },
+    "jQuery Mobile": {
+      "pages": 71,
+      "categories": [
+        "Mobile frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 15,
+        "COLORADO": 1,
+        "DC": 2,
+        "IDAHO": 3,
+        "INDIANA": 2,
+        "KENTUCKY": 16,
+        "NEW_HAMPSHIRE": 1,
+        "NEW_MEXICO": 25,
+        "NEW_YORK": 4,
+        "OHIO": 2
+      }
+    },
+    "webpack": {
+      "pages": 69,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 9,
+        "CONNECTICUT": 3,
+        "FEDERAL": 24,
+        "FLORIDA": 2,
+        "ILLINOIS": 3,
+        "INDIANA": 1,
+        "KENTUCKY": 2,
+        "LOUISIANA": 6,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 3,
+        "OKLAHOMA": 3,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "MooTools": {
+      "pages": 65,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 1,
+        "ILLINOIS": 2,
+        "INDIANA": 55,
+        "KANSAS": 2,
+        "LOUISIANA": 1,
+        "OHIO": 4
+      }
+    },
+    "Next.js": {
+      "pages": 63,
+      "categories": [
+        "Web frameworks",
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 9,
+        "CONNECTICUT": 3,
+        "FEDERAL": 21,
+        "FLORIDA": 2,
+        "ILLINOIS": 3,
+        "INDIANA": 1,
+        "KENTUCKY": 2,
+        "LOUISIANA": 6,
+        "NEW_JERSEY": 7,
+        "NEW_MEXICO": 2,
+        "OKLAHOMA": 3,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "DNN": {
+      "pages": 62,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 20,
+        "FEDERAL": 16,
+        "IDAHO": 6,
+        "MARYLAND": 2,
+        "MICHIGAN": 2,
+        "MONTANA": 5,
+        "NEBRASKA": 4,
+        "NEW_MEXICO": 3,
+        "OREGON": 1,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 1
+      }
+    },
+    "Vue.js": {
+      "pages": 59,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 1,
+        "DC": 2,
+        "FEDERAL": 5,
+        "INDIANA": 4,
+        "LOUISIANA": 10,
+        "MASSACHUSETTS": 2,
+        "MINNESOTA": 3,
+        "MISSOURI": 4,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 9,
+        "OREGON": 3,
+        "PUERTO_RICO": 11
+      }
+    },
+    "Chart.js": {
+      "pages": 57,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "CALIFORNIA": 6,
+        "COLORADO": 1,
+        "FEDERAL": 6,
+        "IDAHO": 1,
+        "INDIANA": 3,
+        "KENTUCKY": 1,
+        "LOUISIANA": 3,
+        "MARYLAND": 3,
+        "MINNESOTA": 3,
+        "NEW_HAMPSHIRE": 1,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 3,
+        "NORTH_DAKOTA": 2,
+        "OHIO": 3,
+        "OKLAHOMA": 2,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 12
+      }
+    },
+    "Gravity Forms": {
+      "pages": 57,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "ARIZONA": 1,
+        "CALIFORNIA": 9,
+        "DC": 2,
+        "FEDERAL": 4,
+        "INDIANA": 7,
+        "KENTUCKY": 1,
+        "LOUISIANA": 1,
+        "MARYLAND": 3,
+        "MISSISSIPPI": 3,
+        "NEBRASKA": 3,
+        "NEVADA": 4,
+        "NEW_MEXICO": 5,
+        "NEW_YORK": 3,
+        "OHIO": 5,
+        "OKLAHOMA": 3,
+        "PENNSYLVANIA": 3
+      }
+    },
+    "Revslider": {
+      "pages": 56,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "DC": 2,
+        "FEDERAL": 9,
+        "GEORGIA": 3,
+        "IDAHO": 3,
+        "INDIANA": 10,
+        "MINNESOTA": 3,
+        "MISSISSIPPI": 4,
+        "MONTANA": 2,
+        "NEW_MEXICO": 5,
+        "OHIO": 3,
+        "PUERTO_RICO": 10
+      }
+    },
+    "LiteSpeed": {
+      "pages": 55,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 10,
+        "INDIANA": 6,
+        "LOUISIANA": 7,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 3,
+        "NORTH_DAKOTA": 3,
+        "OKLAHOMA": 14,
+        "PENNSYLVANIA": 6,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Statcounter": {
+      "pages": 55,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "INDIANA": 3,
+        "MARYLAND": 1,
+        "MICHIGAN": 4,
+        "MINNESOTA": 1,
+        "NEBRASKA": 38,
+        "NEW_MEXICO": 1,
+        "NORTH_CAROLINA": 3,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Stimulus": {
+      "pages": 54,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "ARIZONA": 6,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 4,
+        "COLORADO": 4,
+        "DC": 3,
+        "FEDERAL": 6,
+        "GEORGIA": 3,
+        "INDIANA": 3,
+        "KENTUCKY": 3,
+        "LOUISIANA": 3,
+        "MINNESOTA": 9,
+        "MISSISSIPPI": 3,
+        "NEW_MEXICO": 2,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "WP Engine": {
+      "pages": 54,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 11,
+        "COLORADO": 4,
+        "FEDERAL": 11,
+        "GEORGIA": 3,
+        "INDIANA": 3,
+        "KENTUCKY": 2,
+        "LOUISIANA": 9,
+        "NEBRASKA": 5,
+        "NEW_MEXICO": 3,
+        "OHIO": 3
+      }
+    },
+    "prettyPhoto": {
+      "pages": 51,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 19,
+        "FEDERAL": 2,
+        "INDIANA": 7,
+        "KENTUCKY": 3,
+        "MISSISSIPPI": 3,
+        "MISSOURI": 3,
+        "NEW_JERSEY": 3,
+        "NEW_YORK": 3,
+        "PENNSYLVANIA": 3,
+        "PUERTO_RICO": 5
+      }
+    },
+    "Backbone.js": {
+      "pages": 48,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 12,
+        "FEDERAL": 3,
+        "INDIANA": 2,
+        "MISSISSIPPI": 5,
+        "NEBRASKA": 19,
+        "NEW_MEXICO": 3,
+        "NORTH_DAKOTA": 3,
+        "PUERTO_RICO": 1
+      }
+    },
+    "WP Rocket": {
+      "pages": 47,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "CALIFORNIA": 9,
+        "FLORIDA": 3,
+        "LOUISIANA": 2,
+        "MASSACHUSETTS": 5,
+        "NEW_MEXICO": 3,
+        "OHIO": 22,
+        "OREGON": 3
+      }
+    },
+    "Flywheel": {
+      "pages": 45,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "CALIFORNIA": 3,
+        "INDIANA": 5,
+        "KANSAS": 3,
+        "MARYLAND": 3,
+        "MINNESOTA": 3,
+        "MISSISSIPPI": 3,
+        "MONTANA": 2,
+        "NEBRASKA": 11,
+        "NEW_MEXICO": 3,
+        "NORTH_CAROLINA": 6
+      }
+    },
+    "Wix": {
+      "pages": 42,
+      "categories": [
+        "Blogs",
+        "CMS",
+        "Ecommerce"
+      ],
+      "by_country": {
+        "AMERICAN_SAMOA": 4,
+        "ARKANSAS": 3,
+        "DC": 3,
+        "GEORGIA": 5,
+        "INDIANA": 9,
+        "LOUISIANA": 3,
+        "MARYLAND": 2,
+        "MICHIGAN": 6,
+        "MINNESOTA": 2,
+        "OHIO": 5
+      }
+    },
+    "Debian": {
+      "pages": 40,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 2,
+        "FEDERAL": 3,
+        "INDIANA": 2,
+        "MARYLAND": 2,
+        "MASSACHUSETTS": 5,
+        "MINNESOTA": 2,
+        "NEBRASKA": 13,
+        "NEW_MEXICO": 9
+      }
+    },
+    "ArcGIS API for JavaScript": {
+      "pages": 39,
+      "categories": [
+        "Maps"
+      ],
+      "by_country": {
+        "CALIFORNIA": 15,
+        "DC": 1,
+        "FEDERAL": 4,
+        "FLORIDA": 2,
+        "IDAHO": 1,
+        "KANSAS": 1,
+        "KENTUCKY": 2,
+        "LOUISIANA": 1,
+        "MASSACHUSETTS": 2,
+        "MICHIGAN": 1,
+        "MINNESOTA": 1,
+        "MISSISSIPPI": 1,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 1,
+        "NORTH_CAROLINA": 2,
+        "OHIO": 2
+      }
+    },
+    "Kestrel": {
+      "pages": 38,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 12,
+        "COLORADO": 4,
+        "FEDERAL": 2,
+        "FLORIDA": 1,
+        "GEORGIA": 1,
+        "MINNESOTA": 7,
+        "NEW_YORK": 2,
+        "OKLAHOMA": 4,
+        "PUERTO_RICO": 4,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Joomla": {
+      "pages": 37,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "FEDERAL": 1,
+        "INDIANA": 4,
+        "KANSAS": 2,
+        "LOUISIANA": 1,
+        "MICHIGAN": 6,
+        "MINNESOTA": 2,
+        "NEW_HAMPSHIRE": 4,
+        "NEW_YORK": 2,
+        "OHIO": 4,
+        "PENNSYLVANIA": 6,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Squarespace": {
+      "pages": 37,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "ARIZONA": 6,
+        "ARKANSAS": 3,
+        "CALIFORNIA": 9,
+        "DC": 3,
+        "GEORGIA": 3,
+        "INDIANA": 2,
+        "KENTUCKY": 3,
+        "MINNESOTA": 3,
+        "MISSISSIPPI": 3,
+        "MONTANA": 2
+      }
+    },
+    "Vercel": {
+      "pages": 37,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 10,
+        "FEDERAL": 15,
+        "FLORIDA": 4,
+        "LOUISIANA": 6,
+        "OREGON": 2
+      }
+    },
+    "Google Plus": {
+      "pages": 35,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "COLORADO": 9,
+        "FEDERAL": 5,
+        "GEORGIA": 3,
+        "KANSAS": 2,
+        "KENTUCKY": 2,
+        "MISSISSIPPI": 4,
+        "OKLAHOMA": 4,
+        "PUERTO_RICO": 6
+      }
+    },
+    "Polyfill": {
+      "pages": 35,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "DC": 1,
+        "FEDERAL": 2,
+        "IDAHO": 1,
+        "KENTUCKY": 1,
+        "MINNESOTA": 5,
+        "MISSISSIPPI": 3,
+        "MONTANA": 7,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 3,
+        "OHIO": 4,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Plesk": {
+      "pages": 34,
+      "categories": [
+        "Hosting panels"
+      ],
+      "by_country": {
+        "ALABAMA": 6,
+        "CALIFORNIA": 6,
+        "FLORIDA": 3,
+        "IDAHO": 6,
+        "INDIANA": 3,
+        "MICHIGAN": 2,
+        "MINNESOTA": 3,
+        "MISSOURI": 1,
+        "NEBRASKA": 2,
+        "NEVADA": 2
+      }
+    },
+    "Handlebars": {
+      "pages": 33,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 7,
+        "COLORADO": 1,
+        "DC": 1,
+        "FEDERAL": 11,
+        "INDIANA": 1,
+        "MISSOURI": 1,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 1,
+        "NEW_YORK": 4,
+        "NORTH_CAROLINA": 2,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "Lua": {
+      "pages": 31,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "MISSISSIPPI": 25,
+        "NEW_YORK": 3,
+        "NORTH_CAROLINA": 3
+      }
+    },
+    "MailChimp": {
+      "pages": 31,
+      "categories": [
+        "Marketing automation"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 7,
+        "IDAHO": 1,
+        "INDIANA": 2,
+        "LOUISIANA": 7,
+        "MICHIGAN": 1,
+        "MISSOURI": 2,
+        "NEBRASKA": 1,
+        "NEVADA": 2,
+        "NORTH_CAROLINA": 2,
+        "OHIO": 1,
+        "PUERTO_RICO": 3
+      }
+    },
+    "OpenResty": {
+      "pages": 31,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "MISSISSIPPI": 25,
+        "NEW_YORK": 3,
+        "NORTH_CAROLINA": 3
+      }
+    },
+    "Redis": {
+      "pages": 31,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "CALIFORNIA": 16,
+        "FEDERAL": 3,
+        "MASSACHUSETTS": 3,
+        "NEW_HAMPSHIRE": 3,
+        "OREGON": 6
+      }
+    },
+    "Redis Object Cache": {
+      "pages": 31,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "CALIFORNIA": 16,
+        "FEDERAL": 3,
+        "MASSACHUSETTS": 3,
+        "NEW_HAMPSHIRE": 3,
+        "OREGON": 6
+      }
+    },
+    "Material Design Lite": {
+      "pages": 30,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "ARIZONA": 1,
+        "CALIFORNIA": 2,
+        "COLORADO": 3,
+        "CONNECTICUT": 1,
+        "FEDERAL": 6,
+        "GEORGIA": 4,
+        "INDIANA": 6,
+        "LOUISIANA": 2,
+        "MASSACHUSETTS": 1,
+        "MINNESOTA": 1,
+        "NEW_MEXICO": 1,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "Java Servlet": {
+      "pages": 29,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 1,
+        "GEORGIA": 3,
+        "ILLINOIS": 1,
+        "NEBRASKA": 2,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 10,
+        "NORTH_CAROLINA": 2,
+        "NORTH_DAKOTA": 3,
+        "PENNSYLVANIA": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Nuxt.js": {
+      "pages": 29,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 2,
+        "LOUISIANA": 8,
+        "NEW_MEXICO": 3,
+        "NEW_YORK": 9,
+        "PUERTO_RICO": 7
+      }
+    },
+    "RequireJS": {
+      "pages": 29,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 6,
+        "GEORGIA": 2,
+        "KENTUCKY": 1,
+        "LOUISIANA": 2,
+        "MINNESOTA": 2,
+        "MISSISSIPPI": 2,
+        "MISSOURI": 1,
+        "NEBRASKA": 1,
+        "NEVADA": 2,
+        "NEW_YORK": 1,
+        "NORTH_CAROLINA": 3,
+        "OKLAHOMA": 1,
+        "PENNSYLVANIA": 3
+      }
+    },
+    "Highcharts": {
+      "pages": 28,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "CALIFORNIA": 1,
+        "KENTUCKY": 3,
+        "LOUISIANA": 3,
+        "MINNESOTA": 3,
+        "MISSISSIPPI": 2,
+        "MISSOURI": 1,
+        "NEVADA": 1,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 4,
+        "OHIO": 1,
+        "PENNSYLVANIA": 3,
+        "PUERTO_RICO": 1,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Materialize CSS": {
+      "pages": 27,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "DC": 24,
+        "FEDERAL": 2,
+        "NEW_MEXICO": 1
+      }
+    },
+    "Flickity": {
+      "pages": 26,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 5,
+        "LOUISIANA": 2,
+        "MINNESOTA": 5,
+        "MONTANA": 8,
+        "NEBRASKA": 2,
+        "OKLAHOMA": 1
+      }
+    },
+    "Python": {
+      "pages": 24,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "CALIFORNIA": 8,
+        "FEDERAL": 3,
+        "INDIANA": 1,
+        "KANSAS": 3,
+        "MARYLAND": 3,
+        "MASSACHUSETTS": 1,
+        "MINNESOTA": 1,
+        "OKLAHOMA": 2,
+        "OREGON": 2
+      }
+    },
+    "Ionicons": {
+      "pages": 23,
+      "categories": [
+        "Font scripts"
+      ],
+      "by_country": {
+        "CALIFORNIA": 6,
+        "DC": 2,
+        "FEDERAL": 2,
+        "IOWA": 2,
+        "MINNESOTA": 1,
+        "MISSISSIPPI": 2,
+        "NEW_MEXICO": 1,
+        "NORTH_CAROLINA": 3,
+        "NORTH_DAKOTA": 2,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "SiteGround": {
+      "pages": 23,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 1,
+        "IDAHO": 2,
+        "ILLINOIS": 1,
+        "INDIANA": 3,
+        "LOUISIANA": 1,
+        "MINNESOTA": 3,
+        "NEBRASKA": 2,
+        "NEVADA": 1,
+        "NEW_MEXICO": 3,
+        "OHIO": 3
+      }
+    },
+    "TrackJs": {
+      "pages": 23,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "FEDERAL": 6,
+        "LOUISIANA": 6,
+        "MASSACHUSETTS": 3,
+        "MINNESOTA": 2,
+        "PENNSYLVANIA": 3,
+        "PUERTO_RICO": 3
+      }
+    },
+    "Crazy Egg": {
+      "pages": 22,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 18,
+        "KENTUCKY": 4
+      }
+    },
+    "Litespeed Cache": {
+      "pages": 22,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 2,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 1,
+        "NORTH_DAKOTA": 3,
+        "OKLAHOMA": 11
+      }
+    },
+    "Express": {
+      "pages": 21,
+      "categories": [
+        "Web frameworks",
+        "Web servers"
+      ],
+      "by_country": {
+        "ARIZONA": 2,
+        "CALIFORNIA": 2,
+        "GEORGIA": 3,
+        "MASSACHUSETTS": 2,
+        "MISSOURI": 2,
+        "NEW_MEXICO": 5,
+        "NEW_YORK": 1,
+        "OHIO": 2,
+        "PUERTO_RICO": 2
+      }
+    },
+    "UIKit": {
+      "pages": 20,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "CALIFORNIA": 2,
+        "DC": 3,
+        "FEDERAL": 3,
+        "KENTUCKY": 3,
+        "LOUISIANA": 2,
+        "OREGON": 3,
+        "PENNSYLVANIA": 1
+      }
+    },
+    "Apache Tomcat": {
+      "pages": 19,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "FEDERAL": 2,
+        "KANSAS": 1,
+        "NEBRASKA": 1,
+        "NEW_MEXICO": 1,
+        "NEW_YORK": 3,
+        "NORTH_CAROLINA": 2,
+        "NORTH_DAKOTA": 2,
+        "PENNSYLVANIA": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Mustache": {
+      "pages": 19,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "DC": 1,
+        "FEDERAL": 2,
+        "MISSOURI": 1,
+        "MONTANA": 5,
+        "NEW_HAMPSHIRE": 2,
+        "NEW_MEXICO": 1,
+        "NORTH_CAROLINA": 1,
+        "PUERTO_RICO": 4
+      }
+    },
+    "Weebly": {
+      "pages": 19,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "INDIANA": 3,
+        "KANSAS": 3,
+        "MINNESOTA": 3,
+        "NEBRASKA": 5,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 3
+      }
+    },
+    "D3": {
+      "pages": 18,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 14,
+        "CONNECTICUT": 3,
+        "INDIANA": 1
+      }
+    },
+    "TinyMCE": {
+      "pages": 18,
+      "categories": [
+        "Rich text editors"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "COLORADO": 1,
+        "CONNECTICUT": 1,
+        "DC": 1,
+        "FEDERAL": 1,
+        "GEORGIA": 3,
+        "KANSAS": 1,
+        "KENTUCKY": 1,
+        "MINNESOTA": 1,
+        "MONTANA": 1,
+        "NEVADA": 1,
+        "NEW_MEXICO": 1,
+        "OKLAHOMA": 1
+      }
+    },
+    "Adobe Experience Manager": {
+      "pages": 17,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "FEDERAL": 9,
+        "OKLAHOMA": 4,
+        "PENNSYLVANIA": 4
+      }
+    },
+    "Clipboard.js": {
+      "pages": 17,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 10,
+        "GEORGIA": 2,
+        "INDIANA": 2,
+        "NEW_HAMPSHIRE": 3
+      }
+    },
+    "FrontPage": {
+      "pages": 17,
+      "categories": [
+        "Editors"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "CONNECTICUT": 1,
+        "FEDERAL": 1,
+        "FLORIDA": 1,
+        "ILLINOIS": 1,
+        "MONTANA": 2,
+        "NEBRASKA": 2,
+        "NEW_MEXICO": 2,
+        "OHIO": 3,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "FlexSlider": {
+      "pages": 16,
+      "categories": [
+        "Widgets"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 1,
+        "MICHIGAN": 1,
+        "MISSOURI": 8,
+        "NEVADA": 3,
+        "NORTH_DAKOTA": 1
+      }
+    },
+    "Google App Engine": {
+      "pages": 16,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CONNECTICUT": 2,
+        "FEDERAL": 5,
+        "ILLINOIS": 3,
+        "INDIANA": 3,
+        "MISSOURI": 2,
+        "NEW_YORK": 1
+      }
+    },
+    "Kinsta": {
+      "pages": 15,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 5,
+        "GEORGIA": 2,
+        "INDIANA": 2,
+        "MASSACHUSETTS": 6
+      }
+    },
+    "Microsoft HTTPAPI": {
+      "pages": 15,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 2,
+        "MINNESOTA": 2,
+        "MISSISSIPPI": 3,
+        "NEW_MEXICO": 1,
+        "OKLAHOMA": 1,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 3
+      }
+    },
+    "OpenLayers": {
+      "pages": 14,
+      "categories": [
+        "Maps"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "IOWA": 6,
+        "KENTUCKY": 3,
+        "MASSACHUSETTS": 1,
+        "OREGON": 1
+      }
+    },
+    "SDL Tridion": {
+      "pages": 14,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "MINNESOTA": 14
+      }
+    },
+    "Weglot": {
+      "pages": 14,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "COLORADO": 4,
+        "MISSISSIPPI": 6,
+        "NEBRASKA": 1,
+        "NEW_MEXICO": 3
+      }
+    },
+    "WooCommerce": {
+      "pages": 14,
+      "categories": [
+        "Ecommerce"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "GEORGIA": 3,
+        "INDIANA": 3,
+        "MISSOURI": 3,
+        "NEVADA": 2
+      }
+    },
+    "Google Sign-in": {
+      "pages": 13,
+      "categories": [
+        "Social login"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "DC": 1,
+        "FEDERAL": 1,
+        "KANSAS": 2,
+        "KENTUCKY": 1,
+        "NEW_MEXICO": 2,
+        "OKLAHOMA": 4
+      }
+    },
+    "JavaServer Pages": {
+      "pages": 13,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "DC": 1,
+        "GEORGIA": 2,
+        "KANSAS": 1,
+        "NEVADA": 3,
+        "NEW_MEXICO": 2,
+        "NEW_YORK": 1,
+        "OHIO": 2
+      }
+    },
+    "Microsoft Word": {
+      "pages": 13,
+      "categories": [
+        "Editors"
+      ],
+      "by_country": {
+        "ARKANSAS": 1,
+        "CALIFORNIA": 1,
+        "FEDERAL": 1,
+        "MINNESOTA": 1,
+        "NEW_YORK": 3,
+        "NORTH_DAKOTA": 2,
+        "OREGON": 2,
+        "PENNSYLVANIA": 1,
+        "PUERTO_RICO": 1
+      }
+    },
+    "Sucuri": {
+      "pages": 13,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "CALIFORNIA": 7,
+        "LOUISIANA": 3,
+        "NEW_HAMPSHIRE": 3
+      }
+    },
+    "Yii": {
+      "pages": 13,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "FEDERAL": 3,
+        "INDIANA": 3,
+        "OHIO": 3
+      }
+    },
+    "mod_jk": {
+      "pages": 13,
+      "categories": [
+        "Web server extensions"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "FEDERAL": 2,
+        "NEBRASKA": 1,
+        "NEW_MEXICO": 1,
+        "NEW_YORK": 2,
+        "PENNSYLVANIA": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "AppDynamics": {
+      "pages": 12,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "INDIANA": 12
+      }
+    },
+    "Duda": {
+      "pages": 12,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "ILLINOIS": 3,
+        "INDIANA": 9
+      }
+    },
+    "Highlight.js": {
+      "pages": 12,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "CONNECTICUT": 1,
+        "FEDERAL": 3,
+        "GEORGIA": 2,
+        "INDIANA": 2,
+        "MARYLAND": 1
+      }
+    },
+    "Lagoon": {
+      "pages": 12,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "DC": 3,
+        "FEDERAL": 6,
+        "MINNESOTA": 3
+      }
+    },
+    "Plotly": {
+      "pages": 12,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 12
+      }
+    },
+    "Ckan": {
+      "pages": 11,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 7,
+        "INDIANA": 1,
+        "MINNESOTA": 1,
+        "OKLAHOMA": 2
+      }
+    },
+    "Concrete5": {
+      "pages": 11,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 6,
+        "ILLINOIS": 2,
+        "NEW_YORK": 3
+      }
+    },
+    "Ensighten": {
+      "pages": 11,
+      "categories": [
+        "Tag managers"
+      ],
+      "by_country": {
+        "MISSISSIPPI": 2,
+        "NEW_YORK": 9
+      }
+    },
+    "Kendo UI": {
+      "pages": 11,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 2,
+        "INDIANA": 2,
+        "KENTUCKY": 2,
+        "MINNESOTA": 2,
+        "NEBRASKA": 2,
+        "NORTH_CAROLINA": 1
+      }
+    },
+    "Lucene": {
+      "pages": 11,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "CALIFORNIA": 7,
+        "INDIANA": 1,
+        "MINNESOTA": 1,
+        "OKLAHOMA": 2
+      }
+    },
+    "PostgreSQL": {
+      "pages": 11,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "CALIFORNIA": 7,
+        "INDIANA": 1,
+        "MINNESOTA": 1,
+        "OKLAHOMA": 2
+      }
+    },
+    "Solr": {
+      "pages": 11,
+      "categories": [
+        "Databases"
+      ],
+      "by_country": {
+        "CALIFORNIA": 7,
+        "INDIANA": 1,
+        "MINNESOTA": 1,
+        "OKLAHOMA": 2
+      }
+    },
+    "CentOS": {
+      "pages": 10,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "GEORGIA": 3,
+        "MISSISSIPPI": 3,
+        "OHIO": 4
+      }
+    },
+    "Craft CMS": {
+      "pages": 10,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FEDERAL": 2,
+        "INDIANA": 3,
+        "OHIO": 3
+      }
+    },
+    "Netlify": {
+      "pages": 10,
+      "categories": [
+        "CDN",
+        "PaaS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "INDIANA": 2,
+        "LOUISIANA": 4,
+        "NEW_HAMPSHIRE": 2
+      }
+    },
+    "Oracle HTTP Server": {
+      "pages": 10,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "FLORIDA": 2,
+        "INDIANA": 3,
+        "MINNESOTA": 1,
+        "NEW_YORK": 4
+      }
+    },
+    "Pure CSS": {
+      "pages": 10,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 6,
+        "OREGON": 4
+      }
+    },
+    "Stripe": {
+      "pages": 10,
+      "categories": [
+        "Payment processors"
+      ],
+      "by_country": {
+        "CALIFORNIA": 5,
+        "KENTUCKY": 3,
+        "LOUISIANA": 2
+      }
+    },
+    "Blazor": {
+      "pages": 9,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "CONNECTICUT": 2,
+        "MASSACHUSETTS": 1,
+        "MINNESOTA": 2,
+        "OKLAHOMA": 1
+      }
+    },
+    "Hammer.js": {
+      "pages": 9,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "COLORADO": 2,
+        "GEORGIA": 2,
+        "KENTUCKY": 1,
+        "NEW_MEXICO": 3
+      }
+    },
+    "Contentful": {
+      "pages": 8,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "LOUISIANA": 6
+      }
+    },
+    "Google PageSpeed": {
+      "pages": 8,
+      "categories": [
+        "Caching",
+        "Web server extensions"
+      ],
+      "by_country": {
+        "CALIFORNIA": 8
+      }
+    },
+    "HubSpot": {
+      "pages": 8,
+      "categories": [
+        "Marketing automation"
+      ],
+      "by_country": {
+        "INDIANA": 1,
+        "KANSAS": 3,
+        "LOUISIANA": 3,
+        "NEW_YORK": 1
+      }
+    },
+    "Moodle": {
+      "pages": 8,
+      "categories": [
+        "LMS"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "GEORGIA": 2,
+        "NEVADA": 2
+      }
+    },
+    "Osano": {
+      "pages": 8,
+      "categories": [
+        "Cookie compliance"
+      ],
+      "by_country": {
+        "DC": 2,
+        "KENTUCKY": 3,
+        "PENNSYLVANIA": 3
+      }
+    },
+    "Phusion Passenger": {
+      "pages": 8,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 3,
+        "OKLAHOMA": 2
+      }
+    },
+    "SWFObject": {
+      "pages": 8,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 2,
+        "NEW_YORK": 1,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "Sitefinity": {
+      "pages": 8,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "INDIANA": 5,
+        "NORTH_CAROLINA": 3
+      }
+    },
+    "Svelte": {
+      "pages": 8,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "LOUISIANA": 6,
+        "NEW_HAMPSHIRE": 2
+      }
+    },
+    "AppNexus": {
+      "pages": 7,
+      "categories": [
+        "Advertising"
+      ],
+      "by_country": {
+        "CALIFORNIA": 4,
+        "NEW_YORK": 1,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Django": {
+      "pages": 7,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "FEDERAL": 3,
+        "MASSACHUSETTS": 1,
+        "OREGON": 2
+      }
+    },
+    "Flat UI": {
+      "pages": 7,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "INDIANA": 1,
+        "NEBRASKA": 6
+      }
+    },
+    "Glyphicons": {
+      "pages": 7,
+      "categories": [
+        "Font scripts"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "PENNSYLVANIA": 2,
+        "PUERTO_RICO": 2
+      }
+    },
+    "IBM DataPower": {
+      "pages": 7,
+      "categories": [
+        "Reverse proxies"
+      ],
+      "by_country": {
+        "NEW_YORK": 7
+      }
+    },
+    "Snap.svg": {
+      "pages": 7,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 6,
+        "INDIANA": 1
+      }
+    },
+    "UNIX": {
+      "pages": 7,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "NEW_YORK": 3,
+        "NORTH_CAROLINA": 1,
+        "RHODE_ISLAND": 2
+      }
+    },
+    "YUI": {
+      "pages": 7,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "DC": 1,
+        "GEORGIA": 1,
+        "LOUISIANA": 3
+      }
+    },
+    "particles.js": {
+      "pages": 7,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "INDIANA": 3,
+        "KENTUCKY": 3,
+        "PUERTO_RICO": 1
+      }
+    },
+    "Angular": {
+      "pages": 6,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "MASSACHUSETTS": 1,
+        "PUERTO_RICO": 5
+      }
+    },
+    "ApexPages": {
+      "pages": 6,
+      "categories": [
+        "Page builders"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 1,
+        "NEW_YORK": 2
+      }
+    },
+    "Awesomplete": {
+      "pages": 6,
+      "categories": [
+        "Search engines"
+      ],
+      "by_country": {
+        "AMERICAN_SAMOA": 3,
+        "NEW_HAMPSHIRE": 2,
+        "PUERTO_RICO": 1
+      }
+    },
+    "Clicky": {
+      "pages": 6,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 6
+      }
+    },
+    "Gatsby": {
+      "pages": 6,
+      "categories": [
+        "JavaScript frameworks",
+        "Static site generator"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "NEW_YORK": 3
+      }
+    },
+    "OneTrust": {
+      "pages": 6,
+      "categories": [
+        "Cookie compliance"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "LOUISIANA": 4
+      }
+    },
+    "Platform.sh": {
+      "pages": 6,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "FLORIDA": 3
+      }
+    },
+    "Salesforce": {
+      "pages": 6,
+      "categories": [
+        "CRM"
+      ],
+      "by_country": {
+        "CALIFORNIA": 3,
+        "FEDERAL": 1,
+        "NEW_YORK": 2
+      }
+    },
+    "Zend": {
+      "pages": 6,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "OHIO": 6
+      }
+    },
+    "Element UI": {
+      "pages": 5,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 3,
+        "LOUISIANA": 2
+      }
+    },
+    "F5 BigIP": {
+      "pages": 5,
+      "categories": [
+        "Reverse proxies"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "FEDERAL": 1,
+        "KANSAS": 3
+      }
+    },
+    "Gravatar": {
+      "pages": 5,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "INDIANA": 2,
+        "MASSACHUSETTS": 1,
+        "PUERTO_RICO": 1
+      }
+    },
+    "MathJax": {
+      "pages": 5,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "COLORADO": 1,
+        "FEDERAL": 3,
+        "MINNESOTA": 1
+      }
+    },
+    "Twitter typeahead.js": {
+      "pages": 5,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "NORTH_CAROLINA": 1,
+        "PUERTO_RICO": 2
+      }
+    },
+    "basket.js": {
+      "pages": 5,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "NORTH_DAKOTA": 3
+      }
+    },
+    "jQuery-pjax": {
+      "pages": 5,
+      "categories": [
+        "Mobile frameworks"
+      ],
+      "by_country": {
+        "PUERTO_RICO": 5
+      }
+    },
+    "Dojo": {
+      "pages": 4,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "PUERTO_RICO": 2
+      }
+    },
+    "Fingerprintjs": {
+      "pages": 4,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "ARIZONA": 3,
+        "NORTH_CAROLINA": 1
+      }
+    },
+    "Lotus Domino": {
+      "pages": 4,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "ALABAMA": 1,
+        "PENNSYLVANIA": 3
+      }
+    },
+    "Marked": {
+      "pages": 4,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "HAWAII": 3,
+        "NEW_MEXICO": 1
+      }
+    },
+    "MotoCMS": {
+      "pages": 4,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "INDIANA": 4
+      }
+    },
+    "NVD3": {
+      "pages": 4,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 1,
+        "CONNECTICUT": 3
+      }
+    },
+    "PlatformOS": {
+      "pages": 4,
+      "categories": [
+        "CMS",
+        "PaaS"
+      ],
+      "by_country": {
+        "DC": 4
+      }
+    },
+    "Prototype": {
+      "pages": 4,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 4
+      }
+    },
+    "SweetAlert": {
+      "pages": 4,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "GEORGIA": 2,
+        "PENNSYLVANIA": 2
+      }
+    },
+    "amCharts": {
+      "pages": 4,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "INDIANA": 2,
+        "KANSAS": 2
+      }
+    },
+    "math.js": {
+      "pages": 4,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "FEDERAL": 2,
+        "NORTH_CAROLINA": 1,
+        "OREGON": 1
+      }
+    },
+    "Adobe RoboHelp": {
+      "pages": 3,
+      "categories": [
+        "Documentation"
+      ],
+      "by_country": {
+        "MINNESOTA": 3
+      }
+    },
+    "Angular Material": {
+      "pages": 3,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 2,
+        "LOUISIANA": 1
+      }
+    },
+    "Apple Sign-in": {
+      "pages": 3,
+      "categories": [
+        "Social login"
+      ],
+      "by_country": {
+        "KANSAS": 2,
+        "MARYLAND": 1
+      }
+    },
+    "Bloomreach": {
+      "pages": 3,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "MONTANA": 3
+      }
+    },
+    "Bulma": {
+      "pages": 3,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "MISSISSIPPI": 3
+      }
+    },
+    "Fastly": {
+      "pages": 3,
+      "categories": [
+        "CDN"
+      ],
+      "by_country": {
+        "FEDERAL": 2,
+        "NORTH_CAROLINA": 1
+      }
+    },
+    "GitHub Pages": {
+      "pages": 3,
+      "categories": [
+        "PaaS"
+      ],
+      "by_country": {
+        "FEDERAL": 2,
+        "NORTH_CAROLINA": 1
+      }
+    },
+    "Highstock": {
+      "pages": 3,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "ALABAMA": 2,
+        "LOUISIANA": 1
+      }
+    },
+    "MediaWiki": {
+      "pages": 3,
+      "categories": [
+        "Wikis"
+      ],
+      "by_country": {
+        "MICHIGAN": 3
+      }
+    },
+    "Miva": {
+      "pages": 3,
+      "categories": [
+        "Ecommerce"
+      ],
+      "by_country": {
+        "MASSACHUSETTS": 3
+      }
+    },
+    "Plone": {
+      "pages": 3,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "KANSAS": 3
+      }
+    },
+    "Prism": {
+      "pages": 3,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2,
+        "FLORIDA": 1
+      }
+    },
+    "Raphael": {
+      "pages": 3,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "DC": 2,
+        "RHODE_ISLAND": 1
+      }
+    },
+    "Semantic-ui": {
+      "pages": 3,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "KENTUCKY": 2,
+        "MONTANA": 1
+      }
+    },
+    "Sizmek": {
+      "pages": 3,
+      "categories": [
+        "Advertising"
+      ],
+      "by_country": {
+        "NEVADA": 3
+      }
+    },
+    "Webtrends": {
+      "pages": 3,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "FEDERAL": 3
+      }
+    },
+    "eZ Publish": {
+      "pages": 3,
+      "categories": [
+        "CMS",
+        "Ecommerce"
+      ],
+      "by_country": {
+        "MISSISSIPPI": 3
+      }
+    },
+    "lighttpd": {
+      "pages": 3,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "PENNSYLVANIA": 3
+      }
+    },
+    "mod_wsgi": {
+      "pages": 3,
+      "categories": [
+        "Web server extensions"
+      ],
+      "by_country": {
+        "MARYLAND": 3
+      }
+    },
+    "Apache Traffic Server": {
+      "pages": 2,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "MASSACHUSETTS": 2
+      }
+    },
+    "Apple Pay": {
+      "pages": 2,
+      "categories": [
+        "Payment processors"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2
+      }
+    },
+    "Bootstrap Table": {
+      "pages": 2,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "NEW_YORK": 2
+      }
+    },
+    "BugSnag": {
+      "pages": 2,
+      "categories": [
+        "Analytics"
+      ],
+      "by_country": {
+        "FEDERAL": 2
+      }
+    },
+    "Cybersource": {
+      "pages": 2,
+      "categories": [
+        "Payment processors"
+      ],
+      "by_country": {
+        "NEVADA": 2
+      }
+    },
+    "Datadome": {
+      "pages": 2,
+      "categories": [
+        "Security"
+      ],
+      "by_country": {
+        "ALASKA": 2
+      }
+    },
+    "Fat-Free Framework": {
+      "pages": 2,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2
+      }
+    },
+    "FreeBSD": {
+      "pages": 2,
+      "categories": [
+        "Operating systems"
+      ],
+      "by_country": {
+        "INDIANA": 2
+      }
+    },
+    "GlassFish": {
+      "pages": 2,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "NEW_MEXICO": 2
+      }
+    },
+    "GoDaddy Website Builder": {
+      "pages": 2,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "INDIANA": 2
+      }
+    },
+    "Jekyll": {
+      "pages": 2,
+      "categories": [
+        "Static site generator"
+      ],
+      "by_country": {
+        "OHIO": 2
+      }
+    },
+    "Jetty": {
+      "pages": 2,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "FLORIDA": 2
+      }
+    },
+    "Liferay": {
+      "pages": 2,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "PENNSYLVANIA": 2
+      }
+    },
+    "NitroPack": {
+      "pages": 2,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "NEBRASKA": 2
+      }
+    },
+    "Oracle Application Server": {
+      "pages": 2,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "NEW_YORK": 2
+      }
+    },
+    "Oracle Web Cache": {
+      "pages": 2,
+      "categories": [
+        "Caching"
+      ],
+      "by_country": {
+        "NEW_YORK": 2
+      }
+    },
+    "Perl": {
+      "pages": 2,
+      "categories": [
+        "Programming languages"
+      ],
+      "by_country": {
+        "FEDERAL": 2
+      }
+    },
+    "Ramda": {
+      "pages": 2,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "LOUISIANA": 2
+      }
+    },
+    "TYPO3 CMS": {
+      "pages": 2,
+      "categories": [
+        "CMS"
+      ],
+      "by_country": {
+        "OREGON": 2
+      }
+    },
+    "Vuetify": {
+      "pages": 2,
+      "categories": [
+        "UI frameworks"
+      ],
+      "by_country": {
+        "FEDERAL": 2
+      }
+    },
+    "decimal.js": {
+      "pages": 2,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "MINNESOTA": 2
+      }
+    },
+    "gunicorn": {
+      "pages": 2,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "MASSACHUSETTS": 2
+      }
+    },
+    "jQuery Sparklines": {
+      "pages": 2,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "CALIFORNIA": 2
+      }
+    },
+    "mod_perl": {
+      "pages": 2,
+      "categories": [
+        "Web server extensions"
+      ],
+      "by_country": {
+        "FEDERAL": 2
+      }
+    },
+    "AMP": {
+      "pages": 1,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "KENTUCKY": 1
+      }
+    },
+    "Adobe GoLive": {
+      "pages": 1,
+      "categories": [
+        "Editors"
+      ],
+      "by_country": {
+        "OHIO": 1
+      }
+    },
+    "Ant Design": {
+      "pages": 1,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "MINNESOTA": 1
+      }
+    },
+    "ExtJS": {
+      "pages": 1,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "DC": 1
+      }
+    },
+    "IBM WebSphere Commerce": {
+      "pages": 1,
+      "categories": [
+        "Ecommerce"
+      ],
+      "by_country": {
+        "DC": 1
+      }
+    },
+    "JBoss Application Server": {
+      "pages": 1,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "RHODE_ISLAND": 1
+      }
+    },
+    "JBoss Web": {
+      "pages": 1,
+      "categories": [
+        "Web servers"
+      ],
+      "by_country": {
+        "RHODE_ISLAND": 1
+      }
+    },
+    "JavaServer Faces": {
+      "pages": 1,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "FLORIDA": 1
+      }
+    },
+    "MkDocs": {
+      "pages": 1,
+      "categories": [
+        "Documentation"
+      ],
+      "by_country": {
+        "COLORADO": 1
+      }
+    },
+    "OpenUI5": {
+      "pages": 1,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "NORTH_CAROLINA": 1
+      }
+    },
+    "PayPal": {
+      "pages": 1,
+      "categories": [
+        "Payment processors"
+      ],
+      "by_country": {
+        "GEORGIA": 1
+      }
+    },
+    "Plyr": {
+      "pages": 1,
+      "categories": [
+        "Video players"
+      ],
+      "by_country": {
+        "FEDERAL": 1
+      }
+    },
+    "Recite Me": {
+      "pages": 1,
+      "categories": [
+        "Accessibility"
+      ],
+      "by_country": {
+        "NEW_YORK": 1
+      }
+    },
+    "RxJS": {
+      "pages": 1,
+      "categories": [
+        "JavaScript frameworks"
+      ],
+      "by_country": {
+        "OREGON": 1
+      }
+    },
+    "Slimbox 2": {
+      "pages": 1,
+      "categories": [
+        "JavaScript libraries"
+      ],
+      "by_country": {
+        "FEDERAL": 1
+      }
+    },
+    "Spring": {
+      "pages": 1,
+      "categories": [
+        "Web frameworks"
+      ],
+      "by_country": {
+        "KANSAS": 1
+      }
+    },
+    "mod_ssl": {
+      "pages": 1,
+      "categories": [
+        "Web server extensions"
+      ],
+      "by_country": {
+        "NEW_YORK": 1
+      }
+    },
+    "three.js": {
+      "pages": 1,
+      "categories": [
+        "JavaScript graphics"
+      ],
+      "by_country": {
+        "FEDERAL": 1
+      }
+    }
+  },
+  "by_category": {
+    "JavaScript libraries": {
+      "pages": 16742,
+      "technologies": [
+        "Bootstrap Table",
+        "DataTables",
+        "Dojo",
+        "FancyBox",
+        "Fingerprintjs",
+        "Flickity",
+        "Hammer.js",
+        "Lightbox",
+        "Lodash",
+        "Marked",
+        "Modernizr",
+        "Moment Timezone",
+        "Moment.js",
+        "Polyfill",
+        "Ramda",
+        "Select2",
+        "Slick",
+        "Slimbox 2",
+        "Snap.svg",
+        "SweetAlert",
+        "SweetAlert2",
+        "Twitter typeahead.js",
+        "Underscore.js",
+        "YUI",
+        "basket.js",
+        "decimal.js",
+        "jQuery",
+        "jQuery Migrate",
+        "jQuery UI",
+        "math.js",
+        "prettyPhoto",
+        "scrollreveal"
+      ]
+    },
+    "Font scripts": {
+      "pages": 8061,
+      "technologies": [
+        "Font Awesome",
+        "Glyphicons",
+        "Google Font API",
+        "Ionicons"
+      ]
+    },
+    "Web servers": {
+      "pages": 7922,
+      "technologies": [
+        "Amazon EC2",
+        "Apache",
+        "Apache Tomcat",
+        "Apache Traffic Server",
+        "Express",
+        "GlassFish",
+        "Google App Engine",
+        "IIS",
+        "JBoss Application Server",
+        "JBoss Web",
+        "Jetty",
+        "Kestrel",
+        "LiteSpeed",
+        "Lotus Domino",
+        "Microsoft HTTPAPI",
+        "Next.js",
+        "Nginx",
+        "OpenResty",
+        "Oracle Application Server",
+        "Oracle HTTP Server",
+        "Phusion Passenger",
+        "Vercel",
+        "Zend",
+        "gunicorn",
+        "lighttpd"
+      ]
+    },
+    "CDN": {
+      "pages": 5117,
+      "technologies": [
+        "Akamai",
+        "Amazon Cloudfront",
+        "Cloudflare",
+        "Fastly",
+        "Google Cloud",
+        "Netlify",
+        "Sucuri",
+        "jsDelivr"
+      ]
+    },
+    "UI frameworks": {
+      "pages": 4891,
+      "technologies": [
+        "Angular Material",
+        "Bootstrap",
+        "Bulma",
+        "Flat UI",
+        "Kendo UI",
+        "Material Design Lite",
+        "Materialize CSS",
+        "Pure CSS",
+        "Semantic-ui",
+        "UIKit",
+        "Vuetify",
+        "ZURB Foundation",
+        "animate.css"
+      ]
+    },
+    "CMS": {
+      "pages": 3790,
+      "technologies": [
+        "Adobe Experience Manager",
+        "Bloomreach",
+        "Ckan",
+        "Concrete5",
+        "Contentful",
+        "Craft CMS",
+        "DNN",
+        "Drupal",
+        "Duda",
+        "GoDaddy Website Builder",
+        "Joomla",
+        "Liferay",
+        "Microsoft SharePoint",
+        "MotoCMS",
+        "PlatformOS",
+        "Plone",
+        "SDL Tridion",
+        "Sitefinity",
+        "Squarespace",
+        "TYPO3 CMS",
+        "Weebly",
+        "Wix",
+        "WordPress",
+        "eZ Publish"
+      ]
+    },
+    "Programming languages": {
+      "pages": 3781,
+      "technologies": [
+        "Java",
+        "Lua",
+        "Node.js",
+        "PHP",
+        "Perl",
+        "Python",
+        "Ruby"
+      ]
+    },
+    "Operating systems": {
+      "pages": 3614,
+      "technologies": [
+        "CentOS",
+        "Debian",
+        "FreeBSD",
+        "Red Hat",
+        "UNIX",
+        "Ubuntu",
+        "Windows Server"
+      ]
+    },
+    "Web frameworks": {
+      "pages": 3187,
+      "technologies": [
+        "Blazor",
+        "Django",
+        "Express",
+        "Fat-Free Framework",
+        "Java Servlet",
+        "JavaServer Faces",
+        "JavaServer Pages",
+        "Microsoft ASP.NET",
+        "Next.js",
+        "Ruby on Rails",
+        "Spring",
+        "Yii"
+      ]
+    },
+    "PaaS": {
+      "pages": 2627,
+      "technologies": [
+        "Amazon Web Services",
+        "Cloud Platform",
+        "Flywheel",
+        "GitHub Pages",
+        "Kinsta",
+        "Lagoon",
+        "Netlify",
+        "Pantheon",
+        "Platform.sh",
+        "PlatformOS",
+        "SiteGround",
+        "WP Engine"
+      ]
+    },
+    "Databases": {
+      "pages": 2444,
+      "technologies": [
+        "Lucene",
+        "MariaDB",
+        "MySQL",
+        "Percona",
+        "PostgreSQL",
+        "Redis",
+        "Solr"
+      ]
+    },
+    "Tag managers": {
+      "pages": 1478,
+      "technologies": [
+        "Ensighten",
+        "Google Tag Manager"
+      ]
+    },
+    "Widgets": {
+      "pages": 1463,
+      "technologies": [
+        "AddThis",
+        "AddToAny",
+        "Facebook",
+        "FlexSlider",
+        "Google Plus",
+        "OWL Carousel",
+        "Twitter"
+      ]
+    },
+    "Caching": {
+      "pages": 1459,
+      "technologies": [
+        "Google PageSpeed",
+        "Litespeed Cache",
+        "NitroPack",
+        "Oracle Web Cache",
+        "Redis Object Cache",
+        "Varnish",
+        "W3 Total Cache",
+        "WP Rocket",
+        "WordPress Super Cache"
+      ]
+    },
+    "JavaScript frameworks": {
+      "pages": 1437,
+      "technologies": [
+        "AMP",
+        "Alpine.js",
+        "Angular",
+        "AngularJS",
+        "Ant Design",
+        "Backbone.js",
+        "Element UI",
+        "ExtJS",
+        "Gatsby",
+        "Handlebars",
+        "MooTools",
+        "Mustache",
+        "Nuxt.js",
+        "OpenUI5",
+        "Prototype",
+        "React",
+        "RequireJS",
+        "RxJS",
+        "Stimulus",
+        "Svelte",
+        "Vue.js"
+      ]
+    },
+    "Blogs": {
+      "pages": 1315,
+      "technologies": [
+        "Wix",
+        "WordPress"
+      ]
+    },
+    "Reverse proxies": {
+      "pages": 1252,
+      "technologies": [
+        "Envoy",
+        "F5 BigIP",
+        "IBM DataPower",
+        "Nginx"
+      ]
+    },
+    "Security": {
+      "pages": 1163,
+      "technologies": [
+        "Datadome",
+        "Imperva",
+        "hCaptcha",
+        "reCAPTCHA"
+      ]
+    },
+    "Rich text editors": {
+      "pages": 699,
+      "technologies": [
+        "Froala Editor",
+        "TinyMCE"
+      ]
+    },
+    "Miscellaneous": {
+      "pages": 624,
+      "technologies": [
+        "Amazon S3",
+        "Clipboard.js",
+        "Gravatar",
+        "Gravity Forms",
+        "Highlight.js",
+        "Oracle Dynamic Monitoring Service",
+        "Prism",
+        "Revslider",
+        "SWFObject",
+        "Swiper Slider",
+        "Weglot",
+        "webpack"
+      ]
+    },
+    "SEO": {
+      "pages": 559,
+      "technologies": [
+        "Yoast SEO"
+      ]
+    },
+    "Maps": {
+      "pages": 405,
+      "technologies": [
+        "ArcGIS API for JavaScript",
+        "Google Maps",
+        "Leaflet",
+        "OpenLayers"
+      ]
+    },
+    "Page builders": {
+      "pages": 362,
+      "technologies": [
+        "ApexPages",
+        "Elementor",
+        "Webflow"
+      ]
+    },
+    "Video players": {
+      "pages": 338,
+      "technologies": [
+        "Plyr",
+        "YouTube"
+      ]
+    },
+    "Analytics": {
+      "pages": 301,
+      "technologies": [
+        "AppDynamics",
+        "BugSnag",
+        "Clicky",
+        "Crazy Egg",
+        "Google Analytics",
+        "Statcounter",
+        "TrackJs",
+        "Webtrends"
+      ]
+    },
+    "Editors": {
+      "pages": 222,
+      "technologies": [
+        "Adobe GoLive",
+        "DreamWeaver",
+        "FrontPage",
+        "Microsoft Word"
+      ]
+    },
+    "Ecommerce": {
+      "pages": 159,
+      "technologies": [
+        "Cart Functionality",
+        "IBM WebSphere Commerce",
+        "Miva",
+        "Wix",
+        "WooCommerce",
+        "eZ Publish"
+      ]
+    },
+    "JavaScript graphics": {
+      "pages": 144,
+      "technologies": [
+        "Chart.js",
+        "D3",
+        "Highcharts",
+        "Highstock",
+        "MathJax",
+        "NVD3",
+        "Plotly",
+        "Raphael",
+        "amCharts",
+        "jQuery Sparklines",
+        "particles.js",
+        "three.js"
+      ]
+    },
+    "Web server extensions": {
+      "pages": 133,
+      "technologies": [
+        "Google PageSpeed",
+        "OpenSSL",
+        "mod_jk",
+        "mod_perl",
+        "mod_ssl",
+        "mod_wsgi"
+      ]
+    },
+    "Accessibility": {
+      "pages": 117,
+      "technologies": [
+        "Recite Me",
+        "UserWay"
+      ]
+    },
+    "Mobile frameworks": {
+      "pages": 76,
+      "technologies": [
+        "jQuery Mobile",
+        "jQuery-pjax"
+      ]
+    },
+    "Marketing automation": {
+      "pages": 39,
+      "technologies": [
+        "HubSpot",
+        "MailChimp"
+      ]
+    },
+    "Hosting panels": {
+      "pages": 34,
+      "technologies": [
+        "Plesk"
+      ]
+    },
+    "Social login": {
+      "pages": 16,
+      "technologies": [
+        "Apple Sign-in",
+        "Google Sign-in"
+      ]
+    },
+    "Payment processors": {
+      "pages": 15,
+      "technologies": [
+        "Apple Pay",
+        "Cybersource",
+        "PayPal",
+        "Stripe"
+      ]
+    },
+    "Cookie compliance": {
+      "pages": 14,
+      "technologies": [
+        "OneTrust",
+        "Osano"
+      ]
+    },
+    "Advertising": {
+      "pages": 10,
+      "technologies": [
+        "AppNexus",
+        "Sizmek"
+      ]
+    },
+    "LMS": {
+      "pages": 8,
+      "technologies": [
+        "Moodle"
+      ]
+    },
+    "Static site generator": {
+      "pages": 8,
+      "technologies": [
+        "Gatsby",
+        "Jekyll"
+      ]
+    },
+    "CRM": {
+      "pages": 6,
+      "technologies": [
+        "Salesforce"
+      ]
+    },
+    "Search engines": {
+      "pages": 6,
+      "technologies": [
+        "Awesomplete"
+      ]
+    },
+    "Documentation": {
+      "pages": 4,
+      "technologies": [
+        "Adobe RoboHelp",
+        "MkDocs"
+      ]
+    },
+    "Wikis": {
+      "pages": 3,
+      "technologies": [
+        "MediaWiki"
+      ]
+    }
+  }
 }

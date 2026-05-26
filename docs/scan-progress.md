@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-05-25 06:46 UTC_
+_Generated: 2026-05-26 06:33 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -13,11 +13,11 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Scan Type | Pages Scanned | Available | Coverage |
 |-----------|--------------|-----------|----------|
-| **Combined Reachability** | **53,461 confirmed reachable** | 65,681 | **<span role="img" aria-label="81.4% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:98px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">81.4%</span></span>** |
-| Social Media | 56,188 scanned (53,461 reachable) | 65,681 | <span role="img" aria-label="85.5% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:103px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">85.5%</span></span> |
-| Technology | 0 scanned | 65,681 | (manual scan) |
+| **Combined Reachability** | **62,695 confirmed reachable** | 65,681 | **<span role="img" aria-label="95.5% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:115px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">95.5%</span></span>** |
+| Social Media | 65,693 scanned (62,695 reachable) | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
+| Technology | 13,552 scanned | 65,681 | <span role="img" aria-label="20.6% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:25px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">20.6%</span></span> |
 | Lighthouse | 0 scanned | 65,681 | (manual scan) |
-| Accessibility Statements | 38,601 scanned | 65,681 | <span role="img" aria-label="58.8% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:71px;height:100%;background:#b45309;"></span></span><span style="font-size:0.85em;color:#374151;">58.8%</span></span> |
+| Accessibility Statements | 53,301 scanned | 65,681 | <span role="img" aria-label="81.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:97px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">81.2%</span></span> |
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
 
@@ -52,6 +52,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-05-21 | 100.0% | 100.0% | 57.1% (+3.50pp) | 100.0% | 35.5% | 96.3% |
 | 2026-05-24 | 41.1% (-58.92pp) | 0.0% (-100.02pp) | 0.0% (-57.09pp) | 23.4% (-76.67pp) | 0.0% (-35.53pp) | 39.0% (-57.22pp) |
 | 2026-05-25 | 85.5% (+44.45pp) | 0.0% | 0.0% | 58.8% (+35.42pp) | 0.0% | 81.4% (+42.35pp) |
+| 2026-05-26 | 100.0% (+14.47pp) | 20.6% (+20.63pp) | 0.0% | 81.2% (+22.38pp) | 0.0% | 95.5% (+14.06pp) |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -61,12 +62,12 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 
 | Rank | Scan Type | Coverage | Gap vs Leader | Est. Days to 100% |
 |------|-----------|----------|--------------|-------------------|
-| 1 | Social Media | 85.5% | leader | — |
-| 2 | Combined Reachability | 81.4% | −4.2pp | — |
-| 3 | Accessibility ⚠ needs attention | 58.8% | −26.8pp | — |
-| 4 | Technology ⚠ needs attention | 0.0% | −85.5pp | — |
-| 5 | Lighthouse ⚠ needs attention | 0.0% | −85.5pp | — |
-| 6 | Third-party JS ⚠ needs attention | 0.0% | −85.5pp | — |
+| 1 | Social Media | 100.0% | leader | — |
+| 2 | Combined Reachability | 95.5% | −4.6pp | — |
+| 3 | Accessibility ⚠ needs attention | 81.2% | −18.9pp | — |
+| 4 | Technology ⚠ needs attention | 20.6% | −79.4pp | — |
+| 5 | Lighthouse ⚠ needs attention | 0.0% | −100.0pp | — |
+| 6 | Third-party JS ⚠ needs attention | 0.0% | −100.0pp | — |
 
 > Daily rate is estimated from the average gain over the past 7 snapshots. A "—" estimate means no measurable progress has been recorded yet.
 
@@ -84,7 +85,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Connecticut | 167 | 167 | 143 | 11 | 0 | 0 | 132 | 11 | 0 | 0 | 0 | May 2026 |
 | DC | 486 | 486 | 480 | 207 | 0 | 33 | 240 | 224 | 19 | 25 | 10 | May 2026 |
 | Delaware | 17 | 17 | 17 | 16 | 0 | 1 | 0 | 11 | 1 | 0 | 1 | May 2026 |
-| Federal | 40,530 | 50,035 | 38,672 | 12,744 | 242 | 2,531 | 23,155 | 8,716 | 2,638 | 423 | 2,542 | May 2026 |
+| Federal | 50,035 | 50,035 | 47,906 | 16,921 | 345 | 3,514 | 27,126 | 11,473 | 3,537 | 526 | 3,572 | May 2026 |
 | Florida | 140 | 140 | 131 | 21 | 0 | 16 | 94 | 15 | 9 | 0 | 16 | May 2026 |
 | Georgia | 217 | 217 | 206 | 46 | 0 | 3 | 157 | 41 | 4 | 0 | 3 | May 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 0 | 0 | 5 | 3 | 0 | 0 | 0 | May 2026 |
@@ -134,9 +135,53 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 
 > Hover or focus any non-zero platform count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and platform from [social-media-data.json](social-media-data.json).
 
-## Technology Scan
+## Technology Scan by State
 
-_No technology scans have been run yet. Trigger the **Scan Technology Stack** workflow manually._
+| Country | URLs Scanned | Last Scan |
+|---------|-------------|----------|
+| Alabama | 48 | 2026-05-25 |
+| Alaska | 34 | 2026-05-25 |
+| American Samoa | 7 | 2026-05-25 |
+| Arizona | 337 | 2026-05-25 |
+| Arkansas | 29 | 2026-05-25 |
+| California | 2,495 | 2026-05-25 |
+| Colorado | 134 | 2026-05-25 |
+| Connecticut | 167 | 2026-05-25 |
+| DC | 486 | 2026-05-25 |
+| Delaware | 17 | 2026-05-25 |
+| Federal | 1,066 | 2026-05-25 |
+| Florida | 140 | 2026-05-25 |
+| Georgia | 217 | 2026-05-25 |
+| Hawaii | 8 | 2026-05-25 |
+| Idaho | 103 | 2026-05-25 |
+| Illinois | 91 | 2026-05-25 |
+| Indiana | 598 | 2026-05-25 |
+| Iowa | 21 | 2026-05-25 |
+| Kansas | 194 | 2026-05-25 |
+| Kentucky | 738 | 2026-05-25 |
+| Louisiana | 266 | 2026-05-25 |
+| Maine | 1 | 2026-05-25 |
+| Maryland | 89 | 2026-05-25 |
+| Massachusetts | 153 | 2026-05-25 |
+| Michigan | 122 | 2026-05-25 |
+| Minnesota | 785 | 2026-05-25 |
+| Mississippi | 486 | 2026-05-25 |
+| Missouri | 245 | 2026-05-25 |
+| Montana | 264 | 2026-05-26 |
+| Nebraska | 205 | 2026-05-26 |
+| Nevada | 358 | 2026-05-26 |
+| New Hampshire | 249 | 2026-05-26 |
+| New Jersey | 203 | 2026-05-26 |
+| New Mexico | 288 | 2026-05-26 |
+| New York | 732 | 2026-05-26 |
+| North Carolina | 292 | 2026-05-26 |
+| North Dakota | 215 | 2026-05-26 |
+| Ohio | 388 | 2026-05-26 |
+| Oklahoma | 160 | 2026-05-26 |
+| Oregon | 163 | 2026-05-26 |
+| Pennsylvania | 354 | 2026-05-26 |
+| Puerto Rico | 496 | 2026-05-26 |
+| Rhode Island | 108 | 2026-05-26 |
 
 ## Lighthouse Scan
 
@@ -158,7 +203,7 @@ Checks whether each government page links to an accessibility statement as requi
 | Connecticut | 167 | 143 | 32 | 31 | 22% | May 2026 |
 | DC | 486 | 482 | 310 | 304 | 64% | May 2026 |
 | Delaware | 17 | 17 | 8 | 8 | 47% | May 2026 |
-| Federal | 22,943 | 21,959 | 7,753 | 6,967 | 35% | May 2026 |
+| Federal | 37,643 | 35,895 | 13,215 | 11,700 | 37% | May 2026 |
 | Florida | 140 | 131 | 35 | 29 | 27% | May 2026 |
 | Georgia | 217 | 206 | 25 | 21 | 12% | May 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | May 2026 |
