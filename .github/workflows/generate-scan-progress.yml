@@ -16,7 +16,7 @@ concurrency:
 jobs:
   generate-progress-report:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     permissions:
       contents: write
       actions: read
@@ -90,6 +90,15 @@ jobs:
             --output docs/domains.md \
             2>&1 | tee domains-report-output.txt
 
+      - name: Generate Lighthouse results page
+        run: |
+          python3 -m src.cli.generate_lighthouse_report \
+            --page docs/lighthouse-scanning.md \
+            --data docs/lighthouse-data.json \
+            --csv docs/lighthouse-data.csv \
+            --seeds-dir data/toon-seeds \
+            2>&1 | tee lighthouse-report-output.txt
+
       - name: Generate technology stats page
         run: |
           python3 -m src.cli.generate_technology_report \
@@ -114,15 +123,6 @@ jobs:
             --data docs/accessibility-data.json \
             --seeds-dir data/toon-seeds \
             2>&1 | tee accessibility-report-output.txt
-
-      - name: Generate Lighthouse results page
-        run: |
-          python3 -m src.cli.generate_lighthouse_report \
-            --page docs/lighthouse-scanning.md \
-            --data docs/lighthouse-data.json \
-            --csv docs/lighthouse-data.csv \
-            --seeds-dir data/toon-seeds \
-            2>&1 | tee lighthouse-report-output.txt
 
       - name: Commit progress report to repository
         run: |
