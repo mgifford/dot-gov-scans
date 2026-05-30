@@ -22,7 +22,7 @@ pins and licensing signals to support legal and security review.
 | tldextract | 5.1.3 | Domain parsing | BSD-3-Clause |
 | beautifulsoup4 | 4.12.3 | HTML parsing | MIT |
 | tenacity | 9.0.0 | Retry logic | Apache-2.0 |
-| python-Wappalyzer | 0.3.1 | Technology detection | GPL-3.0 |
+| webtech | 1.3.4 | Technology detection | GPL-3.0 |
 | pytest | 9.0.3 | Test runner | MIT |
 | pytest-asyncio | 1.3.0 | Async test support | Apache-2.0 |
 | pytest-mock | 3.14.0 | Mocking utilities for tests | MIT |
