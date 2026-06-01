@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-05-31 07:04 UTC — last scan: 2026-05-31_
+_Stats as of 2026-06-01 07:23 UTC — last scan: 2026-06-01_
 
-**110** scan batches run
+**132** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**62,774** of **65,693** scanned pages were reachable (**95.6%**)
-**25,223** of **62,774** reachable pages have an accessibility statement (**40.2%**)
-**21,932** pages have the statement link in the footer (**87.0%** of pages with a statement)
+**62,890** of **65,693** scanned pages were reachable (**95.7%**)
+**25,290** of **62,890** reachable pages have an accessibility statement (**40.2%**)
+**21,999** pages have the statement link in the footer (**87.0%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -40,7 +40,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Connecticut | 167 | 167 | 143 | 32 | 31 | 22.4% | May 2026 |
 | DC | 486 | 486 | 482 | 310 | 304 | 64.3% | May 2026 |
 | Delaware | 17 | 17 | 17 | 8 | 8 | 47.1% | May 2026 |
-| Federal | 50,035 | 50,035 | 47,951 | 19,456 | 16,799 | 40.6% | May 2026 |
+| Federal | 50,035 | 50,035 | 48,041 | 19,509 | 16,852 | 40.6% | May 2026 – Jun 2026 |
 | Florida | 140 | 140 | 132 | 35 | 29 | 26.5% | May 2026 |
 | Georgia | 217 | 217 | 206 | 25 | 21 | 12.1% | May 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | May 2026 |
@@ -56,7 +56,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Massachusetts | 153 | 153 | 148 | 63 | 55 | 42.6% | May 2026 |
 | Michigan | 122 | 122 | 111 | 27 | 22 | 24.3% | May 2026 |
 | Minnesota | 785 | 785 | 750 | 251 | 203 | 33.5% | May 2026 |
-| Mississippi | 486 | 486 | 345 | 54 | 51 | 15.7% | May 2026 |
+| Mississippi | 486 | 486 | 346 | 54 | 51 | 15.6% | May 2026 |
 | Missouri | 336 | 336 | 325 | 211 | 202 | 64.9% | May 2026 |
 | Montana | 264 | 264 | 253 | 87 | 72 | 34.4% | May 2026 |
 | Nebraska | 205 | 205 | 201 | 38 | 35 | 18.9% | May 2026 |
@@ -71,21 +71,21 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Oklahoma | 160 | 160 | 138 | 32 | 29 | 23.2% | May 2026 |
 | Oregon | 163 | 163 | 153 | 22 | 14 | 14.4% | May 2026 |
 | Pennsylvania | 354 | 354 | 335 | 74 | 66 | 22.1% | May 2026 |
-| Puerto Rico | 496 | 496 | 456 | 125 | 19 | 27.4% | May 2026 |
+| Puerto Rico | 496 | 496 | 465 | 125 | 19 | 26.9% | May 2026 |
 | Rhode Island | 108 | 108 | 107 | 24 | 24 | 22.4% | May 2026 |
-| South Carolina | 481 | 481 | 471 | 80 | 68 | 17.0% | May 2026 |
+| South Carolina | 481 | 481 | 474 | 80 | 68 | 16.9% | May 2026 |
 | South Dakota | 164 | 164 | 164 | 72 | 70 | 43.9% | May 2026 |
-| Tennessee | 162 | 162 | 154 | 28 | 28 | 18.2% | May 2026 |
-| Texas | 562 | 562 | 521 | 243 | 216 | 46.6% | May 2026 |
+| Tennessee | 162 | 162 | 155 | 29 | 29 | 18.7% | May 2026 |
+| Texas | 562 | 562 | 525 | 249 | 222 | 47.4% | May 2026 |
 | US Virgin Islands | 64 | 64 | 61 | 3 | 2 | 4.9% | May 2026 |
 | Utah | 21 | 9 | 21 | 7 | 7 | 33.3% | May 2026 |
 | Vermont | 15 | 15 | 15 | 4 | 4 | 26.7% | May 2026 |
-| Virginia | 79 | 79 | 69 | 24 | 16 | 34.8% | May 2026 |
-| Washington | 713 | 713 | 688 | 130 | 117 | 18.9% | May 2026 |
+| Virginia | 79 | 79 | 73 | 28 | 20 | 38.4% | May 2026 |
+| Washington | 713 | 713 | 690 | 133 | 120 | 19.3% | May 2026 |
 | West Virginia | 217 | 217 | 215 | 73 | 70 | 34.0% | May 2026 |
-| Wisconsin | 573 | 573 | 557 | 169 | 152 | 30.3% | May 2026 |
+| Wisconsin | 573 | 573 | 559 | 169 | 152 | 30.2% | May 2026 |
 | Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | May 2026 |
-| **Total** | **65,693** | **65,681** | **62,774** | **25,223** | **21,932** | **40.2%** | — |
+| **Total** | **65,693** | **65,681** | **62,890** | **25,290** | **21,999** | **40.2%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
