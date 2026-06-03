@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-06-02 06:51 UTC_
+_Generated: 2026-06-03 06:53 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -25,8 +25,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-04-29 | 100.0% | 44.7% | 3.0% | 100.0% | 6.5% | 95.5% |
-| 2026-04-30 | 100.0% | 79.4% (+34.78pp) | 3.1% (+0.03pp) | 100.0% | 12.3% (+5.77pp) | 95.5% |
+| 2026-04-30 | 100.0% | 79.4% | 3.1% | 100.0% | 12.3% | 95.5% |
 | 2026-05-01 | 100.0% | 100.0% (+20.58pp) | 5.5% (+2.43pp) | 100.0% | 12.3% | 95.5% |
 | 2026-05-02 | 100.0% | 100.0% | 12.9% (+7.42pp) | 100.0% | 20.7% (+8.38pp) | 95.5% (+0.03pp) |
 | 2026-05-03 | 100.0% | 100.0% | 14.1% (+1.21pp) | 100.0% | 24.0% (+3.34pp) | 95.6% (+0.09pp) |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-05-31 | 100.0% | 100.0% (+35.96pp) | 7.0% (+6.96pp) | 100.0% | 36.5% (+36.47pp) | 95.6% (+0.17pp) |
 | 2026-06-01 | 100.0% | 100.0% | 7.0% | 100.0% | 36.5% | 95.9% (+0.30pp) |
 | 2026-06-02 | 100.0% | 100.0% | 7.0% | 100.0% | 38.6% (+2.13pp) | 96.0% (+0.09pp) |
+| 2026-06-03 | 100.0% | 100.0% | 7.0% | 100.0% | 38.6% | 96.0% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -64,12 +64,12 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 
 | Rank | Scan Type | Coverage | Gap vs Leader | Est. Days to 100% |
 |------|-----------|----------|--------------|-------------------|
-| 1 | Social Media | 100.0% | leader | — |
-| 2 | Technology | 100.0% | leader | — |
-| 3 | Accessibility | 100.0% | leader | — |
-| 4 | Combined Reachability | 96.0% | −4.0pp | — |
-| 5 | Third-party JS ⚠ needs attention | 38.6% | −61.4pp | ~140 days |
-| 6 | Lighthouse ⚠ needs attention | 7.0% | −93.1pp | — |
+| 1 | Social Media | 100.0% | leader | ~-0 days |
+| 2 | Technology | 100.0% | leader | ~-0 days |
+| 3 | Accessibility | 100.0% | leader | ~-0 days |
+| 4 | Combined Reachability | 96.0% | −4.0pp | ~0 days |
+| 5 | Third-party JS ⚠ needs attention | 38.6% | −61.4pp | ~11 days |
+| 6 | Lighthouse ⚠ needs attention | 7.0% | −93.1pp | ~94 days |
 
 > Daily rate is estimated from the average gain over the past 7 snapshots. A "—" estimate means no measurable progress has been recorded yet.
 
@@ -151,7 +151,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Connecticut | 167 | 2026-06-02 |
 | DC | 486 | 2026-06-02 |
 | Delaware | 17 | 2026-06-02 |
-| Federal | 50,035 | 2026-05-28 |
+| Federal | 50,035 | 2026-06-03 |
 | Florida | 140 | 2026-06-02 |
 | Georgia | 217 | 2026-06-02 |
 | Hawaii | 8 | 2026-06-02 |
@@ -161,41 +161,41 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Iowa | 21 | 2026-06-02 |
 | Kansas | 194 | 2026-06-02 |
 | Kentucky | 738 | 2026-06-02 |
-| Louisiana | 266 | 2026-05-25 |
-| Maine | 1 | 2026-05-25 |
-| Maryland | 89 | 2026-05-25 |
-| Massachusetts | 153 | 2026-05-25 |
-| Michigan | 122 | 2026-05-25 |
-| Minnesota | 785 | 2026-05-25 |
-| Mississippi | 486 | 2026-05-25 |
-| Missouri | 336 | 2026-05-26 |
-| Montana | 264 | 2026-05-26 |
-| Nebraska | 205 | 2026-05-26 |
-| Nevada | 358 | 2026-05-26 |
-| New Hampshire | 249 | 2026-05-26 |
-| New Jersey | 203 | 2026-05-26 |
-| New Mexico | 288 | 2026-05-26 |
-| New York | 732 | 2026-05-26 |
-| North Carolina | 292 | 2026-05-26 |
-| North Dakota | 215 | 2026-05-26 |
-| Ohio | 388 | 2026-05-26 |
-| Oklahoma | 160 | 2026-05-26 |
-| Oregon | 163 | 2026-05-26 |
-| Pennsylvania | 354 | 2026-05-26 |
-| Puerto Rico | 496 | 2026-05-26 |
-| Rhode Island | 108 | 2026-05-26 |
-| South Carolina | 481 | 2026-05-26 |
-| South Dakota | 164 | 2026-05-26 |
-| Tennessee | 162 | 2026-05-26 |
-| Texas | 562 | 2026-05-26 |
-| US Virgin Islands | 64 | 2026-05-26 |
-| Utah | 21 | 2026-05-26 |
-| Vermont | 15 | 2026-05-26 |
-| Virginia | 79 | 2026-05-26 |
-| Washington | 713 | 2026-05-26 |
-| West Virginia | 217 | 2026-05-26 |
-| Wisconsin | 573 | 2026-05-26 |
-| Wyoming | 30 | 2026-05-26 |
+| Louisiana | 266 | 2026-06-02 |
+| Maine | 1 | 2026-06-02 |
+| Maryland | 89 | 2026-06-02 |
+| Massachusetts | 153 | 2026-06-02 |
+| Michigan | 122 | 2026-06-02 |
+| Minnesota | 785 | 2026-06-02 |
+| Mississippi | 486 | 2026-06-02 |
+| Missouri | 336 | 2026-06-02 |
+| Montana | 264 | 2026-06-02 |
+| Nebraska | 205 | 2026-06-02 |
+| Nevada | 358 | 2026-06-02 |
+| New Hampshire | 249 | 2026-06-02 |
+| New Jersey | 203 | 2026-06-02 |
+| New Mexico | 288 | 2026-06-02 |
+| New York | 732 | 2026-06-02 |
+| North Carolina | 292 | 2026-06-02 |
+| North Dakota | 215 | 2026-06-02 |
+| Ohio | 388 | 2026-06-02 |
+| Oklahoma | 160 | 2026-06-02 |
+| Oregon | 163 | 2026-06-02 |
+| Pennsylvania | 354 | 2026-06-02 |
+| Puerto Rico | 496 | 2026-06-02 |
+| Rhode Island | 108 | 2026-06-02 |
+| South Carolina | 481 | 2026-06-02 |
+| South Dakota | 164 | 2026-06-02 |
+| Tennessee | 162 | 2026-06-02 |
+| Texas | 562 | 2026-06-02 |
+| US Virgin Islands | 64 | 2026-06-02 |
+| Utah | 21 | 2026-06-02 |
+| Vermont | 15 | 2026-06-02 |
+| Virginia | 79 | 2026-06-02 |
+| Washington | 713 | 2026-06-02 |
+| West Virginia | 217 | 2026-06-02 |
+| Wisconsin | 573 | 2026-06-02 |
+| Wyoming | 30 | 2026-06-02 |
 
 ## Lighthouse Scan by State
 
@@ -237,7 +237,7 @@ Checks whether each government page links to an accessibility statement as requi
 | Connecticut | 167 | 143 | 32 | 31 | 22% | May 2026 |
 | DC | 486 | 482 | 310 | 304 | 64% | May 2026 |
 | Delaware | 17 | 17 | 8 | 8 | 47% | May 2026 |
-| Federal | 50,035 | 48,163 | 19,600 | 16,933 | 41% | May 2026 – Jun 2026 |
+| Federal | 50,035 | 48,221 | 19,659 | 16,977 | 41% | May 2026 – Jun 2026 |
 | Florida | 140 | 132 | 35 | 29 | 27% | May 2026 |
 | Georgia | 217 | 206 | 25 | 21 | 12% | May 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | May 2026 |
