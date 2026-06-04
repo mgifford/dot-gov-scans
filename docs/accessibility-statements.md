@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-06-03 07:25 UTC — last scan: 2026-06-03_
+_Stats as of 2026-06-04 07:21 UTC — last scan: 2026-06-03_
 
-**142** scan batches run
+**143** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,070** of **65,693** scanned pages were reachable (**96.0%**)
-**25,440** of **63,070** reachable pages have an accessibility statement (**40.3%**)
-**22,124** pages have the statement link in the footer (**87.0%** of pages with a statement)
+**63,081** of **65,693** scanned pages were reachable (**96.0%**)
+**25,459** of **63,081** reachable pages have an accessibility statement (**40.4%**)
+**22,136** pages have the statement link in the footer (**86.9%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -40,7 +40,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Connecticut | 167 | 167 | 143 | 32 | 31 | 22.4% | May 2026 |
 | DC | 486 | 486 | 482 | 310 | 304 | 64.3% | May 2026 |
 | Delaware | 17 | 17 | 17 | 8 | 8 | 47.1% | May 2026 |
-| Federal | 50,035 | 50,035 | 48,221 | 19,659 | 16,977 | 40.8% | May 2026 – Jun 2026 |
+| Federal | 50,035 | 50,035 | 48,232 | 19,678 | 16,989 | 40.8% | May 2026 – Jun 2026 |
 | Florida | 140 | 140 | 132 | 35 | 29 | 26.5% | May 2026 |
 | Georgia | 217 | 217 | 206 | 25 | 21 | 12.1% | May 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | May 2026 |
@@ -85,7 +85,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | West Virginia | 217 | 217 | 215 | 73 | 70 | 34.0% | May 2026 |
 | Wisconsin | 573 | 573 | 559 | 169 | 152 | 30.2% | May 2026 |
 | Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | May 2026 |
-| **Total** | **65,693** | **65,681** | **63,070** | **25,440** | **22,124** | **40.3%** | — |
+| **Total** | **65,693** | **65,681** | **63,081** | **25,459** | **22,136** | **40.4%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
