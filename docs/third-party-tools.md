@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-06-06 07:02 UTC — last scan: 2026-06-06_
+_Stats as of 2026-06-07 07:15 UTC — last scan: 2026-06-06_
 
-**167** scan batches run
+**175** scan batches run
 
 **26,793** of **65,681** available pages scanned (**40.8%** coverage)
 **25,795** of **26,793** scanned pages were reachable (**96.3%**)
 **15,026** reachable pages loaded at least one third-party script (**58.3%** of reachable)
-**21,202** known third-party service loads identified
+**21,205** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -34,7 +34,7 @@ _Stats as of 2026-06-06 07:02 UTC — last scan: 2026-06-06_
 | Connecticut | 167 | 167 | 143 | 72 | 108 | 2026-06-06 |
 | DC | 486 | 486 | 483 | 423 | 592 | 2026-06-06 |
 | Delaware | 17 | 17 | 17 | 17 | 41 | 2026-06-04 |
-| Federal | 23,039 | 50,035 | 22,202 | 12,740 | 17,609 | 2026-06-06 |
+| Federal | 23,039 | 50,035 | 22,202 | 12,740 | 17,612 | 2026-06-06 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,7 +44,7 @@ _Stats as of 2026-06-06 07:02 UTC — last scan: 2026-06-06_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **5,893** |
+| 1 | Google Analytics (GA4) | **5,896** |
 | 2 | cdnjs (Cloudflare CDN) | **2,800** |
 | 3 | jsDelivr CDN | **2,754** |
 | 4 | jQuery | **1,906** |
@@ -70,7 +70,7 @@ _Stats as of 2026-06-06 07:02 UTC — last scan: 2026-06-06_
 | # | Category | Loads |
 |--:|----------|------:|
 | 1 | CDN | **7,166** |
-| 2 | Analytics | **6,870** |
+| 2 | Analytics | **6,873** |
 | 3 | JavaScript Library | **2,839** |
 | 4 | Tag Manager | **2,019** |
 | 5 | Security | **1,401** |
