@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-06-17 06:56 UTC — last scan: 2026-06-17_
+_Stats as of 2026-06-18 06:53 UTC — last scan: 2026-06-18_
 
-**243** scan batches run
+**261** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **62,733** pages with technology detections (**95.5%** of scanned)
@@ -32,7 +32,7 @@ _Stats as of 2026-06-17 06:56 UTC — last scan: 2026-06-17_
 | Connecticut | 167 | 141 | 167 | 2026-06-16 |
 | DC | 486 | 481 | 486 | 2026-06-16 |
 | Delaware | 17 | 17 | 17 | 2026-06-16 |
-| Federal | 50,035 | 47,975 | 50,035 | 2026-06-13 |
+| Federal | 50,035 | 47,975 | 50,035 | 2026-06-18 |
 | Florida | 140 | 131 | 140 | 2026-06-16 |
 | Georgia | 217 | 206 | 217 | 2026-06-16 |
 | Hawaii | 8 | 8 | 8 | 2026-06-16 |
@@ -41,7 +41,7 @@ _Stats as of 2026-06-17 06:56 UTC — last scan: 2026-06-17_
 | Indiana | 598 | 581 | 598 | 2026-06-16 |
 | Iowa | 21 | 20 | 21 | 2026-06-16 |
 | Kansas | 194 | 186 | 194 | 2026-06-16 |
-| Kentucky | 738 | 722 | 738 | 2026-06-09 |
+| Kentucky | 738 | 722 | 738 | 2026-06-17 |
 | Louisiana | 266 | 257 | 266 | 2026-06-16 |
 | Maine | 1 | 1 | 1 | 2026-06-16 |
 | Maryland | 89 | 82 | 89 | 2026-06-16 |
@@ -49,7 +49,7 @@ _Stats as of 2026-06-17 06:56 UTC — last scan: 2026-06-17_
 | Michigan | 122 | 112 | 122 | 2026-06-16 |
 | Minnesota | 785 | 752 | 785 | 2026-06-16 |
 | Mississippi | 486 | 343 | 486 | 2026-06-16 |
-| Missouri | 336 | 324 | 336 | 2026-06-09 |
+| Missouri | 336 | 324 | 336 | 2026-06-17 |
 | Montana | 264 | 253 | 264 | 2026-06-16 |
 | Nebraska | 205 | 201 | 205 | 2026-06-16 |
 | Nevada | 358 | 352 | 358 | 2026-06-16 |
@@ -59,7 +59,7 @@ _Stats as of 2026-06-17 06:56 UTC — last scan: 2026-06-17_
 | New York | 732 | 664 | 732 | 2026-06-16 |
 | North Carolina | 292 | 288 | 292 | 2026-06-16 |
 | North Dakota | 215 | 207 | 215 | 2026-06-17 |
-| Ohio | 388 | 358 | 388 | 2026-06-09 |
+| Ohio | 388 | 358 | 388 | 2026-06-17 |
 | Oklahoma | 160 | 138 | 160 | 2026-06-17 |
 | Oregon | 163 | 151 | 163 | 2026-06-17 |
 | Pennsylvania | 354 | 333 | 354 | 2026-06-17 |
@@ -67,16 +67,16 @@ _Stats as of 2026-06-17 06:56 UTC — last scan: 2026-06-17_
 | Rhode Island | 108 | 107 | 108 | 2026-06-17 |
 | South Carolina | 481 | 473 | 481 | 2026-06-17 |
 | South Dakota | 164 | 163 | 164 | 2026-06-17 |
-| Tennessee | 162 | 154 | 162 | 2026-06-09 |
-| Texas | 562 | 525 | 562 | 2026-06-09 |
-| US Virgin Islands | 64 | 61 | 64 | 2026-06-09 |
-| Utah | 21 | 21 | 9 | 2026-06-09 |
-| Vermont | 15 | 15 | 15 | 2026-06-09 |
-| Virginia | 79 | 71 | 79 | 2026-06-09 |
-| Washington | 713 | 674 | 713 | 2026-06-09 |
-| West Virginia | 217 | 215 | 217 | 2026-06-09 |
-| Wisconsin | 573 | 551 | 573 | 2026-06-09 |
-| Wyoming | 30 | 22 | 30 | 2026-06-09 |
+| Tennessee | 162 | 154 | 162 | 2026-06-17 |
+| Texas | 562 | 525 | 562 | 2026-06-17 |
+| US Virgin Islands | 64 | 61 | 64 | 2026-06-17 |
+| Utah | 21 | 21 | 9 | 2026-06-17 |
+| Vermont | 15 | 15 | 15 | 2026-06-17 |
+| Virginia | 79 | 71 | 79 | 2026-06-17 |
+| Washington | 713 | 674 | 713 | 2026-06-17 |
+| West Virginia | 217 | 215 | 217 | 2026-06-17 |
+| Wisconsin | 573 | 551 | 573 | 2026-06-17 |
+| Wyoming | 30 | 22 | 30 | 2026-06-17 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 
