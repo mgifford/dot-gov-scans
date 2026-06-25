@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-06-23 06:34 UTC — last scan: 2026-06-21_
+_Stats as of 2026-06-25 06:34 UTC — last scan: 2026-06-24_
 
-**268** scan batches run
+**327** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **62,733** pages with technology detections (**95.5%** of scanned)
@@ -22,61 +22,61 @@ _Stats as of 2026-06-23 06:34 UTC — last scan: 2026-06-21_
 
 | Country | URLs Scanned | Pages with Detections | Available | Last Scan |
 |---------|-------------|----------------------|-----------|----------|
-| Alabama | 48 | 41 | 48 | 2026-06-16 |
-| Alaska | 34 | 14 | 34 | 2026-06-16 |
-| American Samoa | 7 | 7 | 7 | 2026-06-16 |
-| Arizona | 337 | 334 | 337 | 2026-06-16 |
-| Arkansas | 29 | 26 | 29 | 2026-06-16 |
-| California | 2,495 | 2,362 | 2,495 | 2026-06-16 |
-| Colorado | 134 | 127 | 134 | 2026-06-16 |
-| Connecticut | 167 | 141 | 167 | 2026-06-16 |
-| DC | 486 | 481 | 486 | 2026-06-16 |
-| Delaware | 17 | 17 | 17 | 2026-06-16 |
-| Federal | 50,035 | 47,975 | 50,035 | 2026-06-21 |
-| Florida | 140 | 131 | 140 | 2026-06-16 |
-| Georgia | 217 | 206 | 217 | 2026-06-16 |
-| Hawaii | 8 | 8 | 8 | 2026-06-16 |
-| Idaho | 103 | 100 | 103 | 2026-06-16 |
-| Illinois | 91 | 84 | 91 | 2026-06-16 |
-| Indiana | 598 | 581 | 598 | 2026-06-16 |
-| Iowa | 21 | 20 | 21 | 2026-06-16 |
-| Kansas | 194 | 186 | 194 | 2026-06-16 |
-| Kentucky | 738 | 722 | 738 | 2026-06-17 |
-| Louisiana | 266 | 257 | 266 | 2026-06-16 |
-| Maine | 1 | 1 | 1 | 2026-06-16 |
-| Maryland | 89 | 82 | 89 | 2026-06-16 |
-| Massachusetts | 153 | 148 | 153 | 2026-06-16 |
-| Michigan | 122 | 112 | 122 | 2026-06-16 |
-| Minnesota | 785 | 752 | 785 | 2026-06-16 |
-| Mississippi | 486 | 343 | 486 | 2026-06-16 |
-| Missouri | 336 | 324 | 336 | 2026-06-17 |
-| Montana | 264 | 253 | 264 | 2026-06-16 |
-| Nebraska | 205 | 201 | 205 | 2026-06-16 |
-| Nevada | 358 | 352 | 358 | 2026-06-16 |
-| New Hampshire | 249 | 240 | 249 | 2026-06-16 |
-| New Jersey | 203 | 195 | 203 | 2026-06-16 |
-| New Mexico | 288 | 262 | 288 | 2026-06-16 |
-| New York | 732 | 664 | 732 | 2026-06-16 |
-| North Carolina | 292 | 288 | 292 | 2026-06-16 |
-| North Dakota | 215 | 207 | 215 | 2026-06-17 |
-| Ohio | 388 | 358 | 388 | 2026-06-17 |
-| Oklahoma | 160 | 138 | 160 | 2026-06-17 |
-| Oregon | 163 | 151 | 163 | 2026-06-17 |
-| Pennsylvania | 354 | 333 | 354 | 2026-06-17 |
-| Puerto Rico | 496 | 457 | 496 | 2026-06-17 |
-| Rhode Island | 108 | 107 | 108 | 2026-06-17 |
-| South Carolina | 481 | 473 | 481 | 2026-06-17 |
-| South Dakota | 164 | 163 | 164 | 2026-06-17 |
-| Tennessee | 162 | 154 | 162 | 2026-06-17 |
-| Texas | 562 | 525 | 562 | 2026-06-17 |
-| US Virgin Islands | 64 | 61 | 64 | 2026-06-17 |
-| Utah | 21 | 21 | 9 | 2026-06-17 |
-| Vermont | 15 | 15 | 15 | 2026-06-17 |
-| Virginia | 79 | 71 | 79 | 2026-06-17 |
-| Washington | 713 | 674 | 713 | 2026-06-17 |
-| West Virginia | 217 | 215 | 217 | 2026-06-17 |
-| Wisconsin | 573 | 551 | 573 | 2026-06-17 |
-| Wyoming | 30 | 22 | 30 | 2026-06-17 |
+| Alabama | 48 | 41 | 48 | 2026-06-23 |
+| Alaska | 34 | 14 | 34 | 2026-06-23 |
+| American Samoa | 7 | 7 | 7 | 2026-06-23 |
+| Arizona | 337 | 334 | 337 | 2026-06-23 |
+| Arkansas | 29 | 26 | 29 | 2026-06-23 |
+| California | 2,495 | 2,362 | 2,495 | 2026-06-23 |
+| Colorado | 134 | 127 | 134 | 2026-06-23 |
+| Connecticut | 167 | 141 | 167 | 2026-06-23 |
+| DC | 486 | 481 | 486 | 2026-06-23 |
+| Delaware | 17 | 17 | 17 | 2026-06-23 |
+| Federal | 50,035 | 47,975 | 50,035 | 2026-06-24 |
+| Florida | 140 | 131 | 140 | 2026-06-23 |
+| Georgia | 217 | 206 | 217 | 2026-06-23 |
+| Hawaii | 8 | 8 | 8 | 2026-06-23 |
+| Idaho | 103 | 100 | 103 | 2026-06-23 |
+| Illinois | 91 | 84 | 91 | 2026-06-23 |
+| Indiana | 598 | 581 | 598 | 2026-06-23 |
+| Iowa | 21 | 20 | 21 | 2026-06-23 |
+| Kansas | 194 | 186 | 194 | 2026-06-23 |
+| Kentucky | 738 | 722 | 738 | 2026-06-24 |
+| Louisiana | 266 | 257 | 266 | 2026-06-24 |
+| Maine | 1 | 1 | 1 | 2026-06-24 |
+| Maryland | 89 | 82 | 89 | 2026-06-24 |
+| Massachusetts | 153 | 148 | 153 | 2026-06-24 |
+| Michigan | 122 | 112 | 122 | 2026-06-24 |
+| Minnesota | 785 | 752 | 785 | 2026-06-24 |
+| Mississippi | 486 | 343 | 486 | 2026-06-24 |
+| Missouri | 336 | 324 | 336 | 2026-06-24 |
+| Montana | 264 | 253 | 264 | 2026-06-24 |
+| Nebraska | 205 | 201 | 205 | 2026-06-24 |
+| Nevada | 358 | 352 | 358 | 2026-06-24 |
+| New Hampshire | 249 | 240 | 249 | 2026-06-24 |
+| New Jersey | 203 | 195 | 203 | 2026-06-24 |
+| New Mexico | 288 | 262 | 288 | 2026-06-24 |
+| New York | 732 | 664 | 732 | 2026-06-24 |
+| North Carolina | 292 | 288 | 292 | 2026-06-24 |
+| North Dakota | 215 | 207 | 215 | 2026-06-24 |
+| Ohio | 388 | 358 | 388 | 2026-06-24 |
+| Oklahoma | 160 | 138 | 160 | 2026-06-24 |
+| Oregon | 163 | 151 | 163 | 2026-06-24 |
+| Pennsylvania | 354 | 333 | 354 | 2026-06-24 |
+| Puerto Rico | 496 | 457 | 496 | 2026-06-24 |
+| Rhode Island | 108 | 107 | 108 | 2026-06-24 |
+| South Carolina | 481 | 473 | 481 | 2026-06-24 |
+| South Dakota | 164 | 163 | 164 | 2026-06-24 |
+| Tennessee | 162 | 154 | 162 | 2026-06-24 |
+| Texas | 562 | 525 | 562 | 2026-06-24 |
+| US Virgin Islands | 64 | 61 | 64 | 2026-06-24 |
+| Utah | 21 | 21 | 9 | 2026-06-24 |
+| Vermont | 15 | 15 | 15 | 2026-06-24 |
+| Virginia | 79 | 71 | 79 | 2026-06-24 |
+| Washington | 713 | 674 | 713 | 2026-06-24 |
+| West Virginia | 217 | 215 | 217 | 2026-06-24 |
+| Wisconsin | 573 | 551 | 573 | 2026-06-24 |
+| Wyoming | 30 | 22 | 30 | 2026-06-24 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 
