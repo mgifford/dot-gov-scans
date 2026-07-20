@@ -8,15 +8,15 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-06-25 07:17 UTC — last scan: 2026-06-25_
+_Stats as of 2026-07-20 06:22 UTC — last scan: 2026-07-20_
 
-**337** scan batches run
+**9** scan batches run
 
-**26,793** of **65,681** available pages scanned (**40.8%** coverage)
-**25,821** of **26,793** scanned pages were reachable (**96.4%**)
-**15,234** reachable pages loaded at least one third-party script (**59.0%** of reachable)
-**21,747** known third-party service loads identified
-**24** unique known services across **18** categories
+**3,737** of **65,681** available pages scanned (**5.7%** coverage)
+**3,528** of **3,737** scanned pages were reachable (**94.4%**)
+**2,203** reachable pages loaded at least one third-party script (**62.4%** of reachable)
+**3,438** known third-party service loads identified
+**20** unique known services across **14** categories
 
 ---
 
@@ -24,17 +24,15 @@ _Stats as of 2026-06-25 07:17 UTC — last scan: 2026-06-25_
 
 | Country | Scanned | Available | Reachable | URLs with 3rd-Party JS | Known Service Loads | Last Scan |
 |---------|---------|-----------|-----------|------------------------|--------------------|----------|
-| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-06-25 |
-| Alaska | 34 | 34 | 34 | 22 | 13 | 2026-06-19 |
-| American Samoa | 7 | 7 | 7 | 4 | 4 | 2026-06-18 |
-| Arizona | 337 | 337 | 334 | 75 | 93 | 2026-06-25 |
-| Arkansas | 29 | 29 | 26 | 22 | 22 | 2026-06-25 |
-| California | 2,495 | 2,495 | 2,378 | 1,652 | 3,036 | 2026-06-25 |
-| Colorado | 134 | 134 | 129 | 69 | 60 | 2026-06-25 |
-| Connecticut | 167 | 167 | 143 | 72 | 108 | 2026-06-25 |
-| DC | 486 | 486 | 483 | 423 | 590 | 2026-06-25 |
-| Delaware | 17 | 17 | 17 | 17 | 41 | 2026-06-18 |
-| Federal | 23,039 | 50,035 | 22,226 | 12,857 | 17,751 | 2026-06-25 |
+| Alabama | 48 | 48 | 40 | 19 | 27 | 2026-07-20 |
+| Alaska | 34 | 34 | 34 | 22 | 11 | 2026-07-20 |
+| American Samoa | 7 | 7 | 7 | 4 | 4 | 2026-07-20 |
+| Arizona | 337 | 337 | 331 | 67 | 87 | 2026-07-20 |
+| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-07-20 |
+| California | 2,495 | 2,495 | 2,339 | 1,513 | 2,535 | 2026-07-20 |
+| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-07-20 |
+| Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-07-20 |
+| DC | 486 | 486 | 482 | 422 | 590 | 2026-07-20 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,46 +42,45 @@ _Stats as of 2026-06-25 07:17 UTC — last scan: 2026-06-25_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **6,144** |
-| 2 | cdnjs (Cloudflare CDN) | **2,788** |
-| 3 | jsDelivr CDN | **2,765** |
-| 4 | Google Tag Manager | **1,939** |
-| 5 | jQuery | **1,914** |
-| 6 | Font Awesome | **1,367** |
-| 7 | Google reCAPTCHA | **1,332** |
-| 8 | Google Hosted Libraries | **944** |
-| 9 | unpkg CDN | **663** |
-| 10 | Bootstrap | **621** |
-| 11 | Facebook Pixel | **454** |
-| 12 | Adobe Dynamic Tag Management / Launch | **325** |
-| 13 | Google Analytics (Universal) | **194** |
-| 14 | Sentry | **133** |
-| 15 | Cloudflare Turnstile / Challenge | **94** |
-| 16 | OneTrust | **20** |
-| 17 | Cloudflare Web Analytics | **14** |
-| 18 | Zendesk | **11** |
-| 19 | HubSpot | **10** |
-| 20 | Stripe | **7** |
+| 1 | Google Analytics (GA4) | **1,162** |
+| 2 | jQuery | **502** |
+| 3 | cdnjs (Cloudflare CDN) | **346** |
+| 4 | Google Tag Manager | **277** |
+| 5 | Font Awesome | **241** |
+| 6 | Google reCAPTCHA | **223** |
+| 7 | jsDelivr CDN | **193** |
+| 8 | Google Hosted Libraries | **171** |
+| 9 | Google Analytics (Universal) | **142** |
+| 10 | unpkg CDN | **91** |
+| 11 | Bootstrap | **28** |
+| 12 | Sentry | **18** |
+| 13 | Facebook Pixel | **18** |
+| 14 | Cloudflare Turnstile / Challenge | **8** |
+| 15 | Stripe | **5** |
+| 16 | OneTrust | **4** |
+| 17 | Usercentrics | **3** |
+| 18 | Cloudflare Web Analytics | **3** |
+| 19 | Adobe Dynamic Tag Management / Launch | **2** |
+| 20 | HubSpot | **1** |
 
 ### Top Service Categories
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,160** |
-| 2 | Analytics | **7,135** |
-| 3 | JavaScript Library | **2,858** |
-| 4 | Tag Manager | **2,264** |
-| 5 | Security | **1,426** |
-| 6 | Icon Library | **1,367** |
-| 7 | CAPTCHA | **1,332** |
-| 8 | UI Framework | **621** |
-| 9 | Advertising | **454** |
-| 10 | Error Tracking | **133** |
-| 11 | Cookie Consent | **22** |
-| 12 | Customer Support | **11** |
-| 13 | Chat | **11** |
-| 14 | CRM | **10** |
-| 15 | Marketing | **10** |
+| 1 | Analytics | **1,327** |
+| 2 | CDN | **801** |
+| 3 | JavaScript Library | **673** |
+| 4 | Tag Manager | **279** |
+| 5 | Icon Library | **241** |
+| 6 | Security | **231** |
+| 7 | CAPTCHA | **223** |
+| 8 | UI Framework | **28** |
+| 9 | Error Tracking | **18** |
+| 10 | Advertising | **18** |
+| 11 | Cookie Consent | **7** |
+| 12 | Payments | **5** |
+| 13 | CRM | **1** |
+| 14 | Marketing | **1** |
 
 📥 Machine-readable results: [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json)
 
