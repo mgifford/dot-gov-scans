@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-07-26 06:15 UTC_
+_Generated: 2026-07-27 06:24 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -16,7 +16,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | **Combined Reachability** | **62,367 confirmed reachable** | 65,681 | **<span role="img" aria-label="95.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:114px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">95.0%</span></span>** |
 | Social Media | 65,693 scanned (62,367 reachable) | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
 | Technology | 65,693 scanned | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
-| Lighthouse | 2,060 scanned | 65,681 | <span role="img" aria-label="3.1% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:4px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">3.1%</span></span> |
+| Lighthouse | 3,444 scanned | 65,681 | <span role="img" aria-label="5.2% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:6px;height:100%;background:#b91c1c;"></span></span><span style="font-size:0.85em;color:#374151;">5.2%</span></span> |
 | Accessibility Statements | 65,693 scanned | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
 
 > **Combined Reachability** counts each URL once if it was confirmed reachable by any scan type.
@@ -25,8 +25,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-05-25 | 85.5% | 0.0% | 0.0% | 58.8% | 0.0% | 81.4% |
-| 2026-05-26 | 100.0% (+14.47pp) | 20.6% (+20.63pp) | 0.0% | 81.2% (+22.38pp) | 0.0% | 95.5% (+14.06pp) |
+| 2026-05-26 | 100.0% | 20.6% | 0.0% | 81.2% | 0.0% | 95.5% |
 | 2026-05-27 | 100.0% | 64.1% (+43.43pp) | 0.0% | 100.0% (+18.87pp) | 0.0% | 95.5% |
 | 2026-05-31 | 100.0% | 100.0% (+35.96pp) | 7.0% (+6.96pp) | 100.0% | 36.5% (+36.47pp) | 95.6% (+0.17pp) |
 | 2026-06-01 | 100.0% | 100.0% | 7.0% | 100.0% | 36.5% | 95.9% (+0.30pp) |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-07-24 | 100.0% | 79.9% (+45.48pp) | 0.0% | 95.8% (+20.93pp) | 10.8% | 95.0% |
 | 2026-07-25 | 100.0% | 100.0% (+20.09pp) | 1.0% (+1.01pp) | 100.0% (+4.22pp) | 18.9% (+8.15pp) | 95.0% |
 | 2026-07-26 | 100.0% | 100.0% | 3.1% (+2.13pp) | 100.0% | 29.2% (+10.27pp) | 95.0% |
+| 2026-07-27 | 100.0% | 100.0% | 5.2% (+2.10pp) | 100.0% | 36.7% (+7.56pp) | 95.0% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -64,12 +64,12 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 
 | Rank | Scan Type | Coverage | Gap vs Leader | Est. Days to 100% |
 |------|-----------|----------|--------------|-------------------|
-| 1 | Social Media | 100.0% | leader | — |
-| 2 | Technology | 100.0% | leader | — |
-| 3 | Accessibility | 100.0% | leader | — |
-| 4 | Combined Reachability | 95.0% | −5.1pp | — |
-| 5 | Third-party JS ⚠ needs attention | 29.2% | −70.8pp | — |
-| 6 | Lighthouse ⚠ needs attention | 3.1% | −96.9pp | — |
+| 1 | Social Media | 100.0% | leader | ~-0 days |
+| 2 | Technology | 100.0% | leader | ~-0 days |
+| 3 | Accessibility | 100.0% | leader | ~-0 days |
+| 4 | Combined Reachability | 95.0% | −5.1pp | ~0 days |
+| 5 | Third-party JS ⚠ needs attention | 36.7% | −63.3pp | ~14 days |
+| 6 | Lighthouse ⚠ needs attention | 5.2% | −94.8pp | ~127 days |
 
 > Daily rate is estimated from the average gain over the past 7 snapshots. A "—" estimate means no measurable progress has been recorded yet.
 
@@ -201,7 +201,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 
 | Country | URLs | Perf | A11y | Best Practices | SEO | Last Scan |
 |---------|------|------|------|----------------|-----|----------|
-| Federal | 2,060 | 90 | 90 | 84 | 88 | 2026-07-25 |
+| Federal | 3,444 | 90 | 90 | 84 | 88 | 2026-07-26 |
 
 > Scores are averages across all successfully audited URLs, displayed as 0–100 (multiply source values × 100).
 

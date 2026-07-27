@@ -25,9 +25,9 @@ layout: page
 <p style="text-align:center;font-size:0.75em;margin:0.3rem 0 0;color:#555;font-style:italic;">Social media tier distribution</p>
 </div>
 
-_Stats as of 2026-07-26 06:15 UTC — last scan: 2026-07-22_
+_Stats as of 2026-07-27 06:24 UTC — last scan: 2026-07-27_
 
-**71** scan batches run
+**73** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **62,367** of **65,693** scanned pages were reachable (**94.9%**)
