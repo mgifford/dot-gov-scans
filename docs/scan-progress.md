@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-07-30 06:07 UTC_
+_Generated: 2026-07-31 06:20 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -25,8 +25,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-06-01 | 100.0% | 100.0% | 7.0% | 100.0% | 36.5% | 95.9% |
-| 2026-06-02 | 100.0% | 100.0% | 7.0% | 100.0% | 38.6% (+2.13pp) | 96.0% (+0.09pp) |
+| 2026-06-02 | 100.0% | 100.0% | 7.0% | 100.0% | 38.6% | 96.0% |
 | 2026-06-03 | 100.0% | 100.0% | 7.0% | 100.0% | 38.6% | 96.0% |
 | 2026-06-04 | 100.0% | 100.0% | 7.5% (+0.56pp) | 100.0% | 40.8% (+2.19pp) | 96.0% |
 | 2026-06-05 | 100.0% | 100.0% | 8.1% (+0.57pp) | 100.0% | 40.8% | 96.0% |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-07-28 | 100.0% | 100.0% | 5.2% | 100.0% | 36.7% | 95.2% (+0.27pp) |
 | 2026-07-29 | 100.0% | 100.0% | 5.2% | 100.0% | 36.7% | 95.8% (+0.53pp) |
 | 2026-07-30 | 100.0% | 100.0% | 5.2% | 100.0% | 38.7% (+1.94pp) | 95.8% (+0.10pp) |
+| 2026-07-31 | 100.0% | 100.0% | 5.2% | 100.0% | 38.7% | 95.8% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -151,7 +151,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Connecticut | 167 | 2026-07-29 |
 | DC | 486 | 2026-07-29 |
 | Delaware | 17 | 2026-07-29 |
-| Federal | 50,035 | 2026-07-24 |
+| Federal | 50,035 | 2026-07-31 |
 | Florida | 140 | 2026-07-29 |
 | Georgia | 217 | 2026-07-29 |
 | Hawaii | 8 | 2026-07-29 |
@@ -195,7 +195,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Washington | 713 | 2026-07-30 |
 | West Virginia | 217 | 2026-07-30 |
 | Wisconsin | 573 | 2026-07-30 |
-| Wyoming | 30 | 2026-07-23 |
+| Wyoming | 30 | 2026-07-30 |
 
 ## Lighthouse Scan by State
 
@@ -221,7 +221,7 @@ Checks whether each government page links to an accessibility statement as requi
 | Connecticut | 167 | 142 | 29 | 29 | 20% | Jul 2026 |
 | DC | 486 | 483 | 310 | 304 | 64% | Jul 2026 |
 | Delaware | 17 | 17 | 8 | 8 | 47% | Jul 2026 |
-| Federal | 50,035 | 47,830 | 19,492 | 16,852 | 41% | Jul 2026 |
+| Federal | 50,035 | 47,976 | 19,587 | 16,934 | 41% | Jul 2026 |
 | Florida | 140 | 131 | 35 | 35 | 27% | Jul 2026 |
 | Georgia | 217 | 207 | 25 | 21 | 12% | Jul 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | Jul 2026 |

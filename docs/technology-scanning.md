@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-07-30 06:08 UTC — last scan: 2026-07-30_
+_Stats as of 2026-07-31 06:20 UTC — last scan: 2026-07-31_
 
-**118** scan batches run
+**125** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -32,7 +32,7 @@ _Stats as of 2026-07-30 06:08 UTC — last scan: 2026-07-30_
 | Connecticut | 167 | 0 | 167 | 2026-07-29 |
 | DC | 486 | 0 | 486 | 2026-07-29 |
 | Delaware | 17 | 0 | 17 | 2026-07-29 |
-| Federal | 50,035 | 0 | 50,035 | 2026-07-24 |
+| Federal | 50,035 | 0 | 50,035 | 2026-07-31 |
 | Florida | 140 | 0 | 140 | 2026-07-29 |
 | Georgia | 217 | 0 | 217 | 2026-07-29 |
 | Hawaii | 8 | 0 | 8 | 2026-07-29 |
@@ -76,7 +76,7 @@ _Stats as of 2026-07-30 06:08 UTC — last scan: 2026-07-30_
 | Washington | 713 | 0 | 713 | 2026-07-30 |
 | West Virginia | 217 | 0 | 217 | 2026-07-30 |
 | Wisconsin | 573 | 0 | 573 | 2026-07-30 |
-| Wyoming | 30 | 0 | 30 | 2026-07-23 |
+| Wyoming | 30 | 0 | 30 | 2026-07-30 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 
