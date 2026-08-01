@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-07-31 06:20 UTC — last scan: 2026-07-26_
+_Stats as of 2026-08-01 06:12 UTC — last scan: 2026-07-31_
 
-**10** scan batches run
+**11** scan batches run
 
-**3,470** of **65,681** available pages audited (**5.3%** coverage)
-**3,444** successful audits (**99.3%** of audited)
+**3,834** of **65,681** available pages audited (**5.8%** coverage)
+**3,803** successful audits (**99.2%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -28,7 +28,7 @@ _Stats as of 2026-07-31 06:20 UTC — last scan: 2026-07-26_
 
 | Country | Audited | Available | Perf | A11y | Best Practices | SEO | Last Scan |
 |---------|--------:|----------:|:----:|:----:|:--------------:|:---:|-----------|
-| Federal | 3,470 | 50,035 | 90 | 90 | 84 | 88 | 2026-07-26 |
+| Federal | 3,834 | 50,035 | 90 | 90 | 84 | 88 | 2026-07-31 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
