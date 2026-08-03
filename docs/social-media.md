@@ -25,9 +25,9 @@ layout: page
 <p style="text-align:center;font-size:0.75em;margin:0.3rem 0 0;color:#555;font-style:italic;">Social media tier distribution</p>
 </div>
 
-_Stats as of 2026-08-02 06:13 UTC — last scan: 2026-07-29_
+_Stats as of 2026-08-03 06:23 UTC — last scan: 2026-08-03_
 
-**150** scan batches run
+**152** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **62,956** of **65,693** scanned pages were reachable (**95.8%**)
@@ -124,8 +124,8 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 
 | Country | Scanned | Available | Reachable | Sov. Score | No Social | Legacy-only | Twitter | X | Facebook | LinkedIn | Modern | Mixed | Bluesky | Mastodon | Scan Period |
 |---------|---------|-----------|-----------|:----------:|-----------|-------------|---------|---|----------|----------|--------|-------|---------|----------|-------------|
-| Alabama | 48 | 48 | 44 | 56.8% | 25 | 18 | 14 | 2 | 18 | 6 | 0 | 1 | 0 | 1 | Jul 2026 |
-| Alaska | 34 | 34 | 34 | 55.9% | 19 | 15 | 11 | 0 | 15 | 2 | 0 | 0 | 0 | 0 | Jul 2026 |
+| Alabama | 48 | 48 | 44 | 56.8% | 25 | 18 | 14 | 2 | 18 | 6 | 0 | 1 | 0 | 1 | Jul 2026 – Aug 2026 |
+| Alaska | 34 | 34 | 34 | 55.9% | 19 | 15 | 11 | 0 | 15 | 2 | 0 | 0 | 0 | 0 | Jul 2026 – Aug 2026 |
 | American Samoa | 7 | 7 | 7 | 71.4% | 5 | 2 | 1 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | Jul 2026 |
 | Arizona | 337 | 337 | 331 | 85.2% | 282 | 36 | 33 | 2 | 45 | 11 | 0 | 15 | 2 | 15 | Jul 2026 |
 | Arkansas | 29 | 29 | 26 | 42.3% | 11 | 14 | 6 | 3 | 15 | 0 | 0 | 1 | 0 | 1 | Jul 2026 |
