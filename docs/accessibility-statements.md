@@ -9,7 +9,7 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-08-09 05:57 UTC — last scan: 2026-08-09_
+_Stats as of 2026-08-10 06:22 UTC — last scan: 2026-08-09_
 
 **216** scan batches run
 
