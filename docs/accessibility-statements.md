@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-08-10 06:22 UTC — last scan: 2026-08-09_
+_Stats as of 2026-08-11 06:03 UTC — last scan: 2026-08-11_
 
-**216** scan batches run
+**244** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,063** of **65,693** scanned pages were reachable (**96.0%**)
-**25,565** of **63,063** reachable pages have an accessibility statement (**40.5%**)
-**22,261** pages have the statement link in the footer (**87.1%** of pages with a statement)
+**63,070** of **65,693** scanned pages were reachable (**96.0%**)
+**25,589** of **63,070** reachable pages have an accessibility statement (**40.6%**)
+**22,275** pages have the statement link in the footer (**87.0%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -35,25 +35,25 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | American Samoa | 7 | 7 | 7 | 2 | 0 | 28.6% | Jul 2026 – Aug 2026 |
 | Arizona | 337 | 337 | 332 | 40 | 26 | 12.0% | Jul 2026 – Aug 2026 |
 | Arkansas | 29 | 29 | 26 | 3 | 3 | 11.5% | Jul 2026 – Aug 2026 |
-| California | 2,495 | 2,495 | 2,368 | 1,169 | 1,110 | 49.4% | Jul 2026 – Aug 2026 |
+| California | 2,495 | 2,495 | 2,371 | 1,173 | 1,110 | 49.5% | Jul 2026 – Aug 2026 |
 | Colorado | 134 | 134 | 127 | 66 | 58 | 52.0% | Jul 2026 – Aug 2026 |
 | Connecticut | 167 | 167 | 142 | 29 | 29 | 20.4% | Jul 2026 – Aug 2026 |
-| DC | 486 | 486 | 483 | 310 | 304 | 64.2% | Jul 2026 – Aug 2026 |
+| DC | 486 | 486 | 483 | 311 | 304 | 64.4% | Jul 2026 – Aug 2026 |
 | Delaware | 17 | 17 | 17 | 8 | 8 | 47.1% | Jul 2026 – Aug 2026 |
-| Federal | 50,035 | 50,035 | 48,130 | 19,739 | 17,064 | 41.0% | Jul 2026 – Aug 2026 |
-| Florida | 140 | 140 | 131 | 35 | 35 | 26.7% | Jul 2026 – Aug 2026 |
+| Federal | 50,035 | 50,035 | 48,131 | 19,747 | 17,070 | 41.0% | Jul 2026 – Aug 2026 |
+| Florida | 140 | 140 | 131 | 38 | 38 | 29.0% | Jul 2026 – Aug 2026 |
 | Georgia | 217 | 217 | 207 | 25 | 21 | 12.1% | Jul 2026 – Aug 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | Jul 2026 – Aug 2026 |
 | Idaho | 103 | 103 | 103 | 42 | 33 | 40.8% | Jul 2026 – Aug 2026 |
 | Illinois | 91 | 91 | 84 | 26 | 20 | 31.0% | Jul 2026 – Aug 2026 |
-| Indiana | 598 | 598 | 584 | 232 | 197 | 39.7% | Jul 2026 – Aug 2026 |
-| Iowa | 21 | 21 | 18 | 0 | 0 | 0.0% | Jul 2026 – Aug 2026 |
+| Indiana | 598 | 598 | 584 | 235 | 199 | 40.2% | Jul 2026 – Aug 2026 |
+| Iowa | 21 | 21 | 20 | 2 | 0 | 10.0% | Jul 2026 – Aug 2026 |
 | Kansas | 194 | 194 | 186 | 67 | 61 | 36.0% | Jul 2026 – Aug 2026 |
-| Kentucky | 738 | 738 | 724 | 471 | 462 | 65.1% | Jul 2026 – Aug 2026 |
+| Kentucky | 738 | 738 | 724 | 474 | 465 | 65.5% | Jul 2026 – Aug 2026 |
 | Louisiana | 266 | 266 | 259 | 43 | 41 | 16.6% | Jul 2026 – Aug 2026 |
 | Maine | 1 | 1 | 1 | 0 | 0 | 0.0% | Jul 2026 – Aug 2026 |
 | Maryland | 89 | 89 | 83 | 30 | 21 | 36.1% | Jul 2026 – Aug 2026 |
-| Massachusetts | 153 | 153 | 145 | 63 | 55 | 43.4% | Jul 2026 – Aug 2026 |
+| Massachusetts | 153 | 153 | 146 | 63 | 55 | 43.2% | Jul 2026 – Aug 2026 |
 | Michigan | 122 | 122 | 114 | 25 | 21 | 21.9% | Jul 2026 – Aug 2026 |
 | Minnesota | 785 | 785 | 750 | 262 | 209 | 34.9% | Jul 2026 – Aug 2026 |
 | Mississippi | 486 | 486 | 449 | 63 | 57 | 14.0% | Jul 2026 – Aug 2026 |
@@ -85,7 +85,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | West Virginia | 217 | 217 | 215 | 76 | 73 | 35.3% | Jul 2026 – Aug 2026 |
 | Wisconsin | 573 | 573 | 560 | 174 | 157 | 31.1% | Jul 2026 – Aug 2026 |
 | Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Jul 2026 – Aug 2026 |
-| **Total** | **65,693** | **65,681** | **63,063** | **25,565** | **22,261** | **40.5%** | — |
+| **Total** | **65,693** | **65,681** | **63,070** | **25,589** | **22,275** | **40.6%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
