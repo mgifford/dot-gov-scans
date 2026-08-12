@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-08-11 06:03 UTC — last scan: 2026-08-10_
+_Stats as of 2026-08-12 06:40 UTC — last scan: 2026-08-12_
 
-**37** scan batches run
+**44** scan batches run
 
-**11,359** of **65,681** available pages audited (**17.3%** coverage)
-**11,258** successful audits (**99.1%** of audited)
+**12,243** of **65,681** available pages audited (**18.6%** coverage)
+**12,128** successful audits (**99.1%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -37,7 +37,14 @@ _Stats as of 2026-08-11 06:03 UTC — last scan: 2026-08-10_
 | Colorado | 134 | 134 | 87 | 90 | 83 | 87 | 2026-08-10 |
 | Connecticut | 167 | 167 | 89 | 87 | 84 | 82 | 2026-08-10 |
 | DC | 481 | 486 | 86 | 91 | 68 | 85 | 2026-08-10 |
+| Delaware | 17 | 17 | 89 | 89 | 84 | 90 | 2026-08-12 |
 | Federal | 9,715 | 50,035 | 90 | 90 | 84 | 88 | 2026-08-10 |
+| Florida | 140 | 140 | 92 | 88 | 82 | 83 | 2026-08-12 |
+| Georgia | 217 | 217 | 92 | 87 | 86 | 83 | 2026-08-12 |
+| Hawaii | 8 | 8 | 92 | 89 | 52 | 92 | 2026-08-12 |
+| Idaho | 103 | 103 | 89 | 87 | 86 | 88 | 2026-08-12 |
+| Illinois | 91 | 91 | 93 | 87 | 82 | 89 | 2026-08-12 |
+| Indiana | 308 | 598 | 94 | 87 | 86 | 87 | 2026-08-12 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 

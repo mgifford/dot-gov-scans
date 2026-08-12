@@ -2014,5 +2014,33 @@
       "scanned": 63050,
       "pct": 95.99
     }
+  },
+  {
+    "date": "2026-08-12",
+    "total_available": 65681,
+    "social_media": {
+      "scanned": 65693,
+      "pct": 100.02
+    },
+    "technology": {
+      "scanned": 65693,
+      "pct": 100.02
+    },
+    "lighthouse": {
+      "scanned": 12128,
+      "pct": 18.47
+    },
+    "accessibility": {
+      "scanned": 65693,
+      "pct": 100.02
+    },
+    "third_party_js": {
+      "scanned": 26511,
+      "pct": 40.36
+    },
+    "combined_reachability": {
+      "scanned": 63059,
+      "pct": 96.01
+    }
   }
 ]
