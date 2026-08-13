@@ -8,9 +8,9 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-08-12 06:40 UTC — last scan: 2026-08-12_
+_Stats as of 2026-08-13 06:44 UTC — last scan: 2026-08-12_
 
-**313** scan batches run
+**321** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
 **25,463** of **26,511** scanned pages were reachable (**96.0%**)
@@ -44,19 +44,19 @@ _Stats as of 2026-08-12 06:40 UTC — last scan: 2026-08-12_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **5,783** |
-| 2 | cdnjs (Cloudflare CDN) | **2,777** |
-| 3 | jsDelivr CDN | **2,743** |
-| 4 | jQuery | **1,897** |
-| 5 | Google Tag Manager | **1,658** |
+| 1 | Google Analytics (GA4) | **5,781** |
+| 2 | cdnjs (Cloudflare CDN) | **2,784** |
+| 3 | jsDelivr CDN | **2,746** |
+| 4 | jQuery | **1,894** |
+| 5 | Google Tag Manager | **1,652** |
 | 6 | Font Awesome | **1,341** |
-| 7 | Google reCAPTCHA | **1,285** |
-| 8 | Google Hosted Libraries | **905** |
+| 7 | Google reCAPTCHA | **1,288** |
+| 8 | Google Hosted Libraries | **900** |
 | 9 | unpkg CDN | **656** |
-| 10 | Bootstrap | **619** |
-| 11 | Facebook Pixel | **424** |
+| 10 | Bootstrap | **622** |
+| 11 | Facebook Pixel | **427** |
 | 12 | Adobe Dynamic Tag Management / Launch | **310** |
-| 13 | Google Analytics (Universal) | **189** |
+| 13 | Google Analytics (Universal) | **186** |
 | 14 | Sentry | **132** |
 | 15 | Cloudflare Turnstile / Challenge | **111** |
 | 16 | OneTrust | **24** |
@@ -69,15 +69,15 @@ _Stats as of 2026-08-12 06:40 UTC — last scan: 2026-08-12_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,081** |
-| 2 | Analytics | **6,723** |
-| 3 | JavaScript Library | **2,802** |
-| 4 | Tag Manager | **1,968** |
-| 5 | Security | **1,396** |
+| 1 | CDN | **7,086** |
+| 2 | Analytics | **6,721** |
+| 3 | JavaScript Library | **2,794** |
+| 4 | Tag Manager | **1,962** |
+| 5 | Security | **1,399** |
 | 6 | Icon Library | **1,341** |
-| 7 | CAPTCHA | **1,285** |
-| 8 | UI Framework | **619** |
-| 9 | Advertising | **424** |
+| 7 | CAPTCHA | **1,288** |
+| 8 | UI Framework | **622** |
+| 9 | Advertising | **427** |
 | 10 | Error Tracking | **132** |
 | 11 | Cookie Consent | **26** |
 | 12 | Customer Support | **11** |
