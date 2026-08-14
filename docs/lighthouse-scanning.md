@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-08-13 06:44 UTC — last scan: 2026-08-12_
+_Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-14_
 
-**44** scan batches run
+**47** scan batches run
 
-**12,243** of **65,681** available pages audited (**18.6%** coverage)
-**12,128** successful audits (**99.1%** of audited)
+**13,054** of **65,681** available pages audited (**19.9%** coverage)
+**12,933** successful audits (**99.1%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -45,6 +45,9 @@ _Stats as of 2026-08-13 06:44 UTC — last scan: 2026-08-12_
 | Idaho | 103 | 103 | 89 | 87 | 86 | 88 | 2026-08-12 |
 | Illinois | 91 | 91 | 93 | 87 | 82 | 89 | 2026-08-12 |
 | Indiana | 308 | 598 | 94 | 87 | 86 | 87 | 2026-08-12 |
+| Iowa | 21 | 21 | 88 | 71 | 90 | 88 | 2026-08-14 |
+| Kansas | 194 | 194 | 93 | 91 | 82 | 84 | 2026-08-14 |
+| Kentucky | 596 | 738 | 88 | 89 | 82 | 87 | 2026-08-14 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
