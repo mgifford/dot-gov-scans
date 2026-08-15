@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-08-14 06:40 UTC_
+_Generated: 2026-08-15 05:38 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -25,8 +25,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-06-18 | 100.0% | 100.0% | 15.1% | 100.0% | 40.8% | 96.2% |
-| 2026-06-21 | 100.0% | 100.0% | 18.6% (+3.52pp) | 100.0% | 40.8% | 96.2% |
+| 2026-06-21 | 100.0% | 100.0% | 18.6% | 100.0% | 40.8% | 96.2% |
 | 2026-06-23 | 100.0% | 100.0% | 19.1% (+0.50pp) | 100.0% | 40.8% | 96.3% (+0.03pp) |
 | 2026-06-25 | 100.0% | 100.0% | 19.6% (+0.49pp) | 100.0% | 40.8% | 96.3% |
 | 2026-07-20 | 6.3% (-93.73pp) | 0.0% (-100.02pp) | 0.0% (-19.57pp) | 0.0% (-100.02pp) | 5.7% (-35.10pp) | 6.0% (-90.31pp) |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-08-12 | 100.0% | 100.0% | 18.5% (+1.33pp) | 100.0% | 40.4% | 96.0% (+0.02pp) |
 | 2026-08-13 | 100.0% | 100.0% | 18.5% | 100.0% | 40.4% | 96.0% (+0.04pp) |
 | 2026-08-14 | 100.0% | 100.0% | 19.7% (+1.22pp) | 100.0% | 40.4% | 96.0% |
+| 2026-08-15 | 100.0% | 100.0% | 19.7% | 100.0% | 40.4% | 96.0% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -69,7 +69,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | 3 | Accessibility | 100.0% | leader | — |
 | 4 | Combined Reachability | 96.0% | −4.0pp | ~395 days |
 | 5 | Third-party JS ⚠ needs attention | 40.4% | −59.7pp | — |
-| 6 | Lighthouse ⚠ needs attention | 19.7% | −80.3pp | ~69 days |
+| 6 | Lighthouse ⚠ needs attention | 19.7% | −80.3pp | ~82 days |
 
 > Daily rate is estimated from the average gain over the past 7 snapshots. A "—" estimate means no measurable progress has been recorded yet.
 
@@ -160,7 +160,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Connecticut | 167 | 2026-08-13 |
 | DC | 486 | 2026-08-13 |
 | Delaware | 17 | 2026-08-13 |
-| Federal | 50,035 | 2026-08-09 |
+| Federal | 50,035 | 2026-08-14 |
 | Florida | 140 | 2026-08-13 |
 | Georgia | 217 | 2026-08-13 |
 | Hawaii | 8 | 2026-08-13 |
@@ -169,7 +169,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Indiana | 598 | 2026-08-13 |
 | Iowa | 21 | 2026-08-13 |
 | Kansas | 194 | 2026-08-13 |
-| Kentucky | 738 | 2026-08-13 |
+| Kentucky | 738 | 2026-08-14 |
 | Louisiana | 266 | 2026-08-13 |
 | Maine | 1 | 2026-08-13 |
 | Maryland | 89 | 2026-08-13 |
@@ -178,7 +178,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Minnesota | 785 | 2026-08-13 |
 | Mississippi | 486 | 2026-08-13 |
 | Missouri | 336 | 2026-08-13 |
-| Montana | 264 | 2026-08-13 |
+| Montana | 264 | 2026-08-14 |
 | Nebraska | 205 | 2026-08-13 |
 | Nevada | 358 | 2026-08-13 |
 | New Hampshire | 249 | 2026-08-13 |
@@ -187,7 +187,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | New York | 732 | 2026-08-13 |
 | North Carolina | 292 | 2026-08-13 |
 | North Dakota | 215 | 2026-08-13 |
-| Ohio | 388 | 2026-08-13 |
+| Ohio | 388 | 2026-08-14 |
 | Oklahoma | 160 | 2026-08-13 |
 | Oregon | 163 | 2026-08-13 |
 | Pennsylvania | 354 | 2026-08-13 |
@@ -196,7 +196,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | South Carolina | 481 | 2026-08-13 |
 | South Dakota | 164 | 2026-08-13 |
 | Tennessee | 162 | 2026-08-13 |
-| Texas | 562 | 2026-08-13 |
+| Texas | 562 | 2026-08-14 |
 | US Virgin Islands | 64 | 2026-08-13 |
 | Utah | 21 | 2026-08-13 |
 | Vermont | 15 | 2026-08-13 |

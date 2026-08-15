@@ -9,9 +9,9 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
+_Stats as of 2026-08-15 05:39 UTC — last scan: 2026-08-14_
 
-**285** scan batches run
+**286** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **63,091** of **65,693** scanned pages were reachable (**96.0%**)

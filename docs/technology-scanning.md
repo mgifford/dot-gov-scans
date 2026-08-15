@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
+_Stats as of 2026-08-15 05:39 UTC — last scan: 2026-08-14_
 
-**251** scan batches run
+**259** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -32,7 +32,7 @@ _Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
 | Connecticut | 167 | 0 | 167 | 2026-08-13 |
 | DC | 486 | 0 | 486 | 2026-08-13 |
 | Delaware | 17 | 0 | 17 | 2026-08-13 |
-| Federal | 50,035 | 0 | 50,035 | 2026-08-09 |
+| Federal | 50,035 | 0 | 50,035 | 2026-08-14 |
 | Florida | 140 | 0 | 140 | 2026-08-13 |
 | Georgia | 217 | 0 | 217 | 2026-08-13 |
 | Hawaii | 8 | 0 | 8 | 2026-08-13 |
@@ -41,7 +41,7 @@ _Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
 | Indiana | 598 | 0 | 598 | 2026-08-13 |
 | Iowa | 21 | 0 | 21 | 2026-08-13 |
 | Kansas | 194 | 0 | 194 | 2026-08-13 |
-| Kentucky | 738 | 0 | 738 | 2026-08-13 |
+| Kentucky | 738 | 0 | 738 | 2026-08-14 |
 | Louisiana | 266 | 0 | 266 | 2026-08-13 |
 | Maine | 1 | 0 | 1 | 2026-08-13 |
 | Maryland | 89 | 0 | 89 | 2026-08-13 |
@@ -50,7 +50,7 @@ _Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
 | Minnesota | 785 | 0 | 785 | 2026-08-13 |
 | Mississippi | 486 | 0 | 486 | 2026-08-13 |
 | Missouri | 336 | 0 | 336 | 2026-08-13 |
-| Montana | 264 | 0 | 264 | 2026-08-13 |
+| Montana | 264 | 0 | 264 | 2026-08-14 |
 | Nebraska | 205 | 0 | 205 | 2026-08-13 |
 | Nevada | 358 | 0 | 358 | 2026-08-13 |
 | New Hampshire | 249 | 0 | 249 | 2026-08-13 |
@@ -59,7 +59,7 @@ _Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
 | New York | 732 | 0 | 732 | 2026-08-13 |
 | North Carolina | 292 | 0 | 292 | 2026-08-13 |
 | North Dakota | 215 | 0 | 215 | 2026-08-13 |
-| Ohio | 388 | 0 | 388 | 2026-08-13 |
+| Ohio | 388 | 0 | 388 | 2026-08-14 |
 | Oklahoma | 160 | 0 | 160 | 2026-08-13 |
 | Oregon | 163 | 0 | 163 | 2026-08-13 |
 | Pennsylvania | 354 | 0 | 354 | 2026-08-13 |
@@ -68,7 +68,7 @@ _Stats as of 2026-08-14 06:41 UTC — last scan: 2026-08-13_
 | South Carolina | 481 | 0 | 481 | 2026-08-13 |
 | South Dakota | 164 | 0 | 164 | 2026-08-13 |
 | Tennessee | 162 | 0 | 162 | 2026-08-13 |
-| Texas | 562 | 0 | 562 | 2026-08-13 |
+| Texas | 562 | 0 | 562 | 2026-08-14 |
 | US Virgin Islands | 64 | 0 | 64 | 2026-08-13 |
 | Utah | 21 | 0 | 9 | 2026-08-13 |
 | Vermont | 15 | 0 | 15 | 2026-08-13 |
