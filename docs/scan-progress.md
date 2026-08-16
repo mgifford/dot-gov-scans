@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-08-15 05:38 UTC_
+_Generated: 2026-08-16 05:41 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -25,8 +25,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-06-21 | 100.0% | 100.0% | 18.6% | 100.0% | 40.8% | 96.2% |
-| 2026-06-23 | 100.0% | 100.0% | 19.1% (+0.50pp) | 100.0% | 40.8% | 96.3% (+0.03pp) |
+| 2026-06-23 | 100.0% | 100.0% | 19.1% | 100.0% | 40.8% | 96.3% |
 | 2026-06-25 | 100.0% | 100.0% | 19.6% (+0.49pp) | 100.0% | 40.8% | 96.3% |
 | 2026-07-20 | 6.3% (-93.73pp) | 0.0% (-100.02pp) | 0.0% (-19.57pp) | 0.0% (-100.02pp) | 5.7% (-35.10pp) | 6.0% (-90.31pp) |
 | 2026-07-21 | 43.8% (+37.55pp) | 0.0% | 0.0% | 33.5% (+33.53pp) | 5.7% | 41.5% (+35.58pp) |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-08-13 | 100.0% | 100.0% | 18.5% | 100.0% | 40.4% | 96.0% (+0.04pp) |
 | 2026-08-14 | 100.0% | 100.0% | 19.7% (+1.22pp) | 100.0% | 40.4% | 96.0% |
 | 2026-08-15 | 100.0% | 100.0% | 19.7% | 100.0% | 40.4% | 96.0% |
+| 2026-08-16 | 100.0% | 100.0% | 19.7% | 100.0% | 40.4% | 96.0% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -160,7 +160,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Connecticut | 167 | 2026-08-13 |
 | DC | 486 | 2026-08-13 |
 | Delaware | 17 | 2026-08-13 |
-| Federal | 50,035 | 2026-08-14 |
+| Federal | 50,035 | 2026-08-15 |
 | Florida | 140 | 2026-08-13 |
 | Georgia | 217 | 2026-08-13 |
 | Hawaii | 8 | 2026-08-13 |
@@ -249,7 +249,7 @@ Checks whether each government page links to an accessibility statement as requi
 | Connecticut | 167 | 142 | 29 | 29 | 20% | Jul 2026 – Aug 2026 |
 | DC | 486 | 483 | 311 | 304 | 64% | Jul 2026 – Aug 2026 |
 | Delaware | 17 | 17 | 8 | 8 | 47% | Jul 2026 – Aug 2026 |
-| Federal | 50,035 | 48,146 | 19,768 | 17,090 | 41% | Jul 2026 – Aug 2026 |
+| Federal | 50,035 | 48,155 | 19,781 | 17,102 | 41% | Jul 2026 – Aug 2026 |
 | Florida | 140 | 131 | 38 | 38 | 29% | Jul 2026 – Aug 2026 |
 | Georgia | 217 | 207 | 25 | 21 | 12% | Jul 2026 – Aug 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | Jul 2026 – Aug 2026 |
