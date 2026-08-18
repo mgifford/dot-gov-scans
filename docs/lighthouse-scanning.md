@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-08-17 05:48 UTC — last scan: 2026-08-16_
+_Stats as of 2026-08-18 05:44 UTC — last scan: 2026-08-18_
 
-**48** scan batches run
+**56** scan batches run
 
-**13,395** of **65,681** available pages audited (**20.4%** coverage)
-**13,271** successful audits (**99.1%** of audited)
+**14,636** of **65,681** available pages audited (**22.3%** coverage)
+**14,504** successful audits (**99.1%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -38,7 +38,7 @@ _Stats as of 2026-08-17 05:48 UTC — last scan: 2026-08-16_
 | Connecticut | 167 | 167 | 89 | 87 | 84 | 82 | 2026-08-10 |
 | DC | 481 | 486 | 86 | 91 | 68 | 85 | 2026-08-10 |
 | Delaware | 17 | 17 | 89 | 89 | 84 | 90 | 2026-08-12 |
-| Federal | 10,056 | 50,035 | 90 | 90 | 84 | 88 | 2026-08-16 |
+| Federal | 10,412 | 50,035 | 90 | 90 | 84 | 88 | 2026-08-18 |
 | Florida | 140 | 140 | 92 | 88 | 82 | 83 | 2026-08-12 |
 | Georgia | 217 | 217 | 92 | 87 | 86 | 83 | 2026-08-12 |
 | Hawaii | 8 | 8 | 92 | 89 | 52 | 92 | 2026-08-12 |
@@ -48,6 +48,12 @@ _Stats as of 2026-08-17 05:48 UTC — last scan: 2026-08-16_
 | Iowa | 21 | 21 | 88 | 71 | 90 | 88 | 2026-08-14 |
 | Kansas | 194 | 194 | 93 | 91 | 82 | 84 | 2026-08-14 |
 | Kentucky | 596 | 738 | 88 | 89 | 82 | 87 | 2026-08-14 |
+| Louisiana | 266 | 266 | 93 | 90 | 85 | 87 | 2026-08-17 |
+| Maine | 1 | 1 | 100 | 88 | 92 | 83 | 2026-08-17 |
+| Maryland | 89 | 89 | 95 | 87 | 84 | 84 | 2026-08-17 |
+| Massachusetts | 153 | 153 | 88 | 87 | 81 | 86 | 2026-08-17 |
+| Michigan | 122 | 122 | 91 | 91 | 88 | 86 | 2026-08-17 |
+| Minnesota | 254 | 785 | 93 | 88 | 88 | 87 | 2026-08-17 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
