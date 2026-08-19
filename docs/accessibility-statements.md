@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-08-18 05:44 UTC — last scan: 2026-08-17_
+_Stats as of 2026-08-19 05:45 UTC — last scan: 2026-08-18_
 
-**302** scan batches run
+**346** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,101** of **65,693** scanned pages were reachable (**96.1%**)
-**25,659** of **63,101** reachable pages have an accessibility statement (**40.7%**)
-**22,341** pages have the statement link in the footer (**87.1%** of pages with a statement)
+**63,102** of **65,693** scanned pages were reachable (**96.1%**)
+**25,676** of **63,102** reachable pages have an accessibility statement (**40.7%**)
+**22,351** pages have the statement link in the footer (**87.1%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -50,7 +50,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Iowa | 21 | 21 | 20 | 2 | 0 | 10.0% | Jul 2026 – Aug 2026 |
 | Kansas | 194 | 194 | 186 | 67 | 61 | 36.0% | Jul 2026 – Aug 2026 |
 | Kentucky | 738 | 738 | 724 | 474 | 465 | 65.5% | Jul 2026 – Aug 2026 |
-| Louisiana | 266 | 266 | 259 | 43 | 41 | 16.6% | Jul 2026 – Aug 2026 |
+| Louisiana | 266 | 266 | 259 | 46 | 41 | 17.8% | Jul 2026 – Aug 2026 |
 | Maine | 1 | 1 | 1 | 0 | 0 | 0.0% | Jul 2026 – Aug 2026 |
 | Maryland | 89 | 89 | 83 | 30 | 21 | 36.1% | Jul 2026 – Aug 2026 |
 | Massachusetts | 153 | 153 | 146 | 63 | 55 | 43.2% | Jul 2026 – Aug 2026 |
@@ -64,28 +64,28 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | New Hampshire | 249 | 249 | 240 | 168 | 157 | 70.0% | Jul 2026 – Aug 2026 |
 | New Jersey | 203 | 203 | 200 | 35 | 35 | 17.5% | Jul 2026 – Aug 2026 |
 | New Mexico | 288 | 288 | 265 | 101 | 86 | 38.1% | Jul 2026 – Aug 2026 |
-| New York | 732 | 732 | 664 | 359 | 332 | 54.1% | Jul 2026 – Aug 2026 |
+| New York | 732 | 732 | 664 | 361 | 332 | 54.4% | Jul 2026 – Aug 2026 |
 | North Carolina | 292 | 292 | 287 | 168 | 154 | 58.5% | Jul 2026 – Aug 2026 |
 | North Dakota | 215 | 215 | 205 | 138 | 137 | 67.3% | Jul 2026 – Aug 2026 |
 | Ohio | 388 | 388 | 354 | 111 | 33 | 31.4% | Jul 2026 – Aug 2026 |
 | Oklahoma | 160 | 160 | 138 | 33 | 30 | 23.9% | Jul 2026 – Aug 2026 |
 | Oregon | 163 | 163 | 150 | 22 | 14 | 14.7% | Jul 2026 – Aug 2026 |
 | Pennsylvania | 354 | 354 | 335 | 74 | 66 | 22.1% | Jul 2026 – Aug 2026 |
-| Puerto Rico | 496 | 496 | 464 | 127 | 18 | 27.4% | Jul 2026 – Aug 2026 |
+| Puerto Rico | 496 | 496 | 465 | 128 | 19 | 27.5% | Jul 2026 – Aug 2026 |
 | Rhode Island | 108 | 108 | 107 | 24 | 24 | 22.4% | Jul 2026 – Aug 2026 |
-| South Carolina | 481 | 481 | 474 | 91 | 79 | 19.2% | Jul 2026 – Aug 2026 |
+| South Carolina | 481 | 481 | 474 | 94 | 82 | 19.8% | Jul 2026 – Aug 2026 |
 | South Dakota | 164 | 164 | 164 | 73 | 73 | 44.5% | Jul 2026 – Aug 2026 |
-| Tennessee | 162 | 162 | 154 | 31 | 31 | 20.1% | Jul 2026 – Aug 2026 |
-| Texas | 562 | 562 | 524 | 255 | 226 | 48.7% | Jul 2026 – Aug 2026 |
+| Tennessee | 162 | 162 | 154 | 32 | 32 | 20.8% | Jul 2026 – Aug 2026 |
+| Texas | 562 | 562 | 524 | 259 | 228 | 49.4% | Jul 2026 – Aug 2026 |
 | US Virgin Islands | 64 | 64 | 61 | 3 | 2 | 4.9% | Jul 2026 – Aug 2026 |
 | Utah | 21 | 9 | 21 | 7 | 7 | 33.3% | Jul 2026 – Aug 2026 |
 | Vermont | 15 | 15 | 15 | 4 | 4 | 26.7% | Jul 2026 – Aug 2026 |
 | Virginia | 79 | 79 | 71 | 30 | 25 | 42.3% | Jul 2026 – Aug 2026 |
 | Washington | 713 | 713 | 696 | 148 | 132 | 21.3% | Jul 2026 – Aug 2026 |
-| West Virginia | 217 | 217 | 215 | 78 | 75 | 36.3% | Jul 2026 – Aug 2026 |
+| West Virginia | 217 | 217 | 215 | 81 | 78 | 37.7% | Jul 2026 – Aug 2026 |
 | Wisconsin | 573 | 573 | 560 | 177 | 160 | 31.6% | Jul 2026 – Aug 2026 |
 | Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Jul 2026 – Aug 2026 |
-| **Total** | **65,693** | **65,681** | **63,101** | **25,659** | **22,341** | **40.7%** | — |
+| **Total** | **65,693** | **65,681** | **63,102** | **25,676** | **22,351** | **40.7%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
