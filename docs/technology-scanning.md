@@ -8,7 +8,7 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-08-19 05:45 UTC — last scan: 2026-08-16_
+_Stats as of 2026-08-20 05:45 UTC — last scan: 2026-08-16_
 
 **267** scan batches run
 
