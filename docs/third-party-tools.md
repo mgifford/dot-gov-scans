@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-08-23 05:43 UTC — last scan: 2026-08-23_
+_Stats as of 2026-08-24 05:52 UTC — last scan: 2026-08-24_
 
-**447** scan batches run
+**463** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
 **25,484** of **26,511** scanned pages were reachable (**96.1%**)
-**14,904** reachable pages loaded at least one third-party script (**58.5%** of reachable)
-**20,990** known third-party service loads identified
+**14,939** reachable pages loaded at least one third-party script (**58.6%** of reachable)
+**21,029** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -24,17 +24,17 @@ _Stats as of 2026-08-23 05:43 UTC — last scan: 2026-08-23_
 
 | Country | Scanned | Available | Reachable | URLs with 3rd-Party JS | Known Service Loads | Last Scan |
 |---------|---------|-----------|-----------|------------------------|--------------------|----------|
-| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-08-23 |
+| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-08-24 |
 | Alaska | 34 | 34 | 34 | 22 | 11 | 2026-08-22 |
 | American Samoa | 7 | 7 | 7 | 4 | 4 | 2026-08-21 |
-| Arizona | 337 | 337 | 332 | 68 | 86 | 2026-08-23 |
-| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-08-23 |
-| California | 2,495 | 2,495 | 2,375 | 1,548 | 2,523 | 2026-08-23 |
-| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-08-23 |
-| Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-08-23 |
-| DC | 486 | 486 | 483 | 425 | 582 | 2026-08-23 |
+| Arizona | 337 | 337 | 332 | 68 | 86 | 2026-08-24 |
+| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-08-24 |
+| California | 2,495 | 2,495 | 2,375 | 1,548 | 2,523 | 2026-08-24 |
+| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-08-24 |
+| Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-08-24 |
+| DC | 486 | 486 | 483 | 425 | 582 | 2026-08-24 |
 | Delaware | 17 | 17 | 17 | 17 | 41 | 2026-08-22 |
-| Federal | 22,757 | 50,035 | 21,897 | 12,643 | 17,530 | 2026-08-23 |
+| Federal | 22,757 | 50,035 | 21,897 | 12,678 | 17,569 | 2026-08-24 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,17 +44,17 @@ _Stats as of 2026-08-23 05:43 UTC — last scan: 2026-08-23_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **5,867** |
-| 2 | jsDelivr CDN | **2,772** |
-| 3 | cdnjs (Cloudflare CDN) | **2,748** |
-| 4 | jQuery | **1,881** |
-| 5 | Google Tag Manager | **1,620** |
-| 6 | Font Awesome | **1,409** |
+| 1 | Google Analytics (GA4) | **5,895** |
+| 2 | jsDelivr CDN | **2,763** |
+| 3 | cdnjs (Cloudflare CDN) | **2,739** |
+| 4 | jQuery | **1,875** |
+| 5 | Google Tag Manager | **1,618** |
+| 6 | Font Awesome | **1,457** |
 | 7 | Google reCAPTCHA | **1,270** |
-| 8 | Google Hosted Libraries | **899** |
-| 9 | unpkg CDN | **660** |
-| 10 | Bootstrap | **614** |
-| 11 | Facebook Pixel | **433** |
+| 8 | Google Hosted Libraries | **897** |
+| 9 | unpkg CDN | **655** |
+| 10 | Bootstrap | **612** |
+| 11 | Facebook Pixel | **431** |
 | 12 | Adobe Dynamic Tag Management / Launch | **312** |
 | 13 | Google Analytics (Universal) | **186** |
 | 14 | Sentry | **132** |
@@ -69,15 +69,15 @@ _Stats as of 2026-08-23 05:43 UTC — last scan: 2026-08-23_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,079** |
-| 2 | Analytics | **6,815** |
-| 3 | JavaScript Library | **2,780** |
-| 4 | Tag Manager | **1,932** |
-| 5 | Icon Library | **1,409** |
+| 1 | CDN | **7,054** |
+| 2 | Analytics | **6,841** |
+| 3 | JavaScript Library | **2,772** |
+| 4 | Tag Manager | **1,930** |
+| 5 | Icon Library | **1,457** |
 | 6 | Security | **1,381** |
 | 7 | CAPTCHA | **1,270** |
-| 8 | UI Framework | **614** |
-| 9 | Advertising | **433** |
+| 8 | UI Framework | **612** |
+| 9 | Advertising | **431** |
 | 10 | Error Tracking | **132** |
 | 11 | Cookie Consent | **29** |
 | 12 | Customer Support | **11** |
