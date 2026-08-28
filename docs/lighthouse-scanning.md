@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-08-27 16:30 UTC — last scan: 2026-08-27_
+_Stats as of 2026-08-28 17:26 UTC — last scan: 2026-08-28_
 
-**69** scan batches run
+**80** scan batches run
 
-**18,840** of **65,681** available pages audited (**28.7%** coverage)
-**18,675** successful audits (**99.1%** of audited)
+**21,391** of **65,681** available pages audited (**32.6%** coverage)
+**21,200** successful audits (**99.1%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -63,6 +63,17 @@ _Stats as of 2026-08-27 16:30 UTC — last scan: 2026-08-27_
 | New Jersey | 203 | 203 | 89 | 83 | 82 | 87 | 2026-08-27 |
 | New Mexico | 288 | 288 | 84 | 87 | 86 | 85 | 2026-08-27 |
 | New York | 87 | 732 | 91 | 90 | 88 | 90 | 2026-08-27 |
+| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-08-27 |
+| North Dakota | 215 | 215 | 93 | 94 | 87 | 89 | 2026-08-27 |
+| Ohio | 319 | 388 | 92 | 90 | 90 | 85 | 2026-08-27 |
+| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-08-28 |
+| Oregon | 163 | 163 | 92 | 87 | 84 | 85 | 2026-08-28 |
+| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-08-28 |
+| Puerto Rico | 169 | 496 | 90 | 85 | 84 | 85 | 2026-08-28 |
+| Rhode Island | 108 | 108 | 91 | 84 | 86 | 84 | 2026-08-28 |
+| South Carolina | 481 | 481 | 92 | 92 | 91 | 88 | 2026-08-28 |
+| South Dakota | 164 | 164 | 87 | 87 | 80 | 87 | 2026-08-28 |
+| Tennessee | 126 | 162 | 87 | 91 | 79 | 84 | 2026-08-28 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
