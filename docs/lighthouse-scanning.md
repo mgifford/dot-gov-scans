@@ -9,7 +9,7 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-08-28 17:26 UTC — last scan: 2026-08-28_
+_Stats as of 2026-08-29 11:39 UTC — last scan: 2026-08-28_
 
 **80** scan batches run
 
