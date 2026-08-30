@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-08-29 11:39 UTC — last scan: 2026-08-28_
+_Stats as of 2026-08-30 10:29 UTC — last scan: 2026-08-30_
 
-**80** scan batches run
+**86** scan batches run
 
-**21,391** of **65,681** available pages audited (**32.6%** coverage)
-**21,200** successful audits (**99.1%** of audited)
+**22,308** of **65,681** available pages audited (**34.0%** coverage)
+**22,100** successful audits (**99.1%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -74,6 +74,12 @@ _Stats as of 2026-08-29 11:39 UTC — last scan: 2026-08-28_
 | South Carolina | 481 | 481 | 92 | 92 | 91 | 88 | 2026-08-28 |
 | South Dakota | 164 | 164 | 87 | 87 | 80 | 87 | 2026-08-28 |
 | Tennessee | 126 | 162 | 87 | 91 | 79 | 84 | 2026-08-28 |
+| Texas | 562 | 562 | 93 | 90 | 77 | 86 | 2026-08-30 |
+| US Virgin Islands | 64 | 64 | 90 | 86 | 88 | 86 | 2026-08-30 |
+| Utah | 21 | 9 | 95 | 84 | 68 | 74 | 2026-08-30 |
+| Vermont | 15 | 15 | 99 | 79 | 91 | 80 | 2026-08-30 |
+| Virginia | 79 | 79 | 92 | 85 | 82 | 88 | 2026-08-30 |
+| Washington | 176 | 713 | 93 | 90 | 87 | 87 | 2026-08-30 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
