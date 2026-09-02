@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-09-01 10:05 UTC — last scan: 2026-08-31_
+_Stats as of 2026-09-02 09:36 UTC — last scan: 2026-09-01_
 
-**103** scan batches run
+**108** scan batches run
 
-**24,878** of **65,681** available pages audited (**37.9%** coverage)
-**24,533** successful audits (**98.6%** of audited)
+**25,592** of **65,681** available pages audited (**39.0%** coverage)
+**25,244** successful audits (**98.6%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -60,12 +60,12 @@ _Stats as of 2026-09-01 10:05 UTC — last scan: 2026-08-31_
 | Nebraska | 205 | 205 | 91 | 89 | 84 | 89 | 2026-08-31 |
 | Nevada | 358 | 358 | 86 | 90 | 73 | 82 | 2026-08-25 |
 | New Hampshire | 249 | 249 | 90 | 96 | 92 | 94 | 2026-08-27 |
-| New Jersey | 203 | 203 | 89 | 83 | 82 | 87 | 2026-08-27 |
-| New Mexico | 288 | 288 | 84 | 87 | 86 | 85 | 2026-08-27 |
-| New York | 87 | 732 | 91 | 90 | 88 | 90 | 2026-08-27 |
-| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-08-27 |
+| New Jersey | 203 | 203 | 89 | 83 | 82 | 87 | 2026-09-01 |
+| New Mexico | 288 | 288 | 84 | 87 | 86 | 85 | 2026-09-01 |
+| New York | 732 | 732 | 92 | 91 | 87 | 89 | 2026-09-01 |
+| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-09-01 |
 | North Dakota | 215 | 215 | 93 | 94 | 87 | 89 | 2026-08-27 |
-| Ohio | 319 | 388 | 92 | 90 | 90 | 85 | 2026-08-27 |
+| Ohio | 388 | 388 | 92 | 90 | 90 | 85 | 2026-09-01 |
 | Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-08-28 |
 | Oregon | 163 | 163 | 92 | 87 | 84 | 85 | 2026-08-28 |
 | Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-08-28 |
