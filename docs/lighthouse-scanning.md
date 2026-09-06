@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-09-05 09:04 UTC — last scan: 2026-09-03_
+_Stats as of 2026-09-06 09:25 UTC — last scan: 2026-09-06_
 
-**109** scan batches run
+**118** scan batches run
 
-**25,929** of **65,681** available pages audited (**39.5%** coverage)
-**25,567** successful audits (**98.6%** of audited)
+**26,504** of **65,681** available pages audited (**40.4%** coverage)
+**26,143** successful audits (**98.6%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -66,20 +66,20 @@ _Stats as of 2026-09-05 09:04 UTC — last scan: 2026-09-03_
 | North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-09-01 |
 | North Dakota | 215 | 215 | 93 | 94 | 87 | 89 | 2026-08-27 |
 | Ohio | 388 | 388 | 92 | 90 | 90 | 85 | 2026-09-01 |
-| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-08-28 |
-| Oregon | 163 | 163 | 92 | 87 | 84 | 85 | 2026-08-28 |
-| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-08-28 |
-| Puerto Rico | 169 | 496 | 90 | 85 | 84 | 85 | 2026-08-28 |
+| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-09-06 |
+| Oregon | 163 | 163 | 92 | 87 | 84 | 85 | 2026-09-06 |
+| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-09-06 |
+| Puerto Rico | 496 | 496 | 90 | 88 | 86 | 87 | 2026-09-06 |
 | Rhode Island | 108 | 108 | 91 | 84 | 86 | 84 | 2026-08-28 |
 | South Carolina | 481 | 481 | 92 | 92 | 91 | 88 | 2026-08-28 |
 | South Dakota | 164 | 164 | 87 | 87 | 80 | 87 | 2026-08-28 |
-| Tennessee | 126 | 162 | 87 | 91 | 79 | 84 | 2026-08-28 |
-| Texas | 562 | 562 | 93 | 90 | 77 | 86 | 2026-08-30 |
-| US Virgin Islands | 64 | 64 | 90 | 86 | 88 | 86 | 2026-08-30 |
+| Tennessee | 162 | 162 | 88 | 91 | 79 | 86 | 2026-09-06 |
+| Texas | 562 | 562 | 93 | 90 | 77 | 86 | 2026-09-06 |
+| US Virgin Islands | 64 | 64 | 90 | 86 | 88 | 86 | 2026-09-06 |
 | Utah | 21 | 9 | 95 | 84 | 68 | 74 | 2026-08-30 |
 | Vermont | 15 | 15 | 99 | 79 | 91 | 80 | 2026-08-30 |
-| Virginia | 79 | 79 | 92 | 85 | 82 | 88 | 2026-08-30 |
-| Washington | 176 | 713 | 93 | 90 | 87 | 87 | 2026-08-30 |
+| Virginia | 79 | 79 | 92 | 85 | 82 | 88 | 2026-09-06 |
+| Washington | 388 | 713 | 91 | 90 | 88 | 87 | 2026-09-06 |
 | West Virginia | 217 | 217 | 91 | 90 | 77 | 91 | 2026-08-30 |
 | Wisconsin | 260 | 573 | 84 | 90 | 87 | 89 | 2026-08-30 |
 | Wyoming | 30 | 30 | 89 | 87 | 82 | 86 | 2026-08-31 |
