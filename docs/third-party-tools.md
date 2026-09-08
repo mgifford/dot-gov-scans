@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-09-07 10:15 UTC — last scan: 2026-09-07_
+_Stats as of 2026-09-08 09:39 UTC — last scan: 2026-09-08_
 
-**580** scan batches run
+**589** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
 **25,503** of **26,511** scanned pages were reachable (**96.2%**)
-**15,021** reachable pages loaded at least one third-party script (**58.9%** of reachable)
-**21,217** known third-party service loads identified
+**15,022** reachable pages loaded at least one third-party script (**58.9%** of reachable)
+**21,215** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -24,17 +24,17 @@ _Stats as of 2026-09-07 10:15 UTC — last scan: 2026-09-07_
 
 | Country | Scanned | Available | Reachable | URLs with 3rd-Party JS | Known Service Loads | Last Scan |
 |---------|---------|-----------|-----------|------------------------|--------------------|----------|
-| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-09-07 |
+| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-09-08 |
 | Alaska | 34 | 34 | 34 | 22 | 11 | 2026-09-07 |
 | American Samoa | 7 | 7 | 7 | 4 | 4 | 2026-09-07 |
-| Arizona | 337 | 337 | 332 | 68 | 94 | 2026-09-07 |
-| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-09-07 |
-| California | 2,495 | 2,495 | 2,375 | 1,551 | 2,546 | 2026-09-07 |
-| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-09-07 |
-| Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-09-07 |
-| DC | 486 | 486 | 483 | 425 | 582 | 2026-09-07 |
-| Delaware | 17 | 17 | 17 | 17 | 41 | 2026-08-30 |
-| Federal | 22,757 | 50,035 | 21,916 | 12,757 | 17,726 | 2026-09-05 |
+| Arizona | 337 | 337 | 332 | 68 | 94 | 2026-09-08 |
+| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-09-08 |
+| California | 2,495 | 2,495 | 2,375 | 1,551 | 2,546 | 2026-09-08 |
+| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-09-08 |
+| Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-09-08 |
+| DC | 486 | 486 | 483 | 425 | 582 | 2026-09-08 |
+| Delaware | 17 | 17 | 17 | 17 | 41 | 2026-09-08 |
+| Federal | 22,757 | 50,035 | 21,916 | 12,758 | 17,724 | 2026-09-08 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,15 +44,15 @@ _Stats as of 2026-09-07 10:15 UTC — last scan: 2026-09-07_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **5,969** |
-| 2 | jsDelivr CDN | **2,778** |
-| 3 | cdnjs (Cloudflare CDN) | **2,766** |
+| 1 | Google Analytics (GA4) | **5,968** |
+| 2 | jsDelivr CDN | **2,786** |
+| 3 | cdnjs (Cloudflare CDN) | **2,764** |
 | 4 | jQuery | **1,881** |
-| 5 | Google Tag Manager | **1,625** |
-| 6 | Font Awesome | **1,506** |
+| 5 | Google Tag Manager | **1,623** |
+| 6 | Font Awesome | **1,503** |
 | 7 | Google reCAPTCHA | **1,286** |
-| 8 | Google Hosted Libraries | **884** |
-| 9 | unpkg CDN | **672** |
+| 8 | Google Hosted Libraries | **885** |
+| 9 | unpkg CDN | **669** |
 | 10 | Bootstrap | **611** |
 | 11 | Facebook Pixel | **429** |
 | 12 | Adobe Dynamic Tag Management / Launch | **312** |
@@ -69,11 +69,11 @@ _Stats as of 2026-09-07 10:15 UTC — last scan: 2026-09-07_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,100** |
-| 2 | Analytics | **6,914** |
-| 3 | JavaScript Library | **2,765** |
-| 4 | Tag Manager | **1,937** |
-| 5 | Icon Library | **1,506** |
+| 1 | CDN | **7,104** |
+| 2 | Analytics | **6,913** |
+| 3 | JavaScript Library | **2,766** |
+| 4 | Tag Manager | **1,935** |
+| 5 | Icon Library | **1,503** |
 | 6 | Security | **1,391** |
 | 7 | CAPTCHA | **1,286** |
 | 8 | UI Framework | **611** |
