@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-09-08 09:39 UTC — last scan: 2026-09-08_
+_Stats as of 2026-09-09 09:44 UTC — last scan: 2026-09-08_
 
-**589** scan batches run
+**597** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
 **25,503** of **26,511** scanned pages were reachable (**96.2%**)
-**15,022** reachable pages loaded at least one third-party script (**58.9%** of reachable)
-**21,215** known third-party service loads identified
+**15,025** reachable pages loaded at least one third-party script (**58.9%** of reachable)
+**21,211** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -34,7 +34,7 @@ _Stats as of 2026-09-08 09:39 UTC — last scan: 2026-09-08_
 | Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-09-08 |
 | DC | 486 | 486 | 483 | 425 | 582 | 2026-09-08 |
 | Delaware | 17 | 17 | 17 | 17 | 41 | 2026-09-08 |
-| Federal | 22,757 | 50,035 | 21,916 | 12,758 | 17,724 | 2026-09-08 |
+| Federal | 22,757 | 50,035 | 21,916 | 12,761 | 17,720 | 2026-09-08 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,12 +44,12 @@ _Stats as of 2026-09-08 09:39 UTC — last scan: 2026-09-08_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **5,968** |
-| 2 | jsDelivr CDN | **2,786** |
+| 1 | Google Analytics (GA4) | **5,967** |
+| 2 | jsDelivr CDN | **2,784** |
 | 3 | cdnjs (Cloudflare CDN) | **2,764** |
 | 4 | jQuery | **1,881** |
 | 5 | Google Tag Manager | **1,623** |
-| 6 | Font Awesome | **1,503** |
+| 6 | Font Awesome | **1,502** |
 | 7 | Google reCAPTCHA | **1,286** |
 | 8 | Google Hosted Libraries | **885** |
 | 9 | unpkg CDN | **669** |
@@ -69,11 +69,11 @@ _Stats as of 2026-09-08 09:39 UTC — last scan: 2026-09-08_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,104** |
-| 2 | Analytics | **6,913** |
+| 1 | CDN | **7,102** |
+| 2 | Analytics | **6,912** |
 | 3 | JavaScript Library | **2,766** |
 | 4 | Tag Manager | **1,935** |
-| 5 | Icon Library | **1,503** |
+| 5 | Icon Library | **1,502** |
 | 6 | Security | **1,391** |
 | 7 | CAPTCHA | **1,286** |
 | 8 | UI Framework | **611** |
