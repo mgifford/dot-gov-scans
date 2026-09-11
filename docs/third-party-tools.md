@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-09-10 09:42 UTC — last scan: 2026-09-09_
+_Stats as of 2026-09-11 09:40 UTC — last scan: 2026-09-10_
 
-**605** scan batches run
+**622** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
-**25,503** of **26,511** scanned pages were reachable (**96.2%**)
-**15,028** reachable pages loaded at least one third-party script (**58.9%** of reachable)
-**21,091** known third-party service loads identified
+**25,507** of **26,511** scanned pages were reachable (**96.2%**)
+**15,031** reachable pages loaded at least one third-party script (**58.9%** of reachable)
+**21,089** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -24,17 +24,17 @@ _Stats as of 2026-09-10 09:42 UTC — last scan: 2026-09-09_
 
 | Country | Scanned | Available | Reachable | URLs with 3rd-Party JS | Known Service Loads | Last Scan |
 |---------|---------|-----------|-----------|------------------------|--------------------|----------|
-| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-09-09 |
-| Alaska | 34 | 34 | 34 | 22 | 11 | 2026-09-07 |
+| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-09-10 |
+| Alaska | 34 | 34 | 34 | 22 | 11 | 2026-09-10 |
 | American Samoa | 7 | 7 | 7 | 4 | 4 | 2026-09-07 |
-| Arizona | 337 | 337 | 332 | 68 | 94 | 2026-09-09 |
-| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-09-09 |
-| California | 2,495 | 2,495 | 2,375 | 1,551 | 2,546 | 2026-09-09 |
-| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-09-09 |
-| Connecticut | 167 | 167 | 142 | 70 | 102 | 2026-09-09 |
-| DC | 486 | 486 | 483 | 425 | 582 | 2026-09-09 |
+| Arizona | 337 | 337 | 332 | 68 | 94 | 2026-09-10 |
+| Arkansas | 29 | 29 | 26 | 19 | 22 | 2026-09-10 |
+| California | 2,495 | 2,495 | 2,375 | 1,551 | 2,546 | 2026-09-10 |
+| Colorado | 134 | 134 | 127 | 67 | 60 | 2026-09-10 |
+| Connecticut | 167 | 167 | 143 | 70 | 102 | 2026-09-10 |
+| DC | 486 | 486 | 483 | 425 | 582 | 2026-09-10 |
 | Delaware | 17 | 17 | 17 | 17 | 41 | 2026-09-08 |
-| Federal | 22,757 | 50,035 | 21,916 | 12,764 | 17,600 | 2026-09-09 |
+| Federal | 22,757 | 50,035 | 21,919 | 12,767 | 17,598 | 2026-09-10 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,21 +44,21 @@ _Stats as of 2026-09-10 09:42 UTC — last scan: 2026-09-09_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **5,928** |
-| 2 | jsDelivr CDN | **2,790** |
-| 3 | cdnjs (Cloudflare CDN) | **2,749** |
+| 1 | Google Analytics (GA4) | **5,938** |
+| 2 | jsDelivr CDN | **2,843** |
+| 3 | cdnjs (Cloudflare CDN) | **2,719** |
 | 4 | jQuery | **1,867** |
-| 5 | Google Tag Manager | **1,608** |
-| 6 | Font Awesome | **1,495** |
-| 7 | Google reCAPTCHA | **1,281** |
-| 8 | Google Hosted Libraries | **875** |
-| 9 | unpkg CDN | **666** |
-| 10 | Bootstrap | **593** |
+| 5 | Google Tag Manager | **1,604** |
+| 6 | Font Awesome | **1,493** |
+| 7 | Google reCAPTCHA | **1,280** |
+| 8 | Google Hosted Libraries | **877** |
+| 9 | unpkg CDN | **664** |
+| 10 | Bootstrap | **567** |
 | 11 | Facebook Pixel | **429** |
-| 12 | Adobe Dynamic Tag Management / Launch | **312** |
+| 12 | Adobe Dynamic Tag Management / Launch | **311** |
 | 13 | Google Analytics (Universal) | **187** |
 | 14 | Sentry | **132** |
-| 15 | Cloudflare Turnstile / Challenge | **105** |
+| 15 | Cloudflare Turnstile / Challenge | **104** |
 | 16 | OneTrust | **24** |
 | 17 | Cloudflare Web Analytics | **13** |
 | 18 | Zendesk | **11** |
@@ -69,14 +69,14 @@ _Stats as of 2026-09-10 09:42 UTC — last scan: 2026-09-09_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,080** |
-| 2 | Analytics | **6,873** |
-| 3 | JavaScript Library | **2,742** |
-| 4 | Tag Manager | **1,920** |
-| 5 | Icon Library | **1,495** |
-| 6 | Security | **1,386** |
-| 7 | CAPTCHA | **1,281** |
-| 8 | UI Framework | **593** |
+| 1 | CDN | **7,103** |
+| 2 | Analytics | **6,882** |
+| 3 | JavaScript Library | **2,744** |
+| 4 | Tag Manager | **1,915** |
+| 5 | Icon Library | **1,493** |
+| 6 | Security | **1,384** |
+| 7 | CAPTCHA | **1,280** |
+| 8 | UI Framework | **567** |
 | 9 | Advertising | **429** |
 | 10 | Error Tracking | **132** |
 | 11 | Cookie Consent | **29** |
