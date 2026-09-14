@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-09-13 10:15 UTC_
+_Generated: 2026-09-14 10:37 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -25,7 +25,6 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-08-15 | 100.0% | 100.0% | 19.7% | 100.0% | 40.4% | 96.0% |
 | 2026-08-16 | 100.0% | 100.0% | 19.7% | 100.0% | 40.4% | 96.0% |
 | 2026-08-17 | 100.0% | 100.0% | 20.2% (+0.52pp) | 100.0% | 40.4% | 96.0% |
 | 2026-08-18 | 100.0% | 100.0% | 22.1% (+1.87pp) | 100.0% | 40.4% | 96.1% (+0.01pp) |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-09-11 | 100.0% | 100.0% | 43.1% (+0.01pp) | 100.0% | 40.4% | 96.2% (+0.01pp) |
 | 2026-09-12 | 100.0% | 100.0% | 43.1% | 100.0% | 40.4% | 96.2% |
 | 2026-09-13 | 100.0% | 100.0% | 44.3% (+1.20pp) | 100.0% | 40.4% | 96.2% |
+| 2026-09-14 | 100.0% | 100.0% | 44.3% | 100.0% | 40.4% | 96.2% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -68,7 +68,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | 2 | Technology | 100.0% | leader | — |
 | 3 | Accessibility | 100.0% | leader | — |
 | 4 | Combined Reachability | 96.2% | −3.8pp | ~877 days |
-| 5 | Lighthouse ⚠ needs attention | 44.3% | −55.7pp | ~86 days |
+| 5 | Lighthouse ⚠ needs attention | 44.3% | −55.7pp | ~171 days |
 | 6 | Third-party JS ⚠ needs attention | 40.4% | −59.7pp | — |
 
 > Daily rate is estimated from the average gain over the past 7 snapshots. A "—" estimate means no measurable progress has been recorded yet.
@@ -221,15 +221,15 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | DC | 486 | 87 | 90 | 68 | 85 | 2026-09-09 |
 | Delaware | 17 | 86 | 88 | 81 | 90 | 2026-09-11 |
 | Federal | 14,220 | 89 | 90 | 85 | 87 | 2026-09-13 |
-| Florida | 136 | 90 | 88 | 81 | 83 | 2026-09-12 |
+| Florida | 136 | 90 | 88 | 81 | 83 | 2026-09-14 |
 | Georgia | 217 | 92 | 87 | 86 | 83 | 2026-09-11 |
 | Hawaii | 8 | 91 | 89 | 52 | 92 | 2026-09-11 |
 | Idaho | 103 | 88 | 87 | 86 | 88 | 2026-09-11 |
 | Illinois | 91 | 91 | 87 | 82 | 89 | 2026-09-11 |
 | Indiana | 598 | 90 | 88 | 86 | 87 | 2026-09-12 |
 | Iowa | 21 | 93 | 73 | 90 | 88 | 2026-09-13 |
-| Kansas | 193 | 93 | 91 | 82 | 84 | 2026-08-14 |
-| Kentucky | 737 | 88 | 89 | 81 | 87 | 2026-09-07 |
+| Kansas | 193 | 94 | 92 | 83 | 84 | 2026-09-14 |
+| Kentucky | 737 | 88 | 89 | 82 | 87 | 2026-09-14 |
 | Louisiana | 265 | 93 | 90 | 85 | 87 | 2026-08-31 |
 | Maine | 1 | 100 | 88 | 92 | 83 | 2026-08-17 |
 | Maryland | 89 | 95 | 87 | 84 | 84 | 2026-08-17 |
@@ -284,7 +284,7 @@ Checks whether each government page links to an accessibility statement as requi
 | Connecticut | 167 | 142 | 29 | 29 | 20% | Jul 2026 – Sep 2026 |
 | DC | 486 | 483 | 311 | 304 | 64% | Jul 2026 – Sep 2026 |
 | Delaware | 17 | 17 | 8 | 8 | 47% | Jul 2026 – Sep 2026 |
-| Federal | 50,035 | 48,238 | 20,133 | 17,444 | 42% | Jul 2026 – Sep 2026 |
+| Federal | 50,035 | 48,240 | 20,145 | 17,454 | 42% | Jul 2026 – Sep 2026 |
 | Florida | 140 | 131 | 38 | 38 | 29% | Jul 2026 – Sep 2026 |
 | Georgia | 217 | 207 | 28 | 24 | 14% | Jul 2026 – Sep 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | Jul 2026 – Sep 2026 |
