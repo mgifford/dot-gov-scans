@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-09-15 10:04 UTC — last scan: 2026-09-15_
+_Stats as of 2026-09-16 09:56 UTC — last scan: 2026-09-16_
 
-**607** scan batches run
+**642** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,210** of **65,693** scanned pages were reachable (**96.2%**)
-**26,092** of **63,210** reachable pages have an accessibility statement (**41.3%**)
-**22,755** pages have the statement link in the footer (**87.2%** of pages with a statement)
+**63,211** of **65,693** scanned pages were reachable (**96.2%**)
+**26,097** of **63,211** reachable pages have an accessibility statement (**41.3%**)
+**22,761** pages have the statement link in the footer (**87.2%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -41,10 +41,10 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | DC | 486 | 486 | 483 | 311 | 304 | 64.4% | Jul 2026 – Sep 2026 |
 | Delaware | 17 | 17 | 17 | 8 | 8 | 47.1% | Jul 2026 – Sep 2026 |
 | Federal | 50,035 | 50,035 | 48,240 | 20,155 | 17,463 | 41.8% | Jul 2026 – Sep 2026 |
-| Florida | 140 | 140 | 131 | 38 | 38 | 29.0% | Jul 2026 – Sep 2026 |
+| Florida | 140 | 140 | 132 | 38 | 38 | 28.8% | Jul 2026 – Sep 2026 |
 | Georgia | 217 | 217 | 207 | 28 | 24 | 13.5% | Jul 2026 – Sep 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | Jul 2026 – Sep 2026 |
-| Idaho | 103 | 103 | 103 | 42 | 33 | 40.8% | Jul 2026 – Sep 2026 |
+| Idaho | 103 | 103 | 103 | 44 | 35 | 42.7% | Jul 2026 – Sep 2026 |
 | Illinois | 91 | 91 | 84 | 26 | 20 | 31.0% | Jul 2026 – Sep 2026 |
 | Indiana | 598 | 598 | 588 | 236 | 199 | 40.1% | Jul 2026 – Sep 2026 |
 | Iowa | 21 | 21 | 20 | 2 | 0 | 10.0% | Jul 2026 – Sep 2026 |
@@ -76,16 +76,16 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | South Carolina | 481 | 481 | 474 | 94 | 82 | 19.8% | Jul 2026 – Sep 2026 |
 | South Dakota | 164 | 164 | 164 | 73 | 73 | 44.5% | Jul 2026 – Sep 2026 |
 | Tennessee | 162 | 162 | 154 | 33 | 33 | 21.4% | Jul 2026 – Sep 2026 |
-| Texas | 562 | 562 | 524 | 260 | 229 | 49.6% | Jul 2026 – Sep 2026 |
+| Texas | 562 | 562 | 524 | 261 | 231 | 49.8% | Jul 2026 – Sep 2026 |
 | US Virgin Islands | 64 | 64 | 61 | 3 | 2 | 4.9% | Jul 2026 – Sep 2026 |
 | Utah | 21 | 9 | 21 | 14 | 14 | 66.7% | Jul 2026 – Sep 2026 |
 | Vermont | 15 | 15 | 15 | 4 | 4 | 26.7% | Jul 2026 – Sep 2026 |
 | Virginia | 79 | 79 | 71 | 30 | 28 | 42.3% | Jul 2026 – Sep 2026 |
 | Washington | 713 | 713 | 698 | 149 | 133 | 21.3% | Jul 2026 – Sep 2026 |
-| West Virginia | 217 | 217 | 215 | 86 | 83 | 40.0% | Jul 2026 – Sep 2026 |
+| West Virginia | 217 | 217 | 215 | 88 | 85 | 40.9% | Jul 2026 – Sep 2026 |
 | Wisconsin | 573 | 573 | 560 | 177 | 160 | 31.6% | Jul 2026 – Sep 2026 |
 | Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Jul 2026 – Sep 2026 |
-| **Total** | **65,693** | **65,681** | **63,210** | **26,092** | **22,755** | **41.3%** | — |
+| **Total** | **65,693** | **65,681** | **63,211** | **26,097** | **22,761** | **41.3%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
