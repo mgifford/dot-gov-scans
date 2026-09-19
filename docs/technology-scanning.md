@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-09-18 09:45 UTC — last scan: 2026-09-18_
+_Stats as of 2026-09-19 09:29 UTC — last scan: 2026-09-18_
 
-**538** scan batches run
+**544** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -22,12 +22,12 @@ _Stats as of 2026-09-18 09:45 UTC — last scan: 2026-09-18_
 
 | Country | URLs Scanned | Pages with Detections | Available | Last Scan |
 |---------|-------------|----------------------|-----------|----------|
-| Alabama | 48 | 0 | 48 | 2026-09-11 |
-| Alaska | 34 | 0 | 34 | 2026-09-11 |
-| American Samoa | 7 | 0 | 7 | 2026-09-11 |
-| Arizona | 337 | 0 | 337 | 2026-09-11 |
-| Arkansas | 29 | 0 | 29 | 2026-09-11 |
-| California | 2,495 | 0 | 2,495 | 2026-09-12 |
+| Alabama | 48 | 0 | 48 | 2026-09-18 |
+| Alaska | 34 | 0 | 34 | 2026-09-18 |
+| American Samoa | 7 | 0 | 7 | 2026-09-18 |
+| Arizona | 337 | 0 | 337 | 2026-09-18 |
+| Arkansas | 29 | 0 | 29 | 2026-09-18 |
+| California | 2,495 | 0 | 2,495 | 2026-09-18 |
 | Colorado | 134 | 0 | 134 | 2026-09-11 |
 | Connecticut | 167 | 0 | 167 | 2026-09-11 |
 | DC | 486 | 0 | 486 | 2026-09-11 |

@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-09-18 09:44 UTC — last scan: 2026-09-17_
+_Stats as of 2026-09-19 09:29 UTC — last scan: 2026-09-18_
 
-**316** scan batches run
+**317** scan batches run
 
 **31,518** of **65,681** available pages audited (**48.0%** coverage)
 **31,287** successful audits (**99.3%** of audited)
@@ -54,7 +54,7 @@ _Stats as of 2026-09-18 09:44 UTC — last scan: 2026-09-17_
 | Massachusetts | 153 | 153 | 85 | 88 | 81 | 85 | 2026-09-17 |
 | Michigan | 122 | 122 | 91 | 91 | 87 | 86 | 2026-09-17 |
 | Minnesota | 785 | 785 | 93 | 89 | 86 | 88 | 2026-09-17 |
-| Mississippi | 486 | 486 | 89 | 87 | 89 | 87 | 2026-08-18 |
+| Mississippi | 486 | 486 | 88 | 86 | 88 | 86 | 2026-09-18 |
 | Missouri | 336 | 336 | 91 | 92 | 89 | 89 | 2026-08-18 |
 | Montana | 264 | 264 | 92 | 93 | 85 | 86 | 2026-09-17 |
 | Nebraska | 205 | 205 | 91 | 89 | 84 | 89 | 2026-09-17 |
