@@ -9,12 +9,12 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-09-25 10:11 UTC — last scan: 2026-09-25_
+_Stats as of 2026-09-26 09:51 UTC — last scan: 2026-09-26_
 
-**366** scan batches run
+**372** scan batches run
 
-**32,144** of **65,681** available pages audited (**48.9%** coverage)
-**31,906** successful audits (**99.3%** of audited)
+**32,366** of **65,681** available pages audited (**49.3%** coverage)
+**32,127** successful audits (**99.3%** of audited)
 
 **Overall average Lighthouse scores** (0–100 scale):
 
@@ -38,7 +38,7 @@ _Stats as of 2026-09-25 10:11 UTC — last scan: 2026-09-25_
 | Connecticut | 167 | 167 | 89 | 87 | 83 | 82 | 2026-09-13 |
 | DC | 486 | 486 | 87 | 90 | 68 | 85 | 2026-09-09 |
 | Delaware | 17 | 17 | 86 | 88 | 81 | 90 | 2026-09-11 |
-| Federal | 16,486 | 50,035 | 89 | 90 | 84 | 87 | 2026-09-22 |
+| Federal | 16,708 | 50,035 | 89 | 90 | 84 | 87 | 2026-09-26 |
 | Florida | 140 | 140 | 90 | 88 | 81 | 83 | 2026-09-25 |
 | Georgia | 217 | 217 | 92 | 87 | 86 | 83 | 2026-09-17 |
 | Hawaii | 8 | 8 | 91 | 89 | 52 | 92 | 2026-09-11 |
@@ -57,15 +57,15 @@ _Stats as of 2026-09-25 10:11 UTC — last scan: 2026-09-25_
 | Mississippi | 486 | 486 | 88 | 87 | 89 | 86 | 2026-09-22 |
 | Missouri | 336 | 336 | 92 | 92 | 89 | 89 | 2026-09-20 |
 | Montana | 264 | 264 | 93 | 93 | 85 | 86 | 2026-09-25 |
-| Nebraska | 205 | 205 | 91 | 89 | 84 | 89 | 2026-09-22 |
+| Nebraska | 205 | 205 | 91 | 89 | 84 | 88 | 2026-09-26 |
 | Nevada | 358 | 358 | 88 | 90 | 74 | 82 | 2026-09-25 |
 | New Hampshire | 249 | 249 | 90 | 96 | 92 | 94 | 2026-08-27 |
 | New Jersey | 203 | 203 | 89 | 83 | 82 | 87 | 2026-09-01 |
-| New Mexico | 288 | 288 | 85 | 87 | 86 | 85 | 2026-09-22 |
-| New York | 732 | 732 | 92 | 91 | 87 | 89 | 2026-09-22 |
-| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-09-22 |
+| New Mexico | 288 | 288 | 85 | 87 | 86 | 85 | 2026-09-26 |
+| New York | 732 | 732 | 92 | 91 | 87 | 89 | 2026-09-26 |
+| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-09-26 |
 | North Dakota | 215 | 215 | 93 | 94 | 87 | 89 | 2026-08-27 |
-| Ohio | 388 | 388 | 92 | 90 | 90 | 85 | 2026-09-22 |
+| Ohio | 388 | 388 | 92 | 90 | 90 | 85 | 2026-09-26 |
 | Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-09-25 |
 | Oregon | 163 | 163 | 92 | 87 | 84 | 85 | 2026-09-25 |
 | Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-09-25 |
