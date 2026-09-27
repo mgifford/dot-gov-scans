@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-09-26 09:51 UTC — last scan: 2026-09-25_
+_Stats as of 2026-09-27 10:35 UTC — last scan: 2026-09-26_
 
-**612** scan batches run
+**636** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -28,34 +28,34 @@ _Stats as of 2026-09-26 09:51 UTC — last scan: 2026-09-25_
 | Arizona | 337 | 0 | 337 | 2026-09-25 |
 | Arkansas | 29 | 0 | 29 | 2026-09-25 |
 | California | 2,495 | 0 | 2,495 | 2026-09-25 |
-| Colorado | 134 | 0 | 134 | 2026-09-19 |
-| Connecticut | 167 | 0 | 167 | 2026-09-19 |
-| DC | 486 | 0 | 486 | 2026-09-19 |
-| Delaware | 17 | 0 | 17 | 2026-09-19 |
+| Colorado | 134 | 0 | 134 | 2026-09-26 |
+| Connecticut | 167 | 0 | 167 | 2026-09-26 |
+| DC | 486 | 0 | 486 | 2026-09-26 |
+| Delaware | 17 | 0 | 17 | 2026-09-26 |
 | Federal | 50,035 | 0 | 50,035 | 2026-09-25 |
-| Florida | 140 | 0 | 140 | 2026-09-19 |
-| Georgia | 217 | 0 | 217 | 2026-09-19 |
-| Hawaii | 8 | 0 | 8 | 2026-09-19 |
-| Idaho | 103 | 0 | 103 | 2026-09-19 |
-| Illinois | 91 | 0 | 91 | 2026-09-19 |
-| Indiana | 598 | 0 | 598 | 2026-09-19 |
-| Iowa | 21 | 0 | 21 | 2026-09-19 |
-| Kansas | 194 | 0 | 194 | 2026-09-19 |
+| Florida | 140 | 0 | 140 | 2026-09-26 |
+| Georgia | 217 | 0 | 217 | 2026-09-26 |
+| Hawaii | 8 | 0 | 8 | 2026-09-26 |
+| Idaho | 103 | 0 | 103 | 2026-09-26 |
+| Illinois | 91 | 0 | 91 | 2026-09-26 |
+| Indiana | 598 | 0 | 598 | 2026-09-26 |
+| Iowa | 21 | 0 | 21 | 2026-09-26 |
+| Kansas | 194 | 0 | 194 | 2026-09-26 |
 | Kentucky | 738 | 0 | 738 | 2026-09-20 |
-| Louisiana | 266 | 0 | 266 | 2026-09-19 |
-| Maine | 1 | 0 | 1 | 2026-09-19 |
-| Maryland | 89 | 0 | 89 | 2026-09-19 |
-| Massachusetts | 153 | 0 | 153 | 2026-09-19 |
-| Michigan | 122 | 0 | 122 | 2026-09-19 |
+| Louisiana | 266 | 0 | 266 | 2026-09-26 |
+| Maine | 1 | 0 | 1 | 2026-09-26 |
+| Maryland | 89 | 0 | 89 | 2026-09-26 |
+| Massachusetts | 153 | 0 | 153 | 2026-09-26 |
+| Michigan | 122 | 0 | 122 | 2026-09-26 |
 | Minnesota | 785 | 0 | 785 | 2026-09-20 |
-| Mississippi | 486 | 0 | 486 | 2026-09-19 |
-| Missouri | 336 | 0 | 336 | 2026-09-19 |
+| Mississippi | 486 | 0 | 486 | 2026-09-26 |
+| Missouri | 336 | 0 | 336 | 2026-09-26 |
 | Montana | 264 | 0 | 264 | 2026-09-20 |
-| Nebraska | 205 | 0 | 205 | 2026-09-19 |
-| Nevada | 358 | 0 | 358 | 2026-09-19 |
-| New Hampshire | 249 | 0 | 249 | 2026-09-19 |
-| New Jersey | 203 | 0 | 203 | 2026-09-19 |
-| New Mexico | 288 | 0 | 288 | 2026-09-20 |
+| Nebraska | 205 | 0 | 205 | 2026-09-26 |
+| Nevada | 358 | 0 | 358 | 2026-09-26 |
+| New Hampshire | 249 | 0 | 249 | 2026-09-26 |
+| New Jersey | 203 | 0 | 203 | 2026-09-26 |
+| New Mexico | 288 | 0 | 288 | 2026-09-26 |
 | New York | 732 | 0 | 732 | 2026-09-20 |
 | North Carolina | 292 | 0 | 292 | 2026-09-20 |
 | North Dakota | 215 | 0 | 215 | 2026-09-20 |
