@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-09-28 11:41 UTC — last scan: 2026-09-28_
+_Stats as of 2026-09-29 11:22 UTC — last scan: 2026-09-28_
 
-**404** scan batches run
+**410** scan batches run
 
 **32,766** of **65,681** available pages audited (**49.9%** coverage)
 **32,529** successful audits (**99.3%** of audited)
@@ -20,7 +20,7 @@ _Stats as of 2026-09-28 11:41 UTC — last scan: 2026-09-28_
 
 | Performance | Accessibility | Best Practices | SEO |
 |:-----------:|:-------------:|:--------------:|:---:|
-| 89 | 90 | 84 | 87 |
+| 90 | 90 | 84 | 87 |
 
 ---
 
@@ -58,18 +58,18 @@ _Stats as of 2026-09-28 11:41 UTC — last scan: 2026-09-28_
 | Missouri | 336 | 336 | 92 | 92 | 89 | 89 | 2026-09-20 |
 | Montana | 264 | 264 | 92 | 93 | 85 | 86 | 2026-09-27 |
 | Nebraska | 205 | 205 | 91 | 89 | 84 | 88 | 2026-09-27 |
-| Nevada | 358 | 358 | 88 | 90 | 74 | 82 | 2026-09-27 |
+| Nevada | 358 | 358 | 88 | 90 | 74 | 82 | 2026-09-28 |
 | New Hampshire | 249 | 249 | 90 | 96 | 93 | 94 | 2026-09-27 |
 | New Jersey | 203 | 203 | 90 | 83 | 82 | 87 | 2026-09-27 |
 | New Mexico | 288 | 288 | 85 | 87 | 86 | 85 | 2026-09-27 |
 | New York | 732 | 732 | 92 | 91 | 87 | 89 | 2026-09-27 |
 | North Carolina | 292 | 292 | 91 | 90 | 89 | 88 | 2026-09-27 |
-| North Dakota | 215 | 215 | 91 | 94 | 87 | 89 | 2026-09-27 |
+| North Dakota | 215 | 215 | 91 | 94 | 87 | 89 | 2026-09-28 |
 | Ohio | 388 | 388 | 92 | 90 | 90 | 85 | 2026-09-27 |
-| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-09-27 |
-| Oregon | 163 | 163 | 92 | 87 | 84 | 85 | 2026-09-27 |
-| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-09-27 |
-| Puerto Rico | 496 | 496 | 90 | 88 | 86 | 87 | 2026-09-27 |
+| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-09-28 |
+| Oregon | 163 | 163 | 91 | 87 | 84 | 83 | 2026-09-28 |
+| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-09-28 |
+| Puerto Rico | 496 | 496 | 90 | 87 | 86 | 87 | 2026-09-28 |
 | Rhode Island | 108 | 108 | 91 | 85 | 85 | 83 | 2026-09-27 |
 | South Carolina | 481 | 481 | 92 | 92 | 92 | 88 | 2026-09-27 |
 | South Dakota | 164 | 164 | 88 | 87 | 80 | 87 | 2026-09-28 |
