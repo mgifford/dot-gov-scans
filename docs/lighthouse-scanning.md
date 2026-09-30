@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-09-29 11:22 UTC — last scan: 2026-09-28_
+_Stats as of 2026-09-30 11:10 UTC — last scan: 2026-09-30_
 
-**410** scan batches run
+**417** scan batches run
 
 **32,766** of **65,681** available pages audited (**49.9%** coverage)
 **32,529** successful audits (**99.3%** of audited)
@@ -20,7 +20,7 @@ _Stats as of 2026-09-29 11:22 UTC — last scan: 2026-09-28_
 
 | Performance | Accessibility | Best Practices | SEO |
 |:-----------:|:-------------:|:--------------:|:---:|
-| 90 | 90 | 84 | 87 |
+| 89 | 90 | 84 | 87 |
 
 ---
 
@@ -73,15 +73,15 @@ _Stats as of 2026-09-29 11:22 UTC — last scan: 2026-09-28_
 | Rhode Island | 108 | 108 | 91 | 85 | 85 | 83 | 2026-09-27 |
 | South Carolina | 481 | 481 | 92 | 92 | 92 | 88 | 2026-09-27 |
 | South Dakota | 164 | 164 | 88 | 87 | 80 | 87 | 2026-09-28 |
-| Tennessee | 162 | 162 | 88 | 91 | 79 | 86 | 2026-09-27 |
-| Texas | 562 | 562 | 93 | 90 | 77 | 86 | 2026-09-27 |
-| US Virgin Islands | 64 | 64 | 90 | 86 | 89 | 86 | 2026-09-14 |
-| Utah | 21 | 9 | 95 | 84 | 68 | 74 | 2026-08-30 |
-| Vermont | 15 | 15 | 99 | 79 | 91 | 80 | 2026-08-30 |
+| Tennessee | 162 | 162 | 88 | 91 | 80 | 85 | 2026-09-30 |
+| Texas | 562 | 562 | 92 | 89 | 78 | 86 | 2026-09-30 |
+| US Virgin Islands | 64 | 64 | 89 | 86 | 88 | 86 | 2026-09-30 |
+| Utah | 21 | 9 | 93 | 84 | 68 | 74 | 2026-09-30 |
+| Vermont | 15 | 15 | 99 | 79 | 91 | 80 | 2026-09-30 |
 | Virginia | 79 | 79 | 92 | 85 | 82 | 88 | 2026-09-27 |
 | Washington | 713 | 713 | 91 | 90 | 88 | 87 | 2026-09-27 |
-| West Virginia | 217 | 217 | 91 | 90 | 77 | 91 | 2026-08-30 |
-| Wisconsin | 573 | 573 | 90 | 90 | 85 | 88 | 2026-09-07 |
+| West Virginia | 217 | 217 | 92 | 90 | 78 | 91 | 2026-09-30 |
+| Wisconsin | 573 | 573 | 90 | 90 | 85 | 88 | 2026-09-30 |
 | Wyoming | 30 | 30 | 89 | 87 | 82 | 86 | 2026-09-27 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
