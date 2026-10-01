@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-09-30 11:10 UTC — last scan: 2026-09-30_
+_Stats as of 2026-10-01 11:37 UTC — last scan: 2026-10-01_
 
-**771** scan batches run
+**793** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,297** of **65,693** scanned pages were reachable (**96.4%**)
-**26,463** of **63,297** reachable pages have an accessibility statement (**41.8%**)
-**23,103** pages have the statement link in the footer (**87.3%** of pages with a statement)
+**63,299** of **65,693** scanned pages were reachable (**96.4%**)
+**26,467** of **63,299** reachable pages have an accessibility statement (**41.8%**)
+**23,106** pages have the statement link in the footer (**87.3%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -41,7 +41,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | DC | 486 | 486 | 483 | 311 | 304 | 64.4% | Jul 2026 – Sep 2026 |
 | Delaware | 17 | 17 | 17 | 13 | 13 | 76.5% | Jul 2026 – Sep 2026 |
 | Federal | 50,035 | 50,035 | 48,304 | 20,363 | 17,655 | 42.2% | Jul 2026 – Sep 2026 |
-| Florida | 140 | 140 | 132 | 38 | 38 | 28.8% | Jul 2026 – Sep 2026 |
+| Florida | 140 | 140 | 132 | 38 | 38 | 28.8% | Jul 2026 – Oct 2026 |
 | Georgia | 217 | 217 | 207 | 28 | 24 | 13.5% | Jul 2026 – Sep 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | Jul 2026 – Sep 2026 |
 | Idaho | 103 | 103 | 103 | 44 | 35 | 42.7% | Jul 2026 – Sep 2026 |
@@ -59,33 +59,33 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Mississippi | 486 | 486 | 452 | 66 | 60 | 14.6% | Jul 2026 – Sep 2026 |
 | Missouri | 336 | 336 | 325 | 212 | 203 | 65.2% | Jul 2026 – Sep 2026 |
 | Montana | 264 | 264 | 249 | 87 | 72 | 34.9% | Jul 2026 – Sep 2026 |
-| Nebraska | 205 | 205 | 201 | 40 | 37 | 19.9% | Jul 2026 – Sep 2026 |
+| Nebraska | 205 | 205 | 201 | 40 | 37 | 19.9% | Jul 2026 – Oct 2026 |
 | Nevada | 358 | 358 | 353 | 221 | 216 | 62.6% | Jul 2026 – Sep 2026 |
 | New Hampshire | 249 | 249 | 240 | 169 | 158 | 70.4% | Jul 2026 – Sep 2026 |
-| New Jersey | 203 | 203 | 200 | 35 | 35 | 17.5% | Jul 2026 – Sep 2026 |
+| New Jersey | 203 | 203 | 200 | 36 | 36 | 18.0% | Jul 2026 – Sep 2026 |
 | New Mexico | 288 | 288 | 265 | 101 | 86 | 38.1% | Jul 2026 – Sep 2026 |
-| New York | 732 | 732 | 664 | 371 | 346 | 55.9% | Jul 2026 – Sep 2026 |
+| New York | 732 | 732 | 666 | 372 | 346 | 55.9% | Jul 2026 – Sep 2026 |
 | North Carolina | 292 | 292 | 287 | 168 | 154 | 58.5% | Jul 2026 – Sep 2026 |
 | North Dakota | 215 | 215 | 205 | 138 | 137 | 67.3% | Jul 2026 – Sep 2026 |
 | Ohio | 388 | 388 | 357 | 113 | 35 | 31.7% | Jul 2026 – Sep 2026 |
 | Oklahoma | 160 | 160 | 147 | 44 | 41 | 29.9% | Jul 2026 – Sep 2026 |
 | Oregon | 163 | 163 | 150 | 24 | 15 | 16.0% | Jul 2026 – Sep 2026 |
-| Pennsylvania | 354 | 354 | 335 | 76 | 68 | 22.7% | Jul 2026 – Sep 2026 |
+| Pennsylvania | 354 | 354 | 335 | 76 | 68 | 22.7% | Jul 2026 – Oct 2026 |
 | Puerto Rico | 496 | 496 | 473 | 130 | 20 | 27.5% | Jul 2026 – Sep 2026 |
 | Rhode Island | 108 | 108 | 107 | 24 | 24 | 22.4% | Jul 2026 – Sep 2026 |
 | South Carolina | 481 | 481 | 474 | 94 | 82 | 19.8% | Jul 2026 – Sep 2026 |
 | South Dakota | 164 | 164 | 164 | 73 | 73 | 44.5% | Jul 2026 – Sep 2026 |
 | Tennessee | 162 | 162 | 156 | 34 | 34 | 21.8% | Jul 2026 – Sep 2026 |
-| Texas | 562 | 562 | 524 | 262 | 232 | 50.0% | Jul 2026 – Sep 2026 |
+| Texas | 562 | 562 | 524 | 263 | 233 | 50.2% | Jul 2026 – Oct 2026 |
 | US Virgin Islands | 64 | 64 | 61 | 3 | 2 | 4.9% | Jul 2026 – Sep 2026 |
 | Utah | 21 | 9 | 21 | 14 | 14 | 66.7% | Jul 2026 – Sep 2026 |
-| Vermont | 15 | 15 | 15 | 4 | 4 | 26.7% | Jul 2026 – Sep 2026 |
+| Vermont | 15 | 15 | 15 | 5 | 5 | 33.3% | Jul 2026 – Sep 2026 |
 | Virginia | 79 | 79 | 71 | 30 | 28 | 42.3% | Jul 2026 – Sep 2026 |
-| Washington | 713 | 713 | 698 | 155 | 138 | 22.2% | Jul 2026 – Sep 2026 |
-| West Virginia | 217 | 217 | 215 | 92 | 87 | 42.8% | Jul 2026 – Sep 2026 |
-| Wisconsin | 573 | 573 | 560 | 177 | 160 | 31.6% | Jul 2026 – Sep 2026 |
-| Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Jul 2026 – Sep 2026 |
-| **Total** | **65,693** | **65,681** | **63,297** | **26,463** | **23,103** | **41.8%** | — |
+| Washington | 713 | 713 | 698 | 155 | 138 | 22.2% | Jul 2026 – Oct 2026 |
+| West Virginia | 217 | 217 | 215 | 92 | 87 | 42.8% | Jul 2026 – Oct 2026 |
+| Wisconsin | 573 | 573 | 560 | 177 | 160 | 31.6% | Jul 2026 – Oct 2026 |
+| Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Jul 2026 – Oct 2026 |
+| **Total** | **65,693** | **65,681** | **63,299** | **26,467** | **23,106** | **41.8%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
