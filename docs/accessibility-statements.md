@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-10-02 11:06 UTC — last scan: 2026-10-02_
+_Stats as of 2026-10-03 10:24 UTC — last scan: 2026-10-03_
 
-**803** scan batches run
+**809** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,314** of **65,693** scanned pages were reachable (**96.4%**)
-**26,476** of **63,314** reachable pages have an accessibility statement (**41.8%**)
-**23,118** pages have the statement link in the footer (**87.3%** of pages with a statement)
+**63,319** of **65,693** scanned pages were reachable (**96.4%**)
+**26,486** of **63,319** reachable pages have an accessibility statement (**41.8%**)
+**23,131** pages have the statement link in the footer (**87.3%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -35,12 +35,12 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | American Samoa | 7 | 7 | 7 | 2 | 0 | 28.6% | Jul 2026 – Sep 2026 |
 | Arizona | 337 | 337 | 332 | 40 | 28 | 12.0% | Jul 2026 – Sep 2026 |
 | Arkansas | 29 | 29 | 26 | 3 | 3 | 11.5% | Jul 2026 – Sep 2026 |
-| California | 2,495 | 2,495 | 2,381 | 1,294 | 1,228 | 54.3% | Jul 2026 – Oct 2026 |
+| California | 2,495 | 2,495 | 2,384 | 1,296 | 1,230 | 54.4% | Jul 2026 – Oct 2026 |
 | Colorado | 134 | 134 | 127 | 66 | 58 | 52.0% | Jul 2026 – Sep 2026 |
 | Connecticut | 167 | 167 | 145 | 29 | 29 | 20.0% | Jul 2026 – Sep 2026 |
 | DC | 486 | 486 | 483 | 311 | 304 | 64.4% | Jul 2026 – Oct 2026 |
 | Delaware | 17 | 17 | 17 | 13 | 13 | 76.5% | Jul 2026 – Sep 2026 |
-| Federal | 50,035 | 50,035 | 48,309 | 20,366 | 17,658 | 42.2% | Jul 2026 – Oct 2026 |
+| Federal | 50,035 | 50,035 | 48,311 | 20,374 | 17,669 | 42.2% | Jul 2026 – Oct 2026 |
 | Florida | 140 | 140 | 132 | 38 | 38 | 28.8% | Jul 2026 – Oct 2026 |
 | Georgia | 217 | 217 | 207 | 28 | 24 | 13.5% | Jul 2026 – Sep 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | Jul 2026 – Sep 2026 |
@@ -85,7 +85,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | West Virginia | 217 | 217 | 215 | 92 | 87 | 42.8% | Jul 2026 – Oct 2026 |
 | Wisconsin | 573 | 573 | 560 | 177 | 160 | 31.6% | Jul 2026 – Oct 2026 |
 | Wyoming | 30 | 30 | 22 | 0 | 0 | 0.0% | Jul 2026 – Oct 2026 |
-| **Total** | **65,693** | **65,681** | **63,314** | **26,476** | **23,118** | **41.8%** | — |
+| **Total** | **65,693** | **65,681** | **63,319** | **26,486** | **23,131** | **41.8%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
