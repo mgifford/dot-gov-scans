@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-10-05 12:15 UTC — last scan: 2026-10-05_
+_Stats as of 2026-10-06 12:01 UTC — last scan: 2026-10-05_
 
-**736** scan batches run
+**740** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -41,7 +41,7 @@ _Stats as of 2026-10-05 12:15 UTC — last scan: 2026-10-05_
 | Indiana | 598 | 0 | 598 | 2026-10-03 |
 | Iowa | 21 | 0 | 21 | 2026-10-03 |
 | Kansas | 194 | 0 | 194 | 2026-10-03 |
-| Kentucky | 738 | 0 | 738 | 2026-10-04 |
+| Kentucky | 738 | 0 | 738 | 2026-10-05 |
 | Louisiana | 266 | 0 | 266 | 2026-10-03 |
 | Maine | 1 | 0 | 1 | 2026-10-03 |
 | Maryland | 89 | 0 | 89 | 2026-10-03 |
@@ -55,7 +55,7 @@ _Stats as of 2026-10-05 12:15 UTC — last scan: 2026-10-05_
 | Nevada | 358 | 0 | 358 | 2026-10-03 |
 | New Hampshire | 249 | 0 | 249 | 2026-10-03 |
 | New Jersey | 203 | 0 | 203 | 2026-10-03 |
-| New Mexico | 288 | 0 | 288 | 2026-10-03 |
+| New Mexico | 288 | 0 | 288 | 2026-10-05 |
 | New York | 732 | 0 | 732 | 2026-10-05 |
 | North Carolina | 292 | 0 | 292 | 2026-10-04 |
 | North Dakota | 215 | 0 | 215 | 2026-10-04 |
@@ -75,7 +75,7 @@ _Stats as of 2026-10-05 12:15 UTC — last scan: 2026-10-05_
 | Virginia | 79 | 0 | 79 | 2026-10-04 |
 | Washington | 713 | 0 | 713 | 2026-10-04 |
 | West Virginia | 217 | 0 | 217 | 2026-10-04 |
-| Wisconsin | 573 | 0 | 573 | 2026-10-04 |
+| Wisconsin | 573 | 0 | 573 | 2026-10-05 |
 | Wyoming | 30 | 0 | 30 | 2026-10-04 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
