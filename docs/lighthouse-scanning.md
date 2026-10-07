@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-10-06 12:01 UTC — last scan: 2026-10-02_
+_Stats as of 2026-10-07 11:46 UTC — last scan: 2026-10-07_
 
-**494** scan batches run
+**499** scan batches run
 
 **33,338** of **65,681** available pages audited (**50.8%** coverage)
 **33,101** successful audits (**99.3%** of audited)
@@ -28,10 +28,10 @@ _Stats as of 2026-10-06 12:01 UTC — last scan: 2026-10-02_
 
 | Country | Audited | Available | Perf | A11y | Best Practices | SEO | Last Scan |
 |---------|--------:|----------:|:----:|:----:|:--------------:|:---:|-----------|
-| Alabama | 48 | 48 | 91 | 85 | 86 | 82 | 2026-09-08 |
-| Alaska | 34 | 34 | 91 | 88 | 86 | 87 | 2026-09-07 |
-| American Samoa | 7 | 7 | 99 | 96 | 100 | 91 | 2026-09-07 |
-| Arizona | 337 | 337 | 94 | 92 | 90 | 83 | 2026-09-07 |
+| Alabama | 48 | 48 | 91 | 84 | 86 | 82 | 2026-10-07 |
+| Alaska | 34 | 34 | 90 | 88 | 85 | 86 | 2026-10-07 |
+| American Samoa | 7 | 7 | 99 | 96 | 100 | 91 | 2026-10-07 |
+| Arizona | 337 | 337 | 93 | 92 | 90 | 83 | 2026-10-07 |
 | Arkansas | 29 | 29 | 97 | 93 | 94 | 90 | 2026-10-02 |
 | California | 2,495 | 2,495 | 87 | 91 | 85 | 89 | 2026-10-02 |
 | Colorado | 134 | 134 | 88 | 90 | 83 | 87 | 2026-10-02 |
@@ -81,7 +81,7 @@ _Stats as of 2026-10-06 12:01 UTC — last scan: 2026-10-02_
 | Virginia | 79 | 79 | 94 | 86 | 82 | 88 | 2026-10-02 |
 | Washington | 713 | 713 | 92 | 90 | 88 | 87 | 2026-10-02 |
 | West Virginia | 217 | 217 | 92 | 90 | 78 | 91 | 2026-09-30 |
-| Wisconsin | 573 | 573 | 90 | 90 | 85 | 88 | 2026-09-30 |
+| Wisconsin | 573 | 573 | 90 | 90 | 85 | 88 | 2026-10-07 |
 | Wyoming | 30 | 30 | 92 | 87 | 82 | 86 | 2026-10-02 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
