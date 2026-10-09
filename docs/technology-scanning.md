@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-10-08 12:01 UTC — last scan: 2026-10-08_
+_Stats as of 2026-10-09 11:53 UTC — last scan: 2026-10-08_
 
-**746** scan batches run
+**748** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
