@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-10-09 11:53 UTC — last scan: 2026-10-08_
+_Stats as of 2026-10-10 11:10 UTC — last scan: 2026-10-09_
 
-**748** scan batches run
+**749** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -32,7 +32,7 @@ _Stats as of 2026-10-09 11:53 UTC — last scan: 2026-10-08_
 | Connecticut | 167 | 0 | 167 | 2026-10-03 |
 | DC | 486 | 0 | 486 | 2026-10-03 |
 | Delaware | 17 | 0 | 17 | 2026-10-03 |
-| Federal | 50,035 | 0 | 50,035 | 2026-10-08 |
+| Federal | 50,035 | 0 | 50,035 | 2026-10-09 |
 | Florida | 140 | 0 | 140 | 2026-10-03 |
 | Georgia | 217 | 0 | 217 | 2026-10-03 |
 | Hawaii | 8 | 0 | 8 | 2026-10-03 |
