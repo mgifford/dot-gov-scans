@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-10-12 13:09 UTC — last scan: 2026-10-12_
+_Stats as of 2026-10-13 12:42 UTC — last scan: 2026-10-13_
 
-**637** scan batches run
+**638** scan batches run
 
 **33,960** of **65,681** available pages audited (**51.7%** coverage)
 **33,716** successful audits (**99.3%** of audited)
@@ -38,7 +38,7 @@ _Stats as of 2026-10-12 13:09 UTC — last scan: 2026-10-12_
 | Connecticut | 167 | 167 | 90 | 87 | 83 | 82 | 2026-10-09 |
 | DC | 486 | 486 | 87 | 90 | 69 | 84 | 2026-10-09 |
 | Delaware | 17 | 17 | 87 | 89 | 82 | 90 | 2026-10-11 |
-| Federal | 18,302 | 50,035 | 89 | 90 | 85 | 87 | 2026-10-12 |
+| Federal | 18,302 | 50,035 | 89 | 90 | 85 | 87 | 2026-10-13 |
 | Florida | 140 | 140 | 90 | 88 | 81 | 83 | 2026-10-12 |
 | Georgia | 217 | 217 | 92 | 87 | 86 | 83 | 2026-10-12 |
 | Hawaii | 8 | 8 | 92 | 89 | 52 | 92 | 2026-10-11 |
