@@ -1,0 +1,16 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    ignore:
+      # github-pages (232), used to mirror the GitHub Pages Jekyll build
+      # environment, pins jekyll-remote-theme (= 0.4.3), which in turn
+      # requires "rubyzip (>= 1.3.0, < 3.0)". The security fix for rubyzip
+      # (>= 3.4.0) can't be installed without breaking that pin, and
+      # github-pages is maintained by GitHub to match its Pages
+      # infrastructure, so it can't be bumped independently. Ignore rubyzip
+      # updates until GitHub releases a github-pages version compatible with
+      # a patched rubyzip.
+      - dependency-name: "rubyzip"
