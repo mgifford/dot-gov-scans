@@ -8,6 +8,12 @@ url: "https://mgifford.github.io"
 # Theme - minima is the default GitHub Pages supported theme
 theme: minima
 
+# Plugins used by the site (see Gemfile's :jekyll_plugins group)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Navigation links shown in the site header
 header_pages:
   - index.md
