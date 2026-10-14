@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-10-13 12:42 UTC — last scan: 2026-10-13_
+_Stats as of 2026-10-14 10:10 UTC — last scan: 2026-10-14_
 
-**811** scan batches run
+**818** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -32,7 +32,7 @@ _Stats as of 2026-10-13 12:42 UTC — last scan: 2026-10-13_
 | Connecticut | 167 | 0 | 167 | 2026-10-10 |
 | DC | 486 | 0 | 486 | 2026-10-10 |
 | Delaware | 17 | 0 | 17 | 2026-10-10 |
-| Federal | 50,035 | 0 | 50,035 | 2026-10-13 |
+| Federal | 50,035 | 0 | 50,035 | 2026-10-14 |
 | Florida | 140 | 0 | 140 | 2026-10-10 |
 | Georgia | 217 | 0 | 217 | 2026-10-10 |
 | Hawaii | 8 | 0 | 8 | 2026-10-10 |
@@ -56,7 +56,7 @@ _Stats as of 2026-10-13 12:42 UTC — last scan: 2026-10-13_
 | New Hampshire | 249 | 0 | 249 | 2026-10-10 |
 | New Jersey | 203 | 0 | 203 | 2026-10-10 |
 | New Mexico | 288 | 0 | 288 | 2026-10-13 |
-| New York | 732 | 0 | 732 | 2026-10-11 |
+| New York | 732 | 0 | 732 | 2026-10-13 |
 | North Carolina | 292 | 0 | 292 | 2026-10-12 |
 | North Dakota | 215 | 0 | 215 | 2026-10-12 |
 | Ohio | 388 | 0 | 388 | 2026-10-12 |
@@ -73,7 +73,7 @@ _Stats as of 2026-10-13 12:42 UTC — last scan: 2026-10-13_
 | Utah | 21 | 0 | 9 | 2026-10-12 |
 | Vermont | 15 | 0 | 15 | 2026-10-12 |
 | Virginia | 79 | 0 | 79 | 2026-10-12 |
-| Washington | 713 | 0 | 713 | 2026-10-12 |
+| Washington | 713 | 0 | 713 | 2026-10-13 |
 | West Virginia | 217 | 0 | 217 | 2026-10-12 |
 | Wisconsin | 573 | 0 | 573 | 2026-10-13 |
 | Wyoming | 30 | 0 | 30 | 2026-10-12 |
