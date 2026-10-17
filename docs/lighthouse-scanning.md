@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-10-16 09:47 UTC — last scan: 2026-10-15_
+_Stats as of 2026-10-17 09:20 UTC — last scan: 2026-10-17_
 
-**691** scan batches run
+**703** scan batches run
 
 **33,960** of **65,681** available pages audited (**51.7%** coverage)
 **33,716** successful audits (**99.3%** of audited)
@@ -32,15 +32,15 @@ _Stats as of 2026-10-16 09:47 UTC — last scan: 2026-10-15_
 | Alaska | 34 | 34 | 90 | 88 | 85 | 86 | 2026-10-07 |
 | American Samoa | 7 | 7 | 99 | 96 | 100 | 91 | 2026-10-07 |
 | Arizona | 337 | 337 | 93 | 92 | 90 | 83 | 2026-10-07 |
-| Arkansas | 29 | 29 | 96 | 93 | 94 | 90 | 2026-10-14 |
-| California | 2,495 | 2,495 | 87 | 91 | 85 | 89 | 2026-10-14 |
+| Arkansas | 29 | 29 | 96 | 93 | 94 | 90 | 2026-10-17 |
+| California | 2,495 | 2,495 | 87 | 91 | 85 | 89 | 2026-10-17 |
 | Colorado | 134 | 134 | 87 | 90 | 83 | 86 | 2026-10-14 |
 | Connecticut | 167 | 167 | 90 | 88 | 83 | 82 | 2026-10-13 |
 | DC | 486 | 486 | 87 | 90 | 69 | 84 | 2026-10-09 |
 | Delaware | 17 | 17 | 87 | 89 | 82 | 90 | 2026-10-11 |
 | Federal | 18,302 | 50,035 | 89 | 90 | 85 | 87 | 2026-10-15 |
 | Florida | 140 | 140 | 90 | 88 | 81 | 83 | 2026-10-14 |
-| Georgia | 217 | 217 | 92 | 87 | 86 | 83 | 2026-10-14 |
+| Georgia | 217 | 217 | 92 | 87 | 86 | 83 | 2026-10-17 |
 | Hawaii | 8 | 8 | 92 | 89 | 52 | 92 | 2026-10-11 |
 | Idaho | 103 | 103 | 89 | 87 | 86 | 88 | 2026-10-11 |
 | Illinois | 91 | 91 | 91 | 87 | 81 | 87 | 2026-10-11 |
@@ -66,23 +66,23 @@ _Stats as of 2026-10-16 09:47 UTC — last scan: 2026-10-15_
 | North Carolina | 292 | 292 | 91 | 90 | 89 | 88 | 2026-10-15 |
 | North Dakota | 215 | 215 | 91 | 94 | 87 | 89 | 2026-10-01 |
 | Ohio | 388 | 388 | 92 | 90 | 90 | 85 | 2026-10-15 |
-| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-10-14 |
-| Oregon | 163 | 163 | 91 | 87 | 84 | 83 | 2026-10-14 |
-| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-10-14 |
-| Puerto Rico | 496 | 496 | 90 | 88 | 86 | 88 | 2026-10-14 |
+| Oklahoma | 160 | 160 | 92 | 89 | 83 | 82 | 2026-10-17 |
+| Oregon | 163 | 163 | 91 | 87 | 84 | 83 | 2026-10-17 |
+| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-10-17 |
+| Puerto Rico | 496 | 496 | 90 | 88 | 86 | 88 | 2026-10-17 |
 | Rhode Island | 108 | 108 | 91 | 85 | 85 | 83 | 2026-09-27 |
 | South Carolina | 481 | 481 | 93 | 92 | 91 | 88 | 2026-10-01 |
 | South Dakota | 164 | 164 | 88 | 87 | 80 | 87 | 2026-10-01 |
-| Tennessee | 162 | 162 | 88 | 91 | 80 | 86 | 2026-10-14 |
-| Texas | 562 | 562 | 92 | 90 | 77 | 86 | 2026-10-14 |
+| Tennessee | 162 | 162 | 88 | 91 | 80 | 86 | 2026-10-17 |
+| Texas | 562 | 562 | 92 | 90 | 77 | 86 | 2026-10-17 |
 | US Virgin Islands | 64 | 64 | 89 | 86 | 88 | 86 | 2026-10-15 |
 | Utah | 21 | 9 | 93 | 84 | 68 | 74 | 2026-09-30 |
 | Vermont | 15 | 15 | 99 | 79 | 91 | 80 | 2026-09-30 |
-| Virginia | 79 | 79 | 94 | 86 | 82 | 88 | 2026-10-14 |
-| Washington | 713 | 713 | 91 | 91 | 88 | 87 | 2026-10-14 |
+| Virginia | 79 | 79 | 94 | 86 | 82 | 88 | 2026-10-17 |
+| Washington | 713 | 713 | 91 | 91 | 88 | 87 | 2026-10-17 |
 | West Virginia | 217 | 217 | 92 | 90 | 78 | 91 | 2026-09-30 |
 | Wisconsin | 573 | 573 | 90 | 90 | 85 | 88 | 2026-10-13 |
-| Wyoming | 30 | 30 | 92 | 87 | 82 | 86 | 2026-10-14 |
+| Wyoming | 30 | 30 | 92 | 87 | 82 | 86 | 2026-10-17 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
