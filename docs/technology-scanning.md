@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-10-19 10:44 UTC — last scan: 2026-10-19_
+_Stats as of 2026-10-20 10:02 UTC — last scan: 2026-10-20_
 
-**860** scan batches run
+**881** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -47,36 +47,36 @@ _Stats as of 2026-10-19 10:44 UTC — last scan: 2026-10-19_
 | Maryland | 89 | 0 | 89 | 2026-10-17 |
 | Massachusetts | 153 | 0 | 153 | 2026-10-17 |
 | Michigan | 122 | 0 | 122 | 2026-10-17 |
-| Minnesota | 785 | 0 | 785 | 2026-10-12 |
+| Minnesota | 785 | 0 | 785 | 2026-10-20 |
 | Mississippi | 486 | 0 | 486 | 2026-10-17 |
 | Missouri | 336 | 0 | 336 | 2026-10-17 |
-| Montana | 264 | 0 | 264 | 2026-10-12 |
+| Montana | 264 | 0 | 264 | 2026-10-20 |
 | Nebraska | 205 | 0 | 205 | 2026-10-17 |
 | Nevada | 358 | 0 | 358 | 2026-10-17 |
 | New Hampshire | 249 | 0 | 249 | 2026-10-17 |
 | New Jersey | 203 | 0 | 203 | 2026-10-17 |
 | New Mexico | 288 | 0 | 288 | 2026-10-17 |
 | New York | 732 | 0 | 732 | 2026-10-19 |
-| North Carolina | 292 | 0 | 292 | 2026-10-12 |
-| North Dakota | 215 | 0 | 215 | 2026-10-12 |
-| Ohio | 388 | 0 | 388 | 2026-10-12 |
-| Oklahoma | 160 | 0 | 160 | 2026-10-12 |
-| Oregon | 163 | 0 | 163 | 2026-10-12 |
-| Pennsylvania | 354 | 0 | 354 | 2026-10-12 |
-| Puerto Rico | 496 | 0 | 496 | 2026-10-12 |
-| Rhode Island | 108 | 0 | 108 | 2026-10-12 |
-| South Carolina | 481 | 0 | 481 | 2026-10-12 |
-| South Dakota | 164 | 0 | 164 | 2026-10-12 |
-| Tennessee | 162 | 0 | 162 | 2026-10-12 |
-| Texas | 562 | 0 | 562 | 2026-10-12 |
-| US Virgin Islands | 64 | 0 | 64 | 2026-10-12 |
-| Utah | 21 | 0 | 9 | 2026-10-12 |
-| Vermont | 15 | 0 | 15 | 2026-10-12 |
-| Virginia | 79 | 0 | 79 | 2026-10-12 |
+| North Carolina | 292 | 0 | 292 | 2026-10-20 |
+| North Dakota | 215 | 0 | 215 | 2026-10-20 |
+| Ohio | 388 | 0 | 388 | 2026-10-20 |
+| Oklahoma | 160 | 0 | 160 | 2026-10-20 |
+| Oregon | 163 | 0 | 163 | 2026-10-20 |
+| Pennsylvania | 354 | 0 | 354 | 2026-10-20 |
+| Puerto Rico | 496 | 0 | 496 | 2026-10-20 |
+| Rhode Island | 108 | 0 | 108 | 2026-10-20 |
+| South Carolina | 481 | 0 | 481 | 2026-10-20 |
+| South Dakota | 164 | 0 | 164 | 2026-10-20 |
+| Tennessee | 162 | 0 | 162 | 2026-10-20 |
+| Texas | 562 | 0 | 562 | 2026-10-20 |
+| US Virgin Islands | 64 | 0 | 64 | 2026-10-20 |
+| Utah | 21 | 0 | 9 | 2026-10-20 |
+| Vermont | 15 | 0 | 15 | 2026-10-20 |
+| Virginia | 79 | 0 | 79 | 2026-10-20 |
 | Washington | 713 | 0 | 713 | 2026-10-13 |
-| West Virginia | 217 | 0 | 217 | 2026-10-12 |
-| Wisconsin | 573 | 0 | 573 | 2026-10-13 |
-| Wyoming | 30 | 0 | 30 | 2026-10-12 |
+| West Virginia | 217 | 0 | 217 | 2026-10-20 |
+| Wisconsin | 573 | 0 | 573 | 2026-10-20 |
+| Wyoming | 30 | 0 | 30 | 2026-10-20 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 
