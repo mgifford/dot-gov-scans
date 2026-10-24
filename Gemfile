@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "3.4.7"
 
-gem "jekyll", "~> 3.10"
+gem "jekyll", "~> 4.4"
 gem "minima", "~> 2.5"
 gem "kramdown-parser-gfm", "~> 1.1"
 
