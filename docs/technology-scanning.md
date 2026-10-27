@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-10-26 11:05 UTC — last scan: 2026-10-25_
+_Stats as of 2026-10-27 10:31 UTC — last scan: 2026-10-26_
 
-**931** scan batches run
+**932** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -56,7 +56,7 @@ _Stats as of 2026-10-26 11:05 UTC — last scan: 2026-10-25_
 | New Hampshire | 249 | 0 | 249 | 2026-10-25 |
 | New Jersey | 203 | 0 | 203 | 2026-10-25 |
 | New Mexico | 288 | 0 | 288 | 2026-10-25 |
-| New York | 732 | 0 | 732 | 2026-10-20 |
+| New York | 732 | 0 | 732 | 2026-10-26 |
 | North Carolina | 292 | 0 | 292 | 2026-10-20 |
 | North Dakota | 215 | 0 | 215 | 2026-10-20 |
 | Ohio | 388 | 0 | 388 | 2026-10-20 |
