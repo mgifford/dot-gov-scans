@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-11-07 11:43 UTC — last scan: 2026-11-07_
+_Stats as of 2026-11-08 11:55 UTC — last scan: 2026-11-08_
 
-**1,057** scan batches run
+**1,075** scan batches run
 
 **35,835** of **65,681** available pages audited (**54.6%** coverage)
 **35,589** successful audits (**99.3%** of audited)
@@ -32,8 +32,8 @@ _Stats as of 2026-11-07 11:43 UTC — last scan: 2026-11-07_
 | Alaska | 34 | 34 | 91 | 88 | 86 | 85 | 2026-11-07 |
 | American Samoa | 7 | 7 | 99 | 96 | 100 | 91 | 2026-11-07 |
 | Arizona | 337 | 337 | 93 | 93 | 91 | 82 | 2026-11-07 |
-| Arkansas | 29 | 29 | 96 | 93 | 94 | 90 | 2026-11-02 |
-| California | 2,495 | 2,495 | 87 | 91 | 85 | 89 | 2026-11-02 |
+| Arkansas | 29 | 29 | 96 | 94 | 94 | 89 | 2026-11-08 |
+| California | 2,495 | 2,495 | 88 | 91 | 85 | 89 | 2026-11-08 |
 | Colorado | 134 | 134 | 87 | 90 | 83 | 86 | 2026-11-07 |
 | Connecticut | 167 | 167 | 90 | 88 | 83 | 82 | 2026-10-13 |
 | DC | 486 | 486 | 87 | 90 | 69 | 84 | 2026-10-30 |
@@ -56,33 +56,33 @@ _Stats as of 2026-11-07 11:43 UTC — last scan: 2026-11-07_
 | Minnesota | 785 | 785 | 92 | 89 | 86 | 88 | 2026-11-07 |
 | Mississippi | 486 | 486 | 89 | 87 | 89 | 86 | 2026-10-22 |
 | Missouri | 336 | 336 | 92 | 92 | 89 | 89 | 2026-10-20 |
-| Montana | 264 | 264 | 92 | 93 | 85 | 86 | 2026-11-02 |
-| Nebraska | 205 | 205 | 91 | 89 | 84 | 88 | 2026-11-02 |
+| Montana | 264 | 264 | 92 | 93 | 85 | 86 | 2026-11-07 |
+| Nebraska | 205 | 205 | 91 | 89 | 84 | 88 | 2026-11-07 |
 | Nevada | 358 | 358 | 89 | 90 | 75 | 82 | 2026-11-01 |
 | New Hampshire | 249 | 249 | 91 | 96 | 93 | 93 | 2026-10-28 |
 | New Jersey | 203 | 203 | 91 | 83 | 82 | 87 | 2026-11-07 |
-| New Mexico | 288 | 288 | 85 | 87 | 86 | 85 | 2026-11-02 |
-| New York | 732 | 732 | 92 | 90 | 88 | 89 | 2026-11-02 |
-| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-11-02 |
+| New Mexico | 288 | 288 | 85 | 87 | 87 | 85 | 2026-11-07 |
+| New York | 732 | 732 | 92 | 90 | 88 | 89 | 2026-11-07 |
+| North Carolina | 292 | 292 | 91 | 91 | 89 | 88 | 2026-11-07 |
 | North Dakota | 215 | 215 | 92 | 94 | 87 | 89 | 2026-11-01 |
-| Ohio | 388 | 388 | 92 | 91 | 90 | 85 | 2026-11-02 |
-| Oklahoma | 160 | 160 | 91 | 89 | 83 | 82 | 2026-11-02 |
-| Oregon | 163 | 163 | 91 | 87 | 84 | 83 | 2026-11-02 |
-| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-11-02 |
-| Puerto Rico | 496 | 496 | 90 | 87 | 85 | 87 | 2026-11-02 |
+| Ohio | 388 | 388 | 92 | 91 | 90 | 85 | 2026-11-07 |
+| Oklahoma | 160 | 160 | 91 | 89 | 83 | 82 | 2026-11-07 |
+| Oregon | 163 | 163 | 91 | 87 | 84 | 83 | 2026-11-07 |
+| Pennsylvania | 354 | 354 | 92 | 85 | 85 | 82 | 2026-11-07 |
+| Puerto Rico | 496 | 496 | 91 | 88 | 86 | 88 | 2026-11-07 |
 | Rhode Island | 108 | 108 | 92 | 85 | 85 | 83 | 2026-10-27 |
 | South Carolina | 481 | 481 | 92 | 92 | 91 | 88 | 2026-11-01 |
 | South Dakota | 164 | 164 | 88 | 87 | 80 | 87 | 2026-10-31 |
-| Tennessee | 162 | 162 | 89 | 91 | 80 | 86 | 2026-11-02 |
-| Texas | 562 | 562 | 92 | 90 | 77 | 86 | 2026-11-02 |
+| Tennessee | 162 | 162 | 89 | 91 | 80 | 86 | 2026-11-07 |
+| Texas | 562 | 562 | 92 | 90 | 77 | 86 | 2026-11-07 |
 | US Virgin Islands | 64 | 64 | 89 | 87 | 88 | 86 | 2026-10-30 |
 | Utah | 21 | 9 | 92 | 84 | 68 | 74 | 2026-10-30 |
 | Vermont | 15 | 15 | 98 | 79 | 90 | 80 | 2026-10-30 |
-| Virginia | 79 | 79 | 93 | 87 | 82 | 88 | 2026-11-02 |
-| Washington | 713 | 713 | 92 | 90 | 88 | 87 | 2026-11-02 |
+| Virginia | 79 | 79 | 93 | 87 | 82 | 88 | 2026-11-07 |
+| Washington | 713 | 713 | 92 | 90 | 88 | 87 | 2026-11-07 |
 | West Virginia | 217 | 217 | 92 | 91 | 78 | 91 | 2026-10-30 |
-| Wisconsin | 573 | 573 | 90 | 91 | 85 | 88 | 2026-10-30 |
-| Wyoming | 30 | 30 | 92 | 88 | 81 | 86 | 2026-11-02 |
+| Wisconsin | 573 | 573 | 91 | 91 | 85 | 88 | 2026-11-08 |
+| Wyoming | 30 | 30 | 92 | 88 | 81 | 86 | 2026-11-08 |
 
 > Hover or focus any non-zero Audited count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country. Scores are averages across all successfully audited URLs, displayed as 0–100 (Lighthouse stores scores as 0.0–1.0 internally).
 
