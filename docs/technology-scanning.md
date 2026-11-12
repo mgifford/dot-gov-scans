@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-11-11 12:42 UTC — last scan: 2026-11-10_
+_Stats as of 2026-11-12 13:45 UTC — last scan: 2026-11-12_
 
-**1,077** scan batches run
+**1,104** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -27,12 +27,12 @@ _Stats as of 2026-11-11 12:42 UTC — last scan: 2026-11-10_
 | American Samoa | 7 | 0 | 7 | 2026-11-08 |
 | Arizona | 337 | 0 | 337 | 2026-11-08 |
 | Arkansas | 29 | 0 | 29 | 2026-11-08 |
-| California | 2,495 | 0 | 2,495 | 2026-11-08 |
+| California | 2,495 | 0 | 2,495 | 2026-11-12 |
 | Colorado | 134 | 0 | 134 | 2026-11-08 |
 | Connecticut | 167 | 0 | 167 | 2026-11-08 |
 | DC | 486 | 0 | 486 | 2026-11-08 |
 | Delaware | 17 | 0 | 17 | 2026-11-08 |
-| Federal | 50,035 | 0 | 50,035 | 2026-11-10 |
+| Federal | 50,035 | 0 | 50,035 | 2026-11-12 |
 | Florida | 140 | 0 | 140 | 2026-11-08 |
 | Georgia | 217 | 0 | 217 | 2026-11-08 |
 | Hawaii | 8 | 0 | 8 | 2026-11-08 |
@@ -41,42 +41,42 @@ _Stats as of 2026-11-11 12:42 UTC — last scan: 2026-11-10_
 | Indiana | 598 | 0 | 598 | 2026-11-08 |
 | Iowa | 21 | 0 | 21 | 2026-11-08 |
 | Kansas | 194 | 0 | 194 | 2026-11-08 |
-| Kentucky | 738 | 0 | 738 | 2026-11-05 |
+| Kentucky | 738 | 0 | 738 | 2026-11-11 |
 | Louisiana | 266 | 0 | 266 | 2026-11-08 |
 | Maine | 1 | 0 | 1 | 2026-11-08 |
 | Maryland | 89 | 0 | 89 | 2026-11-08 |
 | Massachusetts | 153 | 0 | 153 | 2026-11-08 |
 | Michigan | 122 | 0 | 122 | 2026-11-08 |
-| Minnesota | 785 | 0 | 785 | 2026-11-04 |
+| Minnesota | 785 | 0 | 785 | 2026-11-11 |
 | Mississippi | 486 | 0 | 486 | 2026-11-08 |
 | Missouri | 336 | 0 | 336 | 2026-11-08 |
-| Montana | 264 | 0 | 264 | 2026-11-04 |
+| Montana | 264 | 0 | 264 | 2026-11-11 |
 | Nebraska | 205 | 0 | 205 | 2026-11-08 |
 | Nevada | 358 | 0 | 358 | 2026-11-08 |
 | New Hampshire | 249 | 0 | 249 | 2026-11-08 |
 | New Jersey | 203 | 0 | 203 | 2026-11-08 |
-| New Mexico | 288 | 0 | 288 | 2026-11-08 |
+| New Mexico | 288 | 0 | 288 | 2026-11-12 |
 | New York | 732 | 0 | 732 | 2026-11-09 |
-| North Carolina | 292 | 0 | 292 | 2026-11-04 |
-| North Dakota | 215 | 0 | 215 | 2026-11-04 |
-| Ohio | 388 | 0 | 388 | 2026-11-04 |
-| Oklahoma | 160 | 0 | 160 | 2026-11-04 |
-| Oregon | 163 | 0 | 163 | 2026-11-04 |
-| Pennsylvania | 354 | 0 | 354 | 2026-11-04 |
-| Puerto Rico | 496 | 0 | 496 | 2026-11-04 |
-| Rhode Island | 108 | 0 | 108 | 2026-11-04 |
-| South Carolina | 481 | 0 | 481 | 2026-11-04 |
-| South Dakota | 164 | 0 | 164 | 2026-11-04 |
-| Tennessee | 162 | 0 | 162 | 2026-11-04 |
-| Texas | 562 | 0 | 562 | 2026-11-04 |
-| US Virgin Islands | 64 | 0 | 64 | 2026-11-04 |
-| Utah | 21 | 0 | 9 | 2026-11-04 |
-| Vermont | 15 | 0 | 15 | 2026-11-04 |
-| Virginia | 79 | 0 | 79 | 2026-11-04 |
-| Washington | 713 | 0 | 713 | 2026-11-04 |
-| West Virginia | 217 | 0 | 217 | 2026-11-04 |
-| Wisconsin | 573 | 0 | 573 | 2026-11-04 |
-| Wyoming | 30 | 0 | 30 | 2026-11-04 |
+| North Carolina | 292 | 0 | 292 | 2026-11-11 |
+| North Dakota | 215 | 0 | 215 | 2026-11-11 |
+| Ohio | 388 | 0 | 388 | 2026-11-11 |
+| Oklahoma | 160 | 0 | 160 | 2026-11-11 |
+| Oregon | 163 | 0 | 163 | 2026-11-11 |
+| Pennsylvania | 354 | 0 | 354 | 2026-11-11 |
+| Puerto Rico | 496 | 0 | 496 | 2026-11-11 |
+| Rhode Island | 108 | 0 | 108 | 2026-11-11 |
+| South Carolina | 481 | 0 | 481 | 2026-11-11 |
+| South Dakota | 164 | 0 | 164 | 2026-11-11 |
+| Tennessee | 162 | 0 | 162 | 2026-11-11 |
+| Texas | 562 | 0 | 562 | 2026-11-11 |
+| US Virgin Islands | 64 | 0 | 64 | 2026-11-11 |
+| Utah | 21 | 0 | 9 | 2026-11-11 |
+| Vermont | 15 | 0 | 15 | 2026-11-11 |
+| Virginia | 79 | 0 | 79 | 2026-11-11 |
+| Washington | 713 | 0 | 713 | 2026-11-11 |
+| West Virginia | 217 | 0 | 217 | 2026-11-11 |
+| Wisconsin | 573 | 0 | 573 | 2026-11-12 |
+| Wyoming | 30 | 0 | 30 | 2026-11-11 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable technology data (JSON)](technology-data.json).
 

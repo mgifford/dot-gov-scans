@@ -8,11 +8,11 @@ layout: page
 <div id="sm-tier-pie-container" style="float:right;margin:0 0 1rem 1.5rem;width:260px;max-width:45%;">
 <svg role="img" aria-labelledby="pie-title pie-desc" viewBox="0 0 240 314" width="240" height="314" xmlns="http://www.w3.org/2000/svg">
 <title id="pie-title">Social media tier distribution</title>
-<desc id="pie-desc">Pie chart: social media tier distribution across 65,693 scanned pages. Legacy only: 23,047 (35.1%), Modern only: 538 (0.8%), Mixed: 5,237 (8.0%), No Social: 41,377 (63.0%)</desc>
-<path d="M 120,110 L 120.000,20.000 A 90,90 0 0,1 199.324,152.518 Z" fill="#1a8cd8" stroke="#fff" stroke-width="1"><title>Twitter/X only: 23,047 (32.8%)</title></path>
-<path d="M 120,110 L 199.324,152.518 A 90,90 0 0,1 197.185,156.287 Z" fill="#0085ff" stroke="#fff" stroke-width="1"><title>Modern only: 538 (0.8%)</title></path>
-<path d="M 120,110 L 197.185,156.287 A 90,90 0 0,1 167.949,186.163 Z" fill="#7856ff" stroke="#fff" stroke-width="1"><title>Mixed: 5,237 (7.5%)</title></path>
-<path d="M 120,110 L 167.949,186.163 A 90,90 0 1,1 120.000,20.000 Z" fill="#cccccc" stroke="#fff" stroke-width="1"><title>No Social: 41,377 (58.9%)</title></path>
+<desc id="pie-desc">Pie chart: social media tier distribution across 65,693 scanned pages. Legacy only: 23,055 (35.1%), Modern only: 538 (0.8%), Mixed: 5,239 (8.0%), No Social: 41,403 (63.0%)</desc>
+<path d="M 120,110 L 120.000,20.000 A 90,90 0 0,1 199.338,152.491 Z" fill="#1a8cd8" stroke="#fff" stroke-width="1"><title>Twitter/X only: 23,055 (32.8%)</title></path>
+<path d="M 120,110 L 199.338,152.491 A 90,90 0 0,1 197.202,156.258 Z" fill="#0085ff" stroke="#fff" stroke-width="1"><title>Modern only: 538 (0.8%)</title></path>
+<path d="M 120,110 L 197.202,156.258 A 90,90 0 0,1 167.982,186.143 Z" fill="#7856ff" stroke="#fff" stroke-width="1"><title>Mixed: 5,239 (7.5%)</title></path>
+<path d="M 120,110 L 167.982,186.143 A 90,90 0 1,1 120.000,20.000 Z" fill="#cccccc" stroke="#fff" stroke-width="1"><title>No Social: 41,403 (58.9%)</title></path>
 <rect x="20" y="216" width="14" height="14" fill="#1a8cd8"/>
 <text x="40" y="227" font-size="11" font-family="sans-serif" fill="#333">Twitter/X only (32.8%)</text>
 <rect x="20" y="238" width="14" height="14" fill="#0085ff"/>
@@ -25,9 +25,9 @@ layout: page
 <p style="text-align:center;font-size:0.75em;margin:0.3rem 0 0;color:#555;font-style:italic;">Social media tier distribution</p>
 </div>
 
-_Stats as of 2026-11-11 12:41 UTC — last scan: 2026-11-11_
+_Stats as of 2026-11-12 13:44 UTC — last scan: 2026-11-12_
 
-**1,275** scan batches run
+**1,301** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **63,504** of **65,693** scanned pages were reachable (**96.7%**)
@@ -37,16 +37,16 @@ _Stats as of 2026-11-11 12:41 UTC — last scan: 2026-11-11_
 | Platform | Pages with link | % of scanned | % of reachable |
 |----------|----------------|:------------:|:--------------:|
 | 🐦 Twitter | **15,140** | 23.0% | 23.8% |
-| ✖ X | **5,677** | 8.6% | 8.9% |
-| 👍 Facebook | **25,588** | 39.0% | 40.3% |
-| 💼 LinkedIn | **9,846** | 15.0% | 15.5% |
+| ✖ X | **5,687** | 8.7% | 9.0% |
+| 👍 Facebook | **25,595** | 39.0% | 40.3% |
+| 💼 LinkedIn | **9,848** | 15.0% | 15.5% |
 
 **Modern / open social media** (decentralised or open platforms):
 
 | Platform | Pages with link | % of scanned | % of reachable |
 |----------|----------------|:------------:|:--------------:|
 | 🦋 Bluesky | **970** | 1.5% | 1.5% |
-| 🐘 Mastodon / Fediverse | **5,241** | 8.0% | 8.3% |
+| 🐘 Mastodon / Fediverse | **5,243** | 8.0% | 8.3% |
 
 <div style="clear:both;"></div>
 
@@ -96,11 +96,11 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | 34 | Indiana | 66.2% | 371 | 18 | 46.4% | 🥉 Growing |
 | 35 | West Virginia | 66.0% | 142 | 0 | 46.0% | 🥉 Growing |
 | 36 | California | 65.7% | 1,568 | 8 | 44.2% | 🥉 Growing |
-| 37 | Federal | 65.1% | 31,113 | 412 | 45.8% | 🥉 Growing |
+| 37 | Federal | 65.1% | 31,137 | 412 | 45.9% | 🥉 Growing |
 | 38 | New Mexico | 63.8% | 165 | 6 | 43.7% | 🥉 Growing |
 | 39 | Alabama | 63.6% | 28 | 0 | 43.2% | 🥉 Growing |
-| 40 | Hawaii | 62.5% | 5 | 0 | 37.5% | 🥉 Growing |
-| 41 | Montana | 62.2% | 153 | 2 | 39.4% | 🥉 Growing |
+| 40 | Montana | 63.1% | 155 | 2 | 39.4% | 🥉 Growing |
+| 41 | Hawaii | 62.5% | 5 | 0 | 37.5% | 🥉 Growing |
 | 42 | Arkansas | 61.5% | 16 | 0 | 69.2% | 🥉 Growing |
 | 43 | New Hampshire | 59.2% | 136 | 6 | 42.5% | 🥉 Growing |
 | 44 | Illinois | 59.1% | 52 | 0 | 58.0% | 🥉 Growing |
@@ -134,11 +134,11 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | Connecticut | 167 | 167 | 145 | 93.8% | 136 | 11 | 11 | 0 | 9 | 3 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 | DC | 486 | 486 | 483 | 51.6% | 249 | 212 | 229 | 24 | 204 | 59 | 0 | 36 | 25 | 13 | Jul 2026 – Nov 2026 |
 | Delaware | 17 | 17 | 17 | 0.0% | 0 | 16 | 11 | 1 | 11 | 6 | 0 | 1 | 0 | 1 | Jul 2026 – Nov 2026 |
-| Federal | 50,035 | 50,035 | 48,438 | 65.1% | 31,113 | 18,283 | 11,900 | 4,741 | 20,417 | 7,734 | 412 | 4,290 | 778 | 4,292 | Jul 2026 – Nov 2026 |
+| Federal | 50,035 | 50,035 | 48,438 | 65.1% | 31,137 | 18,290 | 11,900 | 4,751 | 20,424 | 7,736 | 412 | 4,292 | 778 | 4,294 | Jul 2026 – Nov 2026 |
 | Florida | 140 | 140 | 135 | 80.0% | 108 | 24 | 15 | 11 | 32 | 22 | 0 | 16 | 0 | 16 | Jul 2026 – Nov 2026 |
 | Georgia | 217 | 217 | 208 | 79.3% | 165 | 47 | 40 | 7 | 44 | 25 | 0 | 4 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Hawaii | 8 | 8 | 8 | 62.5% | 5 | 3 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
-| Idaho | 103 | 103 | 103 | 80.6% | 79 | 32 | 12 | 0 | 37 | 3 | 4 | 5 | 0 | 9 | Jul 2026 – Nov 2026 |
+| Idaho | 103 | 103 | 103 | 80.6% | 79 | 33 | 12 | 0 | 37 | 3 | 4 | 5 | 0 | 9 | Jul 2026 – Nov 2026 |
 | Illinois | 91 | 91 | 88 | 59.1% | 52 | 42 | 29 | 9 | 49 | 19 | 0 | 12 | 3 | 9 | Jul 2026 – Nov 2026 |
 | Indiana | 598 | 598 | 588 | 66.2% | 371 | 212 | 109 | 15 | 256 | 46 | 18 | 65 | 0 | 83 | Jul 2026 – Nov 2026 |
 | Iowa | 21 | 21 | 20 | 90.0% | 18 | 6 | 2 | 2 | 6 | 2 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
@@ -152,7 +152,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | Minnesota | 785 | 785 | 750 | 68.4% | 508 | 250 | 147 | 36 | 257 | 99 | 5 | 34 | 4 | 35 | Jul 2026 – Nov 2026 |
 | Mississippi | 486 | 486 | 461 | 72.0% | 328 | 152 | 86 | 24 | 163 | 42 | 4 | 15 | 0 | 19 | Jul 2026 – Nov 2026 |
 | Missouri | 336 | 336 | 325 | 56.9% | 185 | 132 | 101 | 47 | 122 | 55 | 0 | 12 | 0 | 12 | Jul 2026 – Nov 2026 |
-| Montana | 264 | 264 | 249 | 62.2% | 153 | 94 | 42 | 16 | 94 | 38 | 2 | 5 | 0 | 7 | Jul 2026 – Nov 2026 |
+| Montana | 264 | 264 | 249 | 63.1% | 155 | 94 | 42 | 16 | 94 | 38 | 2 | 5 | 0 | 7 | Jul 2026 – Nov 2026 |
 | Nebraska | 205 | 205 | 201 | 75.6% | 152 | 70 | 46 | 3 | 71 | 18 | 0 | 6 | 0 | 6 | Jul 2026 – Nov 2026 |
 | Nevada | 358 | 358 | 353 | 79.6% | 279 | 85 | 57 | 24 | 76 | 47 | 2 | 17 | 0 | 19 | Jul 2026 – Nov 2026 |
 | New Hampshire | 249 | 249 | 240 | 59.2% | 136 | 83 | 22 | 57 | 87 | 34 | 6 | 20 | 0 | 26 | Jul 2026 – Nov 2026 |
@@ -179,7 +179,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | West Virginia | 217 | 217 | 215 | 66.0% | 142 | 95 | 37 | 30 | 94 | 40 | 0 | 5 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Wisconsin | 573 | 573 | 560 | 73.6% | 400 | 153 | 83 | 7 | 164 | 63 | 12 | 19 | 3 | 31 | Jul 2026 – Nov 2026 |
 | Wyoming | 30 | 30 | 27 | 51.9% | 14 | 17 | 8 | 0 | 17 | 6 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
-| **Total** | **65,693** | **65,681** | **63,504** | **66.0%** | **41,377** | **23,047** | **15,140** | **5,677** | **25,588** | **9,846** | **538** | **5,237** | **970** | **5,241** | — |
+| **Total** | **65,693** | **65,681** | **63,504** | **66.0%** | **41,403** | **23,055** | **15,140** | **5,687** | **25,595** | **9,848** | **538** | **5,239** | **970** | **5,243** | — |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open. Full machine-readable data is available as the [social-media-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
