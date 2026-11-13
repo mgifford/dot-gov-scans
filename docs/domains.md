@@ -3,7 +3,7 @@ title: Government Domains
 layout: page
 ---
 
-_Generated: 2026-11-12 13:45 UTC_
+_Generated: 2026-11-13 13:04 UTC_
 
 This page lists all government domains tracked in the dataset, grouped by jurisdiction. Data is sourced from the [TOON seed files](https://github.com/mgifford/dot-gov-scans/tree/main/data/toon-seeds) in the repository.
 
