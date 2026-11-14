@@ -3,7 +3,7 @@ title: Scan Progress Report
 layout: page
 ---
 
-_Generated: 2026-11-13 13:04 UTC_
+_Generated: 2026-11-14 12:09 UTC_
 
 This report tracks how far along each scan type is across all countries. It is regenerated automatically after every scan run.
 
@@ -13,8 +13,8 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Scan Type | Pages Scanned | Available | Coverage |
 |-----------|--------------|-----------|----------|
-| **Combined Reachability** | **63,519 confirmed reachable** | 65,681 | **<span role="img" aria-label="96.7% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:116px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">96.7%</span></span>** |
-| Social Media | 65,693 scanned (63,518 reachable) | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
+| **Combined Reachability** | **63,522 confirmed reachable** | 65,681 | **<span role="img" aria-label="96.7% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:116px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">96.7%</span></span>** |
+| Social Media | 65,693 scanned (63,521 reachable) | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
 | Technology | 65,693 scanned | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
 | Lighthouse | 36,001 scanned | 65,681 | <span role="img" aria-label="54.8% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:66px;height:100%;background:#b45309;"></span></span><span style="font-size:0.85em;color:#374151;">54.8%</span></span> |
 | Accessibility Statements | 65,693 scanned | 65,681 | <span role="img" aria-label="100.0% complete" style="display:inline-flex;align-items:center;gap:4px;vertical-align:middle;"><span style="display:inline-block;width:120px;height:12px;background:#e2e8f0;border-radius:2px;overflow:hidden;"><span style="display:block;width:120px;height:100%;background:#15803d;"></span></span><span style="font-size:0.85em;color:#374151;">100.0%</span></span> |
@@ -25,8 +25,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 
 | Date | Social Media | Technology | Lighthouse | Accessibility | Third-party JS | Combined Reachability |
 |------|-------------|-----------|-----------|--------------|---------------|----------------------|
-| 2026-10-15 | 100.0% | 100.0% | 51.3% | 100.0% | 40.4% | 96.5% |
-| 2026-10-16 | 100.0% | 100.0% | 51.3% | 100.0% | 40.4% | 96.5% (+0.03pp) |
+| 2026-10-16 | 100.0% | 100.0% | 51.3% | 100.0% | 40.4% | 96.5% |
 | 2026-10-17 | 100.0% | 100.0% | 51.3% | 100.0% | 40.4% | 96.5% |
 | 2026-10-18 | 100.0% | 100.0% | 51.8% (+0.43pp) | 100.0% | 40.4% | 96.5% (+0.01pp) |
 | 2026-10-19 | 100.0% | 100.0% | 51.8% | 100.0% | 40.4% | 96.5% |
@@ -55,6 +54,7 @@ Coverage is measured as pages scanned out of **65,681** pages available in the s
 | 2026-11-11 | 100.0% | 100.0% | 54.8% | 100.0% | 40.4% | 96.7% |
 | 2026-11-12 | 100.0% | 100.0% | 54.8% | 100.0% | 40.4% | 96.7% |
 | 2026-11-13 | 100.0% | 100.0% | 54.8% | 100.0% | 40.4% | 96.7% (+0.02pp) |
+| 2026-11-14 | 100.0% | 100.0% | 54.8% | 100.0% | 40.4% | 96.7% |
 
 > **pp** = percentage-point change vs the previous day's snapshot. Coverage is measured against total pages available in the seed files.
 
@@ -130,12 +130,12 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | American Samoa | 7 | 7 | 7 | 2 | 0 | 0 | 5 | 1 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 | Arizona | 337 | 337 | 332 | 38 | 6 | 15 | 294 | 35 | 2 | 2 | 19 | Jul 2026 – Nov 2026 |
 | Arkansas | 29 | 29 | 26 | 14 | 0 | 4 | 16 | 9 | 3 | 0 | 4 | Jul 2026 – Nov 2026 |
-| California | 2,495 | 2,495 | 2,397 | 860 | 8 | 218 | 1,568 | 710 | 240 | 65 | 191 | Jul 2026 – Nov 2026 |
+| California | 2,495 | 2,495 | 2,398 | 883 | 8 | 223 | 1,570 | 735 | 243 | 65 | 196 | Jul 2026 – Nov 2026 |
 | Colorado | 134 | 134 | 129 | 30 | 3 | 9 | 96 | 24 | 5 | 0 | 12 | Jul 2026 – Nov 2026 |
 | Connecticut | 167 | 167 | 145 | 11 | 0 | 0 | 136 | 11 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 | DC | 486 | 486 | 483 | 212 | 0 | 36 | 249 | 229 | 24 | 25 | 13 | Jul 2026 – Nov 2026 |
 | Delaware | 17 | 17 | 17 | 16 | 0 | 1 | 0 | 11 | 1 | 0 | 1 | Jul 2026 – Nov 2026 |
-| Federal | 50,035 | 50,035 | 48,438 | 18,302 | 412 | 4,297 | 31,137 | 11,911 | 4,755 | 778 | 4,299 | Jul 2026 – Nov 2026 |
+| Federal | 50,035 | 50,035 | 48,438 | 18,320 | 412 | 4,300 | 31,137 | 11,918 | 4,758 | 778 | 4,302 | Jul 2026 – Nov 2026 |
 | Florida | 140 | 140 | 135 | 24 | 0 | 16 | 108 | 15 | 11 | 0 | 16 | Jul 2026 – Nov 2026 |
 | Georgia | 217 | 217 | 208 | 47 | 0 | 4 | 165 | 40 | 7 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 0 | 0 | 5 | 3 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
@@ -150,25 +150,25 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Maryland | 89 | 89 | 84 | 26 | 1 | 4 | 59 | 20 | 1 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Massachusetts | 153 | 153 | 146 | 37 | 0 | 4 | 108 | 23 | 3 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Michigan | 122 | 122 | 114 | 17 | 0 | 6 | 92 | 10 | 0 | 0 | 6 | Jul 2026 – Nov 2026 |
-| Minnesota | 785 | 785 | 750 | 250 | 5 | 34 | 508 | 147 | 36 | 4 | 35 | Jul 2026 – Nov 2026 |
+| Minnesota | 785 | 785 | 750 | 257 | 5 | 34 | 508 | 150 | 37 | 4 | 35 | Jul 2026 – Nov 2026 |
 | Mississippi | 486 | 486 | 472 | 152 | 4 | 15 | 339 | 86 | 24 | 0 | 19 | Jul 2026 – Nov 2026 |
 | Missouri | 336 | 336 | 325 | 132 | 0 | 12 | 185 | 101 | 47 | 0 | 12 | Jul 2026 – Nov 2026 |
 | Montana | 264 | 264 | 249 | 94 | 2 | 5 | 155 | 42 | 16 | 0 | 7 | Jul 2026 – Nov 2026 |
 | Nebraska | 205 | 205 | 201 | 70 | 0 | 6 | 152 | 46 | 3 | 0 | 6 | Jul 2026 – Nov 2026 |
-| Nevada | 358 | 358 | 353 | 85 | 2 | 17 | 279 | 57 | 24 | 0 | 19 | Jul 2026 – Nov 2026 |
+| Nevada | 358 | 358 | 353 | 86 | 2 | 17 | 279 | 58 | 24 | 0 | 19 | Jul 2026 – Nov 2026 |
 | New Hampshire | 249 | 249 | 240 | 83 | 6 | 20 | 136 | 22 | 57 | 0 | 26 | Jul 2026 – Nov 2026 |
 | New Jersey | 203 | 203 | 200 | 25 | 0 | 0 | 179 | 12 | 7 | 0 | 0 | Jul 2026 – Nov 2026 |
 | New Mexico | 288 | 288 | 271 | 92 | 6 | 28 | 165 | 54 | 18 | 7 | 31 | Jul 2026 – Nov 2026 |
 | New York | 732 | 732 | 669 | 259 | 3 | 73 | 370 | 231 | 72 | 30 | 49 | Jul 2026 – Nov 2026 |
-| North Carolina | 292 | 292 | 287 | 111 | 4 | 30 | 154 | 81 | 10 | 11 | 29 | Jul 2026 – Nov 2026 |
+| North Carolina | 292 | 292 | 287 | 114 | 4 | 30 | 154 | 81 | 10 | 11 | 29 | Jul 2026 – Nov 2026 |
 | North Dakota | 215 | 215 | 208 | 103 | 3 | 25 | 83 | 66 | 5 | 0 | 28 | Jul 2026 – Nov 2026 |
-| Ohio | 388 | 388 | 359 | 115 | 1 | 3 | 251 | 90 | 0 | 0 | 4 | Jul 2026 – Nov 2026 |
+| Ohio | 388 | 388 | 361 | 119 | 1 | 3 | 253 | 92 | 0 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Oklahoma | 160 | 160 | 147 | 26 | 0 | 17 | 113 | 21 | 12 | 0 | 17 | Jul 2026 – Nov 2026 |
 | Oregon | 163 | 163 | 154 | 15 | 2 | 5 | 145 | 8 | 9 | 3 | 7 | Jul 2026 – Nov 2026 |
 | Pennsylvania | 354 | 354 | 338 | 67 | 2 | 11 | 275 | 50 | 18 | 11 | 9 | Jul 2026 – Nov 2026 |
 | Puerto Rico | 496 | 496 | 478 | 217 | 13 | 43 | 247 | 131 | 79 | 0 | 56 | Jul 2026 – Nov 2026 |
 | Rhode Island | 108 | 108 | 108 | 32 | 0 | 1 | 88 | 21 | 1 | 1 | 0 | Jul 2026 – Nov 2026 |
-| South Carolina | 481 | 481 | 474 | 193 | 6 | 59 | 238 | 132 | 41 | 0 | 63 | Jul 2026 – Nov 2026 |
+| South Carolina | 481 | 481 | 474 | 199 | 6 | 64 | 238 | 135 | 44 | 0 | 68 | Jul 2026 – Nov 2026 |
 | South Dakota | 164 | 164 | 164 | 50 | 1 | 4 | 109 | 32 | 9 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Tennessee | 162 | 162 | 156 | 20 | 0 | 0 | 141 | 15 | 5 | 0 | 0 | Jul 2026 – Nov 2026 |
 | Texas | 562 | 562 | 527 | 92 | 5 | 35 | 427 | 43 | 9 | 0 | 40 | Jul 2026 – Nov 2026 |
@@ -176,9 +176,9 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Utah | 21 | 9 | 21 | 1 | 0 | 7 | 14 | 7 | 0 | 0 | 7 | Jul 2026 – Nov 2026 |
 | Vermont | 15 | 15 | 15 | 1 | 0 | 0 | 14 | 1 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 | Virginia | 79 | 79 | 71 | 25 | 0 | 6 | 49 | 9 | 6 | 0 | 6 | Jul 2026 – Nov 2026 |
-| Washington | 713 | 713 | 698 | 144 | 3 | 40 | 565 | 91 | 25 | 19 | 30 | Jul 2026 – Nov 2026 |
+| Washington | 713 | 713 | 698 | 208 | 3 | 100 | 565 | 146 | 40 | 50 | 59 | Jul 2026 – Nov 2026 |
 | West Virginia | 217 | 217 | 215 | 95 | 0 | 5 | 142 | 37 | 30 | 0 | 5 | Jul 2026 – Nov 2026 |
-| Wisconsin | 573 | 573 | 560 | 153 | 12 | 19 | 400 | 83 | 7 | 3 | 31 | Jul 2026 – Nov 2026 |
+| Wisconsin | 573 | 573 | 560 | 161 | 13 | 22 | 400 | 87 | 7 | 3 | 35 | Jul 2026 – Nov 2026 |
 | Wyoming | 30 | 30 | 27 | 17 | 0 | 0 | 14 | 8 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 
 > **Tier columns** (Twitter-only / Modern / Mixed / No Social) classify each page by its overall social media presence. **Platform columns** (Twitter / X / Bluesky / Mastodon) count pages with at least one link to that platform — a page may appear in more than one platform column.
@@ -199,7 +199,7 @@ Scan types ranked by current coverage. Scan types more than **10 percentage poin
 | Connecticut | 167 | 2026-11-08 |
 | DC | 486 | 2026-11-08 |
 | Delaware | 17 | 2026-11-08 |
-| Federal | 50,035 | 2026-11-13 |
+| Federal | 50,035 | 2026-11-14 |
 | Florida | 140 | 2026-11-08 |
 | Georgia | 217 | 2026-11-08 |
 | Hawaii | 8 | 2026-11-08 |
@@ -318,14 +318,14 @@ Checks whether each government page links to an accessibility statement as requi
 | American Samoa | 7 | 7 | 2 | 0 | 29% | Jul 2026 – Nov 2026 |
 | Arizona | 337 | 332 | 40 | 28 | 12% | Jul 2026 – Nov 2026 |
 | Arkansas | 29 | 26 | 3 | 3 | 12% | Jul 2026 – Nov 2026 |
-| California | 2,495 | 2,397 | 1,341 | 1,275 | 56% | Jul 2026 – Nov 2026 |
+| California | 2,495 | 2,397 | 1,345 | 1,279 | 56% | Jul 2026 – Nov 2026 |
 | Colorado | 134 | 129 | 67 | 59 | 52% | Jul 2026 – Nov 2026 |
 | Connecticut | 167 | 145 | 29 | 29 | 20% | Jul 2026 – Nov 2026 |
 | DC | 486 | 483 | 311 | 304 | 64% | Jul 2026 – Nov 2026 |
 | Delaware | 17 | 17 | 13 | 13 | 76% | Jul 2026 – Nov 2026 |
 | Federal | 50,035 | 48,436 | 20,949 | 18,195 | 43% | Jul 2026 – Nov 2026 |
 | Florida | 140 | 135 | 38 | 38 | 28% | Jul 2026 – Nov 2026 |
-| Georgia | 217 | 208 | 36 | 32 | 17% | Jul 2026 – Nov 2026 |
+| Georgia | 217 | 208 | 39 | 35 | 19% | Jul 2026 – Nov 2026 |
 | Hawaii | 8 | 8 | 3 | 3 | 38% | Jul 2026 – Nov 2026 |
 | Idaho | 103 | 103 | 44 | 35 | 43% | Jul 2026 – Nov 2026 |
 | Illinois | 91 | 88 | 30 | 24 | 34% | Jul 2026 – Nov 2026 |
@@ -336,23 +336,23 @@ Checks whether each government page links to an accessibility statement as requi
 | Louisiana | 266 | 259 | 60 | 52 | 23% | Jul 2026 – Nov 2026 |
 | Maine | 1 | 1 | 0 | 0 | 0% | Jul 2026 – Nov 2026 |
 | Maryland | 89 | 84 | 34 | 25 | 40% | Jul 2026 – Nov 2026 |
-| Massachusetts | 153 | 146 | 65 | 55 | 45% | Jul 2026 – Nov 2026 |
+| Massachusetts | 153 | 146 | 71 | 55 | 49% | Jul 2026 – Nov 2026 |
 | Michigan | 122 | 114 | 29 | 25 | 25% | Jul 2026 – Nov 2026 |
-| Minnesota | 785 | 750 | 270 | 216 | 36% | Jul 2026 – Nov 2026 |
-| Mississippi | 486 | 462 | 73 | 63 | 16% | Jul 2026 – Nov 2026 |
+| Minnesota | 785 | 750 | 272 | 218 | 36% | Jul 2026 – Nov 2026 |
+| Mississippi | 486 | 469 | 73 | 63 | 16% | Jul 2026 – Nov 2026 |
 | Missouri | 336 | 325 | 218 | 209 | 67% | Jul 2026 – Nov 2026 |
 | Montana | 264 | 249 | 92 | 72 | 37% | Jul 2026 – Nov 2026 |
 | Nebraska | 205 | 201 | 40 | 37 | 20% | Jul 2026 – Nov 2026 |
 | Nevada | 358 | 353 | 223 | 218 | 63% | Jul 2026 – Nov 2026 |
 | New Hampshire | 249 | 240 | 169 | 158 | 70% | Jul 2026 – Nov 2026 |
 | New Jersey | 203 | 200 | 36 | 36 | 18% | Jul 2026 – Nov 2026 |
-| New Mexico | 288 | 268 | 103 | 88 | 38% | Jul 2026 – Nov 2026 |
-| New York | 732 | 669 | 375 | 349 | 56% | Jul 2026 – Nov 2026 |
+| New Mexico | 288 | 271 | 103 | 88 | 38% | Jul 2026 – Nov 2026 |
+| New York | 732 | 669 | 379 | 353 | 57% | Jul 2026 – Nov 2026 |
 | North Carolina | 292 | 287 | 168 | 154 | 59% | Jul 2026 – Nov 2026 |
 | North Dakota | 215 | 208 | 141 | 140 | 68% | Jul 2026 – Nov 2026 |
 | Ohio | 388 | 361 | 115 | 37 | 32% | Jul 2026 – Nov 2026 |
 | Oklahoma | 160 | 147 | 44 | 41 | 30% | Jul 2026 – Nov 2026 |
-| Oregon | 163 | 154 | 24 | 15 | 16% | Jul 2026 – Nov 2026 |
+| Oregon | 163 | 154 | 26 | 17 | 17% | Jul 2026 – Nov 2026 |
 | Pennsylvania | 354 | 336 | 76 | 68 | 23% | Jul 2026 – Nov 2026 |
 | Puerto Rico | 496 | 478 | 132 | 22 | 28% | Jul 2026 – Nov 2026 |
 | Rhode Island | 108 | 108 | 24 | 24 | 22% | Jul 2026 – Nov 2026 |
@@ -364,9 +364,9 @@ Checks whether each government page links to an accessibility statement as requi
 | Utah | 21 | 21 | 14 | 14 | 67% | Jul 2026 – Nov 2026 |
 | Vermont | 15 | 15 | 5 | 5 | 33% | Jul 2026 – Nov 2026 |
 | Virginia | 79 | 71 | 30 | 28 | 42% | Jul 2026 – Nov 2026 |
-| Washington | 713 | 698 | 155 | 138 | 22% | Jul 2026 – Nov 2026 |
-| West Virginia | 217 | 215 | 109 | 104 | 51% | Jul 2026 – Nov 2026 |
-| Wisconsin | 573 | 560 | 180 | 163 | 32% | Jul 2026 – Nov 2026 |
+| Washington | 713 | 698 | 211 | 187 | 30% | Jul 2026 – Nov 2026 |
+| West Virginia | 217 | 215 | 113 | 108 | 53% | Jul 2026 – Nov 2026 |
+| Wisconsin | 573 | 560 | 182 | 163 | 32% | Jul 2026 – Nov 2026 |
 | Wyoming | 30 | 27 | 0 | 0 | 0% | Jul 2026 – Nov 2026 |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
