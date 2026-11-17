@@ -8,45 +8,45 @@ layout: page
 <div id="sm-tier-pie-container" style="float:right;margin:0 0 1rem 1.5rem;width:260px;max-width:45%;">
 <svg role="img" aria-labelledby="pie-title pie-desc" viewBox="0 0 240 314" width="240" height="314" xmlns="http://www.w3.org/2000/svg">
 <title id="pie-title">Social media tier distribution</title>
-<desc id="pie-desc">Pie chart: social media tier distribution across 65,693 scanned pages. Legacy only: 23,384 (35.6%), Modern only: 548 (0.8%), Mixed: 5,387 (8.2%), No Social: 41,483 (63.1%)</desc>
-<path d="M 120,110 L 120.000,20.000 A 90,90 0 0,1 198.793,153.493 Z" fill="#1a8cd8" stroke="#fff" stroke-width="1"><title>Twitter/X only: 23,384 (33.0%)</title></path>
-<path d="M 120,110 L 198.793,153.493 A 90,90 0 0,1 196.586,157.272 Z" fill="#0085ff" stroke="#fff" stroke-width="1"><title>Modern only: 548 (0.8%)</title></path>
-<path d="M 120,110 L 196.586,157.272 A 90,90 0 0,1 166.252,187.206 Z" fill="#7856ff" stroke="#fff" stroke-width="1"><title>Mixed: 5,387 (7.6%)</title></path>
-<path d="M 120,110 L 166.252,187.206 A 90,90 0 1,1 120.000,20.000 Z" fill="#cccccc" stroke="#fff" stroke-width="1"><title>No Social: 41,483 (58.6%)</title></path>
+<desc id="pie-desc">Pie chart: social media tier distribution across 65,693 scanned pages. Legacy only: 23,496 (35.8%), Modern only: 549 (0.8%), Mixed: 5,424 (8.3%), No Social: 41,490 (63.2%)</desc>
+<path d="M 120,110 L 120.000,20.000 A 90,90 0 0,1 198.560,153.912 Z" fill="#1a8cd8" stroke="#fff" stroke-width="1"><title>Twitter/X only: 23,496 (33.1%)</title></path>
+<path d="M 120,110 L 198.560,153.912 A 90,90 0 0,1 196.334,157.678 Z" fill="#0085ff" stroke="#fff" stroke-width="1"><title>Modern only: 549 (0.8%)</title></path>
+<path d="M 120,110 L 196.334,157.678 A 90,90 0 0,1 165.669,187.552 Z" fill="#7856ff" stroke="#fff" stroke-width="1"><title>Mixed: 5,424 (7.6%)</title></path>
+<path d="M 120,110 L 165.669,187.552 A 90,90 0 1,1 120.000,20.000 Z" fill="#cccccc" stroke="#fff" stroke-width="1"><title>No Social: 41,490 (58.5%)</title></path>
 <rect x="20" y="216" width="14" height="14" fill="#1a8cd8"/>
-<text x="40" y="227" font-size="11" font-family="sans-serif" fill="#333">Twitter/X only (33.0%)</text>
+<text x="40" y="227" font-size="11" font-family="sans-serif" fill="#333">Twitter/X only (33.1%)</text>
 <rect x="20" y="238" width="14" height="14" fill="#0085ff"/>
 <text x="40" y="249" font-size="11" font-family="sans-serif" fill="#333">Modern only (0.8%)</text>
 <rect x="20" y="260" width="14" height="14" fill="#7856ff"/>
 <text x="40" y="271" font-size="11" font-family="sans-serif" fill="#333">Mixed (7.6%)</text>
 <rect x="20" y="282" width="14" height="14" fill="#cccccc"/>
-<text x="40" y="293" font-size="11" font-family="sans-serif" fill="#333">No Social (58.6%)</text>
+<text x="40" y="293" font-size="11" font-family="sans-serif" fill="#333">No Social (58.5%)</text>
 </svg>
 <p style="text-align:center;font-size:0.75em;margin:0.3rem 0 0;color:#555;font-style:italic;">Social media tier distribution</p>
 </div>
 
-_Stats as of 2026-11-16 13:36 UTC — last scan: 2026-11-16_
+_Stats as of 2026-11-17 14:21 UTC — last scan: 2026-11-17_
 
-**1,347** scan batches run
+**1,350** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,523** of **65,693** scanned pages were reachable (**96.7%**)
+**63,527** of **65,693** scanned pages were reachable (**96.7%**)
 
 **Legacy social media** (older, centralised platforms):
 
 | Platform | Pages with link | % of scanned | % of reachable |
 |----------|----------------|:------------:|:--------------:|
-| 🐦 Twitter | **15,381** | 23.4% | 24.2% |
-| ✖ X | **5,774** | 8.8% | 9.1% |
-| 👍 Facebook | **26,045** | 39.6% | 41.0% |
-| 💼 LinkedIn | **10,071** | 15.3% | 15.9% |
+| 🐦 Twitter | **15,457** | 23.5% | 24.3% |
+| ✖ X | **5,814** | 8.9% | 9.2% |
+| 👍 Facebook | **26,175** | 39.8% | 41.2% |
+| 💼 LinkedIn | **10,138** | 15.4% | 16.0% |
 
 **Modern / open social media** (decentralised or open platforms):
 
 | Platform | Pages with link | % of scanned | % of reachable |
 |----------|----------------|:------------:|:--------------:|
-| 🦋 Bluesky | **1,018** | 1.5% | 1.6% |
-| 🐘 Mastodon / Fediverse | **5,361** | 8.2% | 8.4% |
+| 🦋 Bluesky | **1,021** | 1.6% | 1.6% |
+| 🐘 Mastodon / Fediverse | **5,398** | 8.2% | 8.5% |
 
 <div style="clear:both;"></div>
 
@@ -96,7 +96,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | 34 | Indiana | 66.2% | 371 | 18 | 46.8% | 🥉 Growing |
 | 35 | West Virginia | 66.0% | 142 | 0 | 46.0% | 🥉 Growing |
 | 36 | California | 65.8% | 1,570 | 8 | 45.5% | 🥉 Growing |
-| 37 | Federal | 65.3% | 31,201 | 418 | 46.4% | 🥉 Growing |
+| 37 | Federal | 65.3% | 31,208 | 419 | 46.7% | 🥉 Growing |
 | 38 | Alabama | 63.6% | 28 | 0 | 43.2% | 🥉 Growing |
 | 39 | Montana | 63.1% | 155 | 2 | 39.4% | 🥉 Growing |
 | 40 | New Mexico | 63.1% | 165 | 6 | 44.3% | 🥉 Growing |
@@ -134,7 +134,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | Connecticut | 167 | 167 | 145 | 93.8% | 136 | 11 | 11 | 0 | 9 | 3 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 | DC | 486 | 486 | 483 | 51.6% | 249 | 212 | 229 | 24 | 204 | 59 | 0 | 36 | 25 | 13 | Jul 2026 – Nov 2026 |
 | Delaware | 17 | 17 | 17 | 0.0% | 0 | 16 | 11 | 1 | 11 | 6 | 0 | 1 | 0 | 1 | Jul 2026 – Nov 2026 |
-| Federal | 50,035 | 50,035 | 48,440 | 65.3% | 31,201 | 18,480 | 12,035 | 4,801 | 20,672 | 7,823 | 418 | 4,361 | 792 | 4,362 | Jul 2026 – Nov 2026 |
+| Federal | 50,035 | 50,035 | 48,444 | 65.3% | 31,208 | 18,592 | 12,111 | 4,841 | 20,802 | 7,890 | 419 | 4,398 | 795 | 4,399 | Jul 2026 – Nov 2026 |
 | Florida | 140 | 140 | 135 | 80.0% | 108 | 24 | 15 | 11 | 32 | 22 | 0 | 16 | 0 | 16 | Jul 2026 – Nov 2026 |
 | Georgia | 217 | 217 | 208 | 79.3% | 165 | 47 | 40 | 7 | 44 | 25 | 0 | 4 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Hawaii | 8 | 8 | 8 | 62.5% | 5 | 3 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
@@ -179,7 +179,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | West Virginia | 217 | 217 | 215 | 66.0% | 142 | 95 | 37 | 31 | 94 | 41 | 0 | 5 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Wisconsin | 573 | 573 | 560 | 73.8% | 400 | 161 | 87 | 7 | 172 | 66 | 13 | 22 | 3 | 35 | Jul 2026 – Nov 2026 |
 | Wyoming | 30 | 30 | 27 | 51.9% | 14 | 17 | 8 | 0 | 17 | 6 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
-| **Total** | **65,693** | **65,681** | **63,523** | **66.2%** | **41,483** | **23,384** | **15,381** | **5,774** | **26,045** | **10,071** | **548** | **5,387** | **1,018** | **5,361** | — |
+| **Total** | **65,693** | **65,681** | **63,527** | **66.2%** | **41,490** | **23,496** | **15,457** | **5,814** | **26,175** | **10,138** | **549** | **5,424** | **1,021** | **5,398** | — |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open. Full machine-readable data is available as the [social-media-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 

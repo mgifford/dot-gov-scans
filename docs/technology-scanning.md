@@ -8,9 +8,9 @@ used by US state and federal government websites.
 
 <!-- TECH_STATS_START -->
 
-_Stats as of 2026-11-16 13:37 UTC — last scan: 2026-11-15_
+_Stats as of 2026-11-17 14:22 UTC — last scan: 2026-11-17_
 
-**1,144** scan batches run
+**1,149** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
 **0** pages with technology detections (**0.0%** of scanned)
@@ -27,18 +27,18 @@ _Stats as of 2026-11-16 13:37 UTC — last scan: 2026-11-15_
 | American Samoa | 7 | 0 | 7 | 2026-11-15 |
 | Arizona | 337 | 0 | 337 | 2026-11-15 |
 | Arkansas | 29 | 0 | 29 | 2026-11-15 |
-| California | 2,495 | 0 | 2,495 | 2026-11-15 |
+| California | 2,495 | 0 | 2,495 | 2026-11-16 |
 | Colorado | 134 | 0 | 134 | 2026-11-15 |
 | Connecticut | 167 | 0 | 167 | 2026-11-15 |
 | DC | 486 | 0 | 486 | 2026-11-15 |
 | Delaware | 17 | 0 | 17 | 2026-11-15 |
-| Federal | 50,035 | 0 | 50,035 | 2026-11-15 |
+| Federal | 50,035 | 0 | 50,035 | 2026-11-17 |
 | Florida | 140 | 0 | 140 | 2026-11-15 |
 | Georgia | 217 | 0 | 217 | 2026-11-15 |
 | Hawaii | 8 | 0 | 8 | 2026-11-15 |
 | Idaho | 103 | 0 | 103 | 2026-11-15 |
 | Illinois | 91 | 0 | 91 | 2026-11-15 |
-| Indiana | 598 | 0 | 598 | 2026-11-15 |
+| Indiana | 598 | 0 | 598 | 2026-11-16 |
 | Iowa | 21 | 0 | 21 | 2026-11-15 |
 | Kansas | 194 | 0 | 194 | 2026-11-15 |
 | Kentucky | 738 | 0 | 738 | 2026-11-12 |
@@ -56,7 +56,7 @@ _Stats as of 2026-11-16 13:37 UTC — last scan: 2026-11-15_
 | New Hampshire | 249 | 0 | 249 | 2026-11-15 |
 | New Jersey | 203 | 0 | 203 | 2026-11-15 |
 | New Mexico | 288 | 0 | 288 | 2026-11-15 |
-| New York | 732 | 0 | 732 | 2026-11-12 |
+| New York | 732 | 0 | 732 | 2026-11-17 |
 | North Carolina | 292 | 0 | 292 | 2026-11-11 |
 | North Dakota | 215 | 0 | 215 | 2026-11-11 |
 | Ohio | 388 | 0 | 388 | 2026-11-11 |
