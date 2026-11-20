@@ -9,9 +9,9 @@ daily schedule; each URL is refreshed at most once per month.
 
 <!-- LIGHTHOUSE_STATS_START -->
 
-_Stats as of 2026-11-19 14:24 UTC — last scan: 2026-11-19_
+_Stats as of 2026-11-20 14:00 UTC — last scan: 2026-11-19_
 
-**1,259** scan batches run
+**1,262** scan batches run
 
 **36,512** of **65,681** available pages audited (**55.6%** coverage)
 **36,305** successful audits (**99.4%** of audited)
@@ -48,14 +48,14 @@ _Stats as of 2026-11-19 14:24 UTC — last scan: 2026-11-19_
 | Iowa | 21 | 21 | 94 | 74 | 90 | 88 | 2026-11-12 |
 | Kansas | 194 | 194 | 93 | 92 | 83 | 84 | 2026-11-19 |
 | Kentucky | 738 | 738 | 89 | 89 | 82 | 88 | 2026-11-19 |
-| Louisiana | 266 | 266 | 92 | 90 | 85 | 87 | 2026-11-17 |
+| Louisiana | 266 | 266 | 92 | 90 | 85 | 87 | 2026-11-19 |
 | Maine | 1 | 1 | 96 | 88 | 92 | 83 | 2026-11-17 |
 | Maryland | 89 | 89 | 95 | 87 | 83 | 85 | 2026-11-17 |
 | Massachusetts | 153 | 153 | 85 | 88 | 81 | 84 | 2026-11-19 |
 | Michigan | 122 | 122 | 92 | 91 | 87 | 86 | 2026-11-17 |
 | Minnesota | 785 | 785 | 93 | 90 | 86 | 88 | 2026-11-19 |
 | Mississippi | 486 | 486 | 90 | 87 | 87 | 86 | 2026-11-19 |
-| Missouri | 336 | 336 | 92 | 92 | 89 | 89 | 2026-10-20 |
+| Missouri | 336 | 336 | 93 | 92 | 89 | 89 | 2026-11-19 |
 | Montana | 264 | 264 | 92 | 93 | 85 | 86 | 2026-11-19 |
 | Nebraska | 205 | 205 | 91 | 89 | 84 | 88 | 2026-11-19 |
 | Nevada | 358 | 358 | 89 | 90 | 75 | 82 | 2026-11-01 |
