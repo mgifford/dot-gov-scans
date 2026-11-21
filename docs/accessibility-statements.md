@@ -9,14 +9,14 @@ ADA Title II.
 
 <!-- ACCESSIBILITY_STATS_START -->
 
-_Stats as of 2026-11-20 14:00 UTC — last scan: 2026-11-20_
+_Stats as of 2026-11-21 13:28 UTC — last scan: 2026-11-21_
 
-**1,324** scan batches run
+**1,360** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,530** of **65,693** scanned pages were reachable (**96.7%**)
-**28,012** of **63,530** reachable pages have an accessibility statement (**44.1%**)
-**24,531** pages have the statement link in the footer (**87.6%** of pages with a statement)
+**63,531** of **65,693** scanned pages were reachable (**96.7%**)
+**28,021** of **63,531** reachable pages have an accessibility statement (**44.1%**)
+**24,538** pages have the statement link in the footer (**87.6%** of pages with a statement)
 
 📥 Machine-readable results are available as the [accessibility-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
@@ -44,10 +44,10 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Florida | 140 | 140 | 135 | 38 | 38 | 28.1% | Jul 2026 – Nov 2026 |
 | Georgia | 217 | 217 | 208 | 39 | 35 | 18.8% | Jul 2026 – Nov 2026 |
 | Hawaii | 8 | 8 | 8 | 3 | 3 | 37.5% | Jul 2026 – Nov 2026 |
-| Idaho | 103 | 103 | 103 | 44 | 35 | 42.7% | Jul 2026 – Nov 2026 |
+| Idaho | 103 | 103 | 103 | 46 | 37 | 44.7% | Jul 2026 – Nov 2026 |
 | Illinois | 91 | 91 | 88 | 30 | 24 | 34.1% | Jul 2026 – Nov 2026 |
 | Indiana | 598 | 598 | 588 | 237 | 200 | 40.3% | Jul 2026 – Nov 2026 |
-| Iowa | 21 | 21 | 20 | 2 | 0 | 10.0% | Jul 2026 – Nov 2026 |
+| Iowa | 21 | 21 | 21 | 2 | 0 | 9.5% | Jul 2026 – Nov 2026 |
 | Kansas | 194 | 194 | 190 | 70 | 64 | 36.8% | Jul 2026 – Nov 2026 |
 | Kentucky | 738 | 738 | 724 | 479 | 470 | 66.2% | Jul 2026 – Nov 2026 |
 | Louisiana | 266 | 266 | 259 | 60 | 52 | 23.2% | Jul 2026 – Nov 2026 |
@@ -62,16 +62,16 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | Nebraska | 205 | 205 | 201 | 40 | 37 | 19.9% | Jul 2026 – Nov 2026 |
 | Nevada | 358 | 358 | 353 | 223 | 218 | 63.2% | Jul 2026 – Nov 2026 |
 | New Hampshire | 249 | 249 | 240 | 169 | 158 | 70.4% | Jul 2026 – Nov 2026 |
-| New Jersey | 203 | 203 | 200 | 36 | 36 | 18.0% | Jul 2026 – Nov 2026 |
+| New Jersey | 203 | 203 | 200 | 38 | 38 | 19.0% | Jul 2026 – Nov 2026 |
 | New Mexico | 288 | 288 | 271 | 103 | 88 | 38.0% | Jul 2026 – Nov 2026 |
 | New York | 732 | 732 | 669 | 379 | 353 | 56.7% | Jul 2026 – Nov 2026 |
 | North Carolina | 292 | 292 | 287 | 168 | 154 | 58.5% | Jul 2026 – Nov 2026 |
 | North Dakota | 215 | 215 | 208 | 141 | 140 | 67.8% | Jul 2026 – Nov 2026 |
-| Ohio | 388 | 388 | 361 | 115 | 37 | 31.9% | Jul 2026 – Nov 2026 |
+| Ohio | 388 | 388 | 361 | 118 | 40 | 32.7% | Jul 2026 – Nov 2026 |
 | Oklahoma | 160 | 160 | 147 | 44 | 41 | 29.9% | Jul 2026 – Nov 2026 |
 | Oregon | 163 | 163 | 154 | 26 | 17 | 16.9% | Jul 2026 – Nov 2026 |
 | Pennsylvania | 354 | 354 | 336 | 76 | 68 | 22.6% | Jul 2026 – Nov 2026 |
-| Puerto Rico | 496 | 496 | 478 | 132 | 22 | 27.6% | Jul 2026 – Nov 2026 |
+| Puerto Rico | 496 | 496 | 478 | 134 | 22 | 28.0% | Jul 2026 – Nov 2026 |
 | Rhode Island | 108 | 108 | 108 | 24 | 24 | 22.2% | Jul 2026 – Nov 2026 |
 | South Carolina | 481 | 481 | 474 | 96 | 82 | 20.3% | Jul 2026 – Nov 2026 |
 | South Dakota | 164 | 164 | 164 | 73 | 73 | 44.5% | Jul 2026 – Nov 2026 |
@@ -85,7 +85,7 @@ Each country entry in the JSON file includes page-level evidence for pages with 
 | West Virginia | 217 | 217 | 215 | 113 | 108 | 52.6% | Jul 2026 – Nov 2026 |
 | Wisconsin | 573 | 573 | 560 | 182 | 163 | 32.5% | Jul 2026 – Nov 2026 |
 | Wyoming | 30 | 30 | 27 | 0 | 0 | 0.0% | Jul 2026 – Nov 2026 |
-| **Total** | **65,693** | **65,681** | **63,530** | **28,012** | **24,531** | **44.1%** | — |
+| **Total** | **65,693** | **65,681** | **63,531** | **28,021** | **24,538** | **44.1%** | — |
 
 > **Statement %** is the percentage of *reachable* pages that contain at least one link to an accessibility statement.
 
