@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-11-24 15:52 UTC — last scan: 2026-11-24_
+_Stats as of 2026-11-25 15:34 UTC — last scan: 2026-11-25_
 
-**1,163** scan batches run
+**1,179** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
-**25,646** of **26,511** scanned pages were reachable (**96.7%**)
-**16,102** reachable pages loaded at least one third-party script (**62.8%** of reachable)
-**22,723** known third-party service loads identified
+**25,650** of **26,511** scanned pages were reachable (**96.8%**)
+**16,125** reachable pages loaded at least one third-party script (**62.9%** of reachable)
+**22,719** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -24,17 +24,17 @@ _Stats as of 2026-11-24 15:52 UTC — last scan: 2026-11-24_
 
 | Country | Scanned | Available | Reachable | URLs with 3rd-Party JS | Known Service Loads | Last Scan |
 |---------|---------|-----------|-----------|------------------------|--------------------|----------|
-| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-11-24 |
+| Alabama | 48 | 48 | 44 | 21 | 29 | 2026-11-25 |
 | Alaska | 34 | 34 | 34 | 22 | 11 | 2026-11-21 |
 | American Samoa | 7 | 7 | 7 | 4 | 4 | 2026-11-21 |
-| Arizona | 337 | 337 | 332 | 72 | 90 | 2026-11-24 |
-| Arkansas | 29 | 29 | 26 | 22 | 25 | 2026-11-24 |
-| California | 2,495 | 2,495 | 2,406 | 1,842 | 3,424 | 2026-11-24 |
-| Colorado | 134 | 134 | 129 | 73 | 63 | 2026-11-24 |
-| Connecticut | 167 | 167 | 151 | 76 | 88 | 2026-11-24 |
-| DC | 486 | 486 | 483 | 428 | 533 | 2026-11-24 |
+| Arizona | 337 | 337 | 332 | 72 | 90 | 2026-11-25 |
+| Arkansas | 29 | 29 | 26 | 22 | 25 | 2026-11-25 |
+| California | 2,495 | 2,495 | 2,406 | 1,842 | 3,424 | 2026-11-25 |
+| Colorado | 134 | 134 | 129 | 73 | 63 | 2026-11-25 |
+| Connecticut | 167 | 167 | 151 | 76 | 88 | 2026-11-25 |
+| DC | 486 | 486 | 483 | 428 | 533 | 2026-11-25 |
 | Delaware | 17 | 17 | 17 | 17 | 14 | 2026-11-22 |
-| Federal | 22,757 | 50,035 | 22,017 | 13,525 | 18,442 | 2026-11-24 |
+| Federal | 22,757 | 50,035 | 22,021 | 13,548 | 18,438 | 2026-11-25 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,15 +44,15 @@ _Stats as of 2026-11-24 15:52 UTC — last scan: 2026-11-24_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **6,521** |
-| 2 | jsDelivr CDN | **3,234** |
-| 3 | cdnjs (Cloudflare CDN) | **2,618** |
-| 4 | Google Tag Manager | **2,064** |
-| 5 | jQuery | **1,822** |
-| 6 | Google reCAPTCHA | **1,566** |
-| 7 | Font Awesome | **1,537** |
-| 8 | Google Hosted Libraries | **899** |
-| 9 | unpkg CDN | **867** |
+| 1 | Google Analytics (GA4) | **6,530** |
+| 2 | jsDelivr CDN | **3,233** |
+| 3 | cdnjs (Cloudflare CDN) | **2,611** |
+| 4 | Google Tag Manager | **2,056** |
+| 5 | jQuery | **1,819** |
+| 6 | Google reCAPTCHA | **1,572** |
+| 7 | Font Awesome | **1,534** |
+| 8 | Google Hosted Libraries | **896** |
+| 9 | unpkg CDN | **873** |
 | 10 | Bootstrap | **455** |
 | 11 | Facebook Pixel | **446** |
 | 12 | Adobe Dynamic Tag Management / Launch | **308** |
@@ -69,13 +69,13 @@ _Stats as of 2026-11-24 15:52 UTC — last scan: 2026-11-24_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,618** |
-| 2 | Analytics | **7,348** |
-| 3 | JavaScript Library | **2,721** |
-| 4 | Tag Manager | **2,372** |
-| 5 | Security | **1,692** |
-| 6 | CAPTCHA | **1,566** |
-| 7 | Icon Library | **1,537** |
+| 1 | CDN | **7,613** |
+| 2 | Analytics | **7,357** |
+| 3 | JavaScript Library | **2,715** |
+| 4 | Tag Manager | **2,364** |
+| 5 | Security | **1,698** |
+| 6 | CAPTCHA | **1,572** |
+| 7 | Icon Library | **1,534** |
 | 8 | UI Framework | **455** |
 | 9 | Advertising | **446** |
 | 10 | Error Tracking | **132** |
