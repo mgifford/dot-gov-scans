@@ -8,14 +8,14 @@ and other hosted resources loaded by US state and federal government websites.
 
 <!-- THIRD_PARTY_JS_STATS_START -->
 
-_Stats as of 2026-11-27 15:02 UTC — last scan: 2026-11-27_
+_Stats as of 2026-11-28 14:10 UTC — last scan: 2026-11-27_
 
-**1,203** scan batches run
+**1,211** scan batches run
 
 **26,511** of **65,681** available pages scanned (**40.4%** coverage)
-**25,650** of **26,511** scanned pages were reachable (**96.8%**)
-**16,132** reachable pages loaded at least one third-party script (**62.9%** of reachable)
-**22,785** known third-party service loads identified
+**25,653** of **26,511** scanned pages were reachable (**96.8%**)
+**16,174** reachable pages loaded at least one third-party script (**63.0%** of reachable)
+**22,848** known third-party service loads identified
 **24** unique known services across **18** categories
 
 ---
@@ -34,7 +34,7 @@ _Stats as of 2026-11-27 15:02 UTC — last scan: 2026-11-27_
 | Connecticut | 167 | 167 | 151 | 76 | 88 | 2026-11-27 |
 | DC | 486 | 486 | 483 | 428 | 533 | 2026-11-27 |
 | Delaware | 17 | 17 | 17 | 17 | 14 | 2026-11-22 |
-| Federal | 22,757 | 50,035 | 22,021 | 13,555 | 18,504 | 2026-11-27 |
+| Federal | 22,757 | 50,035 | 22,024 | 13,597 | 18,567 | 2026-11-27 |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open and download a CSV for that country and metric from [Download machine-readable third-party tools data (JSON)](third-party-tools-data.json).
 
@@ -44,22 +44,22 @@ _Stats as of 2026-11-27 15:02 UTC — last scan: 2026-11-27_
 
 | # | Service | Loads |
 |--:|---------|------:|
-| 1 | Google Analytics (GA4) | **6,562** |
-| 2 | jsDelivr CDN | **3,238** |
-| 3 | cdnjs (Cloudflare CDN) | **2,610** |
-| 4 | Google Tag Manager | **2,072** |
-| 5 | jQuery | **1,822** |
-| 6 | Google reCAPTCHA | **1,570** |
-| 7 | Font Awesome | **1,539** |
-| 8 | Google Hosted Libraries | **901** |
-| 9 | unpkg CDN | **872** |
-| 10 | Bootstrap | **457** |
-| 11 | Facebook Pixel | **449** |
+| 1 | Google Analytics (GA4) | **6,573** |
+| 2 | jsDelivr CDN | **3,241** |
+| 3 | cdnjs (Cloudflare CDN) | **2,616** |
+| 4 | Google Tag Manager | **2,075** |
+| 5 | jQuery | **1,824** |
+| 6 | Google reCAPTCHA | **1,586** |
+| 7 | Font Awesome | **1,546** |
+| 8 | Google Hosted Libraries | **900** |
+| 9 | unpkg CDN | **887** |
+| 10 | Bootstrap | **456** |
+| 11 | Facebook Pixel | **448** |
 | 12 | Adobe Dynamic Tag Management / Launch | **308** |
 | 13 | Sentry | **132** |
-| 14 | Cloudflare Turnstile / Challenge | **125** |
+| 14 | Cloudflare Turnstile / Challenge | **127** |
 | 15 | Google Analytics (Universal) | **52** |
-| 16 | OneTrust | **22** |
+| 16 | OneTrust | **23** |
 | 17 | Cloudflare Web Analytics | **17** |
 | 18 | HubSpot | **11** |
 | 19 | Zendesk | **8** |
@@ -69,17 +69,17 @@ _Stats as of 2026-11-27 15:02 UTC — last scan: 2026-11-27_
 
 | # | Category | Loads |
 |--:|----------|------:|
-| 1 | CDN | **7,621** |
-| 2 | Analytics | **7,392** |
-| 3 | JavaScript Library | **2,723** |
-| 4 | Tag Manager | **2,380** |
-| 5 | Security | **1,695** |
-| 6 | CAPTCHA | **1,570** |
-| 7 | Icon Library | **1,539** |
-| 8 | UI Framework | **457** |
-| 9 | Advertising | **449** |
+| 1 | CDN | **7,644** |
+| 2 | Analytics | **7,402** |
+| 3 | JavaScript Library | **2,724** |
+| 4 | Tag Manager | **2,383** |
+| 5 | Security | **1,713** |
+| 6 | CAPTCHA | **1,586** |
+| 7 | Icon Library | **1,546** |
+| 8 | UI Framework | **456** |
+| 9 | Advertising | **448** |
 | 10 | Error Tracking | **132** |
-| 11 | Cookie Consent | **27** |
+| 11 | Cookie Consent | **28** |
 | 12 | CRM | **11** |
 | 13 | Marketing | **11** |
 | 14 | Customer Support | **8** |

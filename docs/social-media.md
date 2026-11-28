@@ -8,13 +8,13 @@ layout: page
 <div id="sm-tier-pie-container" style="float:right;margin:0 0 1rem 1.5rem;width:260px;max-width:45%;">
 <svg role="img" aria-labelledby="pie-title pie-desc" viewBox="0 0 240 314" width="240" height="314" xmlns="http://www.w3.org/2000/svg">
 <title id="pie-title">Social media tier distribution</title>
-<desc id="pie-desc">Pie chart: social media tier distribution across 65,693 scanned pages. Legacy only: 23,938 (36.4%), Modern only: 558 (0.8%), Mixed: 5,591 (8.5%), No Social: 41,666 (63.4%)</desc>
-<path d="M 120,110 L 120.000,20.000 A 90,90 0 0,1 197.862,155.139 Z" fill="#1a8cd8" stroke="#fff" stroke-width="1"><title>Twitter/X only: 23,938 (33.4%)</title></path>
-<path d="M 120,110 L 197.862,155.139 A 90,90 0 0,1 195.564,158.888 Z" fill="#0085ff" stroke="#fff" stroke-width="1"><title>Modern only: 558 (0.8%)</title></path>
-<path d="M 120,110 L 195.564,158.888 A 90,90 0 0,1 163.698,188.680 Z" fill="#7856ff" stroke="#fff" stroke-width="1"><title>Mixed: 5,591 (7.8%)</title></path>
-<path d="M 120,110 L 163.698,188.680 A 90,90 0 1,1 120.000,20.000 Z" fill="#cccccc" stroke="#fff" stroke-width="1"><title>No Social: 41,666 (58.1%)</title></path>
+<desc id="pie-desc">Pie chart: social media tier distribution across 65,693 scanned pages. Legacy only: 23,944 (36.4%), Modern only: 558 (0.8%), Mixed: 5,594 (8.5%), No Social: 41,706 (63.5%)</desc>
+<path d="M 120,110 L 120.000,20.000 A 90,90 0 0,1 197.903,155.068 Z" fill="#1a8cd8" stroke="#fff" stroke-width="1"><title>Twitter/X only: 23,944 (33.3%)</title></path>
+<path d="M 120,110 L 197.903,155.068 A 90,90 0 0,1 195.610,158.817 Z" fill="#0085ff" stroke="#fff" stroke-width="1"><title>Modern only: 558 (0.8%)</title></path>
+<path d="M 120,110 L 195.610,158.817 A 90,90 0 0,1 163.777,188.636 Z" fill="#7856ff" stroke="#fff" stroke-width="1"><title>Mixed: 5,594 (7.8%)</title></path>
+<path d="M 120,110 L 163.777,188.636 A 90,90 0 1,1 120.000,20.000 Z" fill="#cccccc" stroke="#fff" stroke-width="1"><title>No Social: 41,706 (58.1%)</title></path>
 <rect x="20" y="216" width="14" height="14" fill="#1a8cd8"/>
-<text x="40" y="227" font-size="11" font-family="sans-serif" fill="#333">Twitter/X only (33.4%)</text>
+<text x="40" y="227" font-size="11" font-family="sans-serif" fill="#333">Twitter/X only (33.3%)</text>
 <rect x="20" y="238" width="14" height="14" fill="#0085ff"/>
 <text x="40" y="249" font-size="11" font-family="sans-serif" fill="#333">Modern only (0.8%)</text>
 <rect x="20" y="260" width="14" height="14" fill="#7856ff"/>
@@ -25,28 +25,28 @@ layout: page
 <p style="text-align:center;font-size:0.75em;margin:0.3rem 0 0;color:#555;font-style:italic;">Social media tier distribution</p>
 </div>
 
-_Stats as of 2026-11-27 15:01 UTC — last scan: 2026-11-27_
+_Stats as of 2026-11-28 14:09 UTC — last scan: 2026-11-28_
 
-**1,471** scan batches run
+**1,496** scan batches run
 
 **65,693** of **65,681** available pages scanned (**100.0%** coverage)
-**63,570** of **65,693** scanned pages were reachable (**96.8%**)
+**63,578** of **65,693** scanned pages were reachable (**96.8%**)
 
 **Legacy social media** (older, centralised platforms):
 
 | Platform | Pages with link | % of scanned | % of reachable |
 |----------|----------------|:------------:|:--------------:|
-| 🐦 Twitter | **15,656** | 23.8% | 24.6% |
-| ✖ X | **5,957** | 9.1% | 9.4% |
-| 👍 Facebook | **26,735** | 40.7% | 42.1% |
-| 💼 LinkedIn | **10,306** | 15.7% | 16.2% |
+| 🐦 Twitter | **15,658** | 23.8% | 24.6% |
+| ✖ X | **5,960** | 9.1% | 9.4% |
+| 👍 Facebook | **26,741** | 40.7% | 42.1% |
+| 💼 LinkedIn | **10,308** | 15.7% | 16.2% |
 
 **Modern / open social media** (decentralised or open platforms):
 
 | Platform | Pages with link | % of scanned | % of reachable |
 |----------|----------------|:------------:|:--------------:|
 | 🦋 Bluesky | **1,036** | 1.6% | 1.6% |
-| 🐘 Mastodon / Fediverse | **5,560** | 8.5% | 8.7% |
+| 🐘 Mastodon / Fediverse | **5,563** | 8.5% | 8.7% |
 
 <div style="clear:both;"></div>
 
@@ -68,11 +68,11 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | 6 | Tennessee | 90.4% | 141 | 0 | 12.8% | 🥈 Strong |
 | 7 | Arizona | 90.4% | 294 | 6 | 16.0% | 🥈 Strong |
 | 8 | New Jersey | 89.5% | 179 | 0 | 13.5% | 🥈 Strong |
-| 9 | Florida | 82.4% | 112 | 0 | 29.4% | 🥉 Growing |
-| 10 | Pennsylvania | 82.0% | 275 | 2 | 23.1% | 🥉 Growing |
-| 11 | Texas | 82.0% | 427 | 5 | 24.3% | 🥉 Growing |
-| 12 | Rhode Island | 81.5% | 88 | 0 | 30.6% | 🥉 Growing |
-| 13 | Washington | 81.4% | 565 | 3 | 43.8% | 🥉 Growing |
+| 9 | Texas | 82.4% | 429 | 5 | 24.3% | 🥉 Growing |
+| 10 | Florida | 82.4% | 112 | 0 | 29.4% | 🥉 Growing |
+| 11 | Washington | 82.2% | 571 | 3 | 43.8% | 🥉 Growing |
+| 12 | Pennsylvania | 82.0% | 275 | 2 | 23.1% | 🥉 Growing |
+| 13 | Rhode Island | 81.5% | 88 | 0 | 30.6% | 🥉 Growing |
 | 14 | Kansas | 81.1% | 153 | 1 | 22.6% | 🥉 Growing |
 | 15 | Michigan | 80.7% | 92 | 0 | 20.2% | 🥉 Growing |
 | 16 | Idaho | 80.6% | 79 | 4 | 39.8% | 🥉 Growing |
@@ -88,32 +88,32 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | 26 | American Samoa | 71.4% | 5 | 0 | 28.6% | 🥉 Growing |
 | 27 | Maryland | 71.4% | 59 | 1 | 35.7% | 🥉 Growing |
 | 28 | Kentucky | 70.7% | 504 | 8 | 36.6% | 🥉 Growing |
-| 29 | Ohio | 70.4% | 253 | 1 | 33.8% | 🥉 Growing |
+| 29 | Ohio | 70.4% | 253 | 1 | 34.1% | 🥉 Growing |
 | 30 | Virginia | 69.0% | 49 | 0 | 42.3% | 🥉 Growing |
-| 31 | Minnesota | 68.7% | 510 | 5 | 38.7% | 🥉 Growing |
+| 31 | Minnesota | 68.9% | 512 | 5 | 38.8% | 🥉 Growing |
 | 32 | South Dakota | 67.1% | 109 | 1 | 32.9% | 🥉 Growing |
 | 33 | Utah | 66.7% | 14 | 0 | 38.1% | 🥉 Growing |
 | 34 | Indiana | 66.2% | 371 | 18 | 46.8% | 🥉 Growing |
 | 35 | California | 66.0% | 1,574 | 8 | 45.5% | 🥉 Growing |
 | 36 | West Virginia | 66.0% | 142 | 0 | 46.0% | 🥉 Growing |
-| 37 | Federal | 65.5% | 31,327 | 426 | 47.7% | 🥉 Growing |
+| 37 | Federal | 65.5% | 31,344 | 426 | 47.7% | 🥉 Growing |
 | 38 | New Mexico | 64.2% | 168 | 6 | 44.3% | 🥉 Growing |
 | 39 | Alabama | 63.6% | 28 | 0 | 43.2% | 🥉 Growing |
 | 40 | Montana | 63.1% | 155 | 2 | 39.4% | 🥉 Growing |
-| 41 | Hawaii | 62.5% | 5 | 0 | 37.5% | 🥉 Growing |
-| 42 | Arkansas | 61.5% | 16 | 0 | 69.2% | 🥉 Growing |
-| 43 | New Hampshire | 59.2% | 136 | 6 | 44.2% | 🥉 Growing |
-| 44 | Missouri | 59.1% | 192 | 0 | 44.6% | 🥉 Growing |
-| 45 | Illinois | 59.1% | 52 | 0 | 58.0% | 🥉 Growing |
-| 46 | Alaska | 55.9% | 19 | 0 | 44.1% | 🥉 Growing |
-| 47 | New York | 55.8% | 371 | 3 | 49.0% | 🥉 Growing |
-| 48 | North Carolina | 55.1% | 154 | 4 | 49.8% | 🥉 Growing |
-| 49 | Puerto Rico | 54.4% | 247 | 13 | 54.8% | 🥉 Growing |
-| 50 | US Virgin Islands | 52.5% | 32 | 0 | 54.1% | 🥉 Growing |
-| 51 | Wyoming | 51.9% | 14 | 0 | 63.0% | 🥉 Growing |
-| 52 | DC | 51.6% | 249 | 0 | 51.3% | 🥉 Growing |
-| 53 | South Carolina | 51.5% | 238 | 6 | 54.9% | 🥉 Growing |
-| 54 | North Dakota | 51.4% | 104 | 3 | 61.5% | 🥉 Growing |
+| 41 | Wyoming | 63.0% | 17 | 0 | 63.0% | 🥉 Growing |
+| 42 | Hawaii | 62.5% | 5 | 0 | 37.5% | 🥉 Growing |
+| 43 | Arkansas | 61.5% | 16 | 0 | 69.2% | 🥉 Growing |
+| 44 | New Hampshire | 59.2% | 136 | 6 | 44.2% | 🥉 Growing |
+| 45 | Missouri | 59.1% | 192 | 0 | 44.6% | 🥉 Growing |
+| 46 | Illinois | 59.1% | 52 | 0 | 58.0% | 🥉 Growing |
+| 47 | Alaska | 55.9% | 19 | 0 | 44.1% | 🥉 Growing |
+| 48 | New York | 55.8% | 371 | 3 | 49.0% | 🥉 Growing |
+| 49 | Puerto Rico | 55.2% | 251 | 13 | 54.8% | 🥉 Growing |
+| 50 | North Carolina | 55.1% | 154 | 4 | 49.8% | 🥉 Growing |
+| 51 | North Dakota | 52.9% | 107 | 3 | 61.5% | 🥉 Growing |
+| 52 | US Virgin Islands | 52.5% | 32 | 0 | 54.1% | 🥉 Growing |
+| 53 | South Carolina | 52.1% | 241 | 6 | 54.9% | 🥉 Growing |
+| 54 | DC | 51.6% | 249 | 0 | 51.3% | 🥉 Growing |
 | 55 | Delaware | 0.0% | 0 | 0 | 100.0% | ⚠️ Legacy-heavy |
 
 ---
@@ -134,7 +134,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | Connecticut | 167 | 167 | 145 | 93.8% | 136 | 11 | 11 | 0 | 9 | 3 | 0 | 4 | 0 | 4 | Jul 2026 – Nov 2026 |
 | DC | 486 | 486 | 483 | 51.6% | 249 | 215 | 232 | 24 | 207 | 59 | 0 | 36 | 25 | 13 | Jul 2026 – Nov 2026 |
 | Delaware | 17 | 17 | 17 | 0.0% | 0 | 16 | 11 | 1 | 11 | 6 | 0 | 1 | 0 | 1 | Jul 2026 – Nov 2026 |
-| Federal | 50,035 | 50,035 | 48,477 | 65.5% | 31,327 | 18,991 | 12,294 | 4,974 | 21,318 | 8,043 | 426 | 4,554 | 810 | 4,548 | Jul 2026 – Nov 2026 |
+| Federal | 50,035 | 50,035 | 48,485 | 65.5% | 31,344 | 18,995 | 12,296 | 4,974 | 21,322 | 8,044 | 426 | 4,556 | 810 | 4,550 | Jul 2026 – Nov 2026 |
 | Florida | 140 | 140 | 136 | 82.4% | 112 | 24 | 15 | 11 | 32 | 22 | 0 | 16 | 0 | 16 | Jul 2026 – Nov 2026 |
 | Georgia | 217 | 217 | 208 | 79.3% | 165 | 51 | 41 | 7 | 45 | 28 | 0 | 4 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Hawaii | 8 | 8 | 8 | 62.5% | 5 | 3 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
@@ -149,7 +149,7 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | Maryland | 89 | 89 | 84 | 71.4% | 59 | 26 | 20 | 1 | 26 | 13 | 1 | 4 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Massachusetts | 153 | 153 | 146 | 74.0% | 108 | 43 | 29 | 3 | 41 | 6 | 0 | 4 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Michigan | 122 | 122 | 114 | 80.7% | 92 | 17 | 10 | 0 | 23 | 6 | 0 | 6 | 0 | 6 | Jul 2026 – Nov 2026 |
-| Minnesota | 785 | 785 | 750 | 68.7% | 510 | 258 | 150 | 37 | 264 | 100 | 5 | 34 | 4 | 35 | Jul 2026 – Nov 2026 |
+| Minnesota | 785 | 785 | 750 | 68.9% | 512 | 259 | 150 | 38 | 265 | 101 | 5 | 34 | 4 | 35 | Jul 2026 – Nov 2026 |
 | Mississippi | 486 | 486 | 477 | 72.7% | 341 | 156 | 86 | 30 | 167 | 45 | 6 | 15 | 0 | 21 | Jul 2026 – Nov 2026 |
 | Missouri | 336 | 336 | 325 | 59.1% | 192 | 133 | 102 | 47 | 124 | 56 | 0 | 12 | 0 | 12 | Jul 2026 – Nov 2026 |
 | Montana | 264 | 264 | 249 | 63.1% | 155 | 94 | 42 | 18 | 94 | 38 | 2 | 5 | 0 | 7 | Jul 2026 – Nov 2026 |
@@ -160,26 +160,26 @@ Countries ranked by **Digital Sovereignty Score** — the percentage of reachabl
 | New Mexico | 288 | 288 | 271 | 64.2% | 168 | 92 | 54 | 18 | 114 | 66 | 6 | 28 | 7 | 31 | Jul 2026 – Nov 2026 |
 | New York | 732 | 732 | 670 | 55.8% | 371 | 259 | 231 | 72 | 314 | 146 | 3 | 74 | 30 | 50 | Jul 2026 – Nov 2026 |
 | North Carolina | 292 | 292 | 287 | 55.1% | 154 | 114 | 81 | 11 | 135 | 66 | 4 | 30 | 11 | 29 | Jul 2026 – Nov 2026 |
-| North Dakota | 215 | 215 | 208 | 51.4% | 104 | 103 | 66 | 5 | 116 | 64 | 3 | 25 | 0 | 28 | Jul 2026 – Nov 2026 |
-| Ohio | 388 | 388 | 361 | 70.4% | 253 | 119 | 92 | 0 | 118 | 66 | 1 | 3 | 0 | 4 | Jul 2026 – Nov 2026 |
+| North Dakota | 215 | 215 | 208 | 52.9% | 107 | 103 | 66 | 5 | 116 | 64 | 3 | 25 | 0 | 28 | Jul 2026 – Nov 2026 |
+| Ohio | 388 | 388 | 361 | 70.4% | 253 | 120 | 92 | 0 | 119 | 66 | 1 | 3 | 0 | 4 | Jul 2026 – Nov 2026 |
 | Oklahoma | 160 | 160 | 147 | 76.9% | 113 | 26 | 21 | 12 | 41 | 15 | 0 | 17 | 0 | 17 | Jul 2026 – Nov 2026 |
 | Oregon | 163 | 163 | 154 | 95.5% | 145 | 15 | 8 | 9 | 20 | 8 | 2 | 5 | 3 | 7 | Jul 2026 – Nov 2026 |
 | Pennsylvania | 354 | 354 | 338 | 82.0% | 275 | 67 | 50 | 18 | 64 | 22 | 2 | 11 | 11 | 9 | Jul 2026 – Nov 2026 |
-| Puerto Rico | 496 | 496 | 478 | 54.4% | 247 | 219 | 131 | 79 | 253 | 97 | 13 | 43 | 0 | 56 | Jul 2026 – Nov 2026 |
+| Puerto Rico | 496 | 496 | 478 | 55.2% | 251 | 219 | 131 | 79 | 253 | 97 | 13 | 44 | 0 | 57 | Jul 2026 – Nov 2026 |
 | Rhode Island | 108 | 108 | 108 | 81.5% | 88 | 32 | 21 | 1 | 33 | 16 | 0 | 1 | 1 | 0 | Jul 2026 – Nov 2026 |
-| South Carolina | 481 | 481 | 474 | 51.5% | 238 | 199 | 135 | 44 | 246 | 122 | 6 | 64 | 0 | 68 | Jul 2026 – Nov 2026 |
+| South Carolina | 481 | 481 | 474 | 52.1% | 241 | 199 | 135 | 44 | 246 | 122 | 6 | 64 | 0 | 68 | Jul 2026 – Nov 2026 |
 | South Dakota | 164 | 164 | 164 | 67.1% | 109 | 50 | 32 | 9 | 50 | 12 | 1 | 4 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Tennessee | 162 | 162 | 156 | 90.4% | 141 | 20 | 15 | 5 | 11 | 11 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
-| Texas | 562 | 562 | 527 | 82.0% | 427 | 94 | 43 | 9 | 126 | 19 | 5 | 35 | 0 | 40 | Jul 2026 – Nov 2026 |
+| Texas | 562 | 562 | 527 | 82.4% | 429 | 94 | 43 | 11 | 126 | 19 | 5 | 35 | 0 | 40 | Jul 2026 – Nov 2026 |
 | US Virgin Islands | 64 | 64 | 61 | 52.5% | 32 | 32 | 15 | 7 | 33 | 6 | 0 | 1 | 0 | 1 | Jul 2026 – Nov 2026 |
 | Utah | 21 | 9 | 21 | 66.7% | 14 | 1 | 7 | 0 | 1 | 0 | 0 | 7 | 0 | 7 | Jul 2026 – Nov 2026 |
 | Vermont | 15 | 15 | 15 | 93.3% | 14 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
 | Virginia | 79 | 79 | 71 | 69.0% | 49 | 25 | 9 | 6 | 22 | 5 | 0 | 6 | 0 | 6 | Jul 2026 – Nov 2026 |
-| Washington | 713 | 713 | 698 | 81.4% | 565 | 208 | 146 | 40 | 292 | 175 | 3 | 100 | 50 | 59 | Jul 2026 – Nov 2026 |
+| Washington | 713 | 713 | 698 | 82.2% | 571 | 208 | 146 | 40 | 292 | 175 | 3 | 100 | 50 | 59 | Jul 2026 – Nov 2026 |
 | West Virginia | 217 | 217 | 215 | 66.0% | 142 | 95 | 37 | 31 | 94 | 41 | 0 | 5 | 0 | 5 | Jul 2026 – Nov 2026 |
 | Wisconsin | 573 | 573 | 560 | 74.3% | 403 | 170 | 87 | 7 | 181 | 66 | 13 | 22 | 3 | 35 | Jul 2026 – Nov 2026 |
-| Wyoming | 30 | 30 | 27 | 51.9% | 14 | 17 | 8 | 0 | 17 | 6 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
-| **Total** | **65,693** | **65,681** | **63,570** | **66.4%** | **41,666** | **23,938** | **15,656** | **5,957** | **26,735** | **10,306** | **558** | **5,591** | **1,036** | **5,560** | — |
+| Wyoming | 30 | 30 | 27 | 63.0% | 17 | 17 | 8 | 0 | 17 | 6 | 0 | 0 | 0 | 0 | Jul 2026 – Nov 2026 |
+| **Total** | **65,693** | **65,681** | **63,578** | **66.5%** | **41,706** | **23,944** | **15,658** | **5,960** | **26,741** | **10,308** | **558** | **5,594** | **1,036** | **5,563** | — |
 
 > Hover or focus any non-zero country-table count to preview matching pages. Activate the number to keep the preview open. Full machine-readable data is available as the [social-media-data.json artifact (machine-readable JSON)](https://github.com/mgifford/dot-gov-scans/actions/workflows/generate-scan-progress.yml).
 
